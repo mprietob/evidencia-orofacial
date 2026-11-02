@@ -1,0 +1,19 @@
+# Nunca subir contenido con derechos ni datos identificables
+*.pdf
+*.epub
+*.docx
+*.mp4
+*.mov
+*.mkv
+*.mp3
+*.wav
+*.srt
+*.vtt
+*.zip
+.env
+.env.*
+.DS_Store
+__pycache__/
+privado/
+restringido/
+pacientes/

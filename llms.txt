@@ -1,0 +1,50 @@
+# Evidencia sobre el frenillo lingual
+
+> Biblioteca abierta en español sobre frenillo lingual (anquiloglosia), movilidad de la lengua y función orofacial. Fichas de estudios con DOI/PMID, objeciones con evidencia a favor y en contra, e ideas públicas de Soroush Zaghi con su vídeo. No diagnostica ni sustituye una valoración profesional. Lectura crítica: hipótesis no es hallazgo; opinión de experto no es estudio.
+
+## Lee primero
+- AGENTS.md: reglas de respuesta (citar fuente, criterio diagnóstico, no diagnosticar a nadie)
+- README.md: qué es y qué no es
+- docs/METODOLOGIA.md: cómo se extrae y se gradúa la evidencia
+
+## Navegación
+- conocimiento/afirmaciones.md: matriz de afirmaciones con su grado de apoyo (VERIFICADO, INTERPRETACION, HIPOTESIS, SIN_DATOS)
+- conocimiento/evaluacion-funcional-lengua.md: cómo se mide la movilidad (TRMR-TIP, TRMR-LPS) y qué escalas existen
+- conocimiento/hidrostato-muscular.md: la lengua como hidrostato muscular
+- conocimiento/fascia-suelo-boca.md: anatomía de la fascia del suelo de la boca y el frenillo
+- hipotesis/fascia-posicion-mandibular.md: H-001, hipótesis abierta y no demostrada
+- objeciones/paladar-estrecho-impide-elevacion.md: O-001
+- objeciones/anquiloglosia-maloclusion.md: O-002, frenillo y maloclusión
+- objeciones/extracciones-via-aerea.md: O-003, extracciones de premolares y vía aérea
+- objeciones/anquiloglosia-habla.md: O-004, frenillo y habla
+- fuentes/bibliografia.csv: índice de referencias (id, autores, año, título, DOI, PMID, tema, estado de lectura)
+- fuentes/articulos/: una ficha por estudio, con la PLANTILLA.md
+- figuras/README.md: figuras con licencia CC BY y su crédito
+- docs/PREGUNTAS-ABIERTAS.md: lo que falta por saber o por verificar
+
+## Soroush Zaghi (opinión de experto, en vídeo)
+- expertos/soroush-zaghi/README.md: qué es, de dónde sale y cómo leer cada entrada
+- expertos/soroush-zaghi/respuestas-a-criticas.md: qué dice ante las críticas habituales, junto a la evidencia a favor y en contra
+- expertos/soroush-zaghi/zaghi.jsonl: una afirmación por línea (id, area, tipo, afirmacion, videos con url y minuto, pmid, verificacion, cita_corta)
+- expertos/soroush-zaghi/<tema>.md: anquiloglosia, frenuloplastia, posoperatorio, miofuncional, reglas-decision, doctrina-negativa, contradicciones, investigacion-etica, frameworks, fascia, maxilofacial, sueno-apnea, nariz-amigdalas, hipermovilidad, ambiente-moho-alergias, temas-poco-cubiertos
+- expertos/soroush-zaghi/estudios-citados.md y discrepancias.md: qué estudios cita y dónde no cuadra lo que dice con el artículo
+
+## Cómo leer una ficha
+Cada ficha de fuentes/articulos/ tiene el campo «Criterio diagnóstico de anquiloglosia»: FUNCIONAL (TRMR, LPS), LONGITUD/ASPECTO, MIXTO o NO APLICA. Míralo antes de usar un estudio sobre anquiloglosia: un estudio que diagnostica por longitud no responde a una pregunta sobre función. El campo «Lectura de Marta o del equipo» es INTERPRETACION, nunca dato del estudio.
+
+## Fichas por tema (fuentes/articulos/)
+- Medir la movilidad y clasificar el frenillo: 1999-kotlow-clasificacion.md, 2012-marchesan-protocolo.md, 2012-martinelli-protocolo-lactantes.md, 2017-yoon-trmr-1052.md, 2021-rodriguez-alcala-cuchara-fuerza.md, 2021-unkel-herramientas-encuesta.md, 2021-zaghi-trmr-lps.md, 2023-palomares-protocolo-quirurgico-logopedico.md, 2024-hoang-vietnam-movilidad-fuerza.md, 2025-bhatt-ontario-encuesta.md
+- Anatomía y biomecánica: 1978-proffit-equilibrio.md, 1985-kier-smith-hidrostatos.md, 2007-gilbert-hidrostato-lingual.md, 2019-mills-fascia.md, 2020-mills-histologia.md, 2021-genna-ecografia-lengua.md, 2025-guoth-gumberger-anatomia-frenillo.md
+- Prevalencia: 2021-maya-enero-prevalencia-neonatal-espana.md, 2022-cruz-prevalencia-herramientas.md, 2024-mckenna-ucin-frente-a-sanos.md
+- Lactancia y reflujo: 2013-ocallahan-frenotomia-anterior-posterior.md, 2020-van-biervliet-primum-non-nocere.md, 2021-slagter-brief-lactancia-reflujo.md, 2022-dellolio-frenotomia-laser-neonatos.md, 2024-albertsen-dolor-pezon.md, 2024-feldens-lactancia-duracion.md, 2024-jones-clinica-especializada.md, 2024-jones-frenotomia-lactancia-longitudinal.md, 2025-dinh-ensayo-frenotomia-lactancia.md, 2025-feldens-lactancia-autoeficacia.md, 2025-patel-frenotomia-reflujo.md, 2025-rodriguez-lara-experiencia-materna.md
+- Frenotomía, frenuloplastia y otros frenillos: 2003-naimer-frenotomia-consulta.md, 2011-kotlow-laser-lactantes.md, 2019-govardhan-frenuloplastia-caso.md, 2019-zaghi-frenuloplastia-348.md, 2022-baxter-frenillo-labial.md, 2024-baxter-frenillo-bucal.md, 2024-lichnowska-ensayo-frenuloplastia.md, 2024-sahoo-laser-miofuncional-casos.md, 2025-kalra-laser-frenillos-caso.md, 2026-marino-frenotomia-laringoscopia.md
+- Consensos y su crítica: 2020-ghaheri-lacking-consensus.md, 2020-messner-consenso.md, 2023-ishman-consenso-apnea-persistente.md, 2024-ehsan-guia-ats.md
+- Frenillo, maxilar y maloclusión: 1981-mcnamara-componentes-clase-ii.md, 2015-sepet-apinamiento-oclusion.md, 2015-vaz-frenillo-maloclusion.md, 2017-pompeia-sistema-estomatognatico.md, 2017-yoon-maxilar.md, 2021-deregibus-funcion-lingual-ortodoncia.md, 2023-biswas-longitud-frenillo-adultos.md, 2024-deshkar-lengua-maloclusion.md, 2024-kotarska-frenotomia-desarrollo-facial.md, 2024-povoa-santos-meta.md, 2024-tomita-protrusion-maxilar.md, 2025-de-simone-maxilar-tras-frenectomia.md
+- Frenillo, mandíbula y apnea: 2011-kim-guilleminault-nasomaxilar.md, 2016-guilleminault-frenillo-corto-apnea.md, 2020-cohen-levy-apnea-persistente.md, 2021-oh-bruxismo-sueno-ninos.md, 2021-oh-fairest6.md, 2024-camanes-gonzalvo-anquiloglosia-apnea-meta.md, 2024-preedeewong-frenectomia-apnea-ensayo.md, 2025-kim-craneofacial-trs-ninos.md, 2026-he-frenillo-mandibula-apnea.md, 2026-koento-anquiloglosia-trs-ninos.md
+- Sueño y TDAH: 2012-bonuck-cohorte-alspac.md, 2013-marcus-ensayo-chat.md, 2014-sedky-tdah-trs.md, 2026-lee-neuroconducta-adenoamigdalectomia.md, 2026-leow-tdah-apnea.md
+- Terapia miofuncional: 2009-guimaraes-ejercicios-orofaringeos.md, 2013-guilleminault-reeducacion-miofascial.md, 2015-camacho-miofuncional-apnea.md, 2018-camacho-miofuncional-ronquido.md
+- Expansión maxilar: 2015-villa-expansion-rapida-apnea-ninos.md, 2016-abdullatif-expansion-maxilar-adultos.md, 2017-camacho-expansion-rapida-ninos-meta.md, 2020-yoon-dome.md, 2022-yoon-expansion-amigdalas.md
+- Apnea y su cirugía: 1976-guilleminault-apnea-ninos.md, 1981-harvold-primates-respiracion-oral.md, 1981-sullivan-cpap.md, 1995-marcus-cpap-ninos.md, 2001-guilleminault-uars-ninos.md, 2014-lacerda-sindrome-respiracion-oral.md, 2015-certal-estimulacion-hipogloso.md, 2015-riaz-provent.md, 2016-camacho-amigdalectomia-adultos.md, 2016-camacho-cornetes-cpap.md, 2016-camacho-faringoplastia-esfinter.md, 2016-camacho-minitraqueostomia.md, 2016-camacho-test-cpap-cinco-minutos.md, 2016-capasso-dise-propofol-dexmedetomidina.md, 2016-zaghi-mma-metaanalisis.md, 2017-alonso-catatrenia.md, 2017-camacho-cirugia-lengua-ninos.md, 2017-camacho-pierre-robin-lengua.md, 2017-camacho-uvulopalatoplastia-laser.md, 2017-chang-dise-revision.md, 2017-liu-avance-geniogloso-planificacion.md, 2017-noller-avance-mandibular-adultos.md, 2017-song-genioplastia-tuberculo-geniano.md, 2018-gouveia-tendencias-publicacion-apnea.md, 2018-neighbors-vitamina-d-apnea.md, 2018-noller-avance-mandibular-ninos.md, 2018-patel-neuromuscular-paladar.md, 2018-scapuccin-ciclo-nasal.md, 2018-torre-laringoscopia-despierto.md, 2019-awad-tendencias-cirugia-esqueletica.md, 2019-camacho-mma-largo-plazo.md, 2020-burgos-sanchez-alcohol-apnea.md, 2020-chen-osteotomia-sagital-mma.md, 2021-rashid-odi-diagnostico.md, 2024-correa-prevencion-apnea.md
+- Extracciones, postura y vía aérea: 2021-orabi-extracciones-via-aerea.md, 2023-coppelson-postura-cbct.md, 2023-guo-extracciones-via-aerea.md, 2025-papageorgiou-extracciones-via-aerea.md
+- Habla y voz: 2005-kummer-asha-leader.md, 2015-chinnadurai-mas-alla-lactancia.md, 2017-herbst-voz-freddie-mercury.md, 2023-cordray-anquiloglosia-mas-alla-lactancia.md, 2024-carnino-habla-metaanalisis.md, 2024-clausen-habla-revision-danesa.md, 2024-melong-frenotomia-habla.md, 2025-kummer-carta-cordray.md
+- Crecimiento, estética facial y cefalometría: 2011-quintessence-estetica-rostro.md, 2016-mahboub-frenillo-borde-incisal.md, 2019-ghorbanyjavadpour-belleza-perfil.md, 2022-al-taai-cambios-craneofaciales-13-62.md, 2022-usman-frenillo-plano-oclusal.md, 2024-gomez-vela-armonizacion-antropometria.md, 2025-ashley-belleza-ia.md, 2025-ho-estetica-cirugia-ortognatica.md, 2025-hussein-envejecimiento-mandibula.md, sd-fernandez-sanchez-analisis-wits.md, sd-sumario-analisis-cefalometrico.md
