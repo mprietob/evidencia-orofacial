@@ -1,6 +1,6 @@
 # Frenuloplastia: técnica quirúrgica
 
-Ideas públicas de Soroush Zaghi sobre este tema, reconstruidas a partir de sus vídeos. **No es Zaghi hablando ni una guía clínica.** Cómo leer cada entrada: [README](README.md). Entradas: 42.
+Ideas públicas de Soroush Zaghi sobre este tema, reconstruidas a partir de sus vídeos. **No es Zaghi hablando ni una guía clínica.** Cómo leer cada entrada: [README](README.md). Entradas: 45.
 
 ## zag-0006 · Estudio citado · verificado en PubMed
 
@@ -59,6 +59,18 @@ Según Zaghi, el concepto "Fascia Preserving Technique" (técnica de preservaci�
 ## zag-0057 · Opinión · sin verificar (dicho en vídeo)
 
 Según Zaghi, el dilema de "La Correa y la Jaula" (The Leash and the Cage): La lengua es el perro, el frenillo es la correa y el paladar estrecho es la jaula. No sirve de nada quitar la correa si el perro sigue encerrado en la jaula.
+
+- Vídeo: `PENDIENTE DE VERIFICAR`. La extracción no guardó de qué vídeo sale. Para comprobarlo, buscar la idea en los vídeos de [fuentes-videos.md](fuentes-videos.md).
+
+## zag-0058 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, la anestesia de la frenuloplastia empieza con anestesia tópica, seguida de una inyección local de lidocaína con epinefrina para vasoconstricción. Las dosis y concentraciones no se recogen en esta base.
+
+- Vídeo: `PENDIENTE DE VERIFICAR`. La extracción no guardó de qué vídeo sale. Para comprobarlo, buscar la idea en los vídeos de [fuentes-videos.md](fuentes-videos.md).
+
+## zag-0059 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, uso de Citanest (prilocaína) sin epinefrina por tener un pH más alto (6-7), lo que reduce el ardor al inyectar en comparación con soluciones ácidas con epinefrina.
 
 - Vídeo: `PENDIENTE DE VERIFICAR`. La extracción no guardó de qué vídeo sale. Para comprobarlo, buscar la idea en los vídeos de [fuentes-videos.md](fuentes-videos.md).
 
@@ -242,6 +254,13 @@ En bebés, Zaghi generalmente no pone suturas debido a la dificultad técnica de
 ## zag-0088 · Experiencia clínica · sin verificar (dicho en vídeo)
 
 Según Zaghi, en adultos, observa que la fascia suele estar más atrapada dentro del músculo debido a décadas de compensación, lo que puede requerir una técnica más refinada para separar las fibras sin causar daño masivo.
+
+- Vídeo: [Dr. Soroush Zaghi at ALSC - Breathe and Thrive 2022, in Las Vegas, NV](https://www.youtube.com/watch?v=3fq6w2buIy0), minuto `PENDIENTE DE VERIFICAR`.
+- Año de la charla: 2022.
+
+## zag-0089 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, en la frenuloplastia es muy prudente con la cantidad de anestesia local en menores de 5 años y rara vez necesita mucha en adultos. Las dosis y concentraciones no se recogen en esta base.
 
 - Vídeo: [Dr. Soroush Zaghi at ALSC - Breathe and Thrive 2022, in Las Vegas, NV](https://www.youtube.com/watch?v=3fq6w2buIy0), minuto `PENDIENTE DE VERIFICAR`.
 - Año de la charla: 2022.

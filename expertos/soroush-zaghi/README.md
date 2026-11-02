@@ -9,7 +9,7 @@ Soroush Zaghi es otorrinolaringólogo y cirujano de sueño y vía aérea, fundad
 1. Se cargaron 100 fuentes públicas de The Breathe Institute (99 vídeos y su web) en un cuaderno de NotebookLM, en agosto y septiembre de 2026.
 2. Se le hicieron preguntas por temas y se pasó cada respuesta a una base de afirmaciones, una por línea, con su tipo, su vídeo, su año y su PMID si cita un estudio.
 3. Cada estudio citado se buscó en PubMed. Resultado en [estudios-citados.md](estudios-citados.md). Los casos en que lo que dice Zaghi no cuadra con el artículo están en [discrepancias.md](discrepancias.md).
-4. Para esta versión pública se quitaron: testimonios y casos de pacientes (también los de su propia familia), vídeos de rutinas personales del equipo, tutoriales de gestión, y todo lo que habla de fármacos, anestesia o dosis. No hay transcripciones: solo resúmenes propios y citas cortas.
+4. Para esta versión pública se quitaron: testimonios y casos de pacientes (también los de su propia familia), vídeos de rutinas personales del equipo y tutoriales de gestión. De las 623 afirmaciones de la extracción quedan 563. Las que hablan de fármacos o anestesia se mantienen, pero sin dosis: la extracción no las recoge. No hay transcripciones: solo resúmenes propios y citas cortas, porque los vídeos tienen la licencia estándar de YouTube y no permiten copiarlos.
 
 ## Cómo leer cada entrada
 
@@ -23,7 +23,7 @@ Soroush Zaghi es otorrinolaringólogo y cirujano de sueño y vía aérea, fundad
 ## Archivos
 
 - [respuestas-a-criticas.md](respuestas-a-criticas.md): qué dice Zaghi ante las críticas más habituales, al lado de lo que dice la evidencia de esta biblioteca. **Empieza por aquí.**
-- Por temas: [anquiloglosia](anquiloglosia.md), [frenuloplastia](frenuloplastia.md), [posoperatorio](posoperatorio.md), [terapia miofuncional](miofuncional.md), [reglas de decisión](reglas-decision.md), [lo que rechaza](doctrina-negativa.md), [contradicciones y cambios de postura](contradicciones.md), [investigación y ética](investigacion-etica.md), [marcos de razonamiento](frameworks.md), [fascia](fascia.md), [desarrollo maxilofacial](maxilofacial.md), [sueño y apnea](sueno-apnea.md), [nariz y amígdalas](nariz-amigdalas.md), [hipermovilidad](hipermovilidad.md), [ambiente y alergias](ambiente-moho-alergias.md), [otros temas](temas-poco-cubiertos.md).
+- Por temas: [anquiloglosia](anquiloglosia.md), [frenuloplastia](frenuloplastia.md), [posoperatorio](posoperatorio.md), [terapia miofuncional](miofuncional.md), [reglas de decisión](reglas-decision.md), [lo que rechaza](doctrina-negativa.md), [contradicciones y cambios de postura](contradicciones.md), [investigación y ética](investigacion-etica.md), [marcos de razonamiento](frameworks.md), [fascia](fascia.md), [desarrollo maxilofacial](maxilofacial.md), [sueño y apnea](sueno-apnea.md), [nariz y amígdalas](nariz-amigdalas.md), [hipermovilidad](hipermovilidad.md), [ambiente y alergias](ambiente-moho-alergias.md), [estilo de vida, dieta y rutinas](estilo-vida.md), [ideas que aparecen una sola vez](ideas-raras.md), [otros temas](temas-poco-cubiertos.md).
 - [zaghi.jsonl](zaghi.jsonl): las mismas afirmaciones en formato de datos, una por línea, para que una IA las lea.
 - [estudios-citados.md](estudios-citados.md), [discrepancias.md](discrepancias.md) y [referencias-de-zaghi.md](referencias-de-zaghi.md) (bibliografía de 14 artículos suyos de acceso abierto).
 - [fuentes-videos.md](fuentes-videos.md): los vídeos citados, con su enlace.

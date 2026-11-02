@@ -1,6 +1,6 @@
 # Marcos de razonamiento
 
-Ideas públicas de Soroush Zaghi sobre este tema, reconstruidas a partir de sus vídeos. **No es Zaghi hablando ni una guía clínica.** Cómo leer cada entrada: [README](README.md). Entradas: 19.
+Ideas públicas de Soroush Zaghi sobre este tema, reconstruidas a partir de sus vídeos. **No es Zaghi hablando ni una guía clínica.** Cómo leer cada entrada: [README](README.md). Entradas: 20.
 
 ## zag-0421 · Estudio citado · sin verificar (dicho en vídeo)
 
@@ -24,6 +24,12 @@ Zaghi et al. (2020), Journal of Pediatric Dentistry. El desgaste dental tiene un
 ## zag-0424 · Experiencia clínica · sin verificar (dicho en vídeo)
 
 Según Zaghi, la posición de Freedman se eliminará del protocolo próximamente por falta de predictibilidad.
+
+- Vídeo: `PENDIENTE DE VERIFICAR`. La extracción no guardó de qué vídeo sale. Para comprobarlo, buscar la idea en los vídeos de [fuentes-videos.md](fuentes-videos.md).
+
+## zag-0425 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, una puntuación de 7-8 es considerada buena; <5 indica necesidad de intervenciones como Kenalog.
 
 - Vídeo: `PENDIENTE DE VERIFICAR`. La extracción no guardó de qué vídeo sale. Para comprobarlo, buscar la idea en los vídeos de [fuentes-videos.md](fuentes-videos.md).
 

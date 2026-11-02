@@ -1,6 +1,12 @@
 # Posoperatorio y cicatrización
 
-Ideas públicas de Soroush Zaghi sobre este tema, reconstruidas a partir de sus vídeos. **No es Zaghi hablando ni una guía clínica.** Cómo leer cada entrada: [README](README.md). Entradas: 35.
+Ideas públicas de Soroush Zaghi sobre este tema, reconstruidas a partir de sus vídeos. **No es Zaghi hablando ni una guía clínica.** Cómo leer cada entrada: [README](README.md). Entradas: 46.
+
+## zag-0013 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según notas de NotebookLM sin cita literal, Zaghi infiltra Kenalog en el tejido cicatricial oral tras una frenuloplastia, una o dos veces, cuando la herida ya está cerrada (uno o dos meses después de la cirugía); no lo hace con la herida abierta, y lo considera contraindicado con inmunosupresión, mal estado general o infección fúngica activa, evitando además el derrame del producto en la boca. Las dosis no se recogen: no hay cita literal.
+
+- Vídeo: `PENDIENTE DE VERIFICAR`. La extracción no guardó de qué vídeo sale. Para comprobarlo, buscar la idea en los vídeos de [fuentes-videos.md](fuentes-videos.md).
 
 ## zag-0314 · Experiencia clínica · sin verificar (dicho en vídeo)
 
@@ -47,6 +53,18 @@ Zaghi recomienda el "Sleeping Tongue Posture Hold" (especialmente en bebés): as
 
 - Vídeo: [Updates from Dr. Soroush Zaghi - The Breathe Institute at ALSC Symposium 2024](https://www.youtube.com/watch?v=iGQlzOtT4C0), minuto `PENDIENTE DE VERIFICAR`.
 - Año de la charla: 2024.
+
+## zag-0322 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, el protocolo posoperatorio estándar incluye ibuprofeno según necesidad. Las dosis y concentraciones no se recogen en esta base.
+
+- Vídeo: [Functional Frenuloplasty Post Operative Instructions with Amanda at The Breathe Institute](https://www.youtube.com/watch?v=uQYOd_jWRv8), minuto `PENDIENTE DE VERIFICAR`.
+
+## zag-0324 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, es opcional aplicar un gel anestésico tópico en una gasa bajo la lengua unos minutos antes de la frenuloplastia. Las dosis y concentraciones no se recogen en esta base.
+
+- Vídeo: [Functional Frenuloplasty Post Operative Instructions with Amanda at The Breathe Institute](https://www.youtube.com/watch?v=uQYOd_jWRv8), minuto `PENDIENTE DE VERIFICAR`.
 
 ## zag-0325 · Experiencia clínica · sin verificar (dicho en vídeo)
 
@@ -102,6 +120,13 @@ Según Zaghi, numbness (entumecimiento) de la punta de la lengua que persiste m�
 - Vídeo: [Functional Approach to Frenuloplasty: How We Do It - Dr. Soroush Zaghi](https://www.youtube.com/watch?v=C0kel5PNc7c), minuto `PENDIENTE DE VERIFICAR`.
 - Año de la charla: 2024.
 
+## zag-0337 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, candidiasis (trush) o infección fúngica: puede ocurrir si se usa demasiado Kenalog (esteroide) o si el paciente está inmunosuprimido; se trata con trociscos de clotrimazol.
+
+- Vídeo: [Updates from Dr. Soroush Zaghi - The Breathe Institute at ALSC Symposium 2024](https://www.youtube.com/watch?v=iGQlzOtT4C0), minuto `PENDIENTE DE VERIFICAR`.
+- Año de la charla: 2024.
+
 ## zag-0338 · Estudio citado · verificado en PubMed
 
 Zaghi et al. (2019), Laryngoscope Investigative Otolaryngology. En los primeros 348 casos (con técnica de tijeras), el dolor severo afectó al 45% de los pacientes y el sangrado al 12.6%.
@@ -117,6 +142,13 @@ Zaghi et al. (2025/2026), International Journal of Orofacial Myology. Con la té
 
 - Vídeo: [Evolution Of Myofunctional Therapy, Lingual Frenuloplasty - Dr. Soroush Zaghi at ALSC 2026.](https://www.youtube.com/watch?v=nlFVT6PUaYc), minuto `PENDIENTE DE VERIFICAR`.
 - Año de la charla: 2026.
+
+## zag-0340 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, la escala WHIMS mide la integración y maduración del tejido cicatricial; se utiliza para decidir si un paciente es candidato a intervenciones adicionales como inyecciones de Kenalog-10.
+
+- Vídeo: [Updates from Dr. Soroush Zaghi - The Breathe Institute at ALSC Symposium 2024](https://www.youtube.com/watch?v=iGQlzOtT4C0), minuto `PENDIENTE DE VERIFICAR`.
+- Año de la charla: 2024.
 
 ## zag-0341 · Experiencia clínica · sin verificar (dicho en vídeo)
 
@@ -167,6 +199,13 @@ Según Zaghi, una puntuación de 7 a 8 se considera un "buen" resultado de cicat
 - Vídeo: [Updates from Dr. Soroush Zaghi - The Breathe Institute at ALSC Symposium 2024](https://www.youtube.com/watch?v=iGQlzOtT4C0), minuto `PENDIENTE DE VERIFICAR`.
 - Año de la charla: 2024.
 
+## zag-0348 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, si la puntuación es inferior a 5, el paciente requiere atención especial o múltiples rondas de Kenalog para romper el tejido fibroso.
+
+- Vídeo: [Updates from Dr. Soroush Zaghi - The Breathe Institute at ALSC Symposium 2024](https://www.youtube.com/watch?v=iGQlzOtT4C0), minuto `PENDIENTE DE VERIFICAR`.
+- Año de la charla: 2024.
+
 ## zag-0349 · Experiencia clínica · sin verificar (dicho en vídeo)
 
 El Dr. Zaghi utiliza dos longitudes de onda principales: 800 nanómetros (luz roja) para tratar la inflamación y 1064 nanómetros (infrarrojo cercano) para trabajar a nivel de la fascia.
@@ -180,6 +219,13 @@ Según Zaghi, la terapia de luz roja funciona aportando energía a las mitocondr
 
 - Vídeo: [Updates from Dr. Soroush Zaghi - The Breathe Institute at ALSC Symposium 2024](https://www.youtube.com/watch?v=iGQlzOtT4C0), minuto `PENDIENTE DE VERIFICAR`.
 - Año de la charla: 2024.
+
+## zag-0351 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, la fotobiomodulación se aplica inmediatamente después de la frenuloplastia para minimizar el dolor y la necesidad de narcóticos o esteroides.
+
+- Vídeo: [Evolution Of Myofunctional Therapy, Lingual Frenuloplasty - Dr. Soroush Zaghi at ALSC 2026.](https://www.youtube.com/watch?v=nlFVT6PUaYc), minuto `PENDIENTE DE VERIFICAR`.
+- Año de la charla: 2026.
 
 ## zag-0352 · Experiencia clínica · sin verificar (dicho en vídeo)
 
@@ -203,6 +249,27 @@ La técnica "Oralase" (especialidad de la Dra. Nora Gadisy Zaghi) utiliza el lá
 - Vídeo: [Evolution Of Myofunctional Therapy, Lingual Frenuloplasty - Dr. Soroush Zaghi at ALSC 2026.](https://www.youtube.com/watch?v=nlFVT6PUaYc), minuto `PENDIENTE DE VERIFICAR`.
 - Año de la charla: 2026.
 
+## zag-0355 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, la serrapeptasa actúa "comiendo" o disolviendo el colágeno tipo 3 (tejido de granulación/velcro) que causa la contracción excesiva de la herida durante la segunda semana.
+
+- Vídeo: [Updates from Dr. Soroush Zaghi - The Breathe Institute at ALSC Symposium 2024](https://www.youtube.com/watch?v=iGQlzOtT4C0), minuto `PENDIENTE DE VERIFICAR`.
+- Vídeo: [Serrapeptase Protocol for addressing  pain and inflammation - with Dr. Soroush Zaghi at TBI](https://www.youtube.com/watch?v=jvAdRMXr3XE), minuto `PENDIENTE DE VERIFICAR`.
+- Año de la charla: 2024.
+
+## zag-0356 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, la serrapeptasa (enzima de gusano de seda) se aplica por vía tópica bajo la lengua usando el contenido de una cápsula pura, sin aditivos. Las dosis y concentraciones no se recogen en esta base.
+
+- Vídeo: [Serrapeptase Protocol for addressing  pain and inflammation - with Dr. Soroush Zaghi at TBI](https://www.youtube.com/watch?v=jvAdRMXr3XE), minuto `PENDIENTE DE VERIFICAR`.
+
+## zag-0357 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, la serrapeptasa se usa a diario durante la semana 2 y la semana 4 posoperatoria para mantener la flexibilidad del tejido antes de los ejercicios.
+
+- Vídeo: [Evolution Of Myofunctional Therapy, Lingual Frenuloplasty - Dr. Soroush Zaghi at ALSC 2026.](https://www.youtube.com/watch?v=nlFVT6PUaYc), minuto `PENDIENTE DE VERIFICAR`.
+- Año de la charla: 2026.
+
 ## zag-0358 · Experiencia clínica · sin verificar (dicho en vídeo)
 
 El Dr. Zaghi aclara que, aunque funciona muy bien, él no la prescribe formalmente en su clínica por no pasar el "Newspaper Test" (está etiquetada como suplemento y no debe abrirse según el fabricante), pero la menciona como una opción que los pacientes traen y que ha demostrado eficacia clínica.
@@ -216,6 +283,12 @@ Según Zaghi, en bebés, existe riesgo de aspiración si se vierte el polvo; se 
 
 - Vídeo: [Updates from Dr. Soroush Zaghi - The Breathe Institute at ALSC Symposium 2024](https://www.youtube.com/watch?v=iGQlzOtT4C0), minuto `PENDIENTE DE VERIFICAR`.
 - Año de la charla: 2024.
+
+## zag-0360 · Experiencia clínica · sin verificar (dicho en vídeo)
+
+Según Zaghi, prefiere Kenalog-10 porque viene listo para usar y es «limpio», aunque también puede diluirse Kenalog-40, más económico. Las dosis y concentraciones no se recogen en esta base.
+
+- Vídeo: `PENDIENTE DE VERIFICAR`. La extracción no guardó de qué vídeo sale. Para comprobarlo, buscar la idea en los vídeos de [fuentes-videos.md](fuentes-videos.md).
 
 ## zag-0361 · Experiencia clínica · sin verificar (dicho en vídeo)
 

@@ -34,11 +34,13 @@ La extracción partió de un cuaderno de NotebookLM con 100 fuentes de The Breat
 | Introducing the Breathe Oral Habits Program - with Carla Lejarraga and Anna Gross | https://www.youtube.com/watch?v=kPzCm3RgVVc |
 | Live Latera Nasal Valve Implant Procedure for Nasal Obstruction with Dr. Zaghi and 1 week Followup | https://www.youtube.com/watch?v=Cm7chrBRz14 |
 | Long-term Implications of Untreated Tongue-Tie (Dr. Soroush Zaghi, The Breathe Institute) | https://www.youtube.com/watch?v=cuT6qrm5IT0 |
+| Meet Dr. Zaghi of The Breathe Institute | https://www.youtube.com/watch?v=Ng_EJ1yOKkw |
 | Myofunctional Therapy and Frenuloplasty Can Be Appropriate Treatments for Obstructive Sleep Apnea | https://www.youtube.com/watch?v=dlU8wxa8474 |
 | Pediatric and Adult Sleep Medicine - Key Takeaways with Dr. Soroush Zaghi | https://www.youtube.com/watch?v=J0jS05tFj1w |
 | Pediatric Sleep Disordered Breathing and Maxillofacial Development with Soroush Zaghi | https://www.youtube.com/watch?v=eA1Yqbruw4g |
 | Perfect Your Swallow Technique with Dr. Soroush Zaghi at The Breathe Institute | https://www.youtube.com/watch?v=GJ4vm-4ZSyQ |
 | Post-Op Wound Healing - Sanda Valcu-Pinkerton, The Breathe Institute | https://www.youtube.com/watch?v=puF6uKS8tTA |
+| Serrapeptase Protocol for addressing  pain and inflammation - with Dr. Soroush Zaghi at TBI | https://www.youtube.com/watch?v=jvAdRMXr3XE |
 | The 50th Anniversary of the IJOM: Paradigm Shifts in Orofacial Myology and Myofunctional Therapy | https://www.youtube.com/watch?v=Z8diyvDv0ag |
 | Tongue-Tie, Sleep, Breathing, and Myofunctional Therapy: New Research Updates. Dr. Zaghi at ALSC '20 | https://www.youtube.com/watch?v=G9GrUw7YJD0 |
 | Tonsils Size vs Color - Differences between acute and chronic tonsil hypertrophy (large tonsils) | https://www.youtube.com/watch?v=lfH43CDyG5I |

@@ -28,7 +28,7 @@
 - expertos/soroush-zaghi/README.md: qué es, de dónde sale y cómo leer cada entrada
 - expertos/soroush-zaghi/respuestas-a-criticas.md: qué dice ante las críticas habituales, junto a la evidencia a favor y en contra
 - expertos/soroush-zaghi/zaghi.jsonl: una afirmación por línea (id, area, tipo, afirmacion, videos con url y minuto, pmid, verificacion, cita_corta)
-- expertos/soroush-zaghi/<tema>.md: anquiloglosia, frenuloplastia, posoperatorio, miofuncional, reglas-decision, doctrina-negativa, contradicciones, investigacion-etica, frameworks, fascia, maxilofacial, sueno-apnea, nariz-amigdalas, hipermovilidad, ambiente-moho-alergias, temas-poco-cubiertos
+- expertos/soroush-zaghi/<tema>.md: anquiloglosia, frenuloplastia, posoperatorio, miofuncional, reglas-decision, doctrina-negativa, contradicciones, investigacion-etica, frameworks, fascia, maxilofacial, sueno-apnea, nariz-amigdalas, hipermovilidad, ambiente-moho-alergias, estilo-vida, ideas-raras, temas-poco-cubiertos
 - expertos/soroush-zaghi/estudios-citados.md y discrepancias.md: qué estudios cita y dónde no cuadra lo que dice con el artículo
 
 ## Cómo leer una ficha
