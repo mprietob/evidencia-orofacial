@@ -6,7 +6,7 @@ La ha reunido Marta Prieto, dermatóloga, a partir de lo que ha leído. Es conoc
 
 ## Qué es
 
-- **140 fichas de estudios** en [fuentes/articulos/](fuentes/articulos/), con su DOI o PMID y el índice en [bibliografia.csv](fuentes/bibliografia.csv).
+- **167 fichas** de estudios, revisiones y documentos de sociedades científicas en [fuentes/articulos/](fuentes/articulos/), con su DOI o PMID y el índice en [bibliografia.csv](fuentes/bibliografia.csv). Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: [docs/BUSQUEDA-2026-11.md](docs/BUSQUEDA-2026-11.md).
 - **Objeciones frecuentes**, con la evidencia a favor y en contra: [objeciones/](objeciones/).
 - **Una hipótesis abierta**, marcada como tal: [hipotesis/](hipotesis/).
 - **Síntesis por temas** y una [matriz de afirmaciones](conocimiento/afirmaciones.md) con su grado de apoyo.
@@ -25,10 +25,20 @@ La ha reunido Marta Prieto, dermatóloga, a partir de lo que ha leído. Es conoc
 Porque no hay criterios diagnósticos validados de anquiloglosia en los que todo el mundo esté de acuerdo.
 
 - Una revisión de 71 estudios encontró que la prevalencia va del **2 % al 20 %** según la herramienta con la que se mire ([Cruz 2022, JADA](fuentes/articulos/2022-cruz-prevalencia-herramientas.md)). Es decir, cuánta gente «tiene frenillo» depende de cómo se mire.
-- El consenso de otorrinos pediátricos de Estados Unidos **no llegó a acuerdo en 28 de sus 89 afirmaciones** ([Messner 2020](fuentes/articulos/2020-messner-consenso.md)). Sus autores lo atribuyen a lagunas de conocimiento y a falta de evidencia sobre el diagnóstico y el tratamiento.
+- El consenso de otorrinos pediátricos de Estados Unidos **no llegó a acuerdo en 28 de sus 89 afirmaciones** ([Messner 2020](fuentes/articulos/2020-messner-consenso.md)). Sus autores lo atribuyen a lagunas de conocimiento y a falta de evidencia sobre el diagnóstico y el tratamiento. Tampoco pudieron recomendar ninguna escala diagnóstica.
 - Muchos estudios diagnostican por la longitud o el aspecto del frenillo. Otros miden cuánto se mueve la lengua. No responden a la misma pregunta. Por eso **cada ficha dice qué criterio usa**.
 
 Con ese punto de partida, nadie tiene la última palabra. Lo útil es ver qué dice cada estudio, cómo midió y qué no puede concluir.
+
+## Qué dicen las sociedades científicas
+
+Resumen de los documentos de sociedades, agencias y guías localizados el 2 de noviembre de 2026. La tabla completa, con enlaces, está en [conocimiento/sociedades-cientificas.md](conocimiento/sociedades-cientificas.md).
+
+- **Ninguno ofrece un criterio diagnóstico validado y aceptado por todos.** Varios lo dicen de forma expresa: la sociedad pediátrica canadiense (2015), la guía de lactancia del Sistema Nacional de Salud español (2017), los otorrinos pediátricos de EE. UU. (2020), la odontopediatría de EE. UU. (2022) y los otorrinos pediátricos de Brasil (2026).
+- **Los más recientes piden no diagnosticar solo por el aspecto y valorar la función.** El consenso australiano (2020) es el más concreto: exige una limitación funcional y una valoración objetiva con una herramienta (por ejemplo Martinelli o Hazelbaker). La guía de 2026 en *Pediatric Dentistry* aconseja valorar aspecto y función. Ninguno ha validado su criterio con certeza alta.
+- **Casi todos hablan de lactantes y lactancia.** Coinciden en valorar primero la lactancia con profesionales expertos. Sobre la frenotomía, la evidencia que citan es baja o muy baja: menos dolor del pezón a corto plazo y resultados inconsistentes en la alimentación del bebé.
+- **Sobre niños mayores y adultos dicen poco.** Los otorrinos de EE. UU. (2020) acordaron que la anquiloglosia no causa apnea y no suele afectar al habla. Los de Brasil (2026) no encuentran datos de relación con maloclusión ni apnea. Que no haya datos no demuestra que no exista relación.
+- **No se ha encontrado** un documento oficial de la Asociación Española de Pediatría ni de otras sociedades españolas sobre anquiloglosia. Está marcado como pendiente de verificar.
 
 ## Cómo leer una ficha
 

@@ -15,8 +15,11 @@ Lo que la evidencia todavía no responde y lo que esta biblioteca aún no ha com
 
 ## Comprobaciones pendientes en esta biblioteca
 
+- Fichar los 34 estudios prioritarios de la búsqueda del 02/11/2026 y cribar el resto: [BUSQUEDA-2026-11.md](BUSQUEDA-2026-11.md).
+- Confirmar si la Asociación Española de Pediatría u otras sociedades españolas tienen un documento sobre anquiloglosia.
+- Leer el texto completo del informe clínico de la AAP 2024 y de la guía de ICAP 2024.
 - Criterio diagnóstico de cada uno de los 11 estudios de Póvoa-Santos 2024 (tablas del texto completo).
-- Criterio diagnóstico sin confirmar en: Rodríguez Lara 2025, Carnino 2024, Chinnadurai 2015, Genna 2021, Slagter 2021, Sahoo 2024, Kalra 2025, De Simone 2025, Govardhan 2019, Oh 2021 (bruxismo), Oh 2021 (FAIREST-6), Messner 2020, Melong 2024 y Cordray 2023.
+- Criterio diagnóstico sin confirmar en: Rodríguez Lara 2025, Carnino 2024, Chinnadurai 2015, Genna 2021, Slagter 2021, Sahoo 2024, Kalra 2025, De Simone 2025, Govardhan 2019, Oh 2021 (bruxismo), Oh 2021 (FAIREST-6), Melong 2024 y Cordray 2023.
 - Leer el texto completo de Deregibus 2021, Kummer 2005 y la carta de Ghaheri 2020: hoy solo hay metadatos.
 - Comprobar en el original las cifras de McNamara 1981 sobre los componentes de la clase II.
 - Sacar de las tablas de Lichnowska 2024 las cifras concretas y si hubo cegamiento.

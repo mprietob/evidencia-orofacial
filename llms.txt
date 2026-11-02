@@ -21,6 +21,8 @@
 - fuentes/articulos/: una ficha por estudio, con la PLANTILLA.md
 - figuras/README.md: figuras con licencia CC BY y su crédito
 - docs/PREGUNTAS-ABIERTAS.md: lo que falta por saber o por verificar
+- conocimiento/sociedades-cientificas.md: qué dicen las sociedades científicas y guías (NICE, AAP, AAO-HNS, ABM, AAPD, IAPD, Cochrane, AHRQ, GPC española, Australia, Brasil) y si proponen criterio diagnóstico
+- docs/BUSQUEDA-2026-11.md y docs/busqueda-2026-11.csv: búsqueda en PubMed de 2025-2026, con lo fichado y lo pendiente (PMID)
 
 ## Soroush Zaghi (opinión de experto, en vídeo)
 - expertos/soroush-zaghi/README.md: qué es, de dónde sale y cómo leer cada entrada
@@ -48,3 +50,5 @@ Cada ficha de fuentes/articulos/ tiene el campo «Criterio diagnóstico de anqui
 - Extracciones, postura y vía aérea: 2021-orabi-extracciones-via-aerea.md, 2023-coppelson-postura-cbct.md, 2023-guo-extracciones-via-aerea.md, 2025-papageorgiou-extracciones-via-aerea.md
 - Habla y voz: 2005-kummer-asha-leader.md, 2015-chinnadurai-mas-alla-lactancia.md, 2017-herbst-voz-freddie-mercury.md, 2023-cordray-anquiloglosia-mas-alla-lactancia.md, 2024-carnino-habla-metaanalisis.md, 2024-clausen-habla-revision-danesa.md, 2024-melong-frenotomia-habla.md, 2025-kummer-carta-cordray.md
 - Crecimiento, estética facial y cefalometría: 2011-quintessence-estetica-rostro.md, 2016-mahboub-frenillo-borde-incisal.md, 2019-ghorbanyjavadpour-belleza-perfil.md, 2022-al-taai-cambios-craneofaciales-13-62.md, 2022-usman-frenillo-plano-oclusal.md, 2024-gomez-vela-armonizacion-antropometria.md, 2025-ashley-belleza-ia.md, 2025-ho-estetica-cirugia-ortognatica.md, 2025-hussein-envejecimiento-mandibula.md, sd-fernandez-sanchez-analisis-wits.md, sd-sumario-analisis-cefalometrico.md
+- Sociedades científicas y guías: 2005-nice-frenotomia-lactancia.md, 2015-rowan-legg-cps-lactancia.md, 2015-francis-revision-lactancia.md, 2017-oshea-cochrane-frenotomia.md, 2017-gpc-lactancia-materna-espana.md, 2020-messner-consenso.md, 2020-ada-australia-consenso.md, 2021-lefort-abm-posicionamiento.md, 2022-aapd-politica-frenillo.md, 2022-iapd-anquiloglosia.md, 2024-thomas-aap-informe-clinico.md, 2024-icap-guia-ankylofrenula.md, 2026-caixeta-abopi-brasil.md, 2026-dhar-aapd-guia-lactancia.md
+- Actualización 2025-2026 (diagnóstico, lactancia, sueño, técnicas): 2025-necus-herramientas-diagnostico.md, 2025-kumar-herramientas-cuantitativas.md, 2025-gismonti-prevalencia-dificultad-lactancia.md, 2025-thornton-publicaciones.md, 2025-delgadillo-metaanalisis-lactancia.md, 2025-carneiro-ensayo-laser-bisturi.md, 2025-gandevivala-zplastia-habla.md, 2026-dhar-revision-diagnostico.md, 2026-dhar-revision-frenotomia.md, 2026-valadares-criterios-indicacion.md, 2026-lopez-segura-ensayo-miofuncional.md, 2026-da-silva-umbrella-frenotomia.md, 2026-venugopal-apnea-revision.md, 2026-ferres-amat-variabilidad.md
