@@ -45,6 +45,13 @@ for f in fichas:
     if 'Criterio diagnóstico de anquiloglosia' not in f.read_text(encoding='utf-8'):
         issues.append(f'Ficha sin criterio diagnóstico: {f.name}')
 
+# El índice de fichas está al día
+sys.path.insert(0, str(root / 'scripts'))
+from indice import generar
+indice = root / 'fuentes/indice-fichas.csv'
+if not indice.exists() or indice.read_text(encoding='utf-8') != generar():
+    issues.append('fuentes/indice-fichas.csv no está al día: ejecuta python scripts/indice.py')
+
 # Cada figura copiada tiene su fila de crédito y licencia
 tabla = (root / 'figuras/README.md').read_text(encoding='utf-8')
 figuras = sorted((root / 'figuras').glob('*.jpg'))

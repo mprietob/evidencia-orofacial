@@ -10,7 +10,9 @@ Se agradecen correcciones, estudios que falten y evidencia contraria. Para propo
 4. Copia solo cifras comprobadas. Citas literales, cortas y con atribución. Nunca texto completo ajeno.
 5. Si la ficha cambia una objeción, actualiza sus dos caras: la evidencia a favor y la evidencia en contra.
 6. Vídeos: usa [fuentes/videos/PLANTILLA.md](fuentes/videos/PLANTILLA.md). Resumen propio con enlace y minuto. Sin transcripciones completas.
-7. Antes de enviar, ejecuta `python scripts/validar.py` y repasa [docs/REVIEW.md](docs/REVIEW.md).
+7. Antes de enviar, ejecuta `python scripts/indice.py` (actualiza `fuentes/indice-fichas.csv`) y `python scripts/validar.py`, y repasa [docs/REVIEW.md](docs/REVIEW.md).
+
+Si el cambio lo hace un agente de IA, los pasos de cada tarea están en [docs/TAREAS-AGENTES.md](docs/TAREAS-AGENTES.md).
 
 ## Lo que nunca entra
 

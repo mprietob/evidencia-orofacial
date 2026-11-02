@@ -6,6 +6,8 @@
 - AGENTS.md: reglas de respuesta (citar fuente, criterio diagnóstico, no diagnosticar a nadie)
 - README.md: qué es y qué no es
 - docs/METODOLOGIA.md: cómo se extrae y se gradúa la evidencia
+- docs/TAREAS-AGENTES.md: pasos para cada tarea (responder, fichar un estudio, poner al día la búsqueda, objeciones, sociedades, figuras, Zaghi) y límites (no publicar, nada de pacientes)
+- docs/INSTRUCCIONES-IA.md: reglas para pegar en una IA de chat que no lee AGENTS.md
 
 ## Navegación
 - conocimiento/afirmaciones.md: matriz de afirmaciones con su grado de apoyo (VERIFICADO, INTERPRETACION, HIPOTESIS, SIN_DATOS)
@@ -17,6 +19,7 @@
 - objeciones/anquiloglosia-maloclusion.md: O-002, frenillo y maloclusión
 - objeciones/extracciones-via-aerea.md: O-003, extracciones de premolares y vía aérea
 - objeciones/anquiloglosia-habla.md: O-004, frenillo y habla
+- fuentes/indice-fichas.csv: una fila por ficha (archivo, año, título, tipo de estudio, criterio diagnóstico, PMID, DOI) para filtrar
 - fuentes/bibliografia.csv: índice de referencias (id, autores, año, título, DOI, PMID, tema, estado de lectura)
 - fuentes/articulos/: una ficha por estudio, con la PLANTILLA.md
 - figuras/README.md: figuras con licencia CC BY y su crédito

@@ -52,9 +52,9 @@ El método completo está en [docs/METODOLOGIA.md](docs/METODOLOGIA.md).
 
 ## Cómo preguntarle con tu propia IA
 
-Esta biblioteca son archivos de texto (Markdown y CSV). Cualquier IA que pueda leerlos puede responder con ellos. Hay un índice para IA en [llms.txt](llms.txt) y unas reglas de respuesta en [AGENTS.md](AGENTS.md).
+Esta biblioteca son archivos de texto (Markdown y CSV). Cualquier IA que pueda leerlos puede responder con ellos. Hay un índice para IA en [llms.txt](llms.txt), unas reglas de respuesta en [AGENTS.md](AGENTS.md) y una tabla de estudios para filtrar por criterio diagnóstico en [fuentes/indice-fichas.csv](fuentes/indice-fichas.csv).
 
-Pega esto al empezar, sea cual sea tu IA:
+En una IA de chat, pega en las instrucciones del proyecto las reglas de [docs/INSTRUCCIONES-IA.md](docs/INSTRUCCIONES-IA.md). Para una pregunta suelta basta con esto:
 
 > Usa como fuente el repositorio https://github.com/mprietob/evidencia-frenillo. Lee primero AGENTS.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). Di qué criterio diagnóstico usa cada estudio. Separa lo que dice el estudio de la interpretación. Si algo no está, dilo.
 
@@ -63,7 +63,7 @@ Formas de dárselo, de más sencilla a más técnica:
 1. **Subir los archivos.** En GitHub, botón verde «Code» y «Download ZIP». Descomprime y sube las carpetas que te interesen a un Proyecto de Claude, a un GPT o proyecto de ChatGPT, a NotebookLM o a Gemini. *Comprobado:* GitHub ofrece la descarga en ZIP de cualquier repositorio público. *Pendiente de probar con este repositorio:* el límite de archivos de cada aplicación. Si no caben todos, sube primero `llms.txt`, `AGENTS.md`, `objeciones/`, `conocimiento/` y las fichas del tema que te interese.
 2. **Pegar el enlace en un chat con búsqueda web.** Pide que lea `llms.txt` y las fichas. *Comprobado:* los archivos de un repositorio público se pueden leer como texto en `raw.githubusercontent.com` sin cuenta. *Pendiente de probar:* si cada IA consigue abrir GitHub desde su navegación, que cambia según la aplicación y el plan.
 3. **Conectarlo como servidor MCP con GitMCP** (gratuito, de terceros). La dirección sería `https://gitmcp.io/mprietob/evidencia-frenillo`. En Claude se añade como conector personalizado. *Comprobado* el 02/11/2026 con otro repositorio público: GitMCP responde y ofrece herramientas para leer la documentación, buscar en ella y buscar en los archivos. *Pendiente de probar:* con este repositorio y dentro de cada aplicación.
-4. **Clonarlo y preguntar desde una IA de terminal** (Claude Code, Codex u otras): `git clone https://github.com/mprietob/evidencia-frenillo`. Claude Code lee `CLAUDE.md` y Codex lee `AGENTS.md`, que contienen las reglas de respuesta.
+4. **Clonarlo y preguntar desde una IA de terminal** (Claude Code, Codex u otras): `git clone https://github.com/mprietob/evidencia-frenillo`. Hay un archivo de entrada para cada herramienta: `AGENTS.md` (Codex y otras), `CLAUDE.md` (Claude Code), `GEMINI.md` (Gemini CLI) y `.github/copilot-instructions.md` (GitHub Copilot). Todos llevan a las mismas reglas. Para mantener la biblioteca, los pasos están en [docs/TAREAS-AGENTES.md](docs/TAREAS-AGENTES.md). *Comprobado:* Claude Code lee `CLAUDE.md`. *Pendiente de probar con este repositorio:* que cada una de las otras herramientas cargue su archivo.
 
 Aunque la IA cite bien, revisa la ficha original y el artículo. Las IA se equivocan.
 
