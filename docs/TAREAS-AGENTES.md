@@ -11,10 +11,13 @@ Pasos para un agente de IA (Claude Code, Codex, Gemini, Copilot u otro) que resp
 - **No inventes.** Si un dato no está comprobado, escribe `PENDIENTE DE VERIFICAR` y di cómo comprobarlo.
 - **Valida antes de cada commit:** `python scripts/validar.py` debe terminar con «errores: 0».
 
+**Lectura previa obligatoria:** [ENFOQUE-CRITICO.md](ENFOQUE-CRITICO.md). Respuestas ordinarias breves; ante objeciones, comprobar la pertinencia de medidas y límites con el mismo rigor para hallazgos positivos y negativos.
+
 ## Mapa rápido
 
 | Para | Lee |
 |---|---|
+| Mentalidad y protocolo de objeciones | [ENFOQUE-CRITICO.md](ENFOQUE-CRITICO.md) |
 | Saber qué hay | [llms.txt](../llms.txt) |
 | Filtrar estudios por año, diseño o criterio diagnóstico | [fuentes/indice-fichas.csv](../fuentes/indice-fichas.csv) |
 | Ver la referencia completa | [fuentes/bibliografia.csv](../fuentes/bibliografia.csv) |
@@ -65,11 +68,13 @@ Pasos para un agente de IA (Claude Code, Codex, Gemini, Copilot u otro) que resp
 
 ## 4. Actualizar una objeción o una afirmación
 
-1. Añade el estudio en la cara que le toque: evidencia a favor o en contra. Si matiza las dos, ponlo en las dos.
-2. Di su criterio diagnóstico. Un estudio por longitud no responde a una pregunta sobre función, ni a favor ni en contra.
-3. **No cambies el nivel de certeza sin justificarlo** con los estudios concretos que lo justifican.
-4. No conviertas «no hay evidencia suficiente» en «no hay efecto», ni al revés.
-5. Si cambia el grado de apoyo de una afirmación, actualiza también [conocimiento/afirmaciones.md](../conocimiento/afirmaciones.md).
+1. Sigue [ENFOQUE-CRITICO.md](ENFOQUE-CRITICO.md): identifica hipótesis, medida y desenlace. No audites automáticamente todas las limitaciones posibles.
+2. Añade el estudio en la cara que le toque: evidencia a favor o en contra. Si matiza las dos, ponlo en las dos.
+3. Di su criterio diagnóstico. Longitud/aspecto no resuelve por sí solo la función; tampoco una prueba funcional parcial resuelve todas las funciones.
+4. Distingue límite documentado de hipótesis de sesgo: una apertura máxima reducida **podría** alterar TRMR, pero no afirmes que ocurriera en un estudio sin datos.
+5. **No cambies el nivel de certeza sin justificarlo** con estudios concretos.
+6. No conviertas «no hay evidencia suficiente» en «no hay efecto», ni al revés.
+7. Si cambia el grado de apoyo de una afirmación, actualiza también [conocimiento/afirmaciones.md](../conocimiento/afirmaciones.md).
 
 ## 5. Añadir un documento de una sociedad científica
 
