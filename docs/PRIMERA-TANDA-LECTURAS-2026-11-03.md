@@ -1,6 +1,6 @@
 # Primera tanda práctica de lecturas y PDFs — 03/11/2026
 
-La [lista completa de todas las referencias que necesitan una lectura más profunda](PDFS-LECTURA-PENDIENTE-2026-11-03.md) comprende **117 registros** del inventario actualizado de **214 referencias**. **Esta lista corta no sustituye aquella**: sirve para priorizar con criterio clínico el trabajo y minimizar documentos que tengas que buscar.
+La [lista completa de todas las referencias que necesitan una lectura más profunda](PDFS-LECTURA-PENDIENTE-2026-11-03.md) comprende **115 registros** del inventario actualizado de **214 referencias**. **Esta lista corta no sustituye aquella**: sirve para priorizar con criterio clínico el trabajo y minimizar documentos que tengas que buscar.
 
 ## A. Buscar el texto completo / solicitar PDF solo si no hay acceso abierto (10)
 
@@ -42,10 +42,12 @@ Estas referencias son accesibles en una fuente abierta conocida o muy probableme
 
 **Nota:** `CNOCKAERT2026` tiene manuscrito institucional abierto en [UCLouvain](https://research.dial.uclouvain.be/entities/publication/354c10f1-2c8d-41f9-9280-a2cf978a3748), aunque **no se ha podido examinar su PDF**; `KANG2026AR` es abierto en BMC y `GRANDE2026` en PMC. Los documentos de los que ya se ha revisado el texto completo no necesitan que envíes PDF.
 
-## C. Ya existe lectura completa registrada (3): no solicitar de nuevo
+## C. Ya existe lectura completa registrada (5): no solicitar de nuevo
 
 | ID | Referencia | Título | Enlace | Lectura registrada |
 |---|---|---|---|---|
+| `THOMAS2024` | Thomas J; Bunik M et al. (2024) | Identification and Management of Ankyloglossia and Its Effect on Breastfeeding in Infants | [Texto gratis AAP](https://doi.org/10.1542/peds.2024-067605) | **Informe completo leído 03/11/2026**; copyright editorial |
+| `ICAP2024` | Smart S; Kittrell A; Merkel-Walsh R; Tseng RJ (2024) | ICAP Practice Guidelines for Ankylofrenula Management | [Texto abierto MDPI](https://doi.org/10.52010/ijom.2024.50.2.3) | **Texto completo leído 03/11/2026**; posicionamiento profesional CC BY |
 | `POVOA2024` | Póvoa-Santos et al. (2024) | Ankyloglossia and malocclusion: A systematic review and meta-analysis | [DOI](https://doi.org/10.1016/j.adaj.2023.09.014) | Texto completo leído 03/11/2026 en conversación; PDF no depositado |
 | `HE2026` | He S; Liu Y; Zhao Z (2026) | Lingual frenulum, craniofacial morphology, and obstructive sleep apnea: a mediation analysis | [DOI](https://doi.org/10.1007/s11325-026-03618-x) | Texto completo leído por Marta |
 | `KOENTO2026` | Koento T; Widjaja S (2026) | Ankyloglossia and its association with sleep-disordered breathing in children: A systematic review | [DOI](https://doi.org/10.1016/j.ijporl.2026.112717) | Texto completo leído por Marta |
