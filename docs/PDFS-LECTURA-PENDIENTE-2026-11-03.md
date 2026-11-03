@@ -2,7 +2,7 @@
 
 **Repositorio:** `mprietob/evidencia-frenillo` (privado). **Criterio:** inventario documental según `fuentes/bibliografia.csv` y `fuentes/indice-fichas.csv`. **No es una comprobación de acceso abierto artículo por artículo** ni implica que cada publicación necesite que la usuaria aporte un PDF.
 
-**Para empezar sin revisar 120 entradas a la vez:** [primera tanda práctica de 10 textos completos prioritarios](PRIMERA-TANDA-LECTURAS-2026-11-03.md), separando fuentes abiertas y ya leídas.
+**Para empezar sin revisar 117 entradas a la vez:** [primera tanda práctica de 10 textos completos prioritarios](PRIMERA-TANDA-LECTURAS-2026-11-03.md), separando fuentes abiertas y ya leídas.
 
 ## Cómo usar esta lista
 
@@ -11,9 +11,9 @@
 ### Resumen automatizado
 
 - Referencias totales existentes: **214**.
-- **120** referencias con lectura completa pendiente o parcial: **111** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
+- **117** referencias con lectura completa pendiente o parcial: **108** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
 - **51** con PDF previamente revisado o metadatos tomados del PDF: **no solicitar copia de entrada**, pero revisar si la extracción metodológica fue completa.
-- **11** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
+- **14** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
 - **32** marcadas anteriormente como fuera del tema: no pedir PDF automáticamente; reevaluar si cambian las preguntas de alcance.
 - Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 214 referencias, y no debe asumirse que todos requieren PDF.
 
@@ -25,7 +25,7 @@
 4. Revisar los candidatos nuevos sin ficha y priorizar sueño, desarrollo craneofacial, función orofacial, fascia, respiración, adenoamígdalas, otitis y postura.
 5. Actualizar `estado_lectura` y la ficha **solo después de consultar la fuente**; nunca marcar «texto completo leído» porque se leyó un resumen.
 
-## PRIORIDAD 1 — textos completos pendientes o leídos parcialmente (111)
+## PRIORIDAD 1 — textos completos pendientes o leídos parcialmente (108)
 
 | ID | Autor/año | Referencia exacta | Área | Ficha | Enlace | Lectura registrada |
 |---|---|---|---|---|---|---|
@@ -51,7 +51,6 @@
 | THORNTON2025 | Thornton AR; Montgomery EA; Graham ME; Riley CA; Lawlor CM (2025) | Systematic Review of Tongue Tie Publications: Exponential Rise in Publications Without Exponential Increase in Evidence | Diagnóstico | Sí | [Acceso/editor](https://doi.org/10.1002/ohn.1264) | Resumen verificado |
 | EHSAN2024 | Ehsan Z; Ishman SL; Soghier I et al.; Coppelson K (2024) | Management of Persistent, Post-adenotonsillectomy Obstructive Sleep Apnea in Children: An Official American Thoracic Society Clinical Practice Guideline | Apnea persistente | Sí | [Acceso/editor](https://doi.org/10.1164/rccm.202310-1857ST) | Resumen verificado |
 | ICAP2024 | Smart S; Kittrell L; Merkel-Walsh R; Tseng R (ICAP) (2024) | International Consortium of oral Ankylofrenula Professionals (ICAP): Practice guidelines for ankylofrenula management | Sociedades y guías | Sí | [Acceso/editor](https://doi.org/10.52010/ijom.2024.50.2.3) | Resumen verificado |
-| KOTARSKA2024 | Kotarska M; Wądołowska A; Sarul M; Kawala B; Lis J (2024) | Does Ankyloglossia Surgery Promote Normal Facial Development? A Systematic Review | Maloclusión | Sí | [Acceso/editor](https://doi.org/10.3390/jcm14010081) | Resumen y texto completo parcial |
 | LICHNOWSKA2024 | Lichnowska A; Gnatek A; Tyszkiewicz S; Kozakiewicz M; Zaghi S (2024) | A Prospective Randomized Control Trial of Lingual Frenuloplasty with Myofunctional Therapy in Patients with Maxillofacial Deformity in a Polish Cohort | Frenuloplastia | Sí | [Acceso/editor](https://doi.org/10.3390/jcm13185354) | Resumen y texto completo parcial |
 | MELONG2024 | Melong J; Bezuhly M; Hong P (2024) | The Effect of Tongue-Tie Release on Speech Articulation and Intelligibility | Habla | Sí | [Acceso/editor](https://doi.org/10.1177/01455613211064045) | Resumen verificado |
 | THOMAS2024 | Thomas J; Bunik M; Holmes A et al. (American Academy of Pediatrics) (2024) | Identification and Management of Ankyloglossia and Its Effect on Breastfeeding in Infants: Clinical Report | Sociedades y guías | Sí | [Acceso/editor](https://doi.org/10.1542/peds.2024-067605) | Resumen verificado |
@@ -62,7 +61,6 @@
 | ISHMAN2023 | Ishman SL; Maturo S; Schwartz S et al. (2023) | Expert Consensus Statement: Management of Pediatric Persistent Obstructive Sleep Apnea After Adenotonsillectomy | Apnea persistente | Sí | [Acceso/editor](https://doi.org/10.1002/ohn.159) | Resumen verificado |
 | BAXTER2022 | Baxter RT; Zaghi S; Lashley AP (2022) | Safety and efficacy of maxillary labial frenectomy in children: A retrospective comparative cohort study | Frenillo labial | Sí | [Acceso/editor](https://doi.org/10.1016/j.ortho.2022.100630) | Resumen verificado |
 | YOON2022 | Yoon A; Abdelwahab M; Bockow R et al. (2022) | Impact of rapid palatal expansion on the size of adenoids and tonsils in children | Expansión maxilar niños | Sí | [Acceso/editor](https://doi.org/10.1016/j.sleep.2022.02.011) | Resumen verificado |
-| DEREGIBUS2021 | Deregibus A; Parrini S; Domini MC et al. (2021) | Analysis of Tongue Function from the Orthodontist's Point of View: Not Only a Matter of Deglutition | Maloclusión | Sí | [Acceso/editor](https://doi.org/10.3390/app11062520) | Metadatos verificados |
 | OH2021 | Oh JS; Zaghi S; Peterson C et al. (2021) | Determinants of Sleep-Disordered Breathing During the Mixed Dentition: Development of a Functional Airway Evaluation Screening Tool (FAIREST-6) | Cribado TRS | Sí | [Acceso/editor](https://pubmed.ncbi.nlm.nih.gov/34467840/) | Resumen verificado |
 | OH2021B | Oh JS; Zaghi S; Ghodousi N et al. (2021) | Determinants of probable sleep bruxism in a pediatric mixed dentition population: a multivariate analysis of mouth vs. nasal breathing, tongue mobility, and tonsil size | Sueño y lengua | Sí | [Acceso/editor](https://doi.org/10.1016/j.sleep.2020.11.007) | Resumen verificado |
 | ORABI2021 | Orabi N; Flores-Mir C; Elshebiny T; Elkordy S; Palomo JM (2021) | Pharyngeal airway dimensional changes after orthodontic treatment with premolar extractions: A systematic review with meta-analysis | Extracciones y vía aérea | Sí | [Acceso/editor](https://doi.org/10.1016/j.ajodo.2021.03.013) | Resumen verificado |
@@ -79,7 +77,6 @@
 | AWAD2019 | Awad M; Gouveia C; Zaghi S et al. (2019) | Changing practice: Trends in skeletal surgery for obstructive sleep apnea | Cirugía apnea | Sí | [Acceso/editor](https://doi.org/10.1016/j.jcms.2018.11.005) | Resumen verificado |
 | CAMACHO2019 | Camacho M; Noller MW; Del Do M et al. (2019) | Long-term Results for Maxillomandibular Advancement to Treat Obstructive Sleep Apnea: A Meta-analysis | Cirugía apnea | Sí | [Acceso/editor](https://doi.org/10.1177/0194599818815158) | Resumen verificado |
 | GOVARDHAN2019 | Govardhan C; Murdock J; Norouz-Knutsen L et al. (2019) | Lingual and Maxillary Labial Frenuloplasty with Myofunctional Therapy as a Treatment for Mouth Breathing and Snoring | Frenuloplastia | Sí | [Acceso/editor](https://doi.org/10.1155/2019/3408053) | Resumen verificado |
-| MILLS2019N | Mills et al. (2019) | Defining the anatomy of the neonatal lingual frenulum | Fascia neonatal | No / revisar ID | [Acceso/editor](https://doi.org/10.1002/ca.23410) | Resumen verificado |
 | ZAGHI2019 | Zaghi S; Valcu-Pinkerton S; Jabara M et al. (2019) | Lingual frenuloplasty with myofunctional therapy: Exploring safety and efficacy in 348 cases | Frenuloplastia | Sí | [Acceso/editor](https://doi.org/10.1002/lio2.297) | Resumen y texto completo parcial |
 | CAMACHO2018 | Camacho M; Guilleminault C; Wei JM et al. (2018) | Oropharyngeal and tongue exercises (myofunctional therapy) for snoring: a systematic review and meta-analysis | Terapia miofuncional | Sí | [Acceso/editor](https://doi.org/10.1007/s00405-017-4848-5) | Resumen verificado |
 | GOUVEIA2018 | Gouveia CJ; Zaghi S; Awad M et al. (2018) | Publication trends and levels of evidence in obstructive sleep apnea literature | Apnea | Sí | [Acceso/editor](https://doi.org/10.1002/lary.27075) | Resumen verificado |
@@ -170,7 +167,10 @@ No pedir una nueva copia por defecto. Aun así, confirmar si las fichas son sufi
 
 `FELDENS2024` (2024) · `FELDENS2025` (2025) · `DINH2025` (2025) · `JONES2024A` (2024) · `JONES2024B` (2024) · `DELLOLIO2022` (2022) · `RODRIGUEZLARA2025` (2025) · `MAYAENERO2021` (2021) · `MCKENNA2024` (2024) · `OCALLAHAN2013` (2013) · `SLAGTER2021` (2021) · `PATEL2025` (2025) · `ALBERTSEN2024` (2024) · `VANBIERVLIET2020` (2020) · `NAIMER2003` (2003) · `KOTLOW2011` (2011) · `GUOTHGUMBERGER2025` (2025) · `GENNA2021` (2021) · `CRUZ2022` (2022) · `UNKEL2021` (2021) · `BHATT2025` (2025) · `HOANG2024` (2024) · `PALOMARES2023` (2023) · `CARNINO2024` (2024) · `CLAUSEN2024` (2024) · `CHINNADURAI2015` (2015) · `BISWAS2023` (2023) · `SEPET2015` (2015) · `VAZ2015` (2015) · `DESIMONE2025` (2025) · `POMPEIA2017` (2017) · `DESHKAR2024` (2024) · `KIM2025` (2025) · `CAMANES2024` (2024) · `PREEDEEWONG2024` (2024) · `MARINO2026` (2026) · `RODRIGUEZALCALA2021` (2021) · `LACERDA2014` (2014) · `ALTAAI2022` (2022) · `HUSSEIN2025` (2025) · `HO2025` (2025) · `GHORBANY2019` (2019) · `ASHLEY2025` (2025) · `MAHBOUB2016` (2016) · `USMAN2022` (2022) · `CORREA2024` (2024) · `SAHOO2024` (2024) · `KALRA2025` (2025) · `FERNANDEZSANCHEZ_WITS` () · `SUMARIO_CEFALOMETRICO` () · `QUINTESSENCE2011` (2011)
 
-## Ya consta lectura de texto completo/fuente oficial (11)
+## Ya consta lectura de texto completo/fuente oficial (14)
+
+**Cerrados en la tanda de acceso abierto del 03/11/2026:** `DEREGIBUS2021`, `KOTARSKA2024`, `MILLS2019N` (los tres textos originales revisados; véase [acta](REVISION-ABIERTOS-2026-11-03.md)).
+
 
 `POVOA2024` — Ankyloglossia and malocclusion: A systematic review and meta-analysis (texto completo aportado y revisado 03/11/2026; no depositar PDF protegido)
 
@@ -263,6 +263,8 @@ Pueden existir publicaciones relevantes para el **alcance ampliado** (p. ej., ob
 `COPPELSON2023_37400180` — REPLY: Does Head and Neck Posture Affect Cone-Beam Computed Tomography Assessment of the Upper Airway?
 
 ## Limitaciones del inventario
+
+Actualizado tras la lectura de 9 fuentes abiertas: se han retirado de la lista de solicitudes 3 trabajos ya revisados. La tabla P1 adicional de la ampliación contiene las nueve referencias nuevas, que siguen pendientes de auditoría completa salvo lo indicado en sus fichas.
 
 - Se ha clasificado por **estado de lectura declarado**, no por inspección de cada PDF disponible en local o en el Drive privado.
 - La existencia de un enlace DOI/PubMed no significa que el texto completo sea libre.
