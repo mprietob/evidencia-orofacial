@@ -19,6 +19,12 @@ El interés es investigar cómo interactúan estructuras y funciones, no atribui
 | **Terapia miofuncional ↔ apnea en adultos** | Umbrella review de 9 revisiones/21 estudios primarios sugiere mejoría de algunos desenlaces adultos, con IAH −9,54/h agrupado. | Calidad metodológica frecuentemente críticamente baja y alto sesgo primario. **No extrapolar los efectos de adultos a niños**. | [Pisoni 2026](../fuentes/articulos/2026-pisoni-miofuncional-umbrella-apnea.md) |
 | **Adenoides / trompa de Eustaquio ↔ otitis media con efusión** | Umbrella review de intervenciones: eficacia dependiente de edad de tubos y adenoidectomía en OME; otras intervenciones con limitaciones. | No estudia frenillo, desarrollo maxilar ni postura. No conectar causalmente sin estudios que hayan medido ambas cosas. | [Chandrasekharan 2026](../fuentes/articulos/2026-chandrasekharan-disfuncion-tubarica-otitis.md) |
 
+## Actualización de terapia miofuncional: por qué las revisiones discrepan
+
+**No basta con afirmar que un metaanálisis de 2020 es favorable y otro de 2026 es negativo:** [Bandyopadhyay 2020](../fuentes/articulos/2020-bandyopadhyay-miofuncional-apnea-ninos.md) agrupa sobre todo cambios antes/después, con ejercicios activos y dispositivos pasivos (IAH −1,54/h, IC95 % −2,24 a −0,85; I² 72 %); [Cnockaert 2026](../fuentes/articulos/2026-cnockaert-miofuncional-apnea-infantil.md) estima diferencias frente a controles aleatorizados (IAH −1,68/h, IC95 % −3,61 a +0,24; no concluyente). [Avivar-Pardo 2026](../fuentes/articulos/2026-avivar-pardo-miofuncional-apnea-pediatrica.md) incluye un único ECA pequeño más observacionales, con certeza baja; [Carey 2026](../fuentes/articulos/2026-carey-miofuncional-deglucion-infantil.md) estudia **deglución**, no apnea, en 17 estudios con predominio de calidad pobre y cotratamientos. [Análisis comparativo detallado](miofuncional-pediatrica-resultados-contrapuestos.md).
+
+**Próximo ensayo relevante, todavía sin resultados:** [NCT07249944](../docs/ENSAYOS-EN-CURSO.md) medirá por separado oAHI en PSG, longitud lingual, Mpal/Mmax, fuerza, respiración y rasgos posturales. No es estudio de frenotomía y no se sabe el resultado.
+
 ## Piezas existentes que deben integrarse (sin confundir mecanismos y efectos)
 
 - **Anatomía de la fascia lingual:** disección y análisis histológico de Mills describen la participación de la fascia del suelo de la boca en el frenillo; **no** documentan un efecto causal del frenillo sobre la posición sagital permanente o el crecimiento óseo mandibular. Ver [fascia](fascia-suelo-boca.md).
