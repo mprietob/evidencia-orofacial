@@ -1,6 +1,6 @@
 # Ampliación interdisciplinar de la revisión — registro de trabajo
 
-**Inicio:** 03/11/2026. **Estado de etapa actual:** búsqueda dirigida, nueve fichas de primera ampliación **más tres fichas de segunda tanda**, mapa crítico y dos comparaciones metodológicas; el registro de ensayo sin resultados se documenta aparte. **No es todavía una revisión sistemática formal**. Las decisiones no cerradas se marcan como pendientes, no como resultados.
+**Inicio:** 03/11/2026. **Estado de etapa actual:** búsqueda dirigida, nueve fichas de primera ampliación, **una ficha anatómica neonatal adicional** y **tres fichas de segunda tanda**, mapa crítico y dos comparaciones metodológicas; el registro de ensayo sin resultados se documenta aparte. **No es todavía una revisión sistemática formal**. Las decisiones no cerradas se marcan como pendientes, no como resultados.
 
 ## Pregunta central
 
@@ -22,8 +22,8 @@ Una sola metaanálisis «de todo» no sería interpretable. Preparar primero una
 
 | Etapa | Estado al 03/11/2026 | Entregable |
 |---|---|---|
-| A. Inventario de fuentes existentes | **HECHO**, 214 referencias tras actualización | [PDFs/lecturas pendientes](PDFS-LECTURA-PENDIENTE-2026-11-03.md), con acceso abierto por verificar individualmente |
-| B. Primera ampliación de ORL, crecimiento y sueño | **HECHO (primera tanda)**, 9 fichas nuevas, y **segunda tanda**, 3 fichas (Bandyopadhyay 2020, Avivar-Pardo 2026, Carey 2026) | [Mapa de evidencia](../conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md), fichas vinculadas y bibliografía/index actualizados |
+| A. Inventario de fuentes existentes | **HECHO**, 217 referencias y 180 fichas tras actualización | [PDFs/lecturas pendientes](PDFS-LECTURA-PENDIENTE-2026-11-03.md), con acceso abierto por verificar individualmente |
+| B. Primera ampliación de ORL, crecimiento y sueño | **HECHO (primera tanda)**, 9 fichas nuevas, una ficha de Mills neonatal, y **segunda tanda**, 3 fichas (Bandyopadhyay 2020, Avivar-Pardo 2026, Carey 2026) | [Mapa de evidencia](../conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md), fichas vinculadas y bibliografía/index actualizados |
 | C. Completar 15 fichas con criterio diagnóstico pendiente | **PENDIENTE** | Leer original cuando exista, verificar método y corregir sin conjeturas |
 | D. Cribar 34 prioritarios + 140 pendientes de búsqueda de 2025–2026 | **PENDIENTE** | Separar pertinente, duplicado, tangencial y descartado con motivo |
 | E. Buscar sistemáticamente cada una de las siete preguntas | **PENDIENTE DE PROTOCOLO Y EXTRACCIÓN** | Cadenas completas, fecha, bases, deduplicación y selección por duplicado |
