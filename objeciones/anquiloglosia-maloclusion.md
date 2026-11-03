@@ -1,23 +1,37 @@
-# Objeción O-002: «No hay evidencia de que anquiloglosia influya en la maloclusión»
+# Objeción O-002: «JADA 2024 demuestra que la anquiloglosia no influye en la maloclusión»
 
-La revisión de Póvoa-Santos et al. (2024) incluyó **11 estudios observacionales con 2.904 participantes**; admitió **cualquier instrumento diagnóstico de anquiloglosia** y clasificó la certeza global de los resultados como **baja a muy baja**. Concluyó que no había evidencia sólida que permitiera sostener una asociación general con maloclusiones. La inserción del frenillo no se asoció con la clase de Angle. Pero la reducción de la apertura bucal, una medida de movilidad, fue mayor en la clase III que en la I (diferencia de medias 6,67; IC 95 % 4,01 a 9,33) y que en la II (5,04; IC 95 % 2,35 a 7,72). [Ficha](../fuentes/articulos/2024-povoa-santos-meta.md).
+## Respuesta breve
 
-Eso **no demuestra** que no exista efecto en ningún subgrupo funcional, ni permite afirmar causalidad a favor de la hipótesis contraria. La revisión tampoco es un estudio de ensayo de liberación quirúrgica.
+La revisión de **Póvoa-Santos et al. (2024)** incluye 11 estudios observacionales (2.904 personas) y califica la evidencia como **baja o muy baja certeza**. No demuestra una relación causal general, pero **tampoco la ausencia universal** de asociación entre restricción *funcional* lingual y crecimiento craneofacial. [Ficha actualizada a partir del texto completo](../fuentes/articulos/2024-povoa-santos-meta.md).
 
-**Fuente:** DOI: 10.1016/j.adaj.2023.09.014 / PMID 37999659.
+## Qué midió y qué encontró realmente
 
-**Estudio relevante:** Yoon et al. 2017 investigó asociaciones en muestra transversal de 302 personas (DOI: 10.1111/ocr.12206); no establece dirección causal.
+- **Longitud/inserción del frenillo y clase de Angle (4 estudios):** para clase III vs I, DME 0,37 (IC 95 % −0,50 a 1,25; **I² 93 %**); frente a II, DME 0,55 (−0,52 a 1,63; **I² 95 %**). No hay una asociación agregada concluyente y los resultados individuales son muy heterogéneos.
+- **Reducción de apertura bucal (2 estudios):** en clase III hubo 6,67 mm más de reducción que en clase I (IC 95 % 4,01–9,33) y 5,04 mm más que en clase II (2,35–7,72); diferencias estadísticamente significativas, **certeza baja** y sin dirección causal establecida.
+- **Dimensiones transversales maxilares:** algunos estudios encontraron diferencias de anchura dental y pendientes palatinas; otros desenlaces mandibulares fueron negativos. No equivale a demostrar crecimiento óseo causado por el frenillo.
+- **Diagnósticos distintos:** la **eTable 5** muestra criterios anatómicos y funcionales parciales, incluyendo succión y elevación; **no** sería correcto afirmar que los 11 estudios solo usaron Kotlow. Yoon 2017 midió TRMR-TIP y Kotlow, pero no TRMR-LPS.
 
-## Evidencia añadida (17/10/2026)
+## Límites que sí afectan a esta objeción
 
-- **Kotarska 2024**, *J Clin Med*, revisión sistemática de 7 estudios (1.349 pacientes con anquiloglosia, 90 controles). Calidad baja. Lo más sólido: arcadas más estrechas (intercanina e intermolar) y más clase III. Conclusión condicional: la anquiloglosia puede ser uno de los factores del maxilar estrecho, la clase III y el apiñamiento inferior. [Ficha](../fuentes/articulos/2024-kotarska-frenotomia-desarrollo-facial.md).
-- **Yoon 2017** midió movilidad con TRMR y longitud con Kotlow: las dos se asociaron a arcada maxilar estrecha y paladar blando largo, no a la clase de Angle ni al hioides. [Ficha](../fuentes/articulos/2017-yoon-maxilar.md).
-- **Deregibus 2021**, *Appl Sci*. Según notas de trabajo previas (sin verificar en el original), frenillo corto asociado a clase III (12 de 50 frente a 2 de 50). Texto no leído: `PENDIENTE DE VERIFICAR`. [Ficha](../fuentes/articulos/2021-deregibus-funcion-lingual-ortodoncia.md).
+1. **Todos observacionales**, sin seguimiento prospectivo capaz de determinar cómo evoluciona el crecimiento esquelético con distinta movilidad lingual.
+2. **Medidas no intercambiables:** longitud, inserción, elevación de la punta, succión, apertura, arcada dentaria y clase de Angle no resuelven una única hipótesis funcional.
+3. **Confusión:** la evaluación JBI de la revisión detectó falta de identificación/control adecuado de confusores en los estudios incluidos. Esto limita resultados positivos **y negativos**.
+4. **TRMR y apertura máxima:** como el TRMR es una proporción, un denominador reducido podría elevar el cociente. Es una **posibilidad metodológica**, no un sesgo observado o demostrado en los participantes de Yoon.
 
-## El criterio diagnóstico decide (INTERPRETACION)
+## Evidencia con resultados en varios sentidos
 
-Póvoa-Santos admitió cualquier instrumento y Kotarska reconoce que no hay criterio estándar: sus estudios mezclan longitud, reducción de apertura y TRMR. [Marta, 17/10/2026, notas de trabajo] Un estudio que diagnostica por longitud del frenillo y no por función no vale como argumento, ni a favor ni en contra. Ella trabaja con los criterios funcionales de Zaghi.
+- **Yoon 2017:** asociación transversal entre medidas linguales y características maxilares; no permite demostrar que una intervención cambie el crecimiento. [Ficha](../fuentes/articulos/2017-yoon-maxilar.md).
+- **Kotarska 2024:** revisión adicional con resultados diversos y certeza limitada. [Ficha](../fuentes/articulos/2024-kotarska-frenotomia-desarrollo-facial.md).
+- **Deregibus 2021:** algunos resultados mencionados en notas anteriores siguen **PENDIENTES DE VERIFICAR** en el original. [Ficha](../fuentes/articulos/2021-deregibus-funcion-lingual-ortodoncia.md).
 
-## Qué faltaría
+## Qué se puede concluir
 
-Cohortes prospectivas que separen criterios anatómicos (longitud/implantación del frenillo) de movilidad anterior/posterior y midan outcomes definidos (arcada dental ≠ base ósea). Registrar edad, respiración, hábitos, ortodoncia, evolución longitudinal y las intervenciones concurrentes.
+**Sí:** la evidencia publicada y analizada por JADA hasta julio de 2022 es insuficiente para establecer una relación causal generalizable. Existen asociaciones específicas, resultados no significativos y heterogeneidad considerable.
+
+**No:** que la anquiloglosia siempre produzca maloclusión; que liberar el frenillo prevenga maloclusiones; **ni** que la revisión haya descartado toda posible influencia de una restricción funcional bien caracterizada sobre el crecimiento óseo.
+
+**Qué estudio ayudaría:** cohortes longitudinales con diagnóstico funcional explícito y validez examinada, medición separada de dimensiones dentales y basales óseas, control de edad, respiración nasal, hábitos, ortodoncia y otros confusores.
+
+**Fuente:** Póvoa-Santos et al. *JADA* 2024. DOI `10.1016/j.adaj.2023.09.014` · PMID `37999659`. Texto completo y apéndices consultados el 03/11/2026; PDF protegido **no incorporado** al repositorio.
+
+**Modo de uso:** responde según [el enfoque crítico del agente](../docs/ENFOQUE-CRITICO.md). No repitas la conclusión de una revisión sin precisar a qué variables se refiere; tampoco uses sus limitaciones como prueba de la hipótesis opuesta.
