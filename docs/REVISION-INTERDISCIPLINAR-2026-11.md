@@ -1,6 +1,6 @@
 # Ampliación interdisciplinar de la revisión — registro de trabajo
 
-**Inicio:** 03/11/2026. **Estado de etapa actual:** búsqueda dirigida, nueve fichas de evidencia incorporadas y mapa crítico inicial. **No es todavía una revisión sistemática formal**. Las decisiones no cerradas se marcan como pendientes, no como resultados.
+**Inicio:** 03/11/2026. **Estado de etapa actual:** búsqueda dirigida, nueve fichas de primera ampliación **más tres fichas de segunda tanda**, mapa crítico y dos comparaciones metodológicas; el registro de ensayo sin resultados se documenta aparte. **No es todavía una revisión sistemática formal**. Las decisiones no cerradas se marcan como pendientes, no como resultados.
 
 ## Pregunta central
 
@@ -23,7 +23,7 @@ Una sola metaanálisis «de todo» no sería interpretable. Preparar primero una
 | Etapa | Estado al 03/11/2026 | Entregable |
 |---|---|---|
 | A. Inventario de fuentes existentes | **HECHO**, 214 referencias tras actualización | [PDFs/lecturas pendientes](PDFS-LECTURA-PENDIENTE-2026-11-03.md), con acceso abierto por verificar individualmente |
-| B. Primera ampliación de ORL, crecimiento y sueño | **HECHO (primera tanda)**, 9 fichas nuevas | [Mapa de evidencia](../conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md), fichas vinculadas y bibliografía/index actualizados |
+| B. Primera ampliación de ORL, crecimiento y sueño | **HECHO (primera tanda)**, 9 fichas nuevas, y **segunda tanda**, 3 fichas (Bandyopadhyay 2020, Avivar-Pardo 2026, Carey 2026) | [Mapa de evidencia](../conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md), fichas vinculadas y bibliografía/index actualizados |
 | C. Completar 15 fichas con criterio diagnóstico pendiente | **PENDIENTE** | Leer original cuando exista, verificar método y corregir sin conjeturas |
 | D. Cribar 34 prioritarios + 140 pendientes de búsqueda de 2025–2026 | **PENDIENTE** | Separar pertinente, duplicado, tangencial y descartado con motivo |
 | E. Buscar sistemáticamente cada una de las siete preguntas | **PENDIENTE DE PROTOCOLO Y EXTRACCIÓN** | Cadenas completas, fecha, bases, deduplicación y selección por duplicado |
@@ -76,6 +76,12 @@ Consultas orientativas empleadas (no deben presentarse como cadenas exhaustivas 
 - Evitar sumar como estudios independientes una revisión y los estudios primarios que contiene. Deduplícense por DOI/PMID y, cuando proceda, **por cohorte de pacientes**.
 - No equiparar la ausencia de artículo localizado en esta búsqueda dirigida con «no hay evidencia en la literatura».
 - Si se pretende publicar una **revisión sistemática**, fijar preguntas/criterios y registrar protocolo, exportar resultados de PubMed/Embase/Cochrane/Scopus o bases apropiadas, doble cribado y extracción, diagrama PRISMA, sesgo por estudio y certeza por desenlace, dejando constancia de búsquedas y fechas.
+
+## Nuevas lecturas y preguntas tras segunda tanda (03/11/2026)
+
+- **Terapia miofuncional infantil:** contrastar [Bandyopadhyay 2020 (diferencia basal-final favorable)](../fuentes/articulos/2020-bandyopadhyay-miofuncional-apnea-ninos.md) con [Cnockaert 2026 (diferencia entre grupos aleatorizados no concluyente)](../fuentes/articulos/2026-cnockaert-miofuncional-apnea-infantil.md), [Avivar-Pardo 2026 (un ECA más tres observacionales)](../fuentes/articulos/2026-avivar-pardo-miofuncional-apnea-pediatrica.md) y [Carey 2026 (deglución, otro desenlace)](../fuentes/articulos/2026-carey-miofuncional-deglucion-infantil.md). [Síntesis comparada](../conocimiento/miofuncional-pediatrica-resultados-contrapuestos.md).
+- **Diagnóstico funcional:** síntesis cruzada de [AAP, Necus, Kumar y Dhar](../conocimiento/criterios-diagnosticos-anki-2024-2026.md) para no confundir consistencia, acuerdo interobservador, AUC y validez clínica predictiva.
+- **Ensayo registrado** [NCT07249944](ENSAYOS-EN-CURSO.md): protocoliza PSG, movilidad, longitud de frenillo y postura, **pero aún sin resultados comprobados**. El estado «not yet recruiting» corresponde a una última actualización de 2025 y podría haber cambiado.
 
 ## Archivos de continuidad
 
