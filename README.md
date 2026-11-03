@@ -52,11 +52,13 @@ El método completo está en [docs/METODOLOGIA.md](docs/METODOLOGIA.md).
 
 ## Cómo preguntarle con tu propia IA
 
+**Antes de consultar la biblioteca, lee [su enfoque crítico](docs/ENFOQUE-CRITICO.md).** Ante una objeción, no basta con repetir «no hay evidencia»: hay que comprobar si el estudio investigó realmente la hipótesis discutida y reconocer los límites relevantes sin inventarlos. Las consultas ordinarias no requieren auditorías completas.
+
 Esta biblioteca son archivos de texto (Markdown y CSV). Cualquier IA que pueda leerlos puede responder con ellos. Hay un índice para IA en [llms.txt](llms.txt), unas reglas de respuesta en [AGENTS.md](AGENTS.md) y una tabla de estudios para filtrar por criterio diagnóstico en [fuentes/indice-fichas.csv](fuentes/indice-fichas.csv).
 
 En una IA de chat, pega en las instrucciones del proyecto las reglas de [docs/INSTRUCCIONES-IA.md](docs/INSTRUCCIONES-IA.md). Para una pregunta suelta basta con esto:
 
-> Usa como fuente el repositorio https://github.com/mprietob/evidencia-frenillo. Lee primero AGENTS.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). Di qué criterio diagnóstico usa cada estudio. Separa lo que dice el estudio de la interpretación. Si algo no está, dilo.
+> Usa como fuente el repositorio https://github.com/mprietob/evidencia-frenillo. Lee primero AGENTS.md, docs/ENFOQUE-CRITICO.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). Di qué criterio diagnóstico usa cada estudio. Separa lo que dice el estudio de la interpretación. Si algo no está, dilo.
 
 Formas de dárselo, de más sencilla a más técnica:
 
