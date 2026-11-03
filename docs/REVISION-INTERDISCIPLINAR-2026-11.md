@@ -22,7 +22,7 @@ Una sola metaanálisis «de todo» no sería interpretable. Preparar primero una
 
 | Etapa | Estado al 03/11/2026 | Entregable |
 |---|---|---|
-| A. Inventario de fuentes existentes | **HECHO**, 217 referencias y 180 fichas tras actualización | [PDFs/lecturas pendientes](PDFS-LECTURA-PENDIENTE-2026-11-03.md), con acceso abierto por verificar individualmente |
+| A. Inventario de fuentes existentes | **HECHO**, 219 referencias y 182 fichas tras actualización | [PDFs/lecturas pendientes](PDFS-LECTURA-PENDIENTE-2026-11-03.md), con acceso abierto por verificar individualmente |
 | B. Primera ampliación de ORL, crecimiento y sueño | **HECHO (primera tanda)**, 9 fichas nuevas, una ficha de Mills neonatal, y **segunda tanda**, 3 fichas (Bandyopadhyay 2020, Avivar-Pardo 2026, Carey 2026) | [Mapa de evidencia](../conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md), fichas vinculadas y bibliografía/index actualizados |
 | C. Completar 15 fichas con criterio diagnóstico pendiente | **PENDIENTE** | Leer original cuando exista, verificar método y corregir sin conjeturas |
 | D. Cribar 34 prioritarios + 140 pendientes de búsqueda de 2025–2026 | **PENDIENTE** | Separar pertinente, duplicado, tangencial y descartado con motivo |
@@ -82,6 +82,12 @@ Consultas orientativas empleadas (no deben presentarse como cadenas exhaustivas 
 - **Terapia miofuncional infantil:** contrastar [Bandyopadhyay 2020 (diferencia basal-final favorable)](../fuentes/articulos/2020-bandyopadhyay-miofuncional-apnea-ninos.md) con [Cnockaert 2026 (diferencia entre grupos aleatorizados no concluyente)](../fuentes/articulos/2026-cnockaert-miofuncional-apnea-infantil.md), [Avivar-Pardo 2026 (un ECA más tres observacionales)](../fuentes/articulos/2026-avivar-pardo-miofuncional-apnea-pediatrica.md) y [Carey 2026 (deglución, otro desenlace)](../fuentes/articulos/2026-carey-miofuncional-deglucion-infantil.md). [Síntesis comparada](../conocimiento/miofuncional-pediatrica-resultados-contrapuestos.md).
 - **Diagnóstico funcional:** síntesis cruzada de [AAP, Necus, Kumar y Dhar](../conocimiento/criterios-diagnosticos-anki-2024-2026.md) para no confundir consistencia, acuerdo interobservador, AUC y validez clínica predictiva.
 - **Ensayo registrado** [NCT07249944](ENSAYOS-EN-CURSO.md): protocoliza PSG, movilidad, longitud de frenillo y postura, **pero aún sin resultados comprobados**. El estado «not yet recruiting» corresponde a una última actualización de 2025 y podría haber cambiado.
+
+## Tercera tanda dirigida de originales abiertos (03/11/2026)
+
+Se revisaron **tres originales** con medidas directas de fenómenos distintos: [Coppelson 2023](../fuentes/articulos/2023-coppelson-postura-cbct.md) (postura/NBC3/MCA, 90 adultos), [Engelke 2011](../fuentes/articulos/2011-engelke-presiones-intraorales.md) (presión subpalatina e interoclusal, 20 adultos sanos) y [Knösel 2012](../fuentes/articulos/2012-knoesel-lengua-deglucion-respiracion-bucal.md) (contacto lingual durante deglución, 29 niños). [Síntesis con el límite de cada inferencia](../conocimiento/postura-cervical-presion-subpalatina-deglucion.md); [acta de revisión](REVISION-ABIERTOS-FASE3-2026-11-03.md).
+
+**Punto crítico:** Knösel excluyó niños que no podían alcanzar la papila con la lengua. Coppelson encontró diferencias significativas al **manipular** flexión/extensión cervical, pero no comprobó que una obstrucción cause una postura espontánea concreta. Engelke registró presión subpalatina tras instrucciones, no crecimiento óseo. Estas piezas **no son tres pruebas independientes de una cadena causal completa**.
 
 ## Archivos de continuidad
 
