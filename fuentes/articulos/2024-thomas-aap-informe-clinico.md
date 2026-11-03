@@ -1,20 +1,24 @@
-# Estudio: Identification and Management of Ankyloglossia and Its Effect on Breastfeeding in Infants: Clinical Report (American Academy of Pediatrics)
+# Estudio: Identification and Management of Ankyloglossia and Its Effect on Breastfeeding in Infants: Clinical Report
 
 - **ID:** THOMAS2024
-- **Autores, año y revista:** Thomas J; Bunik M; Holmes A; Keels MA; Poindexter B; Meyer A; Gilliland A; secciones de lactancia, salud oral, otorrinolaringología y comité de feto y recién nacido de la AAP. Pediatrics 2024;154(2):e2024067605.
-- **DOI / PMID / URL:** DOI `10.1542/peds.2024-067605`; PMID `39069819`.
-- **Tipo de estudio:** Informe clínico de la American Academy of Pediatrics.
-- **Población y tamaño muestral:** Lactantes amamantados.
-- **Definición diagnóstica y técnicas:** Revisión narrativa y recomendaciones.
-- **Criterio diagnóstico de anquiloglosia:** Según el resumen, define la anquiloglosia como un frenillo congénitamente tenso que limita el movimiento de la lengua. Si recomienda alguna herramienta diagnóstica: `PENDIENTE DE VERIFICAR` (texto completo no accesible desde aquí).
-- **Variables de resultado:** Diagnóstico y manejo en lactancia.
-- **Resultados NUMÉRICOS verificados:** El resumen dice que no está claro si liberar un frenillo tenso en neonatos mejora la lactancia, y que muchos síntomas de la anquiloglosia se solapan con otras dificultades de lactancia, por lo que hace falta trabajo en equipo.
-- **Límites metodológicos / confusores:** El resumen es muy breve.
-- **Hallazgos contrarios o no significativos:** No aplica.
-- **Conclusión que sí permite / que no permite:** Sí: Decir que la AAP considera dudoso que la frenotomía neonatal mejore la lactancia. No: Atribuirle recomendaciones concretas sin leer el texto completo: `PENDIENTE DE VERIFICAR`.
-- **Licencia y derechos:** Copyright de la AAP. Aquí solo resumen propio.
-- **Estado de lectura:** Resumen de PubMed revisado el 02/11/2026. Búsqueda de actualización del 02/11/2026.
+- **Autores, año y revista:** Thomas J; Bunik M; Holmes A; Keels MA; Poindexter B; Meyer A; Gilliland A; American Academy of Pediatrics. *Pediatrics* 2024;154(2):e2024067605.
+- **DOI / PMID / URL:** DOI `10.1542/peds.2024-067605`; PMID `39069819`; [informe completo disponible gratuitamente en AAP](https://publications.aap.org/pediatrics/article/154/2/e2024067605/198022/Identification-and-Management-of-Ankyloglossia-and).
+- **Tipo de estudio:** **Informe clínico / posicionamiento de la Academia Americana de Pediatría**, con recomendaciones basadas en revisión narrativa de literatura; **no es un ensayo, metaanálisis ni consenso de todas las especialidades**.
+- **Población y tamaño muestral:** Lactantes en etapa de amamantamiento y díadas madre-bebé. **No es un estudio con muestra primaria**, no procede asignar n.
+- **Definición diagnóstica y técnicas:** Define «anquiloglosia sintomática» como frenillo restrictivo en exploración junto con dificultades persistentes de lactancia que **no mejoran con apoyo adecuado**. Exige exploración del lactante y evaluación funcional de toma/transferencia y de otras causas. Recomienda valorar aspecto del frenillo, capacidad de elevar y extender lengua, coordinación de succión, observación de toma, evolución de peso y dolor; no identifica una única escala diagnóstica validada como patrón de referencia.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: exploración anatómica **más disfunción de lactancia demostrada** y evaluación de movilidad; NO basta con ver un frenillo de apariencia corta. Este documento trata **lactantes**, no TRMR del adulto ni problemas ortodóncicos longitudinales.
+- **Variables de resultado:** Dolor materno, agarre y transferencia de leche, ganancia ponderal y seguridad de frenotomía; recomendaciones sobre evaluación, manejo y seguimiento.
+- **Resultados NUMÉRICOS verificados:** El documento refiere que **menos de la mitad** de lactantes con hallazgos anatómicos compatibles presentan dificultades de lactancia (a partir de estudios citados); no es una estimación de una cohorte propia. Afirma que la frenotomía **puede aliviar el dolor del pezón a corto plazo**, pero la evidencia general para resultados de lactancia duraderos es limitada y heterogénea. El informe no aporta un efecto agrupado causal propio.
+- **Límites metodológicos / confusores:** Informe centrado en **lactancia neonatal**, no desarrolla un ensayo sobre crecimiento craneofacial, sueño, postura ni función en adultos. Valoración clínica multidisciplinar; evidencia observacional y ensayos cortos; confusión entre dolor materno, anatomía y otros problemas de alimentación.
+- **Hallazgos contrarios o no significativos:** La AAP señala que la prevención de posibles problemas futuros de habla u OSA **mediante frenotomía neonatal no está sustentada por pruebas suficientes**; no recomienda liberación preventiva ni de frenillos bucales/labiales para mejorar lactancia; el término «anquiloglosia posterior» carece de una definición compartida y no debe usarse como única indicación quirúrgica. No reconoce superioridad del láser sobre tijeras con evidencia suficiente. **No recomienda estiramientos de herida posoperatorios** al no existir base suficiente.
+- **Conclusión que sí permite / que no permite:** Sí: citar la posición AAP de priorizar evaluación funcional y apoyo de lactancia antes de contemplar cirugía; intervenir selectivamente cuando persisten síntomas. No: presentar estas recomendaciones como **prueba experimental de ausencia universal** de influencia del frenillo sobre crecimiento mandibular/posición lingual posterior en niños mayores o adultos, porque no lo estudia. Tampoco se puede afirmar que las dudas de la AAP prueben utilidad de cirugía preventiva.
+- **Licencia y derechos:** Informe en lectura gratuita, pero **copyright de AAP**; solo síntesis propia y enlace (no subir su PDF ni reproducir figuras).
+- **Estado de lectura:** Texto completo HTML gratuito (definiciones, evaluación, tratamiento y recomendaciones 1–9) leído y contrastado el **03/11/2026** a través de la [página oficial AAP](https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2024-067605/198022/Identification-and-Management-of-Ankyloglossia-and). No se ha reanalizado individualmente cada ensayo citado.
+
+## Lectura crítica para objeciones (INTERPRETACIÓN editorial)
+
+Una objeción frecuente es «la AAP dice que no hay evidencia de relación con apnea o habla». **La AAP desaconseja utilizar la frenotomía neonatal de forma preventiva** para esos desenlaces tardíos, con razón a la luz de la evidencia que evalúa. Eso **no constituye un ensayo negativo de restricción funcional y crecimiento** en niños de otras edades. A la inversa, la falta de pruebas de prevención **sí** impide recomendar hoy una cirugía de lactante con ese objetivo hipotético. La AAP está hablando de indicaciones en recién nacidos, no proclamando que todos los mecanismos biomecánicos sean imposibles.
 
 ## Figuras
 
-Figuras no revisadas. [Ver el documento](https://doi.org/10.1542/peds.2024-067605).
+No se reproducen figuras editoriales ni el algoritmo; [informe original](https://doi.org/10.1542/peds.2024-067605).
