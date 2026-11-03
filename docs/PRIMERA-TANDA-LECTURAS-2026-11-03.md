@@ -1,16 +1,15 @@
 # Primera tanda práctica de lecturas y PDFs — 03/11/2026
 
-La [lista completa de todas las referencias que necesitan una lectura más profunda](PDFS-LECTURA-PENDIENTE-2026-11-03.md) comprende **116 registros** del inventario actualizado de **217 referencias**. **Esta lista corta no sustituye aquella**: sirve para priorizar con criterio clínico el trabajo y minimizar documentos que tengas que buscar.
+La [lista completa de todas las referencias que necesitan una lectura más profunda](PDFS-LECTURA-PENDIENTE-2026-11-03.md) comprende **115 registros** del inventario actualizado de **219 referencias**. **Esta lista corta no sustituye aquella**: sirve para priorizar con criterio clínico el trabajo y minimizar documentos que tengas que buscar.
 
-## A. Buscar el texto completo / solicitar PDF solo si no hay acceso abierto (10)
+## A. Buscar el texto completo / solicitar PDF solo si no hay acceso abierto (9)
 
-**Antes de pedirte cada PDF**: comprobar enlace de editorial, PubMed Central y repositorio institucional. Estos diez son especialmente útiles para los ejes de lengua funcional, apertura, desarrollo craneofacial, cabeza/cuello, adenoides, rinitis, otitis, sueño y terapia miofuncional.
+**Antes de pedirte cada PDF**: comprobar enlace de editorial, PubMed Central y repositorio institucional. Estos nueve son especialmente útiles para los ejes de lengua funcional, apertura, desarrollo craneofacial, cabeza/cuello, adenoides, rinitis, otitis, sueño y terapia miofuncional.
 
 | ID | Referencia | Título | Enlace | Lectura registrada |
 |---|---|---|---|---|
 | `YOON2017` | Yoon et al. (2017) | Ankyloglossia as a risk factor for maxillary hypoplasia and soft palate elongation: A functional - morphological study | [DOI](https://doi.org/10.1111/ocr.12206) | Resumen verificado |
 | `YOON2017SB` | Yoon A; Zaghi S; Weitzman R et al. (2017) | Toward a functional definition of ankyloglossia: validating current grading scales for lingual frenulum length and tongue mobility in 1052 subjects | [DOI](https://doi.org/10.1007/s11325-016-1452-7) | Resumen verificado |
-| `COPPELSON2023` | Coppelson K; Summersgill I; Hatcher D et al.; Zaghi S (2023) | Does Head and Neck Posture Affect Cone-Beam Computed Tomography Assessment of the Upper Airway? | [DOI](https://doi.org/10.1016/j.joms.2023.01.016) | Resumen verificado |
 | `YOON2022` | Yoon A; Abdelwahab M; Bockow R et al. (2022) | Impact of rapid palatal expansion on the size of adenoids and tonsils in children | [DOI](https://doi.org/10.1016/j.sleep.2022.02.011) | Resumen verificado |
 | `LI2026AR` | Li Q; Zhong Q; Kong X et al. (2026) | Allergic rhinitis in children in relation to sleep breathing disorders: a meta-analysis | [DOI](https://doi.org/10.1016/j.ijporl.2026.112902) | Resumen verificado; texto completo pendiente |
 | `VAISHNAVI2026` | Vaishnavi P; Sushmita S; Vivek K et al. (2026) | Association between mouth breathing and pediatric obstructive sleep apnea: a systematic review | [DOI](https://doi.org/10.1007/s00405-025-09999-1) | Resumen verificado; texto completo pendiente |
@@ -19,9 +18,9 @@ La [lista completa de todas las referencias que necesitan una lectura más profu
 | `CHANDRASEKHARAN2026` | Chandrasekharan DP; Badr-El-Dine M; James AL (2026) | Interventions for Obstructive Eustachian Tube Dysfunction: An Evidence-Based Umbrella Review of Efficacy and Safety | [DOI](https://doi.org/10.1016/j.otc.2026.04.008) | Resumen verificado; texto completo pendiente |
 | `PISONI2026` | Pisoni E; Buttafava L et al. (2026) | Myofunctional Therapy in Adults and Children With Obstructive Sleep Apnea: An Overview and Re-Analysis of Systematic Reviews | [DOI](https://doi.org/10.1111/jsr.70219) | Resumen editorial verificado; texto completo pendiente |
 
-**Cómo enviarlos:** si ya los tienes, facilítalos en el chat o mediante un espacio privado; no publicar PDFs sujetos a copyright en el repositorio GitHub. No hace falta recopilar los diez antes de iniciar análisis: cada uno puede actualizar su ficha.
+**Cómo enviarlos:** si ya los tienes, facilítalos en el chat o mediante un espacio privado; no publicar PDFs sujetos a copyright en el repositorio GitHub. No hace falta recopilar los nueve antes de iniciar análisis: cada uno puede actualizar su ficha.
 
-## B. Fuentes abiertas: resultados de la revisión (9)
+## B. Fuentes abiertas: resultados de la revisión (11)
 
 **Estado actualizado:** [acta de lectura crítica de la tanda abierta](REVISION-ABIERTOS-2026-11-03.md). Se han revisado cinco textos íntegros, otros dos en sus métodos/resultados principales, y para Kang y Cnockaert se ha contrastado únicamente el resumen/editorial, sin auditar tablas completas. No confundas accesibilidad del PDF con haberlo leído.
 
@@ -40,9 +39,12 @@ Estas referencias son accesibles en una fuente abierta conocida o muy probableme
 
 | `MILLS2019N` | Mills N; Keough N; Geddes DT et al. (2019) | Defining the anatomy of the neonatal lingual frenulum | [DOI](https://doi.org/10.1002/ca.23410) | **Texto completo abierto Wiley revisado; nueva ficha** |
 
+| `ENGELKE2011` | Engelke W; Jung K; Knösel M (2011) | Intra-oral compartment pressures: a biofunctional model and experimental measurements under different conditions of posture | [Abierto Springer](https://doi.org/10.1007/s00784-009-0367-0) | **Original completo revisado; 20 adultos sanos** |
+| `KNOESEL2012` | Knösel M; Klein S; Bleckmann A; Engelke W (2012) | Coordination of Tongue Activity During Swallowing in Mouth-breathing Children | [Abierto Springer](https://doi.org/10.1007/s00455-011-9383-8) | **Original completo revisado; 29 niños, 542 degluciones** |
+
 **Nota:** `CNOCKAERT2026` tiene manuscrito institucional abierto en [UCLouvain](https://research.dial.uclouvain.be/entities/publication/354c10f1-2c8d-41f9-9280-a2cf978a3748), aunque **no se ha podido examinar su PDF**; `KANG2026AR` es abierto en BMC y `GRANDE2026` en PMC. Los documentos de los que ya se ha revisado el texto completo no necesitan que envíes PDF.
 
-## C. Ya existe lectura completa registrada (5): no solicitar de nuevo
+## C. Ya existe lectura completa registrada (6): no solicitar de nuevo
 
 | ID | Referencia | Título | Enlace | Lectura registrada |
 |---|---|---|---|---|
@@ -51,6 +53,8 @@ Estas referencias son accesibles en una fuente abierta conocida o muy probableme
 | `POVOA2024` | Póvoa-Santos et al. (2024) | Ankyloglossia and malocclusion: A systematic review and meta-analysis | [DOI](https://doi.org/10.1016/j.adaj.2023.09.014) | Texto completo leído 03/11/2026 en conversación; PDF no depositado |
 | `HE2026` | He S; Liu Y; Zhao Z (2026) | Lingual frenulum, craniofacial morphology, and obstructive sleep apnea: a mediation analysis | [DOI](https://doi.org/10.1007/s11325-026-03618-x) | Texto completo leído por Marta |
 | `KOENTO2026` | Koento T; Widjaja S (2026) | Ankyloglossia and its association with sleep-disordered breathing in children: A systematic review | [DOI](https://doi.org/10.1016/j.ijporl.2026.112717) | Texto completo leído por Marta |
+
+| `COPPELSON2023` | Coppelson K; Summersgill I; Hatcher D et al. (2023) | Does Head and Neck Posture Affect Cone-Beam Computed Tomography Assessment of the Upper Airway? | [PDF original abierto CC BY](https://www.joms.org/article/S0278239123001027/pdf) | **Texto completo y tabla 3 revisados; ya no hay que pedir PDF** |
 
 **Importante:** «texto completo leído» no significa «riesgo de sesgo auditado de forma exhaustiva». El PDF de JADA 2024 se consultó en conversación y **no** está (ni debe estar) en el repo público.
 
