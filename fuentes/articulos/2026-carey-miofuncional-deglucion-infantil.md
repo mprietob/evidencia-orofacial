@@ -1,0 +1,25 @@
+# Estudio: Orofacial Myofunctional Therapy for Feeding and Swallowing in Children From Four to 12 Years: What Does the Evidence Show? A Systematic Review
+
+- **ID:** CAREY2026
+- **Autores, año y revista:** Carey D; Merkel-Walsh R; Burrage P; Hadlow M; Alrehaily GHA; Tseng RJ; Smart S. *Journal of Oral Rehabilitation*, publicado online 08/09/2026.
+- **DOI / PMID / URL:** DOI `10.1111/joor.70304`; PMID `42711116`; [texto completo abierto Wiley](https://onlinelibrary.wiley.com/doi/full/10.1111/joor.70304).
+- **Tipo de estudio:** Revisión sistemática con **síntesis narrativa**, sin metaanálisis por heterogeneidad de desenlaces, instrumentos y protocolos.
+- **Población y tamaño muestral:** **17 estudios**, **633 participantes**, de ellos **544 recibieron algún tipo de OMT**. Edad media de los estudios principalmente 4–12 años; dentro de algunas muestras hubo participantes hasta los 18 años. Tres ECA, 13 cuasiexperimentales y un estudio de caso.
+- **Definición diagnóstica y técnicas:** Búsqueda en cuatro bases; 3.850 registros importados, 1.658 cribados, 136 textos completos evaluados y 17 incluidos. Evaluación crítica con listas JBI por diseño; herramientas y dosis de OMT variables. Para deglución se usaron siete estudios con medidas **solo subjetivas**, cuatro **solo objetivas**, seis **mixtas**.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA en conjunto: niños con problemas de alimentación/deglución de causas diversas; **algunos estudios incluyen frenectomía** como cointervención, pero la muestra de revisión no se define por anquiloglosia ni TRMR.
+- **Variables de resultado:** Deglución funcional, patrón de empuje lingual, alimentación, control motor orofacial; **no PSG/AHI ni crecimiento esquelético** como objetivos de esta revisión.
+- **Resultados NUMÉRICOS verificados:** Todos los **17** trabajos incluidos reportaron algún resultado favorable de alimentación/deglución. **10/17** fueron evaluados como calidad pobre (<50 %), uno aceptable, tres buena y tres alta según clasificación editorial. **11/17 (64,7 %)** combinaban OMT con aparatología, cirugía u otras terapias; solo **6** evaluaban OMT aislada. **10/17** aplicaron algún análisis estadístico, pero **ninguno informó tamaños de efecto**. No hay efecto combinado.
+- **Límites metodológicos / confusores:** Muchos trabajos sin controles adecuados; los **3 ECA carecieron de auténtico brazo sin tratamiento**, utilizaron comparadores con dispositivos o intervenciones multimodales. Cointervenciones en mayoría, medidas poco estandarizadas y escaso seguimiento; riesgos de maduración espontánea, placebo, selección y expectativa. El hecho de que «los 17 estudios positivos» hayan sido los incluidos no demuestra eficacia comparativa, magnitud clínica ni ausencia de sesgo de publicación.
+- **Hallazgos contrarios o no significativos:** Los autores reconocen que el predominio de evidencia no controlada **impide atribuir** las mejorías exclusivamente a OMT. La revisión de **Cnockaert 2026** aborda **otro resultado** (IAH objetivo de apnea) y no debe utilizarse como si contradijera directamente resultados de deglución.
+- **Conclusión que sí permite / que no permite:** Los estudios observados describen mejorías de deglución tras OMT (frecuentemente combinada), con evidencia metodológicamente heterogénea e insuficiente para estimar un efecto causal independiente. No prueba prevención de maloclusión ni tratamiento de apnea por ejercicios.
+- **Licencia y derechos:** Texto abierto Wiley; solo síntesis original y enlaces. Revisar licencia específica antes de reutilizar tablas.
+- **Estado de lectura:** Texto completo HTML abierto (métodos, cribado, diseño, participantes, evaluación de calidad, discusión) consultado el **03/11/2026**; **no reanálisis individual de los 17 estudios**.
+- **Conflictos de interés relevantes:** Los autores declaran vínculos profesionales con clínicas, servicios formativos de terapia orofacial y asociaciones del área; entre ellos Carey declara pertenencia a la junta ICAP y Merkel-Walsh actividad privada/formativa en terapia orofacial. Tratar estos vínculos como **posibles intereses a considerar**, no prueba de falsedad de los resultados.
+
+## Lectura crítica ante objeciones — INTERPRETACIÓN editorial
+
+**«Todos los estudios encontraron mejoría»** es correcto como descripción de los 17 incluidos. **«La terapia funciona de forma causal»** no se deduce: en 10/17 los estudios se calificaron como pobres, en 11/17 había otras intervenciones y ninguno presentó magnitud de efecto. A la inversa, tampoco es correcto descartar toda mejoría clínica real: la revisión identifica una señal que justifica diseñar ensayos específicos. **No mezclar deglución (Carey), apnea medida por PSG (Cnockaert/Avivar) y efecto de frenectomía**: son desenlaces/poblaciones/intervenciones distintos.
+
+## Figuras
+
+No se reproducen. [Artículo original](https://doi.org/10.1111/joor.70304).
