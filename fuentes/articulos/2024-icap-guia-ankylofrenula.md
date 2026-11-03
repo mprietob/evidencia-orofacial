@@ -1,20 +1,26 @@
-# Estudio: International Consortium of oral Ankylofrenula Professionals (ICAP): Practice guidelines for ankylofrenula management
+# Estudio: International Consortium of Oral Ankylofrenula Professionals (ICAP) Practice Guidelines for Ankylofrenula Management
 
 - **ID:** ICAP2024
-- **Autores, año y revista:** Smart S; Kittrell L; Merkel-Walsh R; Tseng R (comité de consenso de ICAP). Int J Orofacial Myology Myofunctional Ther 2024;50(2).
-- **DOI / PMID / URL:** DOI `10.52010/ijom.2024.50.2.3`.
-- **Tipo de estudio:** Guía de práctica de un consorcio profesional internacional (no es una sociedad médica ni una revisión sistemática).
-- **Población y tamaño muestral:** Todas las edades.
-- **Definición diagnóstica y técnicas:** Desarrollada por el comité de consenso de ICAP y aprobada por su junta.
-- **Criterio diagnóstico de anquiloglosia:** `PENDIENTE DE VERIFICAR`. El resumen dice que quiere estandarizar la definición, el diagnóstico, la valoración y el manejo, pero no cuál es el criterio.
-- **Variables de resultado:** Funciones y responsabilidades de los profesionales.
-- **Resultados NUMÉRICOS verificados:** Sin resultados numéricos: es una guía de práctica.
-- **Límites metodológicos / confusores:** Consorcio de profesionales que tratan los frenillos; posible conflicto de interés.
-- **Hallazgos contrarios o no significativos:** No aplica.
-- **Conclusión que sí permite / que no permite:** Sí: Citarla como posicionamiento de ese consorcio. No: Presentarla como consenso de sociedades científicas.
-- **Licencia y derechos:** Derechos de la revista. Aquí solo resumen propio.
-- **Estado de lectura:** Metadatos y resumen de Crossref revisados el 02/11/2026. Búsqueda de actualización del 02/11/2026.
+- **Autores, año y revista:** Smart S; Kittrell A; Merkel-Walsh R; Tseng RJ. *International Journal of Orofacial Myology and Myofunctional Therapy* 2024;50(2):1–11.
+- **DOI / PMID / URL:** DOI `10.52010/ijom.2024.50.2.3`; [texto íntegro abierto](https://www.mdpi.com/2694-2526/50/2/11).
+- **Tipo de estudio:** **Guía/posicionamiento profesional de ICAP**, redactado por su comité y aprobado por su junta; **no es un estudio clínico, no contiene metaanálisis propio ni representa un consenso intersocietario**. Publicado como artículo de perspectiva de acceso abierto.
+- **Población y tamaño muestral:** Personas desde lactantes hasta adultos; no hay muestra primaria de pacientes ni comparación clínica de intervenciones.
+- **Definición diagnóstica y técnicas:** ICAP define ankyloglossia como **restricción funcional de la movilidad lingual anterior y media atribuida al frenillo**. Propone valoración multidisciplinar de estructura y función: apariencia, amplitud/movilidad lingual, alimentación/lactancia, habla, deglución, respiración y otras funciones cuando sean pertinentes. Reconoce que no existe acuerdo universal sobre sistemas de clasificación **de apariencia**; no identifica una prueba única validada que establezca causalidad de todas las quejas clínicas al frenillo.
+- **Criterio diagnóstico de anquiloglosia:** FUNCIONAL (definición propuesta en guía): **la restricción de función es necesaria**, no únicamente un grado de apariencia. **No implica validación independiente** de la definición o sus implicaciones; la guía presenta recomendaciones profesionales, no un estándar diagnóstico validado con precisión/sensibilidad.
+- **Variables de resultado:** Estandarización profesional, roles/licencias, diagnóstico y evaluación multidisciplinar, alternativas no quirúrgicas, consentimiento, cirugía, seguimiento, heridas y ejercicios.
+- **Resultados NUMÉRICOS verificados:** **Sin resultados experimentales cuantitativos**; recomienda revisiones posquirúrgicas guiadas por el estado funcional y menciona 2–4 semanas para revisión de tejidos en determinadas situaciones. Esa cifra es una **recomendación de documento**, no duración óptima demostrada en ensayo. Admite que **no existen protocolos de seguimiento quirúrgico estandarizados publicados**.
+- **Límites metodológicos / confusores:** Consorcio de profesionales implicados en diagnóstico/tratamiento, posible sesgo de representación y conflictos comerciales/profesionales. Reconoce falta de investigación de alta calidad y posibles sesgos de selección del grupo. No hay estudio primario para demostrar que la terapia posterior sea necesaria universalmente, que liberar frenillo altere el crecimiento óseo o que un profesional deba realizar todos los componentes de tratamiento. Recomendaciones condicionadas por normas y licencias locales.
+- **Hallazgos contrarios o no significativos:** La propia guía reconoce **evidencia limitada** para evaluar/liberar frenillos bucales y **consenso y evidencia insuficientes para ejercicios pre y posoperatorios**. Aboga por considerar opciones no quirúrgicas antes de operar; no afirma eficacia garantizada de la cirugía por sí sola.
+- **Conclusión que sí permite / que no permite:** Sí: mostrar que **ICAP adopta una definición funcional** y recomienda evaluación colaborativa y decisiones individualizadas; contrasta con clasificaciones puramente morfológicas. No: utilizar su posición como prueba de que todas las restricciones visibles causan disfunción, que un mecanismo lingual provoca apnea/maloclusión, o que la práctica aceptada por este consorcio sea una guía clínica universal obligatoria.
+- **Licencia y derechos:** Acceso abierto **CC BY** según página de MDPI; síntesis original sin PDF ni tablas copiadas.
+- **Estado de lectura:** Documento completo HTML abierto revisado el **03/11/2026**, con apartados de definición, diagnóstico, tratamientos, seguimiento, ejercicios y límites; [página oficial](https://www.mdpi.com/2694-2526/50/2/11).
+
+## Lectura crítica y discrepancias frente a otras guías — INTERPRETACIÓN editorial
+
+**AAP 2024** define anquiloglosia sintomática del lactante en relación con lactancia y limita indicaciones neonatales; **ICAP 2024** utiliza una definición funcional general para todas las edades. No son respuestas contradictorias a una misma pregunta **en la misma población**: las indicaciones para la lactancia no equivalen a los efectos del frenillo sobre habla de adultos, desarrollo craneofacial o sueño. ICAP es un **posicionamiento de parte profesional** y no prueba eficacia del tratamiento; AAP tampoco evalúa directamente una hipótesis biomecánica longitudinal de infancia y vida adulta. [Informe AAP](2024-thomas-aap-informe-clinico.md).
+
+**Punto esencial para posibles acusaciones de intrusismo:** el propio ICAP exige colaboración de los profesionales y respeto a las competencias y legislación de cada país. Su afirmación de que distintos profesionales pueden participar en la valoración **no sustituye la normativa profesional española**; no debe citarse como autorización legal para un acto clínico concreto.
 
 ## Figuras
 
-Figuras no revisadas. [Ver el documento](https://doi.org/10.52010/ijom.2024.50.2.3).
+No se reproducen; [documento original](https://doi.org/10.52010/ijom.2024.50.2.3).
