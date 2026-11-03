@@ -28,3 +28,13 @@ Licencia del artículo: CC BY. Figuras en PubMed Central (PMC7391099).
 Crédito: figuras de Mills et al. (2020): Understanding the Lingual Frenulum (PMC7391099), CC BY. Las copias locales no se han modificado.
 
 Las figuras 1, 2 y 11 a 13 son fotos de piezas de cadáver: solo enlace.
+
+## Auditoría histológica de la fuente abierta — 03/11/2026
+
+**Muestra y técnicas:** 13 cadáveres adultos: 10 embalsamados y 3 frescos congelados con la lengua elevada; cortes coronales de 10 μm con tricrómico de Masson (morfología), Verhoeff–van Gieson (elastina) y Picrosirius Red (colágeno).
+
+**Resultados:** se identificaron capas fasciales submucosas en todos los especímenes, con grosores y composición variables entre individuos y regiones. En la zona media hubo abundancia de colágeno III y capas de elastina variables. El frenillo elevado consistía en un pliegue de fascia y mucosa. El geniogloso y las glándulas sublinguales se relacionaban con la cara profunda de la fascia, con patrones anatómicos distintos entre especímenes.
+
+**Límites que importa reconocer:** examen **cualitativo**; los autores evitaron cuantificar proporciones de fibras por variación y error de muestreo; no usaron inmunohistoquímica para cuantificación de tipos de colágeno. Pequeña muestra adulta (>50 años) no permite inferir cronología del crecimiento ni tensiones in vivo. No mide fuerzas sobre la mandíbula ni respuesta mecánica a cirugía.
+
+**Estado de lectura:** métodos, resultados, discusión y límites contrastados en la versión abierta (PMC/Wiley), 03/11/2026. Licencia CC BY; no se ha copiado contenido de la fuente.
