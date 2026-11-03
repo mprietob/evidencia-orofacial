@@ -3,6 +3,7 @@
 > Biblioteca abierta en español sobre frenillo lingual (anquiloglosia), movilidad de la lengua y función orofacial. Fichas de estudios con DOI/PMID, objeciones con evidencia a favor y en contra, e ideas públicas de Soroush Zaghi con su vídeo. No diagnostica ni sustituye una valoración profesional. Lectura crítica: hipótesis no es hallazgo; opinión de experto no es estudio.
 
 ## Lee primero
+- docs/ENFOQUE-CRITICO.md: **primera lectura obligatoria**; mentalidad científica y protocolo proporcionado de objeciones
 - AGENTS.md: reglas de respuesta (citar fuente, criterio diagnóstico, no diagnosticar a nadie)
 - README.md: qué es y qué no es
 - docs/METODOLOGIA.md: cómo se extrae y se gradúa la evidencia
