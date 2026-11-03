@@ -1,6 +1,6 @@
 # Primera tanda práctica de lecturas y PDFs — 03/11/2026
 
-La [lista completa de todas las referencias que necesitan una lectura más profunda](PDFS-LECTURA-PENDIENTE-2026-11-03.md) comprende **115 registros** del inventario actualizado de **214 referencias**. **Esta lista corta no sustituye aquella**: sirve para priorizar con criterio clínico el trabajo y minimizar documentos que tengas que buscar.
+La [lista completa de todas las referencias que necesitan una lectura más profunda](PDFS-LECTURA-PENDIENTE-2026-11-03.md) comprende **116 registros** del inventario actualizado de **217 referencias**. **Esta lista corta no sustituye aquella**: sirve para priorizar con criterio clínico el trabajo y minimizar documentos que tengas que buscar.
 
 ## A. Buscar el texto completo / solicitar PDF solo si no hay acceso abierto (10)
 
@@ -53,6 +53,8 @@ Estas referencias son accesibles en una fuente abierta conocida o muy probableme
 | `KOENTO2026` | Koento T; Widjaja S (2026) | Ankyloglossia and its association with sleep-disordered breathing in children: A systematic review | [DOI](https://doi.org/10.1016/j.ijporl.2026.112717) | Texto completo leído por Marta |
 
 **Importante:** «texto completo leído» no significa «riesgo de sesgo auditado de forma exhaustiva». El PDF de JADA 2024 se consultó en conversación y **no** está (ni debe estar) en el repo público.
+
+**Novedad:** se ha completado una segunda tanda de revisión de evidencia abierta sobre terapia miofuncional y apnea pediátrica: [contraste de cuatro revisiones](../conocimiento/miofuncional-pediatrica-resultados-contrapuestos.md), [metaanálisis de 2020](../fuentes/articulos/2020-bandyopadhyay-miofuncional-apnea-ninos.md), [revisión de 2026 sobre AHI](../fuentes/articulos/2026-avivar-pardo-miofuncional-apnea-pediatrica.md) y [revisión sobre deglución](../fuentes/articulos/2026-carey-miofuncional-deglucion-infantil.md). Estas fuentes tienen acceso abierto o manuscrito de autor disponible: **no solicitar PDF a la usuaria**.
 
 ## Siguiente criterio de prioridad
 
