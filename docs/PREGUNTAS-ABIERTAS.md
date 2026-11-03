@@ -15,10 +15,14 @@ Lo que la evidencia todavía no responde y lo que esta biblioteca aún no ha com
 
 ## Comprobaciones pendientes en esta biblioteca
 
+- Completar el [inventario de 121 referencias cuya lectura completa está pendiente o parcial](PDFS-LECTURA-PENDIENTE-2026-11-03.md), intentando antes el acceso abierto. No significa que se necesiten 121 PDF facilitados por la usuaria.
+- Integrar y completar las 9 fichas nuevas de la [primera ampliación interdisciplinar](REVISION-INTERDISCIPLINAR-2026-11.md). Las tablas completas de Kang 2026, Zhao 2025, Singla 2026 y Cnockaert 2026 siguen pendientes de auditoría, entre otras.
+- Diseñar y realizar revisiones por pregunta sobre postura craneocervical, hioides, fascia y desarrollo maxilar; en la primera tanda solo se ha definido su alcance, no se ha realizado búsqueda exhaustiva.
+
 - Fichar los 34 estudios prioritarios de la búsqueda del 02/11/2026 y cribar el resto: [BUSQUEDA-2026-11.md](BUSQUEDA-2026-11.md).
 - Confirmar si la Asociación Española de Pediatría u otras sociedades españolas tienen un documento sobre anquiloglosia.
 - Leer el texto completo del informe clínico de la AAP 2024 y de la guía de ICAP 2024.
-- Criterio diagnóstico de cada uno de los 11 estudios de Póvoa-Santos 2024 (tablas del texto completo).
+- **RESUELTO 03/11/2026:** criterios diagnósticos de los 11 estudios incluidos en Póvoa-Santos 2024, consultados en eTable 5 del texto completo; [ficha corregida](../fuentes/articulos/2024-povoa-santos-meta.md). Queda pendiente la lectura individual de los originales si una objeción requiere sus métodos precisos.
 - Criterio diagnóstico sin confirmar en: Rodríguez Lara 2025, Carnino 2024, Chinnadurai 2015, Genna 2021, Slagter 2021, Sahoo 2024, Kalra 2025, De Simone 2025, Govardhan 2019, Oh 2021 (bruxismo), Oh 2021 (FAIREST-6), Melong 2024 y Cordray 2023.
 - Leer el texto completo de Deregibus 2021, Kummer 2005 y la carta de Ghaheri 2020: hoy solo hay metadatos.
 - Comprobar en el original las cifras de McNamara 1981 sobre los componentes de la clase II.
