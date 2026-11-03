@@ -9,9 +9,9 @@
 ### Resumen automatizado
 
 - Referencias totales existentes: **214**.
-- **121** referencias con lectura completa pendiente o parcial: **112** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
+- **120** referencias con lectura completa pendiente o parcial: **111** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
 - **51** con PDF previamente revisado o metadatos tomados del PDF: **no solicitar copia de entrada**, pero revisar si la extracción metodológica fue completa.
-- **10** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
+- **11** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
 - **32** marcadas anteriormente como fuera del tema: no pedir PDF automáticamente; reevaluar si cambian las preguntas de alcance.
 - Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 214 referencias, y no debe asumirse que todos requieren PDF.
 
@@ -23,7 +23,7 @@
 4. Revisar los candidatos nuevos sin ficha y priorizar sueño, desarrollo craneofacial, función orofacial, fascia, respiración, adenoamígdalas, otitis y postura.
 5. Actualizar `estado_lectura` y la ficha **solo después de consultar la fuente**; nunca marcar «texto completo leído» porque se leyó un resumen.
 
-## PRIORIDAD 1 — textos completos pendientes o leídos parcialmente (112)
+## PRIORIDAD 1 — textos completos pendientes o leídos parcialmente (111)
 
 | ID | Autor/año | Referencia exacta | Área | Ficha | Enlace | Lectura registrada |
 |---|---|---|---|---|---|---|
@@ -52,7 +52,6 @@
 | KOTARSKA2024 | Kotarska M; Wądołowska A; Sarul M; Kawala B; Lis J (2024) | Does Ankyloglossia Surgery Promote Normal Facial Development? A Systematic Review | Maloclusión | Sí | [Acceso/editor](https://doi.org/10.3390/jcm14010081) | Resumen y texto completo parcial |
 | LICHNOWSKA2024 | Lichnowska A; Gnatek A; Tyszkiewicz S; Kozakiewicz M; Zaghi S (2024) | A Prospective Randomized Control Trial of Lingual Frenuloplasty with Myofunctional Therapy in Patients with Maxillofacial Deformity in a Polish Cohort | Frenuloplastia | Sí | [Acceso/editor](https://doi.org/10.3390/jcm13185354) | Resumen y texto completo parcial |
 | MELONG2024 | Melong J; Bezuhly M; Hong P (2024) | The Effect of Tongue-Tie Release on Speech Articulation and Intelligibility | Habla | Sí | [Acceso/editor](https://doi.org/10.1177/01455613211064045) | Resumen verificado |
-| POVOA2024 | Póvoa-Santos et al. (2024) | Ankyloglossia and malocclusion: A systematic review and meta-analysis | Maloclusión | Sí | [Acceso/editor](https://doi.org/10.1016/j.adaj.2023.09.014) | Resumen verificado |
 | THOMAS2024 | Thomas J; Bunik M; Holmes A et al. (American Academy of Pediatrics) (2024) | Identification and Management of Ankyloglossia and Its Effect on Breastfeeding in Infants: Clinical Report | Sociedades y guías | Sí | [Acceso/editor](https://doi.org/10.1542/peds.2024-067605) | Resumen verificado |
 | TOMITA2024 | Tomita D; Haga S; Tanzawa F et al. (2024) | Maxillary Protrusion with Severe Overjet Treated by Maxillary Anterior Alveolar Osteotomy | Clase II | Sí | [Acceso/editor](https://doi.org/10.1155/2024/3850765) | Resumen y texto completo parcial |
 | COPPELSON2023 | Coppelson K; Summersgill I; Hatcher D et al.; Zaghi S (2023) | Does Head and Neck Posture Affect Cone-Beam Computed Tomography Assessment of the Upper Airway? | Vía aérea y postura | Sí | [Acceso/editor](https://doi.org/10.1016/j.joms.2023.01.016) | Resumen verificado |
@@ -169,7 +168,9 @@ No pedir una nueva copia por defecto. Aun así, confirmar si las fichas son sufi
 
 `FELDENS2024` (2024) · `FELDENS2025` (2025) · `DINH2025` (2025) · `JONES2024A` (2024) · `JONES2024B` (2024) · `DELLOLIO2022` (2022) · `RODRIGUEZLARA2025` (2025) · `MAYAENERO2021` (2021) · `MCKENNA2024` (2024) · `OCALLAHAN2013` (2013) · `SLAGTER2021` (2021) · `PATEL2025` (2025) · `ALBERTSEN2024` (2024) · `VANBIERVLIET2020` (2020) · `NAIMER2003` (2003) · `KOTLOW2011` (2011) · `GUOTHGUMBERGER2025` (2025) · `GENNA2021` (2021) · `CRUZ2022` (2022) · `UNKEL2021` (2021) · `BHATT2025` (2025) · `HOANG2024` (2024) · `PALOMARES2023` (2023) · `CARNINO2024` (2024) · `CLAUSEN2024` (2024) · `CHINNADURAI2015` (2015) · `BISWAS2023` (2023) · `SEPET2015` (2015) · `VAZ2015` (2015) · `DESIMONE2025` (2025) · `POMPEIA2017` (2017) · `DESHKAR2024` (2024) · `KIM2025` (2025) · `CAMANES2024` (2024) · `PREEDEEWONG2024` (2024) · `MARINO2026` (2026) · `RODRIGUEZALCALA2021` (2021) · `LACERDA2014` (2014) · `ALTAAI2022` (2022) · `HUSSEIN2025` (2025) · `HO2025` (2025) · `GHORBANY2019` (2019) · `ASHLEY2025` (2025) · `MAHBOUB2016` (2016) · `USMAN2022` (2022) · `CORREA2024` (2024) · `SAHOO2024` (2024) · `KALRA2025` (2025) · `FERNANDEZSANCHEZ_WITS` () · `SUMARIO_CEFALOMETRICO` () · `QUINTESSENCE2011` (2011)
 
-## Ya consta lectura de texto completo/fuente oficial (10)
+## Ya consta lectura de texto completo/fuente oficial (11)
+
+`POVOA2024` — Ankyloglossia and malocclusion: A systematic review and meta-analysis (texto completo aportado y revisado 03/11/2026; no depositar PDF protegido)
 
 `MILLS2019` — What is a tongue tie? Defining the anatomy of the in-situ lingual frenulum (Texto fuente verificado)
 
