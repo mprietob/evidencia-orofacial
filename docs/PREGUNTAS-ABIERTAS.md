@@ -15,9 +15,13 @@ Lo que la evidencia todavía no responde y lo que esta biblioteca aún no ha com
 
 ## Comprobaciones pendientes en esta biblioteca
 
+- **ACTUALIZADO 03/11/2026:** [contraste de la terapia miofuncional pediátrica](../conocimiento/miofuncional-pediatrica-resultados-contrapuestos.md) — Bandyopadhyay 2020 (pre/post favorable), Cnockaert 2026 (comparación ECA sin efecto concluyente), Avivar-Pardo 2026 (un ECA + observacionales, GRADE baja), Carey 2026 (deglución y cotratamientos). **Pendiente** identificar estudios primarios compartidos, sus comparadores y efecto entre grupos.
+- **ACTUALIZADO 03/11/2026:** [validez de herramientas diagnósticas](../conocimiento/criterios-diagnosticos-anki-2024-2026.md). **Pendiente** el texto íntegro de la fe de erratas de Necus 2025 y saber el patrón de referencia usado para AUC de BTAT/TABBY en Dhar 2026.
+- **IDENTIFICADO, SIN RESULTADOS:** [ensayo NCT07249944](ENSAYOS-EN-CURSO.md) preespecifica PSG, Mpal/Mmax, fuerza lingual y fotogrametría. Registro con última actualización de 2025: estado real 2026 sin verificar; no es prueba de eficacia.
+
 - [Revisión de once fuentes abiertas](REVISION-ABIERTOS-2026-11-03.md): siete con lectura completa, dos con métodos/resultados parciales y dos en resumen/registro sin tablas íntegras. Completar especialmente los manuscritos de Cnockaert, las tablas de Kang y Lichnowska.
 
-- Completar el [inventario de 115 referencias cuya lectura completa está pendiente o parcial](PDFS-LECTURA-PENDIENTE-2026-11-03.md), intentando antes el acceso abierto. No significa que se necesiten 115 PDF facilitados por la usuaria.
+- Completar el [inventario de 116 referencias cuya lectura completa está pendiente o parcial](PDFS-LECTURA-PENDIENTE-2026-11-03.md), intentando antes el acceso abierto. No significa que se necesiten 116 PDF facilitados por la usuaria.
 - Integrar y completar las 9 fichas nuevas de la [primera ampliación interdisciplinar](REVISION-INTERDISCIPLINAR-2026-11.md). Las tablas completas de Kang 2026, Zhao 2025, Singla 2026 y Cnockaert 2026 siguen pendientes de auditoría, entre otras.
 - Diseñar y realizar revisiones por pregunta sobre postura craneocervical, hioides, fascia y desarrollo maxilar; en la primera tanda solo se ha definido su alcance, no se ha realizado búsqueda exhaustiva.
 
