@@ -11,6 +11,10 @@
 - docs/INSTRUCCIONES-IA.md: reglas para pegar en una IA de chat que no lee AGENTS.md
 
 ## Navegación
+- conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md: 9 fuentes nuevas sobre rinitis, respiración bucal, adenoides, morfología, terapia miofuncional, otitis y sueño; incluye evidencia negativa
+- docs/REVISION-INTERDISCIPLINAR-2026-11.md: registro de búsqueda dirigida, alcance y etapas pendientes, no PRISMA
+- docs/PDFS-LECTURA-PENDIENTE-2026-11-03.md: lista completa de textos completos/PDF pendientes según estado de lectura (214 referencias)
+
 - conocimiento/afirmaciones.md: matriz de afirmaciones con su grado de apoyo (VERIFICADO, INTERPRETACION, HIPOTESIS, SIN_DATOS)
 - conocimiento/evaluacion-funcional-lengua.md: cómo se mide la movilidad (TRMR-TIP, TRMR-LPS) y qué escalas existen
 - conocimiento/hidrostato-muscular.md: la lengua como hidrostato muscular
