@@ -15,7 +15,7 @@ Lo que la evidencia todavía no responde y lo que esta biblioteca aún no ha com
 
 ## Comprobaciones pendientes en esta biblioteca
 
-- Completar el [inventario de 121 referencias cuya lectura completa está pendiente o parcial](PDFS-LECTURA-PENDIENTE-2026-11-03.md), intentando antes el acceso abierto. No significa que se necesiten 121 PDF facilitados por la usuaria.
+- Completar el [inventario de 120 referencias cuya lectura completa está pendiente o parcial](PDFS-LECTURA-PENDIENTE-2026-11-03.md), intentando antes el acceso abierto. No significa que se necesiten 121 PDF facilitados por la usuaria.
 - Integrar y completar las 9 fichas nuevas de la [primera ampliación interdisciplinar](REVISION-INTERDISCIPLINAR-2026-11.md). Las tablas completas de Kang 2026, Zhao 2025, Singla 2026 y Cnockaert 2026 siguen pendientes de auditoría, entre otras.
 - Diseñar y realizar revisiones por pregunta sobre postura craneocervical, hioides, fascia y desarrollo maxilar; en la primera tanda solo se ha definido su alcance, no se ha realizado búsqueda exhaustiva.
 
