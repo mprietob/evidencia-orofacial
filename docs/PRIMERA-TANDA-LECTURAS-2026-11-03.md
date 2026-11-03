@@ -1,6 +1,6 @@
 # Primera tanda práctica de lecturas y PDFs — 03/11/2026
 
-La [lista completa de todas las referencias que necesitan una lectura más profunda](PDFS-LECTURA-PENDIENTE-2026-11-03.md) comprende **120 registros** del inventario actualizado de **214 referencias**. **Esta lista corta no sustituye aquella**: sirve para priorizar con criterio clínico el trabajo y minimizar documentos que tengas que buscar.
+La [lista completa de todas las referencias que necesitan una lectura más profunda](PDFS-LECTURA-PENDIENTE-2026-11-03.md) comprende **117 registros** del inventario actualizado de **214 referencias**. **Esta lista corta no sustituye aquella**: sirve para priorizar con criterio clínico el trabajo y minimizar documentos que tengas que buscar.
 
 ## A. Buscar el texto completo / solicitar PDF solo si no hay acceso abierto (10)
 
@@ -21,22 +21,26 @@ La [lista completa de todas las referencias que necesitan una lectura más profu
 
 **Cómo enviarlos:** si ya los tienes, facilítalos en el chat o mediante un espacio privado; no publicar PDFs sujetos a copyright en el repositorio GitHub. No hace falta recopilar los diez antes de iniciar análisis: cada uno puede actualizar su ficha.
 
-## B. Acceso abierto localizable: NO pedir archivo de entrada (8)
+## B. Fuentes abiertas: resultados de la revisión (9)
+
+**Estado actualizado:** [acta de lectura crítica de la tanda abierta](REVISION-ABIERTOS-2026-11-03.md). Se han revisado cinco textos íntegros, otros dos en sus métodos/resultados principales, y para Kang y Cnockaert se ha contrastado únicamente el resumen/editorial, sin auditar tablas completas. No confundas accesibilidad del PDF con haberlo leído.
 
 Estas referencias son accesibles en una fuente abierta conocida o muy probablemente en editor abierto. Es más eficiente consultar el original y registrar criterios, tablas y resultados antes de solicitar PDFs.
 
 | ID | Referencia | Título | Enlace | Lectura registrada |
 |---|---|---|---|---|
-| `KANG2026AR` | Kang T-Y; Wei C-C; Hang L-W et al. (2026) | Association of allergic rhinitis with polysomnographic arousal indices in children with sleep-disordered breathing | [DOI](https://doi.org/10.1186/s12887-026-07684-8) | Resumen editorial verificado; texto completo abierto pendiente de auditoría |
-| `GRANDE2026` | Sotero Grande E; Checa-Caratachea XA; Cruz-Hervert LP et al. (2026) | Mouth Breathing and Craniofacial Development in Children: A Systematic Narrative Review and Clinical Implications | [DOI](https://doi.org/10.3390/healthcare14121737) | Texto completo abierto consultado parcialmente; extracción de estudios pendiente |
-| `CNOCKAERT2026` | Cnockaert P; Da Purificaçao J; Poncin W (2026) | Active strategies for children with obstructive sleep-disordered breathing: a systematic review and meta-analysis | [DOI](https://doi.org/10.1016/j.sleep.2026.108840) | Resumen verificado; manuscrito institucional abierto pendiente de auditoría |
-| `MILLS2019` | Mills et al. (2019) | What is a tongue tie? Defining the anatomy of the in-situ lingual frenulum | [DOI](https://doi.org/10.1002/ca.23343) | Texto fuente verificado |
-| `MILLS2020` | Mills et al. (2020) | Understanding the Lingual Frenulum: Histological Structure, Tissue Composition, and Implications for Tongue Tie Surgery | [DOI](https://doi.org/10.1155/2020/1820978) | Texto fuente verificado |
-| `DEREGIBUS2021` | Deregibus A; Parrini S; Domini MC et al. (2021) | Analysis of Tongue Function from the Orthodontist's Point of View: Not Only a Matter of Deglutition | [DOI](https://doi.org/10.3390/app11062520) | Metadatos verificados |
-| `KOTARSKA2024` | Kotarska M; Wądołowska A; Sarul M; Kawala B; Lis J (2024) | Does Ankyloglossia Surgery Promote Normal Facial Development? A Systematic Review | [DOI](https://doi.org/10.3390/jcm14010081) | Resumen y texto completo parcial |
-| `LICHNOWSKA2024` | Lichnowska A; Gnatek A; Tyszkiewicz S; Kozakiewicz M; Zaghi S (2024) | A Prospective Randomized Control Trial of Lingual Frenuloplasty with Myofunctional Therapy in Patients with Maxillofacial Deformity in a Polish Cohort | [DOI](https://doi.org/10.3390/jcm13185354) | Resumen y texto completo parcial |
+| `KANG2026AR` | Kang T-Y; Wei C-C; Hang L-W et al. (2026) | Association of allergic rhinitis with polysomnographic arousal indices in children with sleep-disordered breathing | [DOI](https://doi.org/10.1186/s12887-026-07684-8) | **Resumen/editorial/modelo publicado**; tablas completas pendientes |
+| `GRANDE2026` | Sotero Grande E; Checa-Caratachea XA; Cruz-Hervert LP et al. (2026) | Mouth Breathing and Craniofacial Development in Children: A Systematic Narrative Review and Clinical Implications | [DOI](https://doi.org/10.3390/healthcare14121737) | **Métodos de revisión examinados**; 16 originales sin auditar |
+| `CNOCKAERT2026` | Cnockaert P; Da Purificaçao J; Poncin W (2026) | Active strategies for children with obstructive sleep-disordered breathing: a systematic review and meta-analysis | [DOI](https://doi.org/10.1016/j.sleep.2026.108840) | **Resumen y registro institucional**; PDF de autor aún sin inspección integral |
+| `MILLS2019` | Mills et al. (2019) | What is a tongue tie? Defining the anatomy of the in-situ lingual frenulum | [DOI](https://doi.org/10.1002/ca.23343) | **Texto anatómico original revisado**; figuras CC BY-NC-ND |
+| `MILLS2020` | Mills et al. (2020) | Understanding the Lingual Frenulum: Histological Structure, Tissue Composition, and Implications for Tongue Tie Surgery | [DOI](https://doi.org/10.1155/2020/1820978) | **Texto histológico original revisado** |
+| `DEREGIBUS2021` | Deregibus A; Parrini S; Domini MC et al. (2021) | Analysis of Tongue Function from the Orthodontist's Point of View: Not Only a Matter of Deglutition | [DOI](https://doi.org/10.3390/app11062520) | **Texto completo y tabla 2 revisados**; resultado negativo de deglución |
+| `KOTARSKA2024` | Kotarska M; Wądołowska A; Sarul M; Kawala B; Lis J (2024) | Does Ankyloglossia Surgery Promote Normal Facial Development? A Systematic Review | [DOI](https://doi.org/10.3390/jcm14010081) | **Texto completo revisado**; NO aporta ensayos de frenotomía |
+| `LICHNOWSKA2024` | Lichnowska A; Gnatek A; Tyszkiewicz S; Kozakiewicz M; Zaghi S (2024) | A Prospective Randomized Control Trial of Lingual Frenuloplasty with Myofunctional Therapy in Patients with Maxillofacial Deformity in a Polish Cohort | [DOI](https://doi.org/10.3390/jcm13185354) | **Métodos y resultados principales revisados**; tablas/ciego pendientes |
 
-**Nota:** `CNOCKAERT2026` tiene manuscrito institucional abierto de UCLouvain; `KANG2026AR` es abierto en BMC; `GRANDE2026` se lee en PMC. Los demás deben revisarse en editorial/repo abierto antes de afirmar que la versión íntegra está accesible.
+| `MILLS2019N` | Mills N; Keough N; Geddes DT et al. (2019) | Defining the anatomy of the neonatal lingual frenulum | [DOI](https://doi.org/10.1002/ca.23410) | **Texto completo abierto Wiley revisado; nueva ficha** |
+
+**Nota:** `CNOCKAERT2026` tiene manuscrito institucional abierto en [UCLouvain](https://research.dial.uclouvain.be/entities/publication/354c10f1-2c8d-41f9-9280-a2cf978a3748), aunque **no se ha podido examinar su PDF**; `KANG2026AR` es abierto en BMC y `GRANDE2026` en PMC. Los documentos de los que ya se ha revisado el texto completo no necesitan que envíes PDF.
 
 ## C. Ya existe lectura completa registrada (3): no solicitar de nuevo
 
