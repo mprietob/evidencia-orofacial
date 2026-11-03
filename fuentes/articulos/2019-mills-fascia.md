@@ -30,3 +30,13 @@ Licencia del artículo: CC BY-NC-ND 4.0 (no permite copiar aquí). Figuras en Pu
 - **Figura 15.** Ramas del nervio lingual justo bajo la fascia en la cara ventral de la lengua. [Ver en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6850428/figure/ca23343-fig-0015/).
 
 La figura 11 es la más útil para explicar qué es el frenillo.
+
+## Auditoría anatómica de la fuente abierta — 03/11/2026
+
+**Muestra y procedimiento:** 9 cadáveres adultos frescos (6 varones/3 mujeres, edades 50–87 años, media 72), con microdisección de la lengua y suelo de boca preservando relaciones mandibulares; no son niños ni mediciones de movimiento fisiológico en personas vivas.
+
+**Resultado anatómico identificable:** la fascia del suelo de boca forma un plano transversal que se inserta en el arco mandibular interno; el frenillo es el **pliegue dinámico en la línea media de ese plano**, no una cuerda submucosa aislada. El geniogloso anterior puede quedar suspendido de su cara profunda, y ramas del nervio lingual recorren la cara ventral lingual superficialmente respecto a planos adyacentes. La tensión y la forma del pliegue cambian con el movimiento pasivo.
+
+**Inferencia que NO autoriza:** la continuidad anatómica fascia–mandíbula no demuestra una fuerza posterior constante capaz de retraer la mandíbula, ni que la frenotomía cambie el crecimiento óseo. La propuesta biomecánica sobre estabilidad lingual es una **interpretación de los autores**, no una medición de fuerzas mandibulares en vivo.
+
+**Estado de lectura:** texto completo abierto verificado en su versión PMC/Wiley, con métodos y conclusiones anatómicas, 03/11/2026. Licencia **CC BY-NC-ND 4.0**: no copiar/adaptar figuras para materiales comerciales.
