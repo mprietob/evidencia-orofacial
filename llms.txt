@@ -13,8 +13,8 @@
 ## Navegación
 - conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md: 9 fuentes nuevas sobre rinitis, respiración bucal, adenoides, morfología, terapia miofuncional, otitis y sueño; incluye evidencia negativa
 - docs/REVISION-INTERDISCIPLINAR-2026-11.md: registro de búsqueda dirigida, alcance y etapas pendientes, no PRISMA
-- docs/PDFS-LECTURA-PENDIENTE-2026-11-03.md: inventario vigente de 117 lecturas pendientes entre 214 referencias
-- docs/REVISION-ABIERTOS-2026-11-03.md: auditoría de 9 trabajos abiertos; distinguir texto completo de lecturas parciales y sólo abstract
+- docs/PDFS-LECTURA-PENDIENTE-2026-11-03.md: inventario vigente de 115 lecturas pendientes entre 214 referencias
+- docs/REVISION-ABIERTOS-2026-11-03.md: auditoría de 11 documentos abiertos; distinguir texto completo de lecturas parciales y sólo abstract
 
 - conocimiento/afirmaciones.md: matriz de afirmaciones con su grado de apoyo (VERIFICADO, INTERPRETACION, HIPOTESIS, SIN_DATOS)
 - conocimiento/evaluacion-funcional-lengua.md: cómo se mide la movilidad (TRMR-TIP, TRMR-LPS) y qué escalas existen
