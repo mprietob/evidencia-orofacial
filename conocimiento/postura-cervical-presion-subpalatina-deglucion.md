@@ -22,6 +22,12 @@ A la inversa, **27 de 29** se clasificaron clínicamente como deglución viscera
 
 Coppelson comprueba que **modificar la posición** del cuello puede modificar **lo que mide una CBCT**. Por tanto, un cambio de MCA entre dos exploraciones puede reflejar diferencias de adquisición y no necesariamente una intervención clínica. Pero no estudió por qué un paciente mantiene espontáneamente esa postura, no midió polisomnografía mientras dormía y no estudió crecimiento. No usar el resultado como demostración de que toda postura adelantada de cabeza **se deba a obstrucción**.
 
+## Control adicional: fiabilidad al repetir una exploración
+
+[Sun et al. 2024](../fuentes/articulos/2024-sun-repetibilidad-ct-via-aerea.md) examinaron **dos tomografías por paciente sin tratamiento** en 20 adultos, con dos técnicas de adquisición y dos programas de segmentación. Una fiabilidad intraobservador **ICC 0,998–0,999** al reexaminar imágenes no garantiza repetibilidad **entre adquisiciones**. Con Dolphin en CBCT, la diferencia absoluta media entre volúmenes orofaríngeos (OAV) fue **6097,1 mm³**, pero entre cohortes MDCT supinas fue **1793,1 mm³**; no son experimentos equivalentes en postura/protocolo y no prueban que el software sea la única causa. **MCA ≠ OAV.** En un estudio pre/post, antes de atribuir a un tratamiento un cambio de vía aérea hay que preguntarse si es mayor que la variabilidad del instrumento y, además, si se acompaña de un desenlace respiratorio funcional independiente.
+
+**Coppelson mide el efecto de manipular el cuello sobre la MCA; Sun cuantifica variaciones entre tomografías sobre todo en volúmenes**. Son líneas de evidencia complementarias para diseñar estudios, sin demostrar ni descartar una relación causal concreta entre frenillo y postura.
+
 ## La hipótesis interdisciplinar que sigue abierta
 
 Se puede **plantear** que en algunos fenotipos interactúen la permeabilidad nasal, el sellado palatino, la presión intraoral, la movilidad anterior/posterior de la lengua y la posición cervical. Los tres estudios hacen esa conexión **biológicamente investigable** porque muestran tres medidas objetivas posibles: **presión SPS/IOS, sincronización de contacto y postura NBC3/MCA**.
@@ -47,6 +53,6 @@ Las sugerencias constituyen **agenda de investigación**. No son protocolos clí
 
 ## Acceso y estado
 
-Los **tres originales** se localizan abiertos en las páginas de editorial; se han leído texto y tablas disponibles en formato accesible, **sin duplicar PDFs ni reproducir figuras**. La revisión posterior de los comentarios editoriales de Coppelson y cualquier replicación independiente sigue pendiente.
+Los **cuatro originales** se localizan abiertos en las páginas de editorial o PMC; se han leído texto y tablas disponibles en formato accesible, **sin duplicar PDFs ni reproducir figuras**. La revisión posterior de los comentarios editoriales de Coppelson y cualquier replicación independiente sigue pendiente.
 
 Ver también [enfoque de investigación](../docs/ENFOQUE-CRITICO.md), [mapa interdisciplinar](mapa-craneo-orofacial-via-aerea-sueno-postura.md) y [criterios diagnósticos](criterios-diagnosticos-anki-2024-2026.md).
