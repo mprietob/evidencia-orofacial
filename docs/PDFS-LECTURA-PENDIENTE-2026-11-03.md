@@ -2,6 +2,8 @@
 
 **Repositorio:** `mprietob/evidencia-frenillo` (privado). **Criterio:** inventario documental según `fuentes/bibliografia.csv` y `fuentes/indice-fichas.csv`. **No es una comprobación de acceso abierto artículo por artículo** ni implica que cada publicación necesite que la usuaria aporte un PDF.
 
+**Para empezar sin revisar 120 entradas a la vez:** [primera tanda práctica de 10 textos completos prioritarios](PRIMERA-TANDA-LECTURAS-2026-11-03.md), separando fuentes abiertas y ya leídas.
+
 ## Cómo usar esta lista
 
 **«Necesito el PDF» significa «necesito poder consultar el texto completo para auditar métodos y resultados»**. Antes de pedir un PDF, hay que intentar acceso abierto en la editorial, PubMed Central o repositorio institucional, y comprobar duplicados. Si se encuentra en abierto, no hay que solicitarlo. Si es de pago y ya dispones de él, basta con facilitarlo **fuera del repositorio público** (no subir PDFs con derechos de editoriales a GitHub). No pedir archivos de estudios cuya pertinencia no esté confirmada. El inventario **no demuestra** que el PDF no exista en tu ordenador ni en tu biblioteca personal.
