@@ -8,12 +8,12 @@
 
 ### Resumen automatizado
 
-- Referencias totales existentes: **205**.
-- **112** referencias con lectura completa pendiente o parcial: **103** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
+- Referencias totales existentes: **214**.
+- **121** referencias con lectura completa pendiente o parcial: **112** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
 - **51** con PDF previamente revisado o metadatos tomados del PDF: **no solicitar copia de entrada**, pero revisar si la extracción metodológica fue completa.
 - **10** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
 - **32** marcadas anteriormente como fuera del tema: no pedir PDF automáticamente; reevaluar si cambian las preguntas de alcance.
-- Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 205 referencias, y no debe asumirse que todos requieren PDF.
+- Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 214 referencias, y no debe asumirse que todos requieren PDF.
 
 ### Orden de trabajo
 
@@ -23,7 +23,7 @@
 4. Revisar los candidatos nuevos sin ficha y priorizar sueño, desarrollo craneofacial, función orofacial, fascia, respiración, adenoamígdalas, otitis y postura.
 5. Actualizar `estado_lectura` y la ficha **solo después de consultar la fuente**; nunca marcar «texto completo leído» porque se leyó un resumen.
 
-## PRIORIDAD 1 — textos completos pendientes o leídos parcialmente (103)
+## PRIORIDAD 1 — textos completos pendientes o leídos parcialmente (112)
 
 | ID | Autor/año | Referencia exacta | Área | Ficha | Enlace | Lectura registrada |
 |---|---|---|---|---|---|---|
@@ -130,6 +130,24 @@
 | MCNAMARA1981 | McNamara JA Jr (1981) | Components of class II malocclusion in children 8-10 years of age | Clase II | Sí | [Acceso/editor](https://doi.org/10.1043/0003-3219(1981)051<0177:COCIMI>2.0.CO;2) | Metadatos verificados |
 | SULLIVAN1981 | Sullivan CE; Issa FG; Berthon-Jones M; Eves L (1981) | Reversal of obstructive sleep apnoea by continuous positive airway pressure applied through the nares | Historia CPAP | Sí | [Acceso/editor](https://doi.org/10.1016/s0140-6736(81)92140-1) | Resumen verificado |
 | GUILLEMINAULT1976 | Guilleminault C; Eldridge FL; Simmons FB; Dement WC (1976) | Sleep apnea in eight children | Apnea infantil | Sí | [Acceso/editor](https://pubmed.ncbi.nlm.nih.gov/934781/) | Resumen verificado |
+
+### Incorporaciones de la primera ampliación interdisciplinar (9)
+
+Las referencias siguientes son **nuevas** y se suman a la tabla P1 anterior; se presentan aparte para facilitar la solicitud de PDF.
+
+| ID | Autor/año | Referencia exacta | Área | Ficha | Enlace | Lectura registrada |
+|---|---|---|---|---|---|---|
+| KANG2026AR | Kang T-Y; Wei C-C; Hang L-W et al. (2026) | Association of allergic rhinitis with polysomnographic arousal indices in children with sleep-disordered breathing | Rinitis y PSG pediátrica | Sí | [Fuente](https://doi.org/10.1186/s12887-026-07684-8) | Resumen editorial verificado; texto completo abierto pendiente de auditoría |
+| LI2026AR | Li Q; Zhong Q; Kong X et al. (2026) | Allergic rhinitis in children in relation to sleep breathing disorders: a meta-analysis | Rinitis y sueño pediátrico | Sí | [Fuente](https://doi.org/10.1016/j.ijporl.2026.112902) | Resumen verificado; texto completo pendiente |
+| VAISHNAVI2026 | Vaishnavi P; Sushmita S; Vivek K et al. (2026) | Association between mouth breathing and pediatric obstructive sleep apnea: a systematic review | Respiración bucal y apnea pediátrica | Sí | [Fuente](https://doi.org/10.1007/s00405-025-09999-1) | Resumen verificado; texto completo pendiente |
+| GRANDE2026 | Sotero Grande E; Checa-Caratachea XA; Cruz-Hervert LP et al. (2026) | Mouth Breathing and Craniofacial Development in Children: A Systematic Narrative Review and Clinical Implications | Respiración bucal y crecimiento craneofacial | Sí | [Fuente](https://doi.org/10.3390/healthcare14121737) | Texto completo abierto consultado parcialmente; extracción de estudios pendiente |
+| ZHAO2025ATH | Zhao T; Wang M; Ngan P et al. (2025) | Is adenotonsillar hypertrophy associated with dentofacial morphology? A systematic review and meta-analyses | Hipertrofia adenoamigdalar y morfología dentofacial | Sí | [Fuente](https://doi.org/10.1016/j.ajodo.2025.04.024) | Resumen verificado; texto completo pendiente |
+| SINGLA2026 | Singla A; Gangwal K; Puri A et al. (2026) | Impact of adenotonsillectomy or adenoidectomy on dentofacial development of children with obstructed sleep disordered breathing - Systematic review | Adenoamigdalectomía y crecimiento dentofacial | Sí | [Fuente](https://doi.org/10.1016/j.ijporl.2026.112923) | Resumen verificado; texto completo pendiente |
+| CNOCKAERT2026 | Cnockaert P; Da Purificaçao J; Poncin W (2026) | Active strategies for children with obstructive sleep-disordered breathing: a systematic review and meta-analysis | Terapia miofuncional y sueño pediátrico | Sí | [Fuente](https://doi.org/10.1016/j.sleep.2026.108840) | Resumen verificado; manuscrito institucional abierto pendiente de auditoría |
+| CHANDRASEKHARAN2026 | Chandrasekharan DP; Badr-El-Dine M; James AL (2026) | Interventions for Obstructive Eustachian Tube Dysfunction: An Evidence-Based Umbrella Review of Efficacy and Safety | Otitis media con efusión y trompa de Eustaquio | Sí | [Fuente](https://doi.org/10.1016/j.otc.2026.04.008) | Resumen verificado; texto completo pendiente |
+| PISONI2026 | Pisoni E; Buttafava L et al. (2026) | Myofunctional Therapy in Adults and Children With Obstructive Sleep Apnea: An Overview and Re-Analysis of Systematic Reviews | Terapia miofuncional y apnea | Sí | [Fuente](https://doi.org/10.1111/jsr.70219) | Resumen editorial verificado; texto completo pendiente |
+
+**No te pediría PDFs de entrada** para `KANG2026AR` (BMC Pediatrics), `GRANDE2026` (Healthcare/PMC) ni `CNOCKAERT2026` (manuscrito institucional abierto): primero hay que leer esos textos accesibles. Para los otros seis, intentar antes el acceso institucional u open access y solicitar solo los que realmente estén cerrados.
 
 ## PRIORIDAD 2 — restantes textos completos pendientes (9)
 
