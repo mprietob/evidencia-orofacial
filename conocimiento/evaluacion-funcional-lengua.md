@@ -4,10 +4,10 @@
 
 ## Lo publicado
 
-- **TRMR-TIP:** apertura con la punta en la papila incisiva dividida por la apertura cómoda. Propuesto y validado en 1.052 sujetos por Yoon 2017 ([ficha](../fuentes/articulos/2017-yoon-trmr-1052.md)). Es la única medida de movilidad independiente de la apertura que se asoció a restricción funcional.
+- **TRMR-TIP:** razón entre la apertura con la punta en la papila incisiva y la apertura máxima de referencia. Propuesto y estudiado en 1.052 sujetos por Yoon 2017 ([ficha](../fuentes/articulos/2017-yoon-trmr-1052.md)). **No es independiente de la apertura:** depende matemáticamente del numerador y del denominador.
 - **TRMR-LPS:** lo mismo con la lengua succionada al paladar. Zaghi 2021 ([ficha](../fuentes/articulos/2021-zaghi-trmr-lps.md)), 611 sujetos: refleja mucho mejor que TIP la dificultad para subir el cuerpo de la lengua.
 - **Escala:** TIP grado 1 >80 %, 2 de 50 a 80 %, 3 <50 %, 4 <25 %. LPS grado 1 >60 %, 2 de 30 a 60 %, 3 <30 %, 4 <5 % o no puede.
-- **Límites que dicen los propios autores:** poco fiable de 3 a 11 años y con apertura limitada; voluntarios cercanos a los investigadores; una medida baja no dice la causa.
+- **Límites y precauciones:** los autores advierten límites de aplicación en ciertas edades y con apertura restringida; el cociente bajo no identifica por sí solo la causa. **Precaución teórica, no sesgo demostrado:** si la apertura máxima de referencia está reducida, una misma apertura con la lengua elevada puede dar un cociente relativamente alto. No afirmar que ocurrió en una cohorte sin comprobar sus aperturas absolutas. Alcanzar la papila no mide toda la elevación posterior ni la postura de reposo.
 - **Lengua libre de Kotlow:** mide otra cosa (longitud), independiente del TRMR (Yoon 2017). Guilleminault 2016 recoge que Kotlow considera normal más de 16 mm.
 - **Uso en estudios independientes:** Hoang 2024 (Vietnam, 512 niños: la restricción posterior es más frecuente que la anterior y se asocia a menos fuerza), Preedeewong 2024 (inclusión por TRMR en adultos con apnea), He 2026 (TRMR en adultos con apnea).
 
