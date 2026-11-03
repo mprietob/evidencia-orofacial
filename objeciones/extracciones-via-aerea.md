@@ -12,12 +12,12 @@
 
 ## Cara B: la crítica de la postura
 
-- **Coppelson 2023**, *J Oral Maxillofac Surg*, 90 adultos. La postura de la cabeza cambia mucho la medida: según su modelo, +5° del ángulo nasion-basion-C3 (NBC3) aumentan el área mínima un 25 % y +10° un 88 %. [Ficha](../fuentes/articulos/2023-coppelson-postura-cbct.md).
+- **Coppelson 2023**, *J Oral Maxillofac Surg*, **texto completo abierto examinado**. En 90 adultos con **dos CBCT por persona**, flexionar la cabeza cambió la MCA **−41,4 mm²** (p=0,03) y extenderla **+147,4 mm²** (p=0,0018); una agrupación por el ángulo NBC3/modelo describe +5° ≈ +25 % y +10° ≈ +88 % de MCA, **no porcentajes individuales garantizados**. Los cambios promedio por sentado/de pie, mentonera y deglución repetida **no fueron significativos**. [Ficha completa](../fuentes/articulos/2023-coppelson-postura-cbct.md).
 - **Papageorgiou 2025 no controla la postura.** En el texto completo la posición de la cabeza solo aparece en la discusión, como uno de los factores que influyen en el CBCT.
 - **Zaghi**, *Tongue Time 2026*, Zúrich (https://www.youtube.com/watch?v=y6VkQnMBBvc). [Resumen propio traducido al español] La investigación dice que las extracciones no cambian el espacio aéreo posterior porque el paciente compensa adelantando la cabeza y el cuello; hay que mirar la postura y el NBC3. Frase clave de esa traducción: «cuando quitas los premolares, compensan adelantando la cabeza y el cuello». Minuto exacto y frase original en inglés: `PENDIENTE DE VERIFICAR`. Es opinión de experto en vídeo, no un estudio.
 - **Zaghi**, ALSC 2020 (https://www.youtube.com/watch?v=G9GrUw7YJD0). [Resumen] Cuenta el caso de una paciente con extracciones y retracción a la que le subió el índice de apnea. Es una anécdota: no prueba causa.
 
-**Lectura justa:** si el cuerpo compensa con la postura, una medida en CBCT sin controlar la postura puede no ver el cambio. Es una crítica metodológica razonable, no una prueba de que las extracciones dañen la vía aérea.
+**Lectura justa:** Coppelson demuestra que **manipular la postura altera las mediciones** de vía aérea en CBCT; no demuestra que exista **compensación por obstrucción** tras extraer premolares. Una comparación de CBCT sin registrar NBC3 podría estar confundida por diferencias de adquisición, **sin que ello demuestre que las extracciones tengan efecto perjudicial**. Un estudio sobre cambio de MCA tampoco responde a un cambio real de AHI durante sueño.
 
 ## Postura de Marta (INTERPRETACION)
 
