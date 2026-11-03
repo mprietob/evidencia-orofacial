@@ -10,12 +10,12 @@
 
 ### Resumen automatizado
 
-- Referencias totales existentes: **219**.
+- Referencias totales existentes: **220**.
 - **115** referencias con lectura completa pendiente o parcial: **106** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
 - **51** con PDF previamente revisado o metadatos tomados del PDF: **no solicitar copia de entrada**, pero revisar si la extracción metodológica fue completa.
-- **21** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
+- **22** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
 - **32** marcadas anteriormente como fuera del tema: no pedir PDF automáticamente; reevaluar si cambian las preguntas de alcance.
-- Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 219 referencias, y no debe asumirse que todos requieren PDF.
+- Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 220 referencias, y no debe asumirse que todos requieren PDF.
 
 ### Orden de trabajo
 
@@ -170,7 +170,9 @@ No pedir una nueva copia por defecto. Aun así, confirmar si las fichas son sufi
 
 `FELDENS2024` (2024) · `FELDENS2025` (2025) · `DINH2025` (2025) · `JONES2024A` (2024) · `JONES2024B` (2024) · `DELLOLIO2022` (2022) · `RODRIGUEZLARA2025` (2025) · `MAYAENERO2021` (2021) · `MCKENNA2024` (2024) · `OCALLAHAN2013` (2013) · `SLAGTER2021` (2021) · `PATEL2025` (2025) · `ALBERTSEN2024` (2024) · `VANBIERVLIET2020` (2020) · `NAIMER2003` (2003) · `KOTLOW2011` (2011) · `GUOTHGUMBERGER2025` (2025) · `GENNA2021` (2021) · `CRUZ2022` (2022) · `UNKEL2021` (2021) · `BHATT2025` (2025) · `HOANG2024` (2024) · `PALOMARES2023` (2023) · `CARNINO2024` (2024) · `CLAUSEN2024` (2024) · `CHINNADURAI2015` (2015) · `BISWAS2023` (2023) · `SEPET2015` (2015) · `VAZ2015` (2015) · `DESIMONE2025` (2025) · `POMPEIA2017` (2017) · `DESHKAR2024` (2024) · `KIM2025` (2025) · `CAMANES2024` (2024) · `PREEDEEWONG2024` (2024) · `MARINO2026` (2026) · `RODRIGUEZALCALA2021` (2021) · `LACERDA2014` (2014) · `ALTAAI2022` (2022) · `HUSSEIN2025` (2025) · `HO2025` (2025) · `GHORBANY2019` (2019) · `ASHLEY2025` (2025) · `MAHBOUB2016` (2016) · `USMAN2022` (2022) · `CORREA2024` (2024) · `SAHOO2024` (2024) · `KALRA2025` (2025) · `FERNANDEZSANCHEZ_WITS` () · `SUMARIO_CEFALOMETRICO` () · `QUINTESSENCE2011` (2011)
 
-## Ya consta lectura de texto completo/fuente oficial (21)
+## Ya consta lectura de texto completo/fuente oficial (22)
+
+**Cuarta fuente abierta de la fase 3 ya leída:** `SUN2024CT` — [Sun et al., 2024, repetibilidad de CBCT/MDCT](../fuentes/articulos/2024-sun-repetibilidad-ct-via-aerea.md); no solicitar PDF a la usuaria. El estudio no cuenta entre los 115 pendientes.
 
 **Tercera tanda de fuentes abiertas:** `COPPELSON2023` (texto completo del editor CC BY, tabla 3), `ENGELKE2011` (20 adultos, presión IOS/SPS) y `KNOESEL2012` (29 niños, coordinación lingual). En los tres se ha examinado el original y no hace falta solicitar PDF. [Síntesis](../conocimiento/postura-cervical-presion-subpalatina-deglucion.md).
 
