@@ -15,7 +15,9 @@ Lo que la evidencia todavía no responde y lo que esta biblioteca aún no ha com
 
 ## Comprobaciones pendientes en esta biblioteca
 
-- Completar el [inventario de 120 referencias cuya lectura completa está pendiente o parcial](PDFS-LECTURA-PENDIENTE-2026-11-03.md), intentando antes el acceso abierto. No significa que se necesiten 121 PDF facilitados por la usuaria.
+- [Revisión de nueve fuentes abiertas](REVISION-ABIERTOS-2026-11-03.md): cinco con lectura completa, dos con métodos/resultados parciales y dos en resumen/registro sin tablas íntegras. Completar especialmente los manuscritos de Cnockaert, las tablas de Kang y Lichnowska.
+
+- Completar el [inventario de 117 referencias cuya lectura completa está pendiente o parcial](PDFS-LECTURA-PENDIENTE-2026-11-03.md), intentando antes el acceso abierto. No significa que se necesiten 117 PDF facilitados por la usuaria.
 - Integrar y completar las 9 fichas nuevas de la [primera ampliación interdisciplinar](REVISION-INTERDISCIPLINAR-2026-11.md). Las tablas completas de Kang 2026, Zhao 2025, Singla 2026 y Cnockaert 2026 siguen pendientes de auditoría, entre otras.
 - Diseñar y realizar revisiones por pregunta sobre postura craneocervical, hioides, fascia y desarrollo maxilar; en la primera tanda solo se ha definido su alcance, no se ha realizado búsqueda exhaustiva.
 
@@ -24,7 +26,7 @@ Lo que la evidencia todavía no responde y lo que esta biblioteca aún no ha com
 - Leer el texto completo del informe clínico de la AAP 2024 y de la guía de ICAP 2024.
 - **RESUELTO 03/11/2026:** criterios diagnósticos de los 11 estudios incluidos en Póvoa-Santos 2024, consultados en eTable 5 del texto completo; [ficha corregida](../fuentes/articulos/2024-povoa-santos-meta.md). Queda pendiente la lectura individual de los originales si una objeción requiere sus métodos precisos.
 - Criterio diagnóstico sin confirmar en: Rodríguez Lara 2025, Carnino 2024, Chinnadurai 2015, Genna 2021, Slagter 2021, Sahoo 2024, Kalra 2025, De Simone 2025, Govardhan 2019, Oh 2021 (bruxismo), Oh 2021 (FAIREST-6), Melong 2024 y Cordray 2023.
-- Leer el texto completo de Deregibus 2021, Kummer 2005 y la carta de Ghaheri 2020: hoy solo hay metadatos.
+- **RESUELTO 03/11/2026:** texto completo y tabla 2 de Deregibus 2021 ya examinados; revisar sus [resultados y criterios diagnósticos](../fuentes/articulos/2021-deregibus-funcion-lingual-ortodoncia.md). Siguen pendientes Kummer 2005 y la carta de Ghaheri 2020.
 - Comprobar en el original las cifras de McNamara 1981 sobre los componentes de la clase II.
 - Sacar de las tablas de Lichnowska 2024 las cifras concretas y si hubo cegamiento.
 - Revisar el intervalo de confianza del 44 % en Leow 2026 (el de PubMed parece mal transcrito).
