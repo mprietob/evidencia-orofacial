@@ -63,7 +63,7 @@ Consultas orientativas empleadas (no deben presentarse como cadenas exhaustivas 
 
 ### Estudios complementarios identificados, aún sin ficha (no confundir con hallazgos ya auditados)
 
-- [Kim, Kim & Yoon, 2024/2025](https://doi.org/10.1111/jopr.13984): revisión narrativa abierta sobre determinantes anatómicos craneofaciales de SDB pediátrico, PMCID PMC12000634. Comprobar solapamiento con otras fichas del repositorio.
+- [Kim, Kim & Yoon, 2024/2025](../fuentes/articulos/2025-kim-craneofacial-trs-ninos.md): **ya fichado** como KIM2025; revisar si la ficha recoge el texto íntegro y sus referencias primarias, evitando duplicados.
 - [Finke et al. 2024](https://doi.org/10.1111/jsr.14004): metaanálisis de riesgos craneofaciales en apnea; metodología y subgrupos por edad pendientes.
 - [Revisión sobre posición del hioides 2026](https://doi.org/10.1111/ocr.12873): metaanálisis de cefalometrías de niños con apnea; confirmar número de estudios y límites de medición.
 - [Artículo de perspectiva crítica en AJODO, 2025](https://doi.org/10.1016/j.ajodo.2025.02.005): plantea falta de pruebas para expansión ortodóncica como tratamiento preventivo universal de SDB; **no equivale a un ensayo clínico**.
