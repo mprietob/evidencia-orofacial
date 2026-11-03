@@ -29,6 +29,8 @@ El interés es investigar cómo interactúan estructuras y funciones, no atribui
 
 [**Coppelson 2023**](../fuentes/articulos/2023-coppelson-postura-cbct.md) está **abierto** y su texto completo confirma un efecto de la postura cervical sobre la **medición de MCA en CBCT**: flexión −41,4 mm², extensión +147,4 mm²; tres variantes no significativas. [**Engelke 2011**](../fuentes/articulos/2011-engelke-presiones-intraorales.md) midió directamente **presiones diferentes subpalatinas e interoclusales** durante deglución/sellado en 20 adultos con respiración nasal y oclusión normales; no midió frenillo ni crecimiento. [**Knösel 2012**](../fuentes/articulos/2012-knoesel-lengua-deglucion-respiracion-bucal.md) registró contacto lengua–paladar durante 542 degluciones de 29 niños con postura abierta: **el examen clínico no coincidía siempre con el patrón observado**, y **excluyó niños que no podían alcanzar la papila**. [Síntesis con límites y preguntas pendientes](postura-cervical-presion-subpalatina-deglucion.md).
 
+Una **cuarta** fuente metodológica, [Sun 2024](../fuentes/articulos/2024-sun-repetibilidad-ct-via-aerea.md), encontró grandes diferencias de volumen orofaríngeo entre CT consecutivas del mismo paciente, incluso con alta fiabilidad al volver a leer la imagen; no confundas variabilidad entre adquisiciones con error de observador, ni volumen con MCA. [Síntesis ampliada](postura-cervical-presion-subpalatina-deglucion.md).
+
 Estos tres trabajos ofrecen tres mediciones objetivas pero **no prueban una cadena causal frenillo → pérdida de presión → anomalía maxilar → apnea → compensación cervical**.
 
 ## Piezas existentes que deben integrarse (sin confundir mecanismos y efectos)
