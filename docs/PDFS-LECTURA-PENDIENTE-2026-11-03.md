@@ -2,7 +2,7 @@
 
 **Repositorio:** `mprietob/evidencia-frenillo` (privado). **Criterio:** inventario documental según `fuentes/bibliografia.csv` y `fuentes/indice-fichas.csv`. **No es una comprobación de acceso abierto artículo por artículo** ni implica que cada publicación necesite que la usuaria aporte un PDF.
 
-**Para empezar sin revisar 116 entradas a la vez:** [primera tanda práctica de 10 textos completos prioritarios](PRIMERA-TANDA-LECTURAS-2026-11-03.md), separando fuentes abiertas y ya leídas.
+**Para empezar sin revisar 115 entradas a la vez:** [primera tanda práctica de 9 textos completos prioritarios](PRIMERA-TANDA-LECTURAS-2026-11-03.md), separando fuentes abiertas y ya leídas.
 
 ## Cómo usar esta lista
 
@@ -10,12 +10,12 @@
 
 ### Resumen automatizado
 
-- Referencias totales existentes: **217**.
-- **116** referencias con lectura completa pendiente o parcial: **107** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
+- Referencias totales existentes: **219**.
+- **115** referencias con lectura completa pendiente o parcial: **106** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
 - **51** con PDF previamente revisado o metadatos tomados del PDF: **no solicitar copia de entrada**, pero revisar si la extracción metodológica fue completa.
-- **18** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
+- **21** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
 - **32** marcadas anteriormente como fuera del tema: no pedir PDF automáticamente; reevaluar si cambian las preguntas de alcance.
-- Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 217 referencias, y no debe asumirse que todos requieren PDF.
+- Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 219 referencias, y no debe asumirse que todos requieren PDF.
 
 ### Orden de trabajo
 
@@ -25,7 +25,7 @@
 4. Revisar los candidatos nuevos sin ficha y priorizar sueño, desarrollo craneofacial, función orofacial, fascia, respiración, adenoamígdalas, otitis y postura.
 5. Actualizar `estado_lectura` y la ficha **solo después de consultar la fuente**; nunca marcar «texto completo leído» porque se leyó un resumen.
 
-## PRIORIDAD 1 — textos completos pendientes o leídos parcialmente (107)
+## PRIORIDAD 1 — textos completos pendientes o leídos parcialmente (106)
 
 | ID | Autor/año | Referencia exacta | Área | Ficha | Enlace | Lectura registrada |
 |---|---|---|---|---|---|---|
@@ -53,7 +53,6 @@
 | LICHNOWSKA2024 | Lichnowska A; Gnatek A; Tyszkiewicz S; Kozakiewicz M; Zaghi S (2024) | A Prospective Randomized Control Trial of Lingual Frenuloplasty with Myofunctional Therapy in Patients with Maxillofacial Deformity in a Polish Cohort | Frenuloplastia | Sí | [Acceso/editor](https://doi.org/10.3390/jcm13185354) | Resumen y texto completo parcial |
 | MELONG2024 | Melong J; Bezuhly M; Hong P (2024) | The Effect of Tongue-Tie Release on Speech Articulation and Intelligibility | Habla | Sí | [Acceso/editor](https://doi.org/10.1177/01455613211064045) | Resumen verificado |
 | TOMITA2024 | Tomita D; Haga S; Tanzawa F et al. (2024) | Maxillary Protrusion with Severe Overjet Treated by Maxillary Anterior Alveolar Osteotomy | Clase II | Sí | [Acceso/editor](https://doi.org/10.1155/2024/3850765) | Resumen y texto completo parcial |
-| COPPELSON2023 | Coppelson K; Summersgill I; Hatcher D et al.; Zaghi S (2023) | Does Head and Neck Posture Affect Cone-Beam Computed Tomography Assessment of the Upper Airway? | Vía aérea y postura | Sí | [Acceso/editor](https://doi.org/10.1016/j.joms.2023.01.016) | Resumen verificado |
 | CORDRAY2023 | Cordray H; Mahendran GN; Tey CS; Nemeth J; Raol N (2023) | The Impact of Ankyloglossia Beyond Breastfeeding: A Scoping Review of Potential Symptoms | Habla | Sí | [Acceso/editor](https://doi.org/10.1044/2023_AJSLP-23-00169) | Resumen verificado |
 | GUO2023 | Guo RZ; Li LW; Zhang LW et al. (2023) | Effect of Premolar Extraction on the Upper Airway in Adult and Adolescent Orthodontic Patients: a Meta-analysis | Extracciones y vía aérea | Sí | [Acceso/editor](https://doi.org/10.3290/j.cjdr.b3978679) | Resumen verificado |
 | ISHMAN2023 | Ishman SL; Maturo S; Schwartz S et al. (2023) | Expert Consensus Statement: Management of Pediatric Persistent Obstructive Sleep Apnea After Adenotonsillectomy | Apnea persistente | Sí | [Acceso/editor](https://doi.org/10.1002/ohn.159) | Resumen verificado |
@@ -171,7 +170,9 @@ No pedir una nueva copia por defecto. Aun así, confirmar si las fichas son sufi
 
 `FELDENS2024` (2024) · `FELDENS2025` (2025) · `DINH2025` (2025) · `JONES2024A` (2024) · `JONES2024B` (2024) · `DELLOLIO2022` (2022) · `RODRIGUEZLARA2025` (2025) · `MAYAENERO2021` (2021) · `MCKENNA2024` (2024) · `OCALLAHAN2013` (2013) · `SLAGTER2021` (2021) · `PATEL2025` (2025) · `ALBERTSEN2024` (2024) · `VANBIERVLIET2020` (2020) · `NAIMER2003` (2003) · `KOTLOW2011` (2011) · `GUOTHGUMBERGER2025` (2025) · `GENNA2021` (2021) · `CRUZ2022` (2022) · `UNKEL2021` (2021) · `BHATT2025` (2025) · `HOANG2024` (2024) · `PALOMARES2023` (2023) · `CARNINO2024` (2024) · `CLAUSEN2024` (2024) · `CHINNADURAI2015` (2015) · `BISWAS2023` (2023) · `SEPET2015` (2015) · `VAZ2015` (2015) · `DESIMONE2025` (2025) · `POMPEIA2017` (2017) · `DESHKAR2024` (2024) · `KIM2025` (2025) · `CAMANES2024` (2024) · `PREEDEEWONG2024` (2024) · `MARINO2026` (2026) · `RODRIGUEZALCALA2021` (2021) · `LACERDA2014` (2014) · `ALTAAI2022` (2022) · `HUSSEIN2025` (2025) · `HO2025` (2025) · `GHORBANY2019` (2019) · `ASHLEY2025` (2025) · `MAHBOUB2016` (2016) · `USMAN2022` (2022) · `CORREA2024` (2024) · `SAHOO2024` (2024) · `KALRA2025` (2025) · `FERNANDEZSANCHEZ_WITS` () · `SUMARIO_CEFALOMETRICO` () · `QUINTESSENCE2011` (2011)
 
-## Ya consta lectura de texto completo/fuente oficial (18)
+## Ya consta lectura de texto completo/fuente oficial (21)
+
+**Tercera tanda de fuentes abiertas:** `COPPELSON2023` (texto completo del editor CC BY, tabla 3), `ENGELKE2011` (20 adultos, presión IOS/SPS) y `KNOESEL2012` (29 niños, coordinación lingual). En los tres se ha examinado el original y no hace falta solicitar PDF. [Síntesis](../conocimiento/postura-cervical-presion-subpalatina-deglucion.md).
 
 **Fuentes incorporadas y ya examinadas en segunda tanda:** `BANDYOPADHYAY2020` — metaanálisis 2020 con [manuscrito de autor abierto](https://doi.org/10.1016/j.sleep.2020.08.003), métodos y resultados leídos (sin renderizar figuras); y `CAREY2026` — [revisión Wiley 2026](https://doi.org/10.1111/joor.70304), texto HTML abierto revisado (17 originales sin reanálisis).
 
