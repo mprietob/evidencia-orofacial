@@ -19,12 +19,19 @@
 
 **Lectura justa:** Coppelson demuestra que **manipular la postura altera las mediciones** de vía aérea en CBCT; no demuestra que exista **compensación por obstrucción** tras extraer premolares. Una comparación de CBCT sin registrar NBC3 podría estar confundida por diferencias de adquisición, **sin que ello demuestre que las extracciones tengan efecto perjudicial**. Un estudio sobre cambio de MCA tampoco responde a un cambio real de AHI durante sueño.
 
+## Otra limitación de medición: repetibilidad entre tomografías
+
+- **Sun et al. 2024**, *J Dent Sci*, [texto completo abierto](../fuentes/articulos/2024-sun-repetibilidad-ct-via-aerea.md): compararon dos escáneres de **10 adultos CBCT** con dos escáneres de **10 adultos MDCT** (dos momentos por persona). A pesar de una repetición de lectura casi perfecta sobre las imágenes (**ICC ≈ 0,998–0,999**), la diferencia absoluta de **volumen orofaríngeo** entre dos CBCT del mismo paciente promedió **6097,1 ± 4616,69 mm³** usando Dolphin; con otro software y protocolo fue menor. Además, se observaron **~5°** de variación en lordosis cervical sin tratamiento entre las exploraciones.
+- **Alcance real:** no demuestra que todos los resultados de CBCT sean falsos ni que extraer premolares afecte/no afecte la vía aérea. Las imágenes se tomaron hasta con un año de separación y **CBCT erguido frente a MDCT supino**, de modo que no permite culpar únicamente a un equipo. Su aporte es que un cambio pre/post debe **superar la variación esperable del método** y que software, posición y segmentación deben ser comparables. **Volumen orofaríngeo y MCA son desenlaces distintos**.
+
+La combinación de Sun y Coppelson plantea **dos problemas medibles**, postura y reproducibilidad, sin convertirlos en argumento automático para invalidar cada resultado negativo.
+
 ## Postura de Marta (INTERPRETACION)
 
 [Marta, notas de trabajo, 17/10/2026] Ante un maxilar ya estrecho, cree que extraer premolares habría sido un error: más resistencia al paso del aire y peor inspiración profunda. Coincide con la crítica de Zaghi. Su forma de resumirlo: «los estudios que dicen que las extracciones no cambian la vía aérea no miden la postura del cuello, que es justo como el cuerpo compensa».
 
 ## Qué faltaría
 
-1. Estudios de extracciones frente a no extracciones con CBCT en posición estandarizada (NBC3 registrado) o con el NBC3 como variable.
+1. Estudios de extracciones frente a no extracciones con CBCT en posición estandarizada (NBC3 registrado) o con el NBC3 como variable, **repetibilidad test–retest documentada** y software/segmentación comparables.
 2. Medir también postura cervical, función (polisomnografía, flujo nasal) y síntomas, no solo volumen.
 3. Seguimiento longitudinal y grupos comparables en maloclusión y edad.
