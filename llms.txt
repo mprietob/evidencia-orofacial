@@ -13,8 +13,11 @@
 ## Navegación
 - conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md: 9 fuentes nuevas sobre rinitis, respiración bucal, adenoides, morfología, terapia miofuncional, otitis y sueño; incluye evidencia negativa
 - docs/REVISION-INTERDISCIPLINAR-2026-11.md: registro de búsqueda dirigida, alcance y etapas pendientes, no PRISMA
-- docs/PDFS-LECTURA-PENDIENTE-2026-11-03.md: inventario vigente de 115 lecturas pendientes entre 214 referencias
+- docs/PDFS-LECTURA-PENDIENTE-2026-11-03.md: inventario vigente de 116 lecturas pendientes entre 217 referencias
 - docs/REVISION-ABIERTOS-2026-11-03.md: auditoría de 11 documentos abiertos; distinguir texto completo de lecturas parciales y sólo abstract
+- conocimiento/miofuncional-pediatrica-resultados-contrapuestos.md: compara cambios antes/después, ensayos con control, resultados de deglución y adultos
+- conocimiento/criterios-diagnosticos-anki-2024-2026.md: fiabilidad, validez, LFPI, BTAT/TABBY, TRMR y límites de inferencia
+- docs/ENSAYOS-EN-CURSO.md: registro NCT07249944, TRMR y PSG sin resultados (NO es evidencia de efecto)
 
 - conocimiento/afirmaciones.md: matriz de afirmaciones con su grado de apoyo (VERIFICADO, INTERPRETACION, HIPOTESIS, SIN_DATOS)
 - conocimiento/evaluacion-funcional-lengua.md: cómo se mide la movilidad (TRMR-TIP, TRMR-LPS) y qué escalas existen
