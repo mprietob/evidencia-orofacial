@@ -1,0 +1,32 @@
+# Estudio: Coordination of Tongue Activity During Swallowing in Mouth-breathing Children
+
+- **ID:** KNOESEL2012
+- **Autores, año y revista:** Knösel M; Klein S; Bleckmann A; Engelke W. *Dysphagia* 2012;27(3):401–407 (publicación online 30/12/2011).
+- **DOI / PMID / URL:** DOI `10.1007/s00455-011-9383-8`; PMID `22207245`; PMCID `PMC3417098`; [texto completo abierto](https://link.springer.com/article/10.1007/s00455-011-9383-8).
+- **Tipo de estudio:** Estudio fisiológico **intrasujeto, prospectivo y de corto plazo**, con cinco condiciones repetidas de respiración/deglución, sin brazo externo aleatorizado ni seguimiento de crecimiento.
+- **Población y tamaño muestral:** **29 niños** de **6–16 años** (media 9,69; 13 niñas y 16 niños) reclutados en dos centros de ortodoncia de Santa Fe (Argentina) por **postura bucal abierta habitual**. **27/29** habían sido clasificados clínicamente como deglución «visceral».
+- **Definición diagnóstica y técnicas:** **Criterio de inclusión decisivo:** se exigió que el niño **pudiera colocar voluntariamente la lengua en la papila incisiva superior con la boca abierta**; quienes no lo consiguieron **fueron excluidos**. Sensores ópticos intraorales en férula palatina a nivel de primeros premolares registraron distancia lengua–paladar; termistores nasales detectaron pausa respiratoria de deglución (NAI). Cinco condiciones de **8 minutos**: F1 reposo respiratorio habitual; F2 reposo con pantalla/escudo oral (sellado labial artificial); F3 pantalla + instrucción de mantener contacto palatino; F4 pantalla + maniobra de reposicionamiento y deglución; F5 instrucción de contacto palatino sin pantalla. Umbral de contacto alto: >87,5 % de amplitud óptica calibrada.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: **no midió anquiloglosia** ni Kotlow/TRMR; por selección **excluyó limitaciones graves de alcance de la papila**. No equivale a un estudio de respuesta al tratamiento en población con restricción lingual.
+- **Variables de resultado:** Momento y duración de contacto lengua–paladar respecto a interrupción del flujo aéreo nasal durante deglución; proporción de **contacto temprano** (ya existe al comenzar NAI) frente a **tardío** (aparece después); patrón de reposo lingual posdeglución.
+- **Resultados NUMÉRICOS verificados en texto completo:**
+  - **542 actos de deglución** entre 29 niños bajo las cinco condiciones (número de observaciones **no equivale a 542 individuos independientes**).
+  - Tendencia a contacto temprano con pantalla en F2–F4: **58,72–62,18 %**; sin pantalla en F1/F5 hubo más equilibrio e incluso predominio de contacto tardío (**51,39–54,39 %** tardío).
+  - Las **maniobras con pantalla** F3/F4 aumentaron significativamente la frecuencia de contacto temprano frente a reposo habitual; diferencia global de condiciones reportada **p=0,04**.
+  - **Pantalla sola sin maniobras:** tendencia a contacto temprano, **no significativa** (F2 frente a F1, **p=0,068**).
+  - Pausa respiratoria de deglución (NAI) **≈370 ± 20 ms**; similar entre condiciones.
+  - A pesar de que **27/29** tenían diagnóstico clínico de deglución visceral, la polisensografía durante respiración basal **no mostró un predominio marcado** de contacto tardío: los autores cuestionan que la observación con labios abiertos discrimine por sí sola el patrón fisiológico.
+- **Límites metodológicos / confusores:** Muestra pequeña y seleccionada, **sin niños que no podían alcanzar la papila** (sesgo decisivo para la hipótesis de restricción funcional), ausencia de control sin intervención a largo plazo y sin cegamiento clínico confirmado. La misma persona produjo muchos actos, con potencial **dependencia intrapaciente** al usar frecuencias y χ²; antes de concluir error estadístico, comprobar si los análisis controlaron la agrupación por participante. La pantalla **sustituye mecánicamente** el sellado labial durante la prueba: efecto inmediato sobre una tarea, no adquisición espontánea duradera. No cuantificó crecimiento maxilar, AHI/PSG ni respuesta de niños con anquiloglosia. El patrón de «respirador bucal» se seleccionó clínicamente por postura abierta, no por monitorización prolongada de permeabilidad nasal.
+- **Hallazgos contrarios o no significativos:** **Pantalla sola p=0,068**; observación clínica de «deglución visceral» discordante de la distribución de contacto temprano/tardío en sensor; **respiración oral habitual no coincidió necesariamente con contacto tardío**. Estos resultados impiden presentar a todos los niños con boca abierta como si tuvieran idéntica mecánica lingual.
+- **Conclusión que sí permite / que no permite:** **Sí:** en niños capaces de elevar voluntariamente la lengua, un sello labial artificial **combinado con instrucciones** puede cambiar de inmediato la sincronización del contacto lengua–paladar durante deglución; la observación clínica de deglución tiene limitaciones. **No:** que la intervención modifique postura basal duradera, maduración ósea, respiración nocturna, apnea o que la lengua funcione igual en niños **que no logran elevarla**.
+- **Licencia y derechos:** Acceso abierto bajo licencia **CC BY-NC 2.0** (atribución no comercial). Ficha de síntesis propia; ni figuras ni PDF redistribuidos.
+- **Estado de lectura:** **Texto completo HTML editorial, métodos, resultados y discusión** verificados el 03/11/2026 en [Springer](https://link.springer.com/article/10.1007/s00455-011-9383-8). Las tablas se identificaron por su descripción, pero **no se reanalizó archivo bruto ni datos participante por participante**.
+
+## Por qué importa en nuestra investigación (INTERPRETACIÓN editorial)
+
+Este trabajo muestra que se puede observar **contacto lingual al paladar con medición directa** en vez de inferir función por apariencia. Pero hay una consecuencia del diseño que un agente debe detectar ante una objeción: **se excluyó explícitamente a los niños incapaces de colocar la lengua en la papila**. Por ello un resultado favorable de maniobras no responde a la pregunta de si una **restricción funcional severa** permite alcanzar el mismo objetivo, ni a si la frenectomía ayudaría. No es una crítica genérica, es una característica documentada que cambia la población relevante.
+
+La discordancia entre examen clínico y sensor invita a validar las medidas funcionales, sin afirmar que todo diagnóstico clínico sea inútil. [Relación con Engelke 2011, presiones intraorales](2011-engelke-presiones-intraorales.md).
+
+## Figuras
+
+No reproducidas. [Texto original](https://doi.org/10.1007/s00455-011-9383-8).
