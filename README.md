@@ -8,7 +8,7 @@ La ha reunido Marta Prieto, dermatóloga, a partir de lo que ha leído. Es conoc
 
 - **176 fichas** de estudios, revisiones y documentos de sociedades científicas en [fuentes/articulos/](fuentes/articulos/), con su DOI o PMID y el índice en [bibliografia.csv](fuentes/bibliografia.csv). Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: [docs/BUSQUEDA-2026-11.md](docs/BUSQUEDA-2026-11.md).
 - **Objeciones frecuentes**, con la evidencia a favor y en contra: [objeciones/](objeciones/).
-- **Un mapa interdisciplinar de evidencia** sobre [vía aérea, crecimiento craneofacial, sueño, terapia miofuncional y otitis](conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md), con [registro de la revisión por etapas](docs/REVISION-INTERDISCIPLINAR-2026-11.md) y [lista completa de textos completos/PDF por revisar](docs/PDFS-LECTURA-PENDIENTE-2026-11-03.md).
+- **Un mapa interdisciplinar de evidencia** sobre [vía aérea, crecimiento craneofacial, sueño, terapia miofuncional y otitis](conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md), con [registro de la revisión por etapas](docs/REVISION-INTERDISCIPLINAR-2026-11.md) y [lista completa de textos completos/PDF por revisar](docs/PDFS-LECTURA-PENDIENTE-2026-11-03.md) y [primera tanda práctica](docs/PRIMERA-TANDA-LECTURAS-2026-11-03.md).
 - **Una hipótesis abierta**, marcada como tal: [hipotesis/](hipotesis/).
 - **Síntesis por temas** y una [matriz de afirmaciones](conocimiento/afirmaciones.md) con su grado de apoyo.
 - **Las ideas públicas de Soroush Zaghi** (cirujano de vía aérea, coautor de las escalas de movilidad TRMR), cada una con el vídeo del que sale: [expertos/soroush-zaghi/](expertos/soroush-zaghi/).
