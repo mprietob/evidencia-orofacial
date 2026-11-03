@@ -1,5 +1,7 @@
 # Protocolo metodológico de Lingual Evidence
 
+**Lectura previa:** [ENFOQUE-CRITICO.md](ENFOQUE-CRITICO.md). En consultas normales no se exige auditar exhaustivamente cada estudio; ante objeciones, solo se investigan los límites pertinentes.
+
 ## Esquema de evidencia
 - **Dato anatómico / biomecánico**: puede explicar un mecanismo físicamente posible, **no** prueba resultados clínicos.
 - **Estudio observacional**: permite asociar variables; evaluar confusión, medición y dirección temporal.
@@ -26,7 +28,7 @@ Cada ficha lo dice en un campo propio, porque decide qué pregunta puede respond
 - `MIXTO`: combina ambos, o es una revisión con estudios de los dos tipos.
 - `NO APLICA`: el estudio no diagnostica anquiloglosia.
 
-Un estudio por longitud no responde a una pregunta sobre restricción funcional, ni a favor ni en contra. Las lecturas de Marta o del equipo van en su propio campo, marcadas como `INTERPRETACION` y con la ubicación de donde salen.
+Un estudio por longitud puede responder sobre longitud o inserción, pero no resuelve por sí solo una hipótesis específica de restricción funcional; una medida funcional tampoco está exenta de límites y no equivale automáticamente a prueba causal. Las lecturas de Marta o del equipo van en su propio campo, marcadas como `INTERPRETACION` y con la ubicación de donde salen.
 
 ## Escala editorial interna
 - `VERIFICADO`: dato sustentado por la fuente primaria consultada; no implica certeza clínica alta.
