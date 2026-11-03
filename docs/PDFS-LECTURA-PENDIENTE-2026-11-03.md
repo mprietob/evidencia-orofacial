@@ -2,7 +2,7 @@
 
 **Repositorio:** `mprietob/evidencia-frenillo` (privado). **Criterio:** inventario documental según `fuentes/bibliografia.csv` y `fuentes/indice-fichas.csv`. **No es una comprobación de acceso abierto artículo por artículo** ni implica que cada publicación necesite que la usuaria aporte un PDF.
 
-**Para empezar sin revisar 115 entradas a la vez:** [primera tanda práctica de 10 textos completos prioritarios](PRIMERA-TANDA-LECTURAS-2026-11-03.md), separando fuentes abiertas y ya leídas.
+**Para empezar sin revisar 116 entradas a la vez:** [primera tanda práctica de 10 textos completos prioritarios](PRIMERA-TANDA-LECTURAS-2026-11-03.md), separando fuentes abiertas y ya leídas.
 
 ## Cómo usar esta lista
 
@@ -10,12 +10,12 @@
 
 ### Resumen automatizado
 
-- Referencias totales existentes: **214**.
-- **115** referencias con lectura completa pendiente o parcial: **106** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
+- Referencias totales existentes: **217**.
+- **116** referencias con lectura completa pendiente o parcial: **107** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
 - **51** con PDF previamente revisado o metadatos tomados del PDF: **no solicitar copia de entrada**, pero revisar si la extracción metodológica fue completa.
-- **16** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
+- **18** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
 - **32** marcadas anteriormente como fuera del tema: no pedir PDF automáticamente; reevaluar si cambian las preguntas de alcance.
-- Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 214 referencias, y no debe asumirse que todos requieren PDF.
+- Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 217 referencias, y no debe asumirse que todos requieren PDF.
 
 ### Orden de trabajo
 
@@ -25,7 +25,7 @@
 4. Revisar los candidatos nuevos sin ficha y priorizar sueño, desarrollo craneofacial, función orofacial, fascia, respiración, adenoamígdalas, otitis y postura.
 5. Actualizar `estado_lectura` y la ficha **solo después de consultar la fuente**; nunca marcar «texto completo leído» porque se leyó un resumen.
 
-## PRIORIDAD 1 — textos completos pendientes o leídos parcialmente (106)
+## PRIORIDAD 1 — textos completos pendientes o leídos parcialmente (107)
 
 | ID | Autor/año | Referencia exacta | Área | Ficha | Enlace | Lectura registrada |
 |---|---|---|---|---|---|---|
@@ -145,6 +145,12 @@ Las referencias siguientes son **nuevas** y se suman a la tabla P1 anterior; se 
 
 **No te pediría PDFs de entrada** para `KANG2026AR` (BMC Pediatrics), `GRANDE2026` (Healthcare/PMC) ni `CNOCKAERT2026` (manuscrito institucional abierto): primero hay que leer esos textos accesibles. Para los otros seis, intentar antes el acceso institucional u open access y solicitar solo los que realmente estén cerrados.
 
+### Incorporación de segunda tanda con extracción parcial: lectura en profundidad pendiente
+
+| ID | Autor/año | Referencia exacta | Área | Ficha | Enlace | Estado |
+|---|---|---|---|---|---|---|
+| AVIVARPARDO2026 | Avivar-Pardo R; Montiel-Company JM; Camañes-Gonzalvo S et al. (2026) | Effectiveness of myofunctional therapy on polysomnographic and functional outcomes in paediatric obstructive sleep apnea: a systematic review | Miofuncional y apnea pediátrica | Sí | [Texto abierto](https://doi.org/10.1007/s41105-026-00682-4) | Resumen, métodos y resultados generales consultados; estudios primarios por auditar |
+
 ## PRIORIDAD 2 — restantes textos completos pendientes (9)
 
 | ID | Autor/año | Referencia exacta | Área | Ficha | Enlace | Lectura registrada |
@@ -165,7 +171,9 @@ No pedir una nueva copia por defecto. Aun así, confirmar si las fichas son sufi
 
 `FELDENS2024` (2024) · `FELDENS2025` (2025) · `DINH2025` (2025) · `JONES2024A` (2024) · `JONES2024B` (2024) · `DELLOLIO2022` (2022) · `RODRIGUEZLARA2025` (2025) · `MAYAENERO2021` (2021) · `MCKENNA2024` (2024) · `OCALLAHAN2013` (2013) · `SLAGTER2021` (2021) · `PATEL2025` (2025) · `ALBERTSEN2024` (2024) · `VANBIERVLIET2020` (2020) · `NAIMER2003` (2003) · `KOTLOW2011` (2011) · `GUOTHGUMBERGER2025` (2025) · `GENNA2021` (2021) · `CRUZ2022` (2022) · `UNKEL2021` (2021) · `BHATT2025` (2025) · `HOANG2024` (2024) · `PALOMARES2023` (2023) · `CARNINO2024` (2024) · `CLAUSEN2024` (2024) · `CHINNADURAI2015` (2015) · `BISWAS2023` (2023) · `SEPET2015` (2015) · `VAZ2015` (2015) · `DESIMONE2025` (2025) · `POMPEIA2017` (2017) · `DESHKAR2024` (2024) · `KIM2025` (2025) · `CAMANES2024` (2024) · `PREEDEEWONG2024` (2024) · `MARINO2026` (2026) · `RODRIGUEZALCALA2021` (2021) · `LACERDA2014` (2014) · `ALTAAI2022` (2022) · `HUSSEIN2025` (2025) · `HO2025` (2025) · `GHORBANY2019` (2019) · `ASHLEY2025` (2025) · `MAHBOUB2016` (2016) · `USMAN2022` (2022) · `CORREA2024` (2024) · `SAHOO2024` (2024) · `KALRA2025` (2025) · `FERNANDEZSANCHEZ_WITS` () · `SUMARIO_CEFALOMETRICO` () · `QUINTESSENCE2011` (2011)
 
-## Ya consta lectura de texto completo/fuente oficial (16)
+## Ya consta lectura de texto completo/fuente oficial (18)
+
+**Fuentes incorporadas y ya examinadas en segunda tanda:** `BANDYOPADHYAY2020` — metaanálisis 2020 con [manuscrito de autor abierto](https://doi.org/10.1016/j.sleep.2020.08.003), métodos y resultados leídos (sin renderizar figuras); y `CAREY2026` — [revisión Wiley 2026](https://doi.org/10.1111/joor.70304), texto HTML abierto revisado (17 originales sin reanálisis).
 
 **También cerrados con documentos originales de lectura gratuita:** `THOMAS2024` (AAP 2024) e `ICAP2024`; ver [acta de revisión de abiertos](REVISION-ABIERTOS-2026-11-03.md).
 
@@ -264,7 +272,7 @@ Pueden existir publicaciones relevantes para el **alcance ampliado** (p. ej., ob
 
 ## Limitaciones del inventario
 
-Actualizado tras la lectura de 9 fuentes abiertas: se han retirado de la lista de solicitudes 5 trabajos ya revisados. La tabla P1 adicional de la ampliación contiene las nueve referencias nuevas, que siguen pendientes de auditoría completa salvo lo indicado en sus fichas.
+Actualizado tras la lectura de 9 fuentes abiertas: se han retirado de la lista de solicitudes 5 trabajos ya revisados. La tabla P1 adicional de la primera ampliación contiene nueve referencias nuevas, con auditoría pendiente salvo lo indicado en sus fichas. La segunda tanda añadió dos fuentes ya revisadas y una con análisis parcial.
 
 - Se ha clasificado por **estado de lectura declarado**, no por inspección de cada PDF disponible en local o en el Drive privado.
 - La existencia de un enlace DOI/PubMed no significa que el texto completo sea libre.
