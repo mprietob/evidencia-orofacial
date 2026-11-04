@@ -1,6 +1,6 @@
 # Evidencia orofacial
 
-Biblioteca abierta de lo que dice la investigación sobre el frenillo lingual (anquiloglosia) y todo lo que lo rodea: lengua, maxilar, deglución, respiración y sueño. Reúne estudios, revisiones, consensos y la opinión de algunos expertos. Cada estudio tiene una ficha con su enlace, sus resultados verificados y sus límites. Está pensada para que la lean médicos, otros profesionales y cualquier persona. También para que se la puedas dar a tu propia IA y preguntarle.
+Biblioteca de investigación sobre lengua, frenillo lingual, maxilar, deglución, respiración, sueño y sus posibles conexiones. **El repositorio sigue privado por ahora** y está organizado para poder compartirlo cuando se decida publicarlo. Reúne estudios, revisiones, consensos y la opinión de algunos expertos. Cada estudio tiene una ficha con su enlace, sus resultados verificados y sus límites. Está pensada para que la lean médicos, otros profesionales y cualquier persona. También para que se la puedas dar a tu propia IA y preguntarle.
 
 La ha reunido Marta Prieto, dermatóloga (@dermaprieto en Instagram): **son los artículos que ha ido revisando sobre el tema.** **No es una revisión sistemática, porque el tema es demasiado amplio.** Es conocimiento en elaboración, y **toda aportación será más que bienvenida, e incluida**: [cómo aportar](#una-investigación-abierta-a-aportaciones).
 
@@ -9,7 +9,7 @@ La ha reunido Marta Prieto, dermatóloga (@dermaprieto en Instagram): **son los 
 - **183 fichas** de estudios, revisiones y documentos de sociedades científicas en [fuentes/articulos/](fuentes/articulos/), con su DOI o PMID y el índice en [bibliografia.csv](fuentes/bibliografia.csv). Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: [docs/BUSQUEDA-2026-11.md](docs/BUSQUEDA-2026-11.md).
 - **Objeciones frecuentes**, con la evidencia a favor y en contra: [objeciones/](objeciones/).
 - **Un mapa interdisciplinar de evidencia** sobre [vía aérea, crecimiento craneofacial, sueño, terapia miofuncional y otitis](conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md), con [registro de la revisión por etapas](docs/REVISION-INTERDISCIPLINAR-2026-11.md) y [lista completa de textos completos/PDF por revisar](docs/PDFS-LECTURA-PENDIENTE-2026-11-03.md) y [primera tanda práctica](docs/PRIMERA-TANDA-LECTURAS-2026-11-03.md), cuya [lectura de fuentes abiertas ya está documentada](docs/REVISION-ABIERTOS-2026-11-03.md). Se ha completado otra tanda de originales sobre [postura cervical, presión subpalatina, coordinación lingual y repetibilidad del CBCT](conocimiento/postura-cervical-presion-subpalatina-deglucion.md) ([acta de lectura](docs/REVISION-ABIERTOS-FASE3-2026-11-03.md)); también se ha ampliado el contraste sobre [terapia miofuncional infantil y apnea](conocimiento/miofuncional-pediatrica-resultados-contrapuestos.md), [validación de herramientas diagnósticas](conocimiento/criterios-diagnosticos-anki-2024-2026.md) y [ensayos clínicos registrados aún sin resultados](docs/ENSAYOS-EN-CURSO.md).
-- **Una hipótesis abierta**, marcada como tal: [hipotesis/](hipotesis/).
+- **Preguntas e hipótesis exploratorias**, sin atribuirlas como tesis personales de quien recopila las referencias: [hipotesis/](hipotesis/).
 - **Síntesis por temas** y una [matriz de afirmaciones](conocimiento/afirmaciones.md) con su grado de apoyo.
 - **Las ideas públicas de Soroush Zaghi** (cirujano de vía aérea, coautor de las escalas de movilidad TRMR), cada una con el vídeo del que sale: [expertos/soroush-zaghi/](expertos/soroush-zaghi/).
 - **Figuras** de artículos con licencia abierta, con su crédito: [figuras/](figuras/).
@@ -33,18 +33,24 @@ Con ese punto de partida, nadie tiene la última palabra. Lo útil es ver **qué
 
 ## Conectar los puntos
 
-**Un artículo puede demostrar o apoyar A → B, otro B → C y un tercero C → D, aunque todavía falte un estudio directo sobre A → D.** Este proyecto quiere reconstruir esas conexiones, valorar cada eslabón y formular **hipótesis que merezcan investigarse**, no dar una discusión por cerrada en cuanto alguien señala que falta el ensayo definitivo. Una hipótesis integrada no se confunde con un resultado demostrado, pero tampoco se descarta simplemente porque los estudios se hayan realizado por separado. [Así razona el agente](docs/ENFOQUE-CRITICO.md).
+[**Consultar las conexiones entre estudios y las preguntas que abren**](conocimiento/rutas-de-evidencia.md).
+
+**Un artículo puede observar A ↔ B, otro B ↔ C y un tercero C ↔ D, aunque todavía falte un estudio directo sobre A y D.** Este proyecto quiere reconstruir esas conexiones, valorar cada eslabón y formular **hipótesis que merezcan investigarse**, no dar una discusión por cerrada en cuanto alguien señala que falta el ensayo definitivo. Una hipótesis integrada no se confunde con un resultado demostrado, pero tampoco se descarta simplemente porque los estudios se hayan realizado por separado. [Así razona el agente](docs/ENFOQUE-CRITICO.md).
 
 Al leer revisiones sobre anquiloglosia hay **dos preguntas fundamentales**: **qué consideraron anquiloglosia** (longitud/aspecto frente a restricción funcional) y, cuando hablan de tratamiento, **qué llamaron exactamente cirugía** (tipo y alcance de la liberación y tratamientos acompañantes). La mezcla de definiciones es una fuente importante de heterogeneidad. Por ejemplo, [JADA 2024](fuentes/articulos/2024-povoa-santos-meta.md) incluyó criterios anatómicos y funcionales parciales; y [Kotarska](fuentes/articulos/2024-kotarska-frenotomia-desarrollo-facial.md) preguntó por los beneficios quirúrgicos pero seleccionó estudios que excluían a pacientes intervenidos.
 
 ## Una investigación abierta a aportaciones
 
-**Esto no es una revisión sistemática:** el tema es demasiado amplio. Es una biblioteca en construcción: no hemos leído todos los artículos publicados y puede haber estudios relevantes que falten. Agradecemos **cualquier aportación pertinente**, tanto si refuerza una hipótesis como si la contradice. **Toda aportación será más que bienvenida, e incluida:** con el DOI, PMID o enlace la verificamos y la incorporamos al inventario y a la síntesis correspondiente.
+**Esto no es una revisión sistemática:** el tema es demasiado amplio. Es una biblioteca en construcción: no se han leído todos los artículos publicados y puede haber estudios relevantes que falten. Agradecemos **cualquier aportación pertinente**, tanto si refuerza una hipótesis como si la contradice. **Toda aportación científica pertinente será más que bienvenida:** con el DOI, PMID o enlace se podrá comprobar e incorporar al inventario y, una vez examinada, a las fichas o síntesis correspondientes.
 
 - **Con cuenta de GitHub:** abre una propuesta en [Issues](https://github.com/mprietob/evidencia-orofacial/issues/new/choose) con la plantilla «Proponer un artículo». Crearse la cuenta es gratis y es un momento: lo explica la [guía](GUIA.md).
 - **Sin cuenta:** escribe por Instagram a **@dermaprieto** con el enlace o el DOI y una línea de por qué importa.
 
 [Cómo proponer referencias y correcciones](CONTRIBUTING.md).
+
+## ¿Qué se consideró cirugía del frenillo?
+
+[**Comparativa de definiciones diagnósticas y técnicas documentadas**](conocimiento/definiciones-intervencion-frenillo.md): los estudios de frenotomía, frenuloplastia y terapia miofuncional pueden estar estudiando poblaciones e intervenciones diferentes. Para interpretar las revisiones resulta útil identificar exactamente qué se midió y qué se hizo.
 
 ## Qué dicen las sociedades científicas
 
@@ -62,7 +68,7 @@ Cada ficha de [fuentes/articulos/](fuentes/articulos/) sigue la [plantilla](fuen
 
 - **Criterio diagnóstico de anquiloglosia.** `FUNCIONAL` (mide movilidad, por ejemplo con TRMR), `LONGITUD/ASPECTO` (longitud del frenillo, inserción o forma), `MIXTO` o `NO APLICA`.
 - **Resultados numéricos verificados.** Solo cifras comprobadas en el artículo o en su resumen. Lo que falta pone `PENDIENTE DE VERIFICAR`.
-- **Lectura de Marta o del equipo.** Es interpretación, no un resultado del estudio. Siempre va marcada como `INTERPRETACION`.
+- **Interpretaciones editoriales**, cuando las haya, diferenciadas de los resultados originales. Las preguntas de la biblioteca no deben presentarse como opiniones personales de quien la compila.
 
 El método completo está en [docs/METODOLOGIA.md](docs/METODOLOGIA.md).
 
