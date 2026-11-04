@@ -32,15 +32,37 @@ Si se cita un artículo, metaanálisis, consenso o guía para refutar o defender
 
 No presentes una lista automática de fallos. No uses «quizá hubo compensaciones» para invalidar todos los resultados negativos. Una objeción puede ser correcta, parcialmente correcta o estar mal planteada.
 
+**No cortes el razonamiento en «esto no demuestra aquello».** Tras señalar una limitación decisiva, investiga qué otros artículos pueden completar la explicación y plantea hipótesis integradoras claramente etiquetadas.
+
 ## Ejemplos
 
 **Póvoa-Santos et al., JADA 2024:** la revisión incluyó 11 estudios observacionales con diagnósticos heterogéneos, **no todos basados en Kotlow**. La longitud/inserción no tuvo una asociación agregada concluyente con clase de Angle (heterogeneidad alta), pero dos estudios que midieron reducción de apertura encontraron diferencias en clase III. La certeza fue baja/muy baja. Esto no demuestra ni una causa general ni la ausencia universal de relación entre **restricción funcional** y desarrollo craneofacial. [Ficha](../fuentes/articulos/2024-povoa-santos-meta.md) · [Objeción](../objeciones/anquiloglosia-maloclusion.md).
 
 **TRMR-TIP:** es una razón entre la apertura bucal con la punta en la papila y una apertura máxima de referencia. **El porcentaje depende de ambas mediciones**: si el denominador es anormalmente bajo, podría aparecer un valor alto con igual numerador. Es una **precaución teórica**, no la prueba de que un estudio concreto tenga ese sesgo. Tampoco alcanzar la papila con la punta equivale a evaluar el cuerpo lingual posterior ni la postura espontánea. [Medición funcional](../conocimiento/evaluacion-funcional-lengua.md).
 
-## Conexiones que se pueden investigar sin forzar conclusiones
+## Conectar la evidencia: A → B → C → D
 
-La biblioteca aspira a abarcar lengua y fascia, crecimiento mandibular y maxilar, nariz, amígdalas, vegetaciones, otitis, respiración oral, trastornos respiratorios del sueño, terapia miofuncional y postura. Una cadena de asociaciones procedentes de estudios distintos **no demuestra una cadena causal completa**. Identifica los eslabones probados y los que siguen siendo hipótesis.
+**La ausencia de un estudio directo A → D no significa que no podamos investigar la relación.** A menudo la ciencia avanza conectando resultados parciales: un trabajo estudia A → B, otro B → C y otro C → D. Si esos eslabones están bien sustentados y son compatibles en poblaciones, medidas y circunstancias, **la cadena permite construir una hipótesis razonada, biológicamente plausible y contrastable**.
+
+El agente debe **buscar activamente esas conexiones**, no limitarse a advertir que «A no demuestra D». Para cada hipótesis interdisciplinar:
+- Reconstruir la cadena con **estudios concretos por eslabón** y describir qué se observó realmente.
+- Señalar qué uniones tienen evidencia directa y cuáles requieren una inferencia (incluidas posibles causas compartidas o sentidos inversos).
+- Proponer el mecanismo integrado, explicar por qué resulta interesante y qué observación ayudaría a comprobarlo.
+- Considerar hallazgos que contradigan un eslabón importante, en lugar de buscar únicamente publicaciones compatibles.
+
+**La cadena no hereda automáticamente certeza causal de sus piezas:** asociaciones de poblaciones distintas no son una demostración matemática de A → D. Pero **sí pueden generar una sospecha científica fundamentada** que merece investigar. Esta distinción debe expresarse **una vez**, sin convertir cada párrafo de la ficha en una advertencia.
+
+La biblioteca explora, entre otras, conexiones entre lengua, fascia, crecimiento mandibular y maxilar, nariz, amígdalas, vegetaciones, otitis, respiración oral, sueño, terapia miofuncional y postura. Su valor añadido es **conectar los puntos** y mostrar qué estudios sostienen cada conexión.
+
+## Dos preguntas decisivas al valorar revisiones que dicen «no hay evidencia»
+
+**1. ¿Qué se consideró «anquiloglosia»?** Revisar si se agrupó anatomía visible/longitud/inserción del frenillo con **restricción funcional medida**; si se exploró la elevación anterior, la succión o elevación posterior y la postura habitual, o solo una parte. Una revisión puede tener métodos rigurosos de búsqueda y, aun así, responder a una **definición de exposición demasiado heterogénea** para la hipótesis funcional planteada. Examinarlo en sus estudios originales.
+
+**2. ¿Qué se consideró «cirugía de anquiloglosia»?** «Frenotomía», «frenectomía» y «frenuloplastia» no identifican necesariamente la misma intervención. Siempre que un resultado dependa de la técnica, registrar **criterio de indicación, localización y extensión de liberación, tejidos tratados, técnica, operador, terapia miofuncional/cotratamientos y seguimiento**, si esos datos están disponibles. Una incisión superficial y una liberación funcional con otra técnica o rehabilitación no deben darse por equivalentes sin comprobarlo. Tampoco debe darse por eficaz una técnica solo porque otra se estudió de manera insuficiente.
+
+**Ejemplo ya verificado:** [Póvoa-Santos/JADA 2024](../fuentes/articulos/2024-povoa-santos-meta.md) combina definiciones anatómicas y funcionales parciales en 11 estudios; la incertidumbre de sus resultados debe interpretarse atendiendo a esa mezcla. [Kotarska](../fuentes/articulos/2024-kotarska-frenotomia-desarrollo-facial.md), a pesar de preguntar por los efectos de la cirugía en el título, **excluyó pacientes operados previamente**: sus estudios seleccionados no son comparaciones de técnicas quirúrgicas. Estos son problemas **concretos comprobados**; no convertirlos en la afirmación de que *todas* las revisiones contrarias son deficientes.
+
+**Objetivo:** cuando una revisión concluye «evidencia insuficiente», averiguar *insuficiente para qué población, qué definición, qué operación y qué resultado*. Después, buscar estudios de los eslabones que permitan plantear hipótesis nuevas, aun cuando falte el estudio longitudinal directo.
 
 ## Cómo responder una objeción
 
