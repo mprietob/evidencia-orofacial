@@ -141,8 +141,9 @@ La ha reunido Marta Prieto, dermatóloga (@dermaprieto en Instagram): **son los 
 
 ## Qué es
 
-- **183 fichas** de estudios, revisiones y documentos de sociedades científicas en fuentes/articulos/, con su DOI o PMID y el índice en bibliografia.csv. Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: docs/BUSQUEDA-2026-11.md.
-- **Objeciones frecuentes**, con la evidencia a favor y en contra: objeciones/.
+- **188 fichas** de estudios, revisiones y documentos de sociedades científicas en fuentes/articulos/, con su DOI o PMID y el índice en bibliografia.csv. Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: docs/BUSQUEDA-2026-11.md.
+- **Objeciones frecuentes**, con resultados de estudios en distintos sentidos: objeciones/.
+- **Cobertura comprobada** de la bibliografía: 220 referencias, 188 fichas y cinco estudios recuperados.
 - **Un mapa interdisciplinar de evidencia** sobre vía aérea, crecimiento craneofacial, sueño, terapia miofuncional y otitis, con registro de la revisión por etapas y lista completa de textos completos/PDF por revisar y primera tanda práctica, cuya lectura de fuentes abiertas ya está documentada. Se ha completado otra tanda de originales sobre postura cervical, presión subpalatina, coordinación lingual y repetibilidad del CBCT (acta de lectura); también se ha ampliado el contraste sobre terapia miofuncional infantil y apnea, validación de herramientas diagnósticas y ensayos clínicos registrados aún sin resultados.
 - **Preguntas e hipótesis exploratorias**, sin atribuirlas como tesis personales de quien recopila las referencias: hipotesis/.
 - **Síntesis por temas** y una matriz de afirmaciones con su grado de apoyo.
@@ -337,6 +338,7 @@ En la literatura, el nombre «frenillo» puede referirse a **variables anatómic
 
 | Publicación | Definición utilizada en la ficha | Tratamiento/comparador descrito | Resultado recogido |
 |---|---|---|---|
+| Messner y Lalakea 2002 | Niños de 1 a 12 años; criterio inicial exacto pendiente en el abstract | Frenuloplastia, con comparación pre/post pero sin control | Cambios de movilidad medidos en mm y articulación evaluada en parte de la muestra |
 | O’Callahan 2013 | Lactantes, Coryllos I–IV (**anatómica**) | Frenotomía en consulta; la ficha no precisa planos ni extensión de liberación | Encuesta posterior de lactancia y dolor, sin grupo control |
 | Dinh 2025 | Recién nacidos, Hazelbaker (**aspecto + función**) | Frenotomía frente a procedimiento simulado (55 y 57 díadas) | Sin diferencia significativa inmediata en LATCH ni dolor |
 | Zaghi 2019 | Niños y adultos, clasificación funcional TRMR | Frenuloplastia con tijera y sutura, más terapia miofuncional previa | Encuestas de 348 respuestas con mejorías notificadas; sin grupo control |
@@ -700,16 +702,19 @@ Documentos de sociedades científicas, agencias y grupos de consenso sobre anqui
 <!-- archivo: objeciones/anquiloglosia-habla.md -->
 # Objeción O-004: «El frenillo no afecta al habla»
 
-**Estado:** evidencia enfrentada y de baja calidad en las dos direcciones. El criterio diagnóstico es el problema de fondo.
+**Estado:** los estudios comunican resultados diferentes según edad, selección de pacientes, herramientas de habla e intervención. El diagnóstico y el tipo de comparación importan.
 
 ## Cara A: no hay pruebas de efecto sobre el habla
 
 - **Kummer 2005**, *The ASHA Leader*. Artículo de opinión. Según notas de trabajo previas (sin verificar en el original), sostiene que la R inglesa puede producirse con la punta abajo y que no hay pruebas de que el frenillo cause problemas del habla. Texto no leído: `PENDIENTE DE VERIFICAR`. Ficha.
 - **Kummer 2025**, carta en *AJSLP* contra Cordray 2023. Argumento: incluso con la punta muy restringida se puede compensar y producir los fonemas con el mismo resultado acústico. Cita la revisión de la AHRQ (evidencia insuficiente) y el consenso de la AAO-HNS. Ficha.
+- **Salt 2020**, *Int J Pediatr Otorhinolaryngol*, 59 niños preescolares en tres grupos (frenillo previamente tratado, no tratado y sin diagnóstico): **sin diferencias significativas** de movilidad, producción de habla o inteligibilidad. Criterios exactos de clasificación de los grupos pendientes de lectura completa. Ficha.
 - **Melong 2024**, *Ear Nose Throat J*, 25 niños derivados por habla. Al mes de la frenotomía, sin mejora en articulación (GFTA-2 85,6 → 87,5; P=0,5) ni inteligibilidad. El 87,9 % de los errores eran propios de la edad. Ficha.
 - **Messner 2020**, consenso de ORL pediátricos. Ficha.
 
 ## Cara B: hay síntomas descritos más allá de la lactancia
+
+- **Messner y Lalakea 2002**, *Otolaryngol Head Neck Surg*: 30 niños intervenidos con frenuloplastia; protrusión media **14,2 → 25,8 mm** y elevación **5,2 → 22 mm**; de 15 reevaluados en habla, 9 mejoraron articulación. Cohorte pre/post sin comparador; criterio diagnóstico quirúrgico detallado pendiente. Ficha.
 
 - **Cordray 2023**, *AJSLP*, revisión de alcance de 26 estudios. Describe dificultades de habla y articulación, entre otros síntomas, y dice que los datos no son concluyentes. Autores de Emory (no del grupo de Zaghi, como a veces se ha atribuido). Los autores respondieron a Kummer en 2025 (PMID 39913269). Ficha.
 - Casos clínicos a favor: mencionados en notas de trabajo sin detalle. `PENDIENTE DE VERIFICAR`.
