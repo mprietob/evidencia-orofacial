@@ -24,6 +24,10 @@ La revisión de **Póvoa-Santos et al. (2024)** incluye 11 estudios observaciona
 - **Kotarska 2024:** revisión adicional con resultados diversos y certeza limitada. [Ficha](../fuentes/articulos/2024-kotarska-frenotomia-desarrollo-facial.md).
 - **Deregibus 2021:** algunos resultados mencionados en notas anteriores siguen **PENDIENTES DE VERIFICAR** en el original. [Ficha](../fuentes/articulos/2021-deregibus-funcion-lingual-ortodoncia.md).
 
+## Una nueva pieza relevante: fuerza y postura de lengua en adolescentes (2026)
+
+[**Ye et al. 2026**](../fuentes/articulos/2026-ye-fuerza-lingual-postura-clase-esqueletica.md) examinaron a **182 adolescentes**: en clase III, MTP **1,65 kg** frente a aproximadamente **2,20 kg** en clase I/II y TTI sagital de punta lingual **8,94 %** frente a **15–16 %**. En modelos ajustados por inclinación incisiva, **MTP (p=0,001)** y **TTI (p=0,004)** siguieron asociados al ANB, con **32,4 % de la asociación total** mediada estadísticamente por TTI. Aporta **mediciones simultáneas de fuerza, postura y morfología** que enriquecen la pregunta. El estudio **no clasificó frenillo** ni investigó intervención; además, excluyó respiración bucal predominante y deglución atípica. Es una vía de investigación distinta del metaanálisis JADA, no una refutación de sus datos.
+
 ## Qué se puede concluir
 
 **Sí:** la evidencia publicada y analizada por JADA hasta julio de 2022 es insuficiente para establecer una relación causal generalizable. Existen asociaciones específicas, resultados no significativos y heterogeneidad considerable.
