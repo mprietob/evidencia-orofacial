@@ -21,7 +21,7 @@
 
 ## El problema del criterio (INTERPRETACION)
 
-[Marta, notas de trabajo] Mismo problema que Marta señala en toda la literatura de anquiloglosia: si los estudios no seleccionan por restricción funcional (TRMR), pueden incluir niños sin restricción real y diluir cualquier efecto. En Melong 2024 la escala usada no consta en el resumen.
+**Cuestión metodológica:** si un estudio selecciona por apariencia o longitud, sus resultados pueden no describir la población definida por movilidad funcional. En Melong 2024, la escala usada todavía no consta en la lectura disponible.
 
 ## Qué faltaría
 
