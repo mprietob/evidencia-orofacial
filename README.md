@@ -29,7 +29,17 @@ Porque no hay criterios diagnósticos validados de anquiloglosia en los que todo
 - El consenso de otorrinos pediátricos de Estados Unidos **no llegó a acuerdo en 28 de sus 89 afirmaciones** ([Messner 2020](fuentes/articulos/2020-messner-consenso.md)). Sus autores lo atribuyen a lagunas de conocimiento y a falta de evidencia sobre el diagnóstico y el tratamiento. Tampoco pudieron recomendar ninguna escala diagnóstica.
 - Muchos estudios diagnostican por la longitud o el aspecto del frenillo. Otros miden cuánto se mueve la lengua. No responden a la misma pregunta. Por eso **cada ficha dice qué criterio usa**.
 
-Con ese punto de partida, nadie tiene la última palabra. Lo útil es ver qué dice cada estudio, cómo midió y qué no puede concluir.
+Con ese punto de partida, nadie tiene la última palabra. Lo útil es ver **qué encuentra cada trabajo y cómo encaja con los demás**.
+
+## Conectar los puntos
+
+**Un artículo puede demostrar o apoyar A → B, otro B → C y un tercero C → D, aunque todavía falte un estudio directo sobre A → D.** Este proyecto quiere reconstruir esas conexiones, valorar cada eslabón y formular **hipótesis que merezcan investigarse**, no dar una discusión por cerrada en cuanto alguien señala que falta el ensayo definitivo. Una hipótesis integrada no se confunde con un resultado demostrado, pero tampoco se descarta simplemente porque los estudios se hayan realizado por separado. [Así razona el agente](docs/ENFOQUE-CRITICO.md).
+
+Al leer revisiones sobre anquiloglosia hay **dos preguntas fundamentales**: **qué consideraron anquiloglosia** (longitud/aspecto frente a restricción funcional) y, cuando hablan de tratamiento, **qué llamaron exactamente cirugía** (tipo y alcance de la liberación y tratamientos acompañantes). La mezcla de definiciones es una fuente importante de heterogeneidad. Por ejemplo, [JADA 2024](fuentes/articulos/2024-povoa-santos-meta.md) incluyó criterios anatómicos y funcionales parciales; y [Kotarska](fuentes/articulos/2024-kotarska-frenotomia-desarrollo-facial.md) preguntó por los beneficios quirúrgicos pero seleccionó estudios que excluían a pacientes intervenidos.
+
+## Una investigación abierta a aportaciones
+
+**Esto no es una revisión sistemática exhaustiva.** Es una biblioteca en construcción: no hemos leído todos los artículos publicados y puede haber estudios relevantes que falten. Agradecemos **cualquier aportación pertinente**, tanto si refuerza una hipótesis como si la contradice. Con el DOI, PMID o enlace podemos verificarla e incorporarla al inventario y a la síntesis correspondiente. [Cómo proponer referencias y correcciones](CONTRIBUTING.md).
 
 ## Qué dicen las sociedades científicas
 
