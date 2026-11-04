@@ -4,6 +4,7 @@ En la literatura, el nombre «frenillo» puede referirse a **variables anatómic
 
 | Publicación | Definición utilizada en la ficha | Tratamiento/comparador descrito | Resultado recogido |
 |---|---|---|---|
+| [Messner y Lalakea 2002](../fuentes/articulos/2002-messner-frenuloplastia-habla.md) | Niños de 1 a 12 años; criterio inicial exacto pendiente en el abstract | Frenuloplastia, con comparación pre/post pero sin control | Cambios de movilidad medidos en mm y articulación evaluada en parte de la muestra |
 | [O’Callahan 2013](../fuentes/articulos/2013-ocallahan-frenotomia-anterior-posterior.md) | Lactantes, Coryllos I–IV (**anatómica**) | Frenotomía en consulta; la ficha no precisa planos ni extensión de liberación | Encuesta posterior de lactancia y dolor, sin grupo control |
 | [Dinh 2025](../fuentes/articulos/2025-dinh-ensayo-frenotomia-lactancia.md) | Recién nacidos, Hazelbaker (**aspecto + función**) | Frenotomía frente a procedimiento simulado (55 y 57 díadas) | Sin diferencia significativa inmediata en LATCH ni dolor |
 | [Zaghi 2019](../fuentes/articulos/2019-zaghi-frenuloplastia-348.md) | Niños y adultos, clasificación funcional TRMR | Frenuloplastia con tijera y sutura, más terapia miofuncional previa | Encuestas de 348 respuestas con mejorías notificadas; sin grupo control |
