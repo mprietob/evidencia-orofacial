@@ -4,16 +4,18 @@
 
 **Para empezar sin revisar 115 entradas a la vez:** [primera tanda práctica de 9 textos completos prioritarios](PRIMERA-TANDA-LECTURAS-2026-11-03.md), separando fuentes abiertas y ya leídas.
 
+**Actualización 04/11/2026:** se han incorporado [dos estudios abiertos nuevos](REVISION-ABIERTOS-FASE4-2026-11-04.md) ya leídos y completado la lectura de Ricke y Malhotra; **ninguno necesita PDF facilitado por la usuaria**. Los **115 pendientes** son la lista de trabajo original por estados del 03/11; queda pendiente recalcular un desglose actualizado completo por categorías para no confundir estados heredados de lectura parcial, PDF aportado y texto íntegro leído.
+
 ## Cómo usar esta lista
 
 **«Necesito el PDF» significa «necesito poder consultar el texto completo para auditar métodos y resultados»**. Antes de pedir un PDF, hay que intentar acceso abierto en la editorial, PubMed Central o repositorio institucional, y comprobar duplicados. Si se encuentra en abierto, no hay que solicitarlo. Si es de pago y ya dispones de él, basta con facilitarlo **fuera del repositorio público** (no subir PDFs con derechos de editoriales a GitHub). No pedir archivos de estudios cuya pertinencia no esté confirmada. El inventario **no demuestra** que el PDF no exista en tu ordenador ni en tu biblioteca personal.
 
 ### Resumen automatizado
 
-- Referencias totales existentes: **220**.
+- Referencias totales existentes: **222** (actualización del inventario el 04/11).
 - **115** referencias con lectura completa pendiente o parcial: **106** de primera prioridad temática/metodológica y **9** de segunda prioridad. **Estas son la lista completa de textos completos por conseguir o consultar**, según los estados registrados en la bibliografía.
-- **51** con PDF previamente revisado o metadatos tomados del PDF: **no solicitar copia de entrada**, pero revisar si la extracción metodológica fue completa.
-- **22** con lectura de texto completo/fuente oficial registrada: **no pedir salvo duda concreta**.
+- **51** con PDF previamente revisado o metadatos tomados del PDF **en el corte original del 03/11**: no solicitar copia de entrada. El desglose por estado requiere regeneración tras las nuevas lecturas; no tratar ese recuento histórico como cifra actual.
+- **22** con lectura de texto completo/fuente oficial registrada **en el corte original del 03/11**. Desde entonces también se han leído Ricke 2005, Malhotra 2020, Zheng 2023 y Ye 2026; [registro de la tanda](REVISION-ABIERTOS-FASE4-2026-11-04.md).
 - **32** marcadas anteriormente como fuera del tema: no pedir PDF automáticamente; reevaluar si cambian las preguntas de alcance.
 - Además, **34** artículos de la búsqueda de 2025–2026 no fichados y **140** pendientes de cribado: son **otro conjunto de candidatos**, NO están necesariamente dentro de estas 220 referencias, y no debe asumirse que todos requieren PDF.
 
