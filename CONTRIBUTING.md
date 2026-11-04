@@ -2,7 +2,7 @@
 
 **Esto no es una revisión sistemática cerrada:** puede haber artículos que aún no hemos leído o localizado. **Toda aportación pertinente es bienvenida**, también cuando cuestiona las hipótesis del proyecto. Queremos incorporarla al inventario con su referencia y, tras examinarla, a las fichas o síntesis que corresponda.
 
-Para contribuir, basta con enviarnos el **DOI, PMID o enlace**, y, si quieres, el hallazgo que aporta, una objeción o una conexión con otros estudios. Cuando se habilite el acceso público al repositorio, también podrán utilizarse las «issues» de GitHub.
+Para contribuir, basta con enviarnos el **DOI, PMID o enlace**, y, si quieres, el hallazgo que aporta, una objeción o una conexión con otros estudios. Puedes mandarlo por GitHub, con una «issue» y la plantilla «Proponer un artículo», o por Instagram a @dermaprieto si no tienes cuenta. **Toda aportación será incluida**, diga lo que diga.
 
 **Buscamos conexiones:** un artículo puede respaldar A → B, otro B → C y otro C → D; aunque falte un estudio directo de A → D, esa cadena puede inspirar una hipótesis científica que merece investigar.
 

@@ -1,8 +1,8 @@
-# Evidencia sobre el frenillo lingual
+# Evidencia orofacial
 
-Biblioteca abierta de lo que dice la investigación sobre el frenillo lingual (anquiloglosia): estudios, revisiones, consensos y la opinión de algunos expertos. Cada estudio tiene una ficha con su enlace, sus resultados verificados y sus límites. Está pensada para que la lean médicos, otros profesionales y cualquier persona. También para que se la puedas dar a tu propia IA y preguntarle.
+Biblioteca abierta de lo que dice la investigación sobre el frenillo lingual (anquiloglosia) y todo lo que lo rodea: lengua, maxilar, deglución, respiración y sueño. Reúne estudios, revisiones, consensos y la opinión de algunos expertos. Cada estudio tiene una ficha con su enlace, sus resultados verificados y sus límites. Está pensada para que la lean médicos, otros profesionales y cualquier persona. También para que se la puedas dar a tu propia IA y preguntarle.
 
-La ha reunido Marta Prieto, dermatóloga, a partir de lo que ha leído. Es conocimiento en elaboración. **A 03/11/2026 el repositorio sigue siendo privado y el mapa interdisciplinar es una búsqueda dirigida, no una revisión sistemática terminada.**
+La ha reunido Marta Prieto, dermatóloga (@dermaprieto en Instagram): **son los artículos que ha ido revisando sobre el tema.** **No es una revisión sistemática, porque el tema es demasiado amplio.** Es conocimiento en elaboración, y **toda aportación será más que bienvenida, e incluida**: [cómo aportar](#una-investigación-abierta-a-aportaciones).
 
 ## Qué es
 
@@ -39,7 +39,12 @@ Al leer revisiones sobre anquiloglosia hay **dos preguntas fundamentales**: **qu
 
 ## Una investigación abierta a aportaciones
 
-**Esto no es una revisión sistemática exhaustiva.** Es una biblioteca en construcción: no hemos leído todos los artículos publicados y puede haber estudios relevantes que falten. Agradecemos **cualquier aportación pertinente**, tanto si refuerza una hipótesis como si la contradice. Con el DOI, PMID o enlace podemos verificarla e incorporarla al inventario y a la síntesis correspondiente. [Cómo proponer referencias y correcciones](CONTRIBUTING.md).
+**Esto no es una revisión sistemática:** el tema es demasiado amplio. Es una biblioteca en construcción: no hemos leído todos los artículos publicados y puede haber estudios relevantes que falten. Agradecemos **cualquier aportación pertinente**, tanto si refuerza una hipótesis como si la contradice. **Toda aportación será más que bienvenida, e incluida:** con el DOI, PMID o enlace la verificamos y la incorporamos al inventario y a la síntesis correspondiente.
+
+- **Con cuenta de GitHub:** abre una propuesta en [Issues](https://github.com/mprietob/evidencia-orofacial/issues/new/choose) con la plantilla «Proponer un artículo». Crearse la cuenta es gratis y es un momento: lo explica la [guía](GUIA.md).
+- **Sin cuenta:** escribe por Instagram a **@dermaprieto** con el enlace o el DOI y una línea de por qué importa.
+
+[Cómo proponer referencias y correcciones](CONTRIBUTING.md).
 
 ## Qué dicen las sociedades científicas
 
@@ -69,14 +74,17 @@ Esta biblioteca son archivos de texto (Markdown y CSV). Cualquier IA que pueda l
 
 En una IA de chat, pega en las instrucciones del proyecto las reglas de [docs/INSTRUCCIONES-IA.md](docs/INSTRUCCIONES-IA.md). Para una pregunta suelta basta con esto:
 
-> Usa como fuente el repositorio https://github.com/mprietob/evidencia-frenillo. Lee primero AGENTS.md, docs/ENFOQUE-CRITICO.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). Di qué criterio diagnóstico usa cada estudio. Separa lo que dice el estudio de la interpretación. Si algo no está, dilo.
+> Usa como fuente el repositorio https://github.com/mprietob/evidencia-orofacial. Lee primero AGENTS.md, docs/ENFOQUE-CRITICO.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). Di qué criterio diagnóstico usa cada estudio. Separa lo que dice el estudio de la interpretación. Si algo no está, dilo.
+
+**¿Nunca has usado GitHub?** Tienes una [guía paso a paso](GUIA.md): qué IA usar, cómo darle la biblioteca y cómo crearte una cuenta si quieres aportar.
 
 Formas de dárselo, de más sencilla a más técnica:
 
+0. **Un solo archivo (lo más fácil, también con cuentas gratuitas).** Descarga [biblioteca-completa.md](biblioteca-completa.md), que lo junta todo, y súbelo a NotebookLM (lo mejor para un archivo de este tamaño), ChatGPT o Gemini. Claude puede decir que no cabe; entonces usa NotebookLM o la forma 1.
 1. **Subir los archivos.** En GitHub, botón verde «Code» y «Download ZIP». Descomprime y sube las carpetas que te interesen a un Proyecto de Claude, a un GPT o proyecto de ChatGPT, a NotebookLM o a Gemini. *Comprobado:* GitHub ofrece la descarga en ZIP de cualquier repositorio público. *Pendiente de probar con este repositorio:* el límite de archivos de cada aplicación. Si no caben todos, sube primero `llms.txt`, `AGENTS.md`, `objeciones/`, `conocimiento/` y las fichas del tema que te interese.
 2. **Pegar el enlace en un chat con búsqueda web.** Pide que lea `llms.txt` y las fichas. *Comprobado:* los archivos de un repositorio público se pueden leer como texto en `raw.githubusercontent.com` sin cuenta. *Pendiente de probar:* si cada IA consigue abrir GitHub desde su navegación, que cambia según la aplicación y el plan.
-3. **Conectarlo como servidor MCP con GitMCP** (gratuito, de terceros). La dirección sería `https://gitmcp.io/mprietob/evidencia-frenillo`. En Claude se añade como conector personalizado. *Comprobado* el 02/11/2026 con otro repositorio público: GitMCP responde y ofrece herramientas para leer la documentación, buscar en ella y buscar en los archivos. *Pendiente de probar:* con este repositorio y dentro de cada aplicación.
-4. **Clonarlo y preguntar desde una IA de terminal** (Claude Code, Codex u otras): `git clone https://github.com/mprietob/evidencia-frenillo`. Hay un archivo de entrada para cada herramienta: `AGENTS.md` (Codex y otras), `CLAUDE.md` (Claude Code), `GEMINI.md` (Gemini CLI) y `.github/copilot-instructions.md` (GitHub Copilot). Todos llevan a las mismas reglas. Para mantener la biblioteca, los pasos están en [docs/TAREAS-AGENTES.md](docs/TAREAS-AGENTES.md). *Comprobado:* Claude Code lee `CLAUDE.md`. *Pendiente de probar con este repositorio:* que cada una de las otras herramientas cargue su archivo.
+3. **Conectarlo como servidor MCP con GitMCP** (gratuito, de terceros). La dirección sería `https://gitmcp.io/mprietob/evidencia-orofacial`. En Claude se añade como conector personalizado. *Comprobado* el 02/11/2026 con otro repositorio público: GitMCP responde y ofrece herramientas para leer la documentación, buscar en ella y buscar en los archivos. *Pendiente de probar:* con este repositorio y dentro de cada aplicación.
+4. **Clonarlo y preguntar desde una IA de terminal** (Claude Code, Codex u otras): `git clone https://github.com/mprietob/evidencia-orofacial`. Hay un archivo de entrada para cada herramienta: `AGENTS.md` (Codex y otras), `CLAUDE.md` (Claude Code), `GEMINI.md` (Gemini CLI) y `.github/copilot-instructions.md` (GitHub Copilot). Todos llevan a las mismas reglas. Para mantener la biblioteca, los pasos están en [docs/TAREAS-AGENTES.md](docs/TAREAS-AGENTES.md). *Comprobado:* Claude Code lee `CLAUDE.md`. *Pendiente de probar con este repositorio:* que cada una de las otras herramientas cargue su archivo.
 
 Aunque la IA cite bien, revisa la ficha original y el artículo. Las IA se equivocan.
 
@@ -86,7 +94,7 @@ Ver [LICENCIA.md](LICENCIA.md). Los textos propios tienen una licencia propuesta
 
 ## Contribuir
 
-Si encuentras un error, un estudio que falta o una cifra mal copiada, abre una «issue» en GitHub con la referencia. Cómo se añade una ficha: [CONTRIBUTING.md](CONTRIBUTING.md). Preguntas que siguen abiertas: [docs/PREGUNTAS-ABIERTAS.md](docs/PREGUNTAS-ABIERTAS.md).
+Si encuentras un error, un estudio que falta o una cifra mal copiada, abre una «issue» en GitHub con la plantilla «Proponer un artículo», o escribe por Instagram a @dermaprieto. Cómo se añade una ficha: [CONTRIBUTING.md](CONTRIBUTING.md). Preguntas que siguen abiertas: [docs/PREGUNTAS-ABIERTAS.md](docs/PREGUNTAS-ABIERTAS.md).
 
 ## Privacidad
 

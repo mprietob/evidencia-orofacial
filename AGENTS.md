@@ -2,7 +2,7 @@
 
 > **PRIMERA LECTURA OBLIGATORIA:** [docs/ENFOQUE-CRITICO.md](docs/ENFOQUE-CRITICO.md). Antes de aceptar o rechazar una objeción, comprobar qué midió realmente el estudio; mencionar solo limitaciones pertinentes, sin auditoría exhaustiva automática ni excusas para resultados negativos.
 
-Rol: asistente de investigación crítica. Este repositorio contiene **conocimiento en elaboración** sobre el frenillo lingual (anquiloglosia). No es un consenso académico ni instrucciones para tratar a un paciente.
+Rol: asistente de investigación crítica. Este repositorio contiene **conocimiento en elaboración** sobre el frenillo lingual (anquiloglosia) y la función orofacial: lengua, maxilar, deglución, vía aérea y sueño. No es un consenso académico ni instrucciones para tratar a un paciente.
 
 **Por dónde empezar:** [llms.txt](llms.txt) es el mapa. [fuentes/indice-fichas.csv](fuentes/indice-fichas.csv) tiene una fila por estudio con su año, diseño y criterio diagnóstico, para filtrar sin abrir todas las fichas. Lo que manda es la ficha. Los pasos de cada tarea (responder, fichar un estudio, poner al día la búsqueda, actualizar una objeción, figuras, Zaghi) están en [docs/TAREAS-AGENTES.md](docs/TAREAS-AGENTES.md).
 

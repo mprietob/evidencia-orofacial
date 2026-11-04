@@ -1,0 +1,38 @@
+name: Proponer un artículo
+description: Un estudio que falta, un dato que está mal o una lectura distinta de un estudio.
+title: "[Artículo] "
+labels: ["aportación"]
+body:
+  - type: markdown
+    attributes:
+      value: "Gracias por aportar. Toda aportación se revisa y se incluye con su ficha, también si contradice lo que hay aquí."
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: ¿Qué propones?
+      options:
+        - Un artículo que falta
+        - Corregir un dato de una ficha
+        - Otra lectura de un estudio
+        - Otra cosa
+    validations:
+      required: true
+  - type: input
+    id: enlace
+    attributes:
+      label: DOI, PMID o enlace al artículo
+      placeholder: "10.1016/... o https://pubmed.ncbi.nlm.nih.gov/..."
+    validations:
+      required: true
+  - type: textarea
+    id: porque
+    attributes:
+      label: ¿Por qué importa?
+      description: Una o dos líneas. Si corriges una ficha, dinos cuál y qué dato.
+    validations:
+      required: true
+  - type: input
+    id: quien
+    attributes:
+      label: Tu profesión (opcional)
+      placeholder: "Logopeda, odontóloga, ORL, paciente…"

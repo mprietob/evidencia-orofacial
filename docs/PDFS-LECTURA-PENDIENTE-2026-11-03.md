@@ -1,6 +1,6 @@
 # Inventario completo de textos completos/PDF pendientes — 03/11/2026
 
-**Repositorio:** `mprietob/evidencia-frenillo` (privado). **Criterio:** inventario documental según `fuentes/bibliografia.csv` y `fuentes/indice-fichas.csv`. **No es una comprobación de acceso abierto artículo por artículo** ni implica que cada publicación necesite que la usuaria aporte un PDF.
+**Repositorio:** `mprietob/evidencia-orofacial` (privado). **Criterio:** inventario documental según `fuentes/bibliografia.csv` y `fuentes/indice-fichas.csv`. **No es una comprobación de acceso abierto artículo por artículo** ni implica que cada publicación necesite que la usuaria aporte un PDF.
 
 **Para empezar sin revisar 115 entradas a la vez:** [primera tanda práctica de 9 textos completos prioritarios](PRIMERA-TANDA-LECTURAS-2026-11-03.md), separando fuentes abiertas y ya leídas.
 

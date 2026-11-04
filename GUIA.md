@@ -1,0 +1,43 @@
+# Guía: cómo consultar esta biblioteca con una IA
+
+No hace falta saber nada de GitHub. Necesitas una IA: NotebookLM, ChatGPT, Claude o Gemini. Las cuentas gratuitas sirven para la forma 2.
+
+## 1. Mirarla sin más (sin cuenta)
+
+Un repositorio público se ve entero sin cuenta. Las fichas están en la carpeta `fuentes/articulos`, el índice por temas en `llms.txt` y la portada en el README.
+
+## 2. Preguntarle a una IA subiendo un solo archivo (gratis)
+
+1. Abre [biblioteca-completa.md](biblioteca-completa.md). Arriba a la derecha hay un botón para descargarlo («Download raw file», una flecha hacia abajo).
+2. Súbelo a tu IA:
+   - **NotebookLM** (gratis, de Google) es la mejor opción para este archivo, porque es grande: crea un cuaderno y pulsa «Añadir fuente».
+   - **ChatGPT** o **Gemini:** el clip o el «+» del chat.
+   - **Claude:** puede decirte que el archivo no cabe en una conversación. Si pasa, usa NotebookLM.
+3. Pega esto antes de tu pregunta:
+
+> Responde solo con la información de este archivo y sigue sus reglas. Cita la ficha y el estudio (año y DOI o PMID). Si un estudio es sobre frenillo, di qué criterio diagnóstico usó. Separa lo que dice el estudio de la interpretación. Si algo no está en el archivo, dilo en vez de inventarlo.
+
+4. Pregunta lo que quieras. Por ejemplo: «¿Qué estudios relacionan el frenillo con la apnea en adultos, y qué límites tienen?».
+
+**El archivo es una foto del día en que lo descargas.** Si se añaden estudios, vuelve a descargarlo.
+
+## 3. Conectar la IA al repositorio
+
+Así la IA lee siempre la versión al día. Las opciones cambian a menudo y dependen del plan de cada IA. Si no te aparecen, usa la forma 2, que siempre funciona.
+
+- **Pegar el enlace** del repositorio en un chat con búsqueda web y pedirle que lea `llms.txt` y las fichas. No siempre consigue leerlas todas.
+- **Conector de GitHub** en ChatGPT o Claude. Según lo que hemos encontrado, en ChatGPT está en los planes de pago; en la cuenta gratuita la opción aparece pero no se puede usar.
+- **GitMCP**, gratuito, para repositorios públicos: `https://gitmcp.io/mprietob/evidencia-orofacial`. En Claude se añade como conector personalizado.
+
+Más formas, también para IA de terminal, en el apartado «Cómo preguntarle con tu propia IA» del [README](README.md).
+
+## Cómo crearte una cuenta de GitHub (para aportar)
+
+Solo hace falta si quieres proponer un artículo por GitHub. Si no, escribe por Instagram a @dermaprieto.
+
+1. Entra en github.com y pulsa **Sign up**.
+2. Escribe tu correo, una contraseña y un nombre de usuario.
+3. Te llega un código al correo: cópialo. Ya está, es gratis.
+4. Vuelve a este repositorio, entra en **Issues**, pulsa **New issue** y elige **Proponer un artículo**. Rellena los campos y envía.
+
+Aunque la IA cite bien, revisa la ficha original y el artículo. Las IA se equivocan.
