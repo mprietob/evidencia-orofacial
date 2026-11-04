@@ -4,12 +4,13 @@ Pasos para un agente de IA (Claude Code, Codex, Gemini, Copilot u otro) que resp
 
 ## Límites para cualquier tarea
 
-- **No publiques nada.** No hagas `git push`, no abras «pull requests», no crees repositorios ni cambies su visibilidad sin el sí expreso de la persona que mantiene la biblioteca. Los cambios se quedan en commits locales.
+- **No cambies la visibilidad ni difundas el material.** Las tareas de mantenimiento expresamente solicitadas permiten commits en el repositorio **privado existente**. Publicar, crear un sitio, compartir externamente o cambiar permisos requiere autorización específica.
 - **Nada de pacientes.** Ni datos, ni fotos, ni casos, ni historias, aunque estén anonimizados. Tampoco de menores ni de familiares.
 - **Nada con derechos de terceros.** Ni PDF de artículos con derechos de editorial, ni transcripciones de vídeos, ni figuras sin licencia CC BY, CC BY-SA o CC0. Citas literales cortas, con atribución.
 - **Ningún secreto.** Ni contraseñas, ni claves, ni tokens, ni configuración de conectores.
 - **No inventes.** Si un dato no está comprobado, escribe `PENDIENTE DE VERIFICAR` y di cómo comprobarlo.
-- **Valida antes de cada commit:** `python scripts/validar.py` debe terminar con «errores: 0».
+- **Valida antes de cada commit:** `python scripts/validar.py` debe terminar con «errores: 0». Si cambias un archivo incluido en `biblioteca-completa.md`, regenera también el documento con `python scripts/biblioteca_completa.py`.
+- **No atribuyas tesis a la compiladora:** una conexión o hipótesis formulada editorialmente es una **pregunta abierta**, salvo declaración personal explícita y verificable.
 
 **Lectura previa obligatoria:** [ENFOQUE-CRITICO.md](ENFOQUE-CRITICO.md). Respuestas ordinarias breves; ante objeciones, comprobar la pertinencia de medidas y límites con el mismo rigor para hallazgos positivos y negativos.
 
