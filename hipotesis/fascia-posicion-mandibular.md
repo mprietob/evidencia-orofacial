@@ -2,9 +2,9 @@
 
 **Estado: HIPÓTESIS DE INVESTIGACIÓN, NO HECHO PROBADO.**
 
-## De dónde sale
+## Origen de la pregunta
 
-De observaciones clínicas informales, sin medidas estandarizadas ni grupo de comparación. Aquí no se recoge ningún caso concreto ni datos de ninguna persona. Una secuencia temporal invita a investigar, pero **no demuestra mecanismo ni causalidad**.
+Es una **línea de investigación exploratoria** surgida al relacionar trabajos de anatomía fascial con estudios sobre función orofacial y posición mandibular. Este documento no expresa una tesis clínica personal de quien compila las referencias.
 
 ## Mecanismo propuesto
 
@@ -34,10 +34,6 @@ La fascia del suelo de boca está conectada anatómicamente con la superficie in
 - Mills et al., 2020, DOI: 10.1155/2020/1820978 (histología de fascia).
 - Póvoa-Santos et al., 2024, DOI: 10.1016/j.adaj.2023.09.014 (certeza baja/muy baja para maloclusiones; no prueba esta hipótesis mecánica).
 - He et al., 2026, DOI: 10.1007/s11325-026-03618-x ([ficha](../fuentes/articulos/2026-he-frenillo-mandibula-apnea.md)). En 222 adultos, frenillo más corto y menor TRMR se asocian a una mandíbula más retrasada y pequeña, con correlaciones débiles. Es compatible con H-001, pero los autores proponen también la dirección contraria: mandíbula pequeña primero y frenillo corto como consecuencia. No discrimina entre ambas.
-
-## Postura de Marta (INTERPRETACION)
-
-[Marta, notas de trabajo, 17/10/2026] Cree que un frenillo anterior tira de la mandíbula hacia atrás y mantiene la lengua baja, y que liberándolo a tiempo la mandíbula podría crecer con normalidad. Es su tesis clínica: se dice como tal («yo creo», «probablemente»), no como hecho.
 
 ## Pendientes
 - [ ] Búsqueda sistemática específica de estudios pre/post de posición mandibular tras frenotomía/frenuloplastia (funcional vs esquelética).
