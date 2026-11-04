@@ -4,6 +4,8 @@
 
 ## Principio rector
 
+**El objetivo es relacionar investigaciones, no defender una hipótesis personal de quien ha reunido las referencias.** Las rutas de evidencia y preguntas surgidas aquí son recursos exploratorios del proyecto, salvo que un autor concreto haya formulado expresamente una hipótesis en su publicación.
+
 No basta con responder «no hay evidencia» o «una revisión dice que no existe relación». Tampoco basta con encontrar una asociación favorable. Antes de aceptar o rechazar una afirmación, identifica la población, el diagnóstico, la variable medida, el desenlace, la precisión y los límites relevantes.
 
 **Aplica el mismo rigor a estudios favorables y contrarios.** Una limitación metodológica no demuestra que la hipótesis alternativa sea cierta; un mecanismo anatómicamente plausible no prueba consecuencias clínicas. Los resultados negativos robustos sí deben debilitar las hipótesis que verdaderamente ponen a prueba.
