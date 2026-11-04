@@ -1,6 +1,12 @@
 # Cómo proponer cambios
 
-Se agradecen correcciones, estudios que falten y evidencia contraria. Para proponer algo, abre una «issue» en GitHub con la referencia completa (DOI o PMID) y qué cambiarías.
+**Esto no es una revisión sistemática cerrada:** puede haber artículos que aún no hemos leído o localizado. **Toda aportación pertinente es bienvenida**, también cuando cuestiona las hipótesis del proyecto. Queremos incorporarla al inventario con su referencia y, tras examinarla, a las fichas o síntesis que corresponda.
+
+Para contribuir, basta con enviarnos el **DOI, PMID o enlace**, y, si quieres, el hallazgo que aporta, una objeción o una conexión con otros estudios. Cuando se habilite el acceso público al repositorio, también podrán utilizarse las «issues» de GitHub.
+
+**Buscamos conexiones:** un artículo puede respaldar A → B, otro B → C y otro C → D; aunque falte un estudio directo de A → D, esa cadena puede inspirar una hipótesis científica que merece investigar.
+
+**Dos datos especialmente útiles:** cómo definió el estudio la anquiloglosia (**anatomía visible o limitación funcional**) y, cuando evalúe tratamiento, qué se hizo exactamente bajo la etiqueta de **cirugía** (**técnica, profundidad/extensión, intervención y cotratamientos**).
 
 ## Reglas para una ficha nueva
 
