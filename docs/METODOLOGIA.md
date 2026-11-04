@@ -22,6 +22,8 @@ Identificador, cita exacta y DOI, diseño, población, cómo se diagnosticó la 
 
 ## Hipótesis construidas por eslabones
 
+**Atribución:** no presentar las conexiones construidas en esta biblioteca como tesis o creencias personales de quien recopila los artículos. Señalar qué eslabón midió cada fuente y formular como pregunta editorial el puente que falte.
+
 Cuando no haya investigación directa sobre una relación compleja (A → D), **reconstruir el recorrido A → B, B → C y C → D** a partir de fuentes específicas. La síntesis debe describir el resultado que respalda cada eslabón, detectar si se estudió la misma población o constructo y proponer la **hipótesis integrada**, sin rebajar automáticamente su interés por carecer de un solo estudio que mida todo el recorrido. Etiquetar con claridad los saltos inferenciales y contrastar la cadena con resultados alternativos. No repetir la misma cautela en todos los párrafos.
 
 ## Definición de intervención: ¿qué cirugía se está estudiando?
