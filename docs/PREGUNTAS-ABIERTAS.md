@@ -15,7 +15,12 @@ Lo que la evidencia todavía no responde y lo que esta biblioteca aún no ha com
 
 ## Comprobaciones pendientes en esta biblioteca
 
-- **CONCILIADO 04/11/2026:** [220 referencias, 188 fichas y los cinco estudios previamente sin ficha](COBERTURA-BIBLIOGRAFICA-2026-11-04.md). La bibliografía de los 32 registros descartados por el alcance anterior se mantiene separada para reevaluarla si resulta pertinente.
+- **COMPLETADO 04/11/2026:** [Ricke 2005](../fuentes/articulos/2005-ricke-prevalencia-lactancia-atlff.md) a texto completo: la **entrada al estudio fue por apariencia**; ATLFF se usó después, con 31/49 casos no categorizados y κ=0,49. No pedir PDF.
+- **COMPLETADO 04/11/2026:** [Malhotra 2020](../fuentes/articulos/2020-malhotra-endotipos-apnea.md), texto completo abierto sobre endotipos de OSA.
+- **INCORPORADOS 04/11/2026:** [Ye 2026](../fuentes/articulos/2026-ye-fuerza-lingual-postura-clase-esqueletica.md) (182 adolescentes, fuerza/postura/ANB) y [Zheng 2023](../fuentes/articulos/2023-zheng-postura-lengua-via-aerea-adultos.md) (194 adultos, postura lingual y vía aérea por segmentos). La pregunta nueva es cómo reproducir estas relaciones en cohortes que midan respiración, sueño y función de lengua conjuntamente; [acta](REVISION-ABIERTOS-FASE4-2026-11-04.md).
+
+
+- **CONCILIADO 04/11/2026:** [222 referencias, 190 fichas y los cinco estudios previamente sin ficha](COBERTURA-BIBLIOGRAFICA-2026-11-04.md). La bibliografía de los 32 registros descartados por el alcance anterior se mantiene separada para reevaluarla si resulta pertinente.
 
 - **RESUELTO 03/11/2026:** [Coppelson 2023 a texto completo](../fuentes/articulos/2023-coppelson-postura-cbct.md), original CC BY y tabla 3; ya no pedir PDF. No confundir cambio de MCA por posición con compensación cervical causal tras extracciones.
 - **INCORPORADOS 03/11/2026:** [Engelke 2011](../fuentes/articulos/2011-engelke-presiones-intraorales.md) (presión subpalatina/interoclusal, 20 adultos) y [Knösel 2012](../fuentes/articulos/2012-knoesel-lengua-deglucion-respiracion-bucal.md) (29 niños y sensores durante deglución; **excluidos quienes no alcanzaban la papila**). [Acta de la tercera tanda, que incluye Sun 2024 sobre repetibilidad entre tomografías](REVISION-ABIERTOS-FASE3-2026-11-03.md) y [síntesis](../conocimiento/postura-cervical-presion-subpalatina-deglucion.md). Sigue **sin probarse** la cadena completa frenillo–sello palatino–crecimiento–postura cervical. Los comentarios editoriales a Coppelson aún están pendientes.
