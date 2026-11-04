@@ -26,10 +26,6 @@
 
 La combinación de Sun y Coppelson plantea **dos problemas medibles**, postura y reproducibilidad, sin convertirlos en argumento automático para invalidar cada resultado negativo.
 
-## Postura de Marta (INTERPRETACION)
-
-[Marta, notas de trabajo, 17/10/2026] Ante un maxilar ya estrecho, cree que extraer premolares habría sido un error: más resistencia al paso del aire y peor inspiración profunda. Coincide con la crítica de Zaghi. Su forma de resumirlo: «los estudios que dicen que las extracciones no cambian la vía aérea no miden la postura del cuello, que es justo como el cuerpo compensa».
-
 ## Qué faltaría
 
 1. Estudios de extracciones frente a no extracciones con CBCT en posición estandarizada (NBC3 registrado) o con el NBC3 como variable, **repetibilidad test–retest documentada** y software/segmentación comparables.
