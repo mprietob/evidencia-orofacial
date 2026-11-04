@@ -721,7 +721,7 @@ Documentos de sociedades científicas, agencias y grupos de consenso sobre anqui
 
 ## El problema del criterio (INTERPRETACION)
 
-[Marta, notas de trabajo] Mismo problema que Marta señala en toda la literatura de anquiloglosia: si los estudios no seleccionan por restricción funcional (TRMR), pueden incluir niños sin restricción real y diluir cualquier efecto. En Melong 2024 la escala usada no consta en el resumen.
+**Cuestión metodológica:** si un estudio selecciona por apariencia o longitud, sus resultados pueden no describir la población definida por movilidad funcional. En Melong 2024, la escala usada todavía no consta en la lectura disponible.
 
 ## Qué faltaría
 
@@ -799,10 +799,6 @@ La revisión de **Póvoa-Santos et al. (2024)** incluye 11 estudios observaciona
 
 La combinación de Sun y Coppelson plantea **dos problemas medibles**, postura y reproducibilidad, sin convertirlos en argumento automático para invalidar cada resultado negativo.
 
-## Postura de Marta (INTERPRETACION)
-
-[Marta, notas de trabajo, 17/10/2026] Ante un maxilar ya estrecho, cree que extraer premolares habría sido un error: más resistencia al paso del aire y peor inspiración profunda. Coincide con la crítica de Zaghi. Su forma de resumirlo: «los estudios que dicen que las extracciones no cambian la vía aérea no miden la postura del cuello, que es justo como el cuerpo compensa».
-
 ## Qué faltaría
 
 1. Estudios de extracciones frente a no extracciones con CBCT en posición estandarizada (NBC3 registrado) o con el NBC3 como variable, **repetibilidad test–retest documentada** y software/segmentación comparables.
@@ -844,9 +840,9 @@ La combinación de Sun y Coppelson plantea **dos problemas medibles**, postura y
 
 **Estado: HIPÓTESIS DE INVESTIGACIÓN, NO HECHO PROBADO.**
 
-## De dónde sale
+## Origen de la pregunta
 
-De observaciones clínicas informales, sin medidas estandarizadas ni grupo de comparación. Aquí no se recoge ningún caso concreto ni datos de ninguna persona. Una secuencia temporal invita a investigar, pero **no demuestra mecanismo ni causalidad**.
+Es una **línea de investigación exploratoria** surgida al relacionar trabajos de anatomía fascial con estudios sobre función orofacial y posición mandibular. Este documento no expresa una tesis clínica personal de quien compila las referencias.
 
 ## Mecanismo propuesto
 
@@ -876,10 +872,6 @@ La fascia del suelo de boca está conectada anatómicamente con la superficie in
 - Mills et al., 2020, DOI: 10.1155/2020/1820978 (histología de fascia).
 - Póvoa-Santos et al., 2024, DOI: 10.1016/j.adaj.2023.09.014 (certeza baja/muy baja para maloclusiones; no prueba esta hipótesis mecánica).
 - He et al., 2026, DOI: 10.1007/s11325-026-03618-x (ficha). En 222 adultos, frenillo más corto y menor TRMR se asocian a una mandíbula más retrasada y pequeña, con correlaciones débiles. Es compatible con H-001, pero los autores proponen también la dirección contraria: mandíbula pequeña primero y frenillo corto como consecuencia. No discrimina entre ambas.
-
-## Postura de Marta (INTERPRETACION)
-
-[Marta, notas de trabajo, 17/10/2026] Cree que un frenillo anterior tira de la mandíbula hacia atrás y mantiene la lengua baja, y que liberándolo a tiempo la mandíbula podría crecer con normalidad. Es su tesis clínica: se dice como tal («yo creo», «probablemente»), no como hecho.
 
 ## Pendientes
 - [ ] Búsqueda sistemática específica de estudios pre/post de posición mandibular tras frenotomía/frenuloplastia (funcional vs esquelética).
@@ -8732,7 +8724,6 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Límites metodológicos / confusores:** Estudios seleccionados por atención ortodóncica en gran parte, controles escasos, definiciones variables, diseños observacionales con asociación/correlación, confusión y edad; síntesis cuantitativa conjunta imposible. **Especial atención: la revisión plantea recomendaciones de edad para frenotomía pese a excluir pacientes ya operados. No presenta datos de beneficio por edad ni efecto quirúrgico experimental o longitudinal para sustentarlas.**
 - **Hallazgos contrarios o no significativos:** En la tabla 8, Yoon informa **sin asociación** para medidas mandibulares como SN–Mn y H–Mn con TRMR o Kotlow (p>0,05); la tabla 7 presenta varios desenlaces sin diferencias significativas. La relación con el hioides se clasifica de certeza **muy baja**. No se ha demostrado un efecto de frenotomía en los estudios incluidos.
 - **Conclusión que sí permite / que no permite:** Sí: los estudios disponibles describen asociaciones inciertas entre medidas de anquiloglosia y algunas dimensiones dentoalveolares o tipos de oclusión. No: afirmar causalidad, que la frenotomía modifica el crecimiento ni recomendar edades de cirugía basándose en esos datos. **La conclusión editorial de los autores sobre intervenir a los 4 años o aplazar según clase II NO está probada por los estudios que seleccionaron.**
-- **Lectura de Marta o del equipo (INTERPRETACION):** [Marta, 17/10/2026, notas de trabajo, sobre estudios de este tipo] No valen como argumento cuando diagnostican por la longitud del frenillo y no por la función. Ella trabaja con los criterios funcionales de Zaghi.
 - **Licencia y derechos:** Acceso abierto **CC BY 4.0**. Resumen editorial propio y enlaces, sin copiar tablas/figuras protegidas o ajenas.
 - **Complemento desde el PDF de la biblioteca de Marta (17/10/2026):** el PDF coincide con el texto de PMC usado en la ficha.
 - **Estado de lectura:** Texto completo abierto examinado el **03/11/2026**, incluidos PECOS, tablas 1, 7–11, GRADE y discusión; fuente [PDF editorial de acceso abierto](https://www.mdpi.com/2077-0383/14/1/81/pdf?version=1735291066). La ficha conserva la referencia al trabajo de lectura anterior.
