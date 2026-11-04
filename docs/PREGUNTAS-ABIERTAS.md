@@ -15,6 +15,8 @@ Lo que la evidencia todavía no responde y lo que esta biblioteca aún no ha com
 
 ## Comprobaciones pendientes en esta biblioteca
 
+- **CONCILIADO 04/11/2026:** [220 referencias, 188 fichas y los cinco estudios previamente sin ficha](COBERTURA-BIBLIOGRAFICA-2026-11-04.md). La bibliografía de los 32 registros descartados por el alcance anterior se mantiene separada para reevaluarla si resulta pertinente.
+
 - **RESUELTO 03/11/2026:** [Coppelson 2023 a texto completo](../fuentes/articulos/2023-coppelson-postura-cbct.md), original CC BY y tabla 3; ya no pedir PDF. No confundir cambio de MCA por posición con compensación cervical causal tras extracciones.
 - **INCORPORADOS 03/11/2026:** [Engelke 2011](../fuentes/articulos/2011-engelke-presiones-intraorales.md) (presión subpalatina/interoclusal, 20 adultos) y [Knösel 2012](../fuentes/articulos/2012-knoesel-lengua-deglucion-respiracion-bucal.md) (29 niños y sensores durante deglución; **excluidos quienes no alcanzaban la papila**). [Acta de la tercera tanda, que incluye Sun 2024 sobre repetibilidad entre tomografías](REVISION-ABIERTOS-FASE3-2026-11-03.md) y [síntesis](../conocimiento/postura-cervical-presion-subpalatina-deglucion.md). Sigue **sin probarse** la cadena completa frenillo–sello palatino–crecimiento–postura cervical. Los comentarios editoriales a Coppelson aún están pendientes.
 
@@ -38,7 +40,7 @@ Lo que la evidencia todavía no responde y lo que esta biblioteca aún no ha com
 - Sacar de las tablas de Lichnowska 2024 las cifras concretas y si hubo cegamiento.
 - Revisar el intervalo de confianza del 44 % en Leow 2026 (el de PubMed parece mal transcrito).
 - Yoon 2017: la cifra del «7,6 % de la varianza» que cita Zaghi no aparece en el resumen.
-- Fichar Salt 2020 (habla, PMID 32298924), hoy solo en la bibliografía.
+- **RESUELTO 04/11/2026:** ya existe ficha de [Salt 2020](../fuentes/articulos/2020-salt-habla-preescolares.md) con los resultados del abstract. **Pendiente:** texto completo para determinar el criterio exacto de clasificación de los tres grupos.
 - Fichar los estudios primarios de Koento 2026 y comprobar si dos de ellos son la misma muestra.
 - Minuto exacto de la mayoría de afirmaciones de Zaghi, y de su frase sobre extracciones y postura en Tongue Time 2026.
 - Describir las figuras de los artículos sin texto completo abierto.
