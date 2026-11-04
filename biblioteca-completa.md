@@ -5642,6 +5642,28 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 
 ---
 
+<!-- archivo: fuentes/articulos/2000-messner-prevalencia-lactancia.md -->
+# Estudio: Ankyloglossia: incidence and associated feeding difficulties
+
+- **ID:** MESSNER2000
+- **Autores, año y revista:** Messner AH; Lalakea ML; Aby J; Macmahon J; Bair E. *Archives of Otolaryngology–Head & Neck Surgery* 2000;126(1):36–39.
+- **DOI / PMID / URL:** DOI `10.1001/archotol.126.1.36`; PMID `10628708`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/10628708/); [editor](https://doi.org/10.1001/archotol.126.1.36).
+- **Tipo de estudio:** Cribado prospectivo de recién nacidos con seguimiento comparativo de lactancia durante seis meses; subgrupo con controles emparejados.
+- **Población y tamaño muestral:** 1.041 recién nacidos cribados en un hospital; 50 clasificados con anquiloglosia. Para el seguimiento de madres con intención de amamantar: **36 casos y 36 controles**.
+- **Definición diagnóstica y técnicas:** Examen de frenillo en nursery y entrevistas telefónicas maternas mensuales. El resumen no describe cómo se midió la función; revisiones metodológicas posteriores describen como criterio original un **frenillo anormalmente corto**, pendiente de cotejar directamente en métodos completos.
+- **Criterio diagnóstico de anquiloglosia:** LONGITUD/ASPECTO según revisión metodológica secundaria; el protocolo de exploración original queda `PENDIENTE DE VERIFICAR` a texto completo.
+- **Variables de resultado:** Frecuencia de anquiloglosia identificada, dificultades de lactancia y mantenimiento de lactancia.
+- **Resultados NUMÉRICOS verificados:** 50/1.041 (**4,8 %**) fueron clasificados como anquiloglosia; relación varones:mujeres 2,6:1. Las dificultades de lactancia se notificaron en **9/36 (25 %) casos frente a 1/36 (3 %) controles** (p<0,01). La lactancia durante al menos dos meses se mantuvo en **30/36 (83 %) frente a 33/36 (92 %)** (p=0,29, sin diferencia significativa).
+- **Aportación del estudio:** Señal de asociación entre el hallazgo neonatal de frenillo corto y dificultades de lactancia en una muestra cribada, junto a un resultado no concluyente sobre mantener lactancia dos meses.
+- **Límites metodológicos / confusores (solo los relevantes):** Criterio clínico anatómico, subgrupo de seguimiento pequeño y resultados maternos; no clasifica niños por TRMR ni evalúa cirugía.
+- **Licencia y derechos:** Derechos editoriales; ficha propia, sin PDF ni imágenes.
+- **Estado de lectura:** **Resumen PubMed y metadatos editoriales verificados el 04/11/2026**. Métodos originales completos no inspeccionados; el criterio diagnóstico se tomó de [revisión metodológica secundaria](https://pmc.ncbi.nlm.nih.gov/articles/PMC1949218/).
+## Figuras
+
+No examinadas. [Estudio original](https://doi.org/10.1001/archotol.126.1.36).
+
+---
+
 <!-- archivo: fuentes/articulos/2001-guilleminault-uars-ninos.md -->
 # Estudio: Upper airway resistance syndrome in children: a clinical review
 
@@ -5663,6 +5685,28 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1053/spen.2001.29045).
+
+---
+
+<!-- archivo: fuentes/articulos/2002-messner-frenuloplastia-habla.md -->
+# Estudio: The effect of ankyloglossia on speech in children
+
+- **ID:** MESSNER2002
+- **Autores, año y revista:** Messner AH; Lalakea ML. *Otolaryngology–Head and Neck Surgery* 2002;127(6):539–545.
+- **DOI / PMID / URL:** DOI `10.1067/mhn.2002.129731`; PMID `12501105`; [abstract PubMed](https://pubmed.ncbi.nlm.nih.gov/12501105/); [original](https://doi.org/10.1067/mhn.2002.129731).
+- **Tipo de estudio:** Estudio prospectivo de niños intervenidos con evaluación antes/después, **sin grupo control**.
+- **Población y tamaño muestral:** **30 niños**, entre 1 y 12 años, sometidos a frenuloplastia. En **21** hubo evaluación del habla preoperatoria; **15** tuvieron evaluación posterior del habla descrita en el resumen.
+- **Definición diagnóstica y técnicas:** Diagnóstico de anquiloglosia previo a cirugía, evaluación de movilidad lingual, exploración logopédica y cuestionarios parentales. La escala diagnóstica exacta y los planos de liberación están `PENDIENTES DE VERIFICAR` a texto completo.
+- **Criterio diagnóstico de anquiloglosia:** PENDIENTE DE VERIFICAR: el resumen no especifica la herramienta de clasificación preoperatoria; sí cuantifica movilidad.
+- **Variables de resultado:** Protrusión y elevación de lengua, articulación evaluada clínicamente y inteligibilidad estimada por padres.
+- **Resultados NUMÉRICOS verificados:** Protrusión media **14,2 → 25,8 mm** y elevación **5,2 → 22 mm** tras frenuloplastia (ambos p<0,01). Entre 15 niños reevaluados, **9** mejoraron articulación, **4** presentaban habla normal previamente y **2** seguían con alteración. Inteligibilidad parental en escala 1–5: **3,4 → 4,2** (p<0,01).
+- **Aportación del estudio:** Datos prospectivos de mejoría funcional y articulatoria observada después de frenuloplastia en niños seleccionados, con mediciones absolutas de movilidad y evaluación clínica del habla.
+- **Límites metodológicos / confusores (solo los relevantes):** Falta de comparador y seguimiento de habla disponible solo para parte de la muestra; distinguir cambio inmediato/postoperatorio de eficacia relativa a desarrollo o terapia del lenguaje.
+- **Licencia y derechos:** Derechos editoriales; resumen propio sin reproducción de PDF.
+- **Estado de lectura:** **Abstract del editor y PubMed verificados el 04/11/2026**; texto completo no revisado. La denominación y detalles técnicos de la frenuloplastia requieren lectura del original.
+## Figuras
+
+No examinadas. [Artículo original](https://doi.org/10.1067/mhn.2002.129731).
 
 ---
 
@@ -5735,6 +5779,28 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 ## Figuras
 
 Figuras no revisadas. [Ver el documento](https://www.nice.org.uk/guidance/htg95).
+
+---
+
+<!-- archivo: fuentes/articulos/2005-ricke-prevalencia-lactancia-atlff.md -->
+# Estudio: Newborn tongue-tie: prevalence and effect on breast-feeding
+
+- **ID:** RICKE2005
+- **Autores, año y revista:** Ricke LA; Baker NJ; Madlon-Kay DJ; DeFor TA. *Journal of the American Board of Family Practice* 2005;18(1):1–7.
+- **DOI / PMID / URL:** DOI `10.3122/jabfm.18.1.1`; PMID `15709057`; [original (acceso libre)](https://pubmed.ncbi.nlm.nih.gov/15709057/).
+- **Tipo de estudio:** Estudio de casos y controles en recién nacidos con seguimiento de alimentación a una semana y un mes.
+- **Población y tamaño muestral:** Cribado de lactantes de nursery: prevalencia observada **4,2 %**. Seguimiento de **49 recién nacidos** clasificados con frenillo corto y **98 controles** emparejados.
+- **Definición diagnóstica y técnicas:** Examen neonatal inicial del frenillo; los casos se evaluaron además con **Assessment Tool for Lingual Frenulum Function (ATLFF/Hazelbaker)**. Entrevistas maternas al cabo de una semana y un mes. No se dispone en el resumen del criterio exacto de cribado anatómico.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO para valoración posterior: cribado de tongue-tie más aplicación del **ATLFF**, que incluye componentes anatómicos y funcionales. El criterio exacto de selección inicial se comprobará en métodos completos.
+- **Variables de resultado:** Alimentación con biberón exclusivamente a una semana y un mes, prevalencia y clasificación ATLFF.
+- **Resultados NUMÉRICOS verificados:** A una semana, riesgo de alimentación solo con biberón **RR 3,11 (IC95 % 1,21–8,03)** frente a controles. A un mes **RR 1,00 (0,55–1,82)**. En los 49 casos, ATLFF clasificó **12 «perfect»**, **0 «acceptable»**, **6 «function impaired»** y dejó **31 fuera de esas categorías**. Los autores concluyeron que el ATLFF **no resultó útil para identificar qué bebés tendrían problemas de lactancia**.
+- **Aportación del estudio:** Un mismo estudio combina prevalencia, evolución temporal de la lactancia y exploración funcional/anatómica; muestra que un resultado diferente a una semana puede atenuarse al cabo de un mes y que la utilidad predictiva de una escala merece examinarse por separado.
+- **Límites metodológicos / confusores (solo los relevantes):** Población neonatal y seguimiento breve; resultados de alimentación influidos por apoyo, decisiones familiares y otros factores. No se estudió directamente una técnica quirúrgica.
+- **Licencia y derechos:** Artículo disponible gratuitamente; verificar licencia antes de reutilizar material. Ficha original sin PDF ni tablas reproducidas.
+- **Estado de lectura:** **Resumen de PubMed revisado el 04/11/2026**. Existe artículo completo abierto en revista, pero tablas y métodos completos aún no auditados.
+## Figuras
+
+No examinadas. [Original](https://doi.org/10.3122/jabfm.18.1.1).
 
 ---
 
@@ -7486,6 +7552,28 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 
 ---
 
+<!-- archivo: fuentes/articulos/2020-malhotra-endotipos-apnea.md -->
+# Estudio: Endotypes and phenotypes in obstructive sleep apnea
+
+- **ID:** MALHOTRA2020
+- **Autores, año y revista:** Malhotra A; Mesarwi O; Pépin JL; Owens RL. *Current Opinion in Pulmonary Medicine* 2020;26(6):609–614.
+- **DOI / PMID / URL:** DOI `10.1097/MCP.0000000000000724`; PMID `32890019`; PMCID `PMC7544644`; [manuscrito abierto](https://pmc.ncbi.nlm.nih.gov/articles/PMC7544644/).
+- **Tipo de estudio:** Revisión narrativa sobre heterogeneidad fisiopatológica de apnea obstructiva del sueño (OSA), no revisión sistemática cuantitativa.
+- **Población y tamaño muestral:** Síntesis conceptual de literatura en personas con OSA; **no tiene una cohorte primaria ni tamaño muestral propio**.
+- **Definición diagnóstica y técnicas:** Distingue **fenotipos clínicos** de **endotipos fisiopatológicos**. Describe como rasgos relevantes: compromiso anatómico de vía aérea faríngea, respuesta de músculos dilatadores, inestabilidad del control ventilatorio (*loop gain*) y bajo umbral de despertar.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no clasifica pacientes por frenillo ni por pruebas de movilidad lingual.
+- **Variables de resultado:** Mecanismos que contribuyen a la aparición y variabilidad clínica de OSA y sus posibles implicaciones para tratamientos personalizados.
+- **Resultados NUMÉRICOS verificados:** No aporta en el abstract una estimación combinada de efecto. La revisión destaca que **ninguna variable aislada** define por sí sola quién tendrá OSA o cómo responderá; en el artículo se enumeran varios mecanismos anatómicos y no anatómicos.
+- **Aportación del estudio:** Marco para integrar anatomía, control ventilatorio y mecanismos neuromusculares cuando se investigan relaciones entre forma craneofacial, permeabilidad de vía aérea y sueño.
+- **Límites metodológicos / confusores (solo los relevantes):** Revisión narrativa de mecanismos; no estudia eficacia de frenectomía ni explica por sí misma fenotipos orofaciales infantiles.
+- **Licencia y derechos:** Manuscrito de autor abierto en PMC; derechos/licencia de reutilización no confirmados. Sin reproducción de texto o imágenes.
+- **Estado de lectura:** **Abstract PubMed y secciones accesibles del manuscrito PMC contrastados el 04/11/2026**; no se ha auditado íntegramente su bibliografía.
+## Figuras
+
+No reproducidas. [Texto abierto](https://pmc.ncbi.nlm.nih.gov/articles/PMC7544644/).
+
+---
+
 <!-- archivo: fuentes/articulos/2020-messner-consenso.md -->
 # Estudio: Clinical Consensus Statement: Ankyloglossia in Children
 
@@ -7551,6 +7639,28 @@ Las figuras 1, 2 y 11 a 13 son fotos de piezas de cadáver: solo enlace.
 **Límites que importa reconocer:** examen **cualitativo**; los autores evitaron cuantificar proporciones de fibras por variación y error de muestreo; no usaron inmunohistoquímica para cuantificación de tipos de colágeno. Pequeña muestra adulta (>50 años) no permite inferir cronología del crecimiento ni tensiones in vivo. No mide fuerzas sobre la mandíbula ni respuesta mecánica a cirugía.
 
 **Estado de lectura:** métodos, resultados, discusión y límites contrastados en la versión abierta (PMC/Wiley), 03/11/2026. Licencia CC BY; no se ha copiado contenido de la fuente.
+
+---
+
+<!-- archivo: fuentes/articulos/2020-salt-habla-preescolares.md -->
+# Estudio: Speech production in young children with tongue-tie
+
+- **ID:** SALT2020
+- **Autores, año y revista:** Salt H; Claessen M; Johnston T; Smart S. *International Journal of Pediatric Otorhinolaryngology* 2020;134:110035.
+- **DOI / PMID / URL:** DOI `10.1016/j.ijporl.2020.110035`; PMID `32298924`; [abstract PubMed](https://pubmed.ncbi.nlm.nih.gov/32298924/).
+- **Tipo de estudio:** Estudio comparativo transversal de niños pequeños con distintos antecedentes de anquiloglosia y tratamiento.
+- **Población y tamaño muestral:** **59 niños de 2 años y 1 mes a 4 años y 11 meses**, distribuidos en tres grupos: frenillo previamente tratado (TTT), frenillo no tratado (UTT) y ausencia de diagnóstico (NTT).
+- **Definición diagnóstica y técnicas:** Comparación de estructura y función del frenillo, movilidad lingual, producción de sonidos del habla y valoraciones de inteligibilidad de padres y profesionales. El resumen no identifica la escala exacta que determinó la pertenencia a cada grupo; `PENDIENTE DE VERIFICAR`.
+- **Criterio diagnóstico de anquiloglosia:** PENDIENTE DE VERIFICAR: el abstract identifica grupos con diagnóstico tratado/no tratado y recoge medidas anatómicas y funcionales, pero no describe el instrumento de clasificación original.
+- **Variables de resultado:** Movilidad, producción de habla, inteligibilidad y antecedentes de asistencia a logopedia.
+- **Resultados NUMÉRICOS verificados:** **59 niños en total**; los autores **no encontraron diferencias estadísticamente significativas entre los tres grupos** para movilidad, producción de habla ni inteligibilidad. El grupo con frenillo no tratado registró más antecedentes de atención logopédica que el grupo sin diagnóstico. El abstract no facilita tamaños de efecto ni intervalos de confianza para cada comparación.
+- **Aportación del estudio:** Resultado comparativo negativo relevante para evaluar la relación entre anquiloglosia, intervención temprana y habla en edad preescolar; aporta un contraste con trabajos pre/post de cirugía de frenillo en niños mayores.
+- **Límites metodológicos / confusores (solo los relevantes):** Tamaño reducido, grupos según diagnóstico y tratamiento previo; el resultado depende de los criterios de grupo y las pruebas de lenguaje realmente utilizadas, que requieren texto completo. No se asignó tratamiento aleatoriamente.
+- **Licencia y derechos:** Derechos del editor; se sintetiza el abstract, no se almacena PDF.
+- **Estado de lectura:** **Resumen PubMed/Elsevier consultado el 04/11/2026**. Texto completo editorial no revisado.
+## Figuras
+
+No examinadas. [Artículo original](https://doi.org/10.1016/j.ijporl.2020.110035).
 
 ---
 
