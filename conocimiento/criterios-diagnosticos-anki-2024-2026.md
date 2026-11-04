@@ -13,6 +13,12 @@ Un instrumento puede tener:
 
 **Ninguno de los primeros cuatro elementos garantiza automáticamente el quinto.** Si se compara una escala con otra escala que tampoco es patrón de referencia, la correlación puede ser alta sin establecer la realidad de la restricción funcional que preocupa al paciente.
 
+## Un ejemplo primario especialmente ilustrativo: Ricke 2005
+
+En [**Ricke et al. 2005**](../fuentes/articulos/2005-ricke-prevalencia-lactancia-atlff.md), la selección inicial de **148/3.490 recién nacidos** como «anquiloglosia» dependió **solo de la apariencia** valorada por enfermeras; **después** se aplicó ATLFF a los casos. En los **49 casos** del análisis, la propia escala **dejó 31 (63 %) fuera de las categorías predefinidas** y el acuerdo interobservador para función alterada fue **κ=0,49**, pese a entrenamiento de los investigadores.
+
+**La distinción que importa al revisar literatura:** un trabajo puede **usar una herramienta funcional durante el estudio sin haber seleccionado originalmente a los participantes por disfunción funcional**. Esta diferencia debe quedar clara en las tablas de revisiones y metaanálisis. El mismo estudio encontró riesgo relativo **3,11** de alimentación solo con biberón en semana 1 frente a controles y **1,00** al mes: resultados temporales distintos dentro de la misma cohorte.
+
 ## Qué dice exactamente cada fuente
 
 | Fuente | Población y pregunta | Resultado | Límite que importa |
