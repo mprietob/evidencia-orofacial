@@ -22,6 +22,8 @@ Rol: asistente de investigación crítica. Este repositorio contiene **conocimie
 
 **Estilo de trabajo:** prioriza los datos, los hallazgos y las conexiones científicas. No llenes las fichas o las respuestas de frases repetidas como «esto no demuestra...». Una limitación se explica una sola vez y solo si importa para interpretar el artículo o una objeción concreta. La cautela metodológica debe ser precisa, no una coletilla automática.
 
+**No atribuir tesis personales:** una pregunta, síntesis o modelo formulado en la biblioteca **no es una opinión clínica de quien recopiló los estudios**. No atribuyas ideas, frases ni recomendaciones a Marta Prieto sin una declaración explícita y verificable.
+
 **Pensar por eslabones:** si no hay un estudio directo de A → D, buscar qué datos apoyan A → B, B → C y C → D y construir una hipótesis integradora, indicando qué es evidencia observada y qué conexión está por comprobar. **No terminar el análisis en «falta evidencia directa»**. Ante revisiones negativas o inconcluyentes, investigar especialmente **cómo definieron la anquiloglosia (anatomía frente a función)** y, si estudian tratamiento, **qué procedimiento exacto consideraron cirugía** (tipo, extensión de liberación y cointervenciones). Comprobarlo en los originales y aplicar el criterio a toda la literatura, sin presumir fallos no demostrados.
 
 1. Responde **solo con afirmaciones sustentadas por fuentes identificadas** del repositorio. Incluye título, año y DOI, PMID o URL, y la ficha de donde sale. Distingue lo que dice el artículo original de la interpretación de esta biblioteca.
@@ -33,14 +35,14 @@ Rol: asistente de investigación crítica. Este repositorio contiene **conocimie
 7. No recomiendes tratamientos ni dosis a personas concretas.
 8. Si un dato no está verificado, escribe literalmente `PENDIENTE DE VERIFICAR` y señala cómo verificarlo.
 9. No inventes tamaño muestral, resultados, efectos, DOI ni metodología que no estén en la ficha.
-10. Antes de usar un estudio sobre anquiloglosia, lee su campo «Criterio diagnóstico de anquiloglosia» y dilo en la respuesta. Lo que figure como «Lectura de Marta o del equipo» es interpretación, no resultado del estudio.
+10. Antes de usar un estudio sobre anquiloglosia, lee el campo «Criterio diagnóstico de anquiloglosia». La interpretación editorial no equivale al resultado del artículo ni a una postura personal de la compiladora.
 11. **Zaghi y otros expertos** (carpeta `expertos/`): son ideas expresadas en vídeos, reconstruidas por terceros. Di siempre que es opinión de experto, el vídeo de donde sale y su estado de verificación. No hables como si fueras Zaghi. Si una cifra suya choca con un estudio, da la del estudio (ver `expertos/soroush-zaghi/discrepancias.md`). La carpeta no recoge dosis de fármacos: si te piden una, dilo y remite a la ficha técnica y a un profesional. Si algo no está en la carpeta, di: «Las fuentes disponibles no permiten atribuir a Soroush Zaghi una postura fiable sobre este punto».
 12. Figuras: si alguien pide ver una figura, busca la sección «Figuras» de la ficha. Si hay copia en `figuras/`, muéstrala con su crédito y su licencia (tabla de `figuras/README.md`). Si no, da el enlace directo y la descripción con palabras. No describas lo que no está en la ficha.
 13. Responde en el idioma de quien pregunta. Recuerda, cuando proceda, que la biblioteca no sustituye una valoración profesional.
 
 ## Al modificar el repositorio
 
-14. **No publiques.** Nada de `git push`, «pull requests», repositorios nuevos ni cambios de visibilidad sin el sí expreso de la persona que mantiene la biblioteca. Los cambios se quedan en commits locales.
+14. **Mantén la biblioteca privada.** Si se solicita explícitamente mejorar este repositorio, están autorizados los commits de mantenimiento en el repositorio privado existente. No cambies su visibilidad, publiques un sitio/release o distribuyas materiales a terceros sin autorización específica.
 15. **Nunca entran:** datos, fotos o casos de pacientes (aunque estén anonimizados), PDF con derechos de editorial, transcripciones de vídeos, figuras sin licencia CC BY, CC BY-SA o CC0, ni contraseñas, claves o tokens.
 16. Cada ficha nueva sale de fuentes/articulos/PLANTILLA.md, con su fila en `fuentes/bibliografia.csv` y su criterio diagnóstico. Si cambia una objeción, actualiza las dos caras. No cambies un nivel de certeza sin justificarlo.
 17. Antes de cada commit: `python scripts/indice.py` y `python scripts/validar.py`, que debe dar «errores: 0».
@@ -56,6 +58,8 @@ Rol: asistente de investigación crítica. Este repositorio contiene **conocimie
 **Lee este documento antes de responder preguntas científicas o trabajar con esta biblioteca.** No se trata de defender la anquiloglosia ni de desacreditar los resultados negativos: se trata de averiguar **qué pregunta respondió realmente un estudio** y qué conclusiones permite su diseño.
 
 ## Principio rector
+
+**El objetivo es relacionar investigaciones, no defender una hipótesis personal de quien ha reunido las referencias.** Las rutas de evidencia y preguntas surgidas aquí son recursos exploratorios del proyecto, salvo que un autor concreto haya formulado expresamente una hipótesis en su publicación.
 
 No basta con responder «no hay evidencia» o «una revisión dice que no existe relación». Tampoco basta con encontrar una asociación favorable. Antes de aceptar o rechazar una afirmación, identifica la población, el diagnóstico, la variable medida, el desenlace, la precisión y los límites relevantes.
 
@@ -131,7 +135,7 @@ Este documento complementa AGENTS.md, METODOLOGIA.md y TAREAS-AGENTES.md. No dia
 
 # Evidencia orofacial
 
-Biblioteca abierta de lo que dice la investigación sobre el frenillo lingual (anquiloglosia) y todo lo que lo rodea: lengua, maxilar, deglución, respiración y sueño. Reúne estudios, revisiones, consensos y la opinión de algunos expertos. Cada estudio tiene una ficha con su enlace, sus resultados verificados y sus límites. Está pensada para que la lean médicos, otros profesionales y cualquier persona. También para que se la puedas dar a tu propia IA y preguntarle.
+Biblioteca de investigación sobre lengua, frenillo lingual, maxilar, deglución, respiración, sueño y sus posibles conexiones. **El repositorio sigue privado por ahora** y está organizado para poder compartirlo cuando se decida publicarlo. Reúne estudios, revisiones, consensos y la opinión de algunos expertos. Cada estudio tiene una ficha con su enlace, sus resultados verificados y sus límites. Está pensada para que la lean médicos, otros profesionales y cualquier persona. También para que se la puedas dar a tu propia IA y preguntarle.
 
 La ha reunido Marta Prieto, dermatóloga (@dermaprieto en Instagram): **son los artículos que ha ido revisando sobre el tema.** **No es una revisión sistemática, porque el tema es demasiado amplio.** Es conocimiento en elaboración, y **toda aportación será más que bienvenida, e incluida**: [cómo aportar](#una-investigación-abierta-a-aportaciones).
 
@@ -140,7 +144,7 @@ La ha reunido Marta Prieto, dermatóloga (@dermaprieto en Instagram): **son los 
 - **183 fichas** de estudios, revisiones y documentos de sociedades científicas en fuentes/articulos/, con su DOI o PMID y el índice en bibliografia.csv. Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: docs/BUSQUEDA-2026-11.md.
 - **Objeciones frecuentes**, con la evidencia a favor y en contra: objeciones/.
 - **Un mapa interdisciplinar de evidencia** sobre vía aérea, crecimiento craneofacial, sueño, terapia miofuncional y otitis, con registro de la revisión por etapas y lista completa de textos completos/PDF por revisar y primera tanda práctica, cuya lectura de fuentes abiertas ya está documentada. Se ha completado otra tanda de originales sobre postura cervical, presión subpalatina, coordinación lingual y repetibilidad del CBCT (acta de lectura); también se ha ampliado el contraste sobre terapia miofuncional infantil y apnea, validación de herramientas diagnósticas y ensayos clínicos registrados aún sin resultados.
-- **Una hipótesis abierta**, marcada como tal: hipotesis/.
+- **Preguntas e hipótesis exploratorias**, sin atribuirlas como tesis personales de quien recopila las referencias: hipotesis/.
 - **Síntesis por temas** y una matriz de afirmaciones con su grado de apoyo.
 - **Las ideas públicas de Soroush Zaghi** (cirujano de vía aérea, coautor de las escalas de movilidad TRMR), cada una con el vídeo del que sale: expertos/soroush-zaghi/.
 - **Figuras** de artículos con licencia abierta, con su crédito: figuras/.
@@ -164,18 +168,24 @@ Con ese punto de partida, nadie tiene la última palabra. Lo útil es ver **qué
 
 ## Conectar los puntos
 
-**Un artículo puede demostrar o apoyar A → B, otro B → C y un tercero C → D, aunque todavía falte un estudio directo sobre A → D.** Este proyecto quiere reconstruir esas conexiones, valorar cada eslabón y formular **hipótesis que merezcan investigarse**, no dar una discusión por cerrada en cuanto alguien señala que falta el ensayo definitivo. Una hipótesis integrada no se confunde con un resultado demostrado, pero tampoco se descarta simplemente porque los estudios se hayan realizado por separado. Así razona el agente.
+**Consultar las conexiones entre estudios y las preguntas que abren**.
+
+**Un artículo puede observar A ↔ B, otro B ↔ C y un tercero C ↔ D, aunque todavía falte un estudio directo sobre A y D.** Este proyecto quiere reconstruir esas conexiones, valorar cada eslabón y formular **hipótesis que merezcan investigarse**, no dar una discusión por cerrada en cuanto alguien señala que falta el ensayo definitivo. Una hipótesis integrada no se confunde con un resultado demostrado, pero tampoco se descarta simplemente porque los estudios se hayan realizado por separado. Así razona el agente.
 
 Al leer revisiones sobre anquiloglosia hay **dos preguntas fundamentales**: **qué consideraron anquiloglosia** (longitud/aspecto frente a restricción funcional) y, cuando hablan de tratamiento, **qué llamaron exactamente cirugía** (tipo y alcance de la liberación y tratamientos acompañantes). La mezcla de definiciones es una fuente importante de heterogeneidad. Por ejemplo, JADA 2024 incluyó criterios anatómicos y funcionales parciales; y Kotarska preguntó por los beneficios quirúrgicos pero seleccionó estudios que excluían a pacientes intervenidos.
 
 ## Una investigación abierta a aportaciones
 
-**Esto no es una revisión sistemática:** el tema es demasiado amplio. Es una biblioteca en construcción: no hemos leído todos los artículos publicados y puede haber estudios relevantes que falten. Agradecemos **cualquier aportación pertinente**, tanto si refuerza una hipótesis como si la contradice. **Toda aportación será más que bienvenida, e incluida:** con el DOI, PMID o enlace la verificamos y la incorporamos al inventario y a la síntesis correspondiente.
+**Esto no es una revisión sistemática:** el tema es demasiado amplio. Es una biblioteca en construcción: no se han leído todos los artículos publicados y puede haber estudios relevantes que falten. Agradecemos **cualquier aportación pertinente**, tanto si refuerza una hipótesis como si la contradice. **Toda aportación científica pertinente será más que bienvenida:** con el DOI, PMID o enlace se podrá comprobar e incorporar al inventario y, una vez examinada, a las fichas o síntesis correspondientes.
 
 - **Con cuenta de GitHub:** abre una propuesta en [Issues](https://github.com/mprietob/evidencia-orofacial/issues/new/choose) con la plantilla «Proponer un artículo». Crearse la cuenta es gratis y es un momento: lo explica la guía.
 - **Sin cuenta:** escribe por Instagram a **@dermaprieto** con el enlace o el DOI y una línea de por qué importa.
 
 Cómo proponer referencias y correcciones.
+
+## ¿Qué se consideró cirugía del frenillo?
+
+**Comparativa de definiciones diagnósticas y técnicas documentadas**: los estudios de frenotomía, frenuloplastia y terapia miofuncional pueden estar estudiando poblaciones e intervenciones diferentes. Para interpretar las revisiones resulta útil identificar exactamente qué se midió y qué se hizo.
 
 ## Qué dicen las sociedades científicas
 
@@ -193,7 +203,7 @@ Cada ficha de fuentes/articulos/ sigue la plantilla. Hay tres campos clave:
 
 - **Criterio diagnóstico de anquiloglosia.** `FUNCIONAL` (mide movilidad, por ejemplo con TRMR), `LONGITUD/ASPECTO` (longitud del frenillo, inserción o forma), `MIXTO` o `NO APLICA`.
 - **Resultados numéricos verificados.** Solo cifras comprobadas en el artículo o en su resumen. Lo que falta pone `PENDIENTE DE VERIFICAR`.
-- **Lectura de Marta o del equipo.** Es interpretación, no un resultado del estudio. Siempre va marcada como `INTERPRETACION`.
+- **Interpretaciones editoriales**, cuando las haya, diferenciadas de los resultados originales. Las preguntas de la biblioteca no deben presentarse como opiniones personales de quien la compila.
 
 El método completo está en docs/METODOLOGIA.md.
 
@@ -317,6 +327,34 @@ Un instrumento puede tener:
 4. Diferenciar escalas para **lactantes**, niños escolares y adultos; evitar extrapolación de diagnóstico neonatal a desarrollo óseo y apnea.
 
 Fuentes enlazadas en las fichas; esta síntesis no autoriza intervención clínica sobre personas individuales.
+
+---
+
+<!-- archivo: conocimiento/definiciones-intervencion-frenillo.md -->
+# Qué se llamó anquiloglosia y qué se llamó cirugía
+
+En la literatura, el nombre «frenillo» puede referirse a **variables anatómicas o funcionales diferentes**, y «operar el frenillo» a procedimientos y combinaciones terapéuticas distintas. Esta matriz se construye con los datos **ya consignados en las fichas**; lo que falta describir sigue siendo una tarea de lectura.
+
+| Publicación | Definición utilizada en la ficha | Tratamiento/comparador descrito | Resultado recogido |
+|---|---|---|---|
+| O’Callahan 2013 | Lactantes, Coryllos I–IV (**anatómica**) | Frenotomía en consulta; la ficha no precisa planos ni extensión de liberación | Encuesta posterior de lactancia y dolor, sin grupo control |
+| Dinh 2025 | Recién nacidos, Hazelbaker (**aspecto + función**) | Frenotomía frente a procedimiento simulado (55 y 57 díadas) | Sin diferencia significativa inmediata en LATCH ni dolor |
+| Zaghi 2019 | Niños y adultos, clasificación funcional TRMR | Frenuloplastia con tijera y sutura, más terapia miofuncional previa | Encuestas de 348 respuestas con mejorías notificadas; sin grupo control |
+| Lichnowska 2024 | Cohorte con deformidad maxilofacial, TRMR | Frenuloplastia + terapia miofuncional frente a terapia sola | Indicadores funcionales favorables; diferencia de edad entre grupos y asignación por día/orden |
+| Kotarska, online 2024 / volumen 2025 | Revisión con criterios anatómicos y funcionales | **No comparó cirugías**; excluyó pacientes previamente intervenidos | Asociaciones con oclusión y morfología |
+| Póvoa-Santos, JADA 2024 | Once estudios con diagnósticos heterogéneos | Revisión de anquiloglosia y maloclusión, no de técnica quirúrgica | Resultados sobre anatomía, apertura y oclusión |
+
+## Qué registrar cuando revisemos el artículo íntegro
+
+Para poder comparar tratamientos, extraer **solo si consta en el original**: criterio diagnóstico, edad, procedimiento declarado (frenotomía, frenectomía, frenuloplastia), técnica/instrumental, **extensión real de la liberación**, operador, terapia miofuncional y otras cointervenciones, resultado funcional pre/post y tiempo de seguimiento.
+
+**La etiqueta quirúrgica por sí sola no garantiza procedimientos equivalentes.** Tampoco un diagnóstico anatómico por longitud/inserción es idéntico a uno de movilidad funcional. Esta clasificación permite identificar estudios comparables sin dar preferencia automática a una técnica.
+
+## Uso ante objeciones
+
+Antes de extrapolar el resultado de una revisión, preguntar **qué población estudió, cómo definió la anquiloglosia y qué tratamiento se realizó de hecho**. Después recuperar cifras positivas o negativas de los originales. Así se puede entender mejor de dónde procede la incertidumbre y qué nuevas comparaciones serían interesantes.
+
+**Estado de este documento:** correspondencia de definiciones tomada de fichas existentes, no nueva revisión sistemática de ensayos. Ver rutas de evidencia.
 
 ---
 
@@ -570,6 +608,48 @@ Las sugerencias constituyen **agenda de investigación**. No son protocolos clí
 Los **cuatro originales** se localizan abiertos en las páginas de editorial o PMC; se han leído texto y tablas disponibles en formato accesible, **sin duplicar PDFs ni reproducir figuras**. La revisión posterior de los comentarios editoriales de Coppelson y cualquier replicación independiente sigue pendiente.
 
 Ver también enfoque de investigación, mapa interdisciplinar y criterios diagnósticos.
+
+---
+
+<!-- archivo: conocimiento/rutas-de-evidencia.md -->
+# Rutas de evidencia: conectar estudios
+
+Este mapa enlaza **hallazgos publicados sobre fenómenos relacionados** para abrir preguntas investigables. No es una hipótesis personal de quien recopila los artículos ni propone una explicación única. Se han utilizado las fichas existentes, sin añadir conclusiones clínicas nuevas.
+
+## Lengua, fascia, contacto palatino y presión
+
+| Resultado documentado | Estudio | Pregunta que abre |
+|---|---|---|
+| El frenillo se integra en la fascia del suelo de boca | Mills 2019 y Mills 2020: anatomía e histología | ¿Qué variantes anatómicas afectan a la función **en vivo**? |
+| El sello oral genera gradientes de presión entre compartimentos | Engelke 2011: manometría en 20 adultos sanos | ¿Qué relación hay entre movilidad, sellado posterior y presión subpalatina? |
+| Las maniobras cambian el contacto de la lengua con el paladar durante deglución | Knösel 2012: sensores en 29 niños | ¿Coinciden contacto, presión y postura espontánea **en los mismos sujetos**? |
+| La movilidad anterior se puede expresar como cociente de aperturas | Yoon 2017: MOTTIP/MIO | ¿Qué información distinta aportan apertura absoluta, elevación posterior y succión? |
+
+**Conexión exploratoria:** fascia y movilidad ↔ contacto y sellado ↔ presión oral. Son piezas investigadas por separado; el siguiente estudio útil debería medir varios eslabones conjuntamente.
+
+## Nariz, sueño y crecimiento dentofacial
+
+| Resultado documentado | Estudio | Conexión por investigar |
+|---|---|---|
+| Rinitis alérgica asociada a fenotipos de trastorno respiratorio del sueño infantil | Li 2026 | Medir obstrucción nasal, ronquido y PSG en la misma población |
+| Rinitis y variables de activación respiratoria en niños derivados a PSG | Kang 2026 | Separar gravedad de apnea y efecto independiente de rinitis |
+| Hipertrofia adenoamigdalar asociada con ciertas medidas dentofaciales | Zhao 2025 | Seguimiento de medidas esqueléticas frente a dentarias |
+| Cambios dentofaciales estudiados tras cirugía adenoidea o amigdalar | Singla 2026 | Describir crecimiento natural y tratamientos concomitantes |
+
+**Conexión exploratoria:** afecciones ORL ↔ respiración y sueño ↔ morfología dentofacial. El valor es formular **qué debería medirse conjuntamente** en una cohorte, no convertir asociaciones entre artículos en una conclusión causal automática.
+
+## Postura cervical y medición de vía aérea
+
+| Resultado documentado | Estudio | Pregunta que abre |
+|---|---|---|
+| La flexión/extensión modificó la MCA medida por CBCT | Coppelson 2023 | ¿Cómo registrar NBC3 al comparar dos imágenes? |
+| Dos exploraciones del mismo paciente pueden arrojar medidas de vía aérea diferentes | Sun 2024 | ¿Cuánto cambio supera el error de repetición y segmentación? |
+
+Estos trabajos complementan el **diseño de futuros estudios**; por qué una persona adopta espontáneamente una postura concreta es una pregunta diferente.
+
+## Cómo sumar una aportación
+
+Registrar el resultado **exacto** estudiado, población, variable, DOI/PMID y qué nueva relación sugiere investigar. Se incorporan también resultados discordantes; cada nuevo trabajo debe servir para completar, revisar o sustituir conexiones existentes. Ver definiciones diagnósticas y quirúrgicas y guía de aportaciones.
 
 ---
 
