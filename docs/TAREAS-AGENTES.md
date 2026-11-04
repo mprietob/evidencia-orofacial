@@ -37,9 +37,9 @@ Pasos para un agente de IA (Claude Code, Codex, Gemini, Copilot u otro) que resp
    - **Respuesta corta**, en una o dos frases.
    - **Qué dice la evidencia**, ordenada por diseño: revisiones y ensayos primero, después observacionales, casos y opinión.
    - **Por cada estudio:** autor, año, PMID o DOI, la ficha, su criterio diagnóstico y su resultado.
-   - **Evidencia en contra y límites.**
-   - **Interpretación**, si la hay, marcada como tal y separada de lo que dicen los estudios.
-   - **Qué falta por saber.**
+   - **Evidencia en contra o limitaciones decisivas, cuando sean pertinentes para la pregunta.**
+   - **Interpretación**, si la hay, diferenciada del resultado.
+   - **Cuestiones abiertas**, solo si aportan algo concreto.
 5. Si la pregunta es sobre una persona concreta, no diagnostiques ni recomiendes tratamiento. Explica qué dice la evidencia en general y recomienda una valoración profesional en persona.
 6. Si no está en la biblioteca, dilo. No rellenes con conocimiento general sin avisar de que no sale de aquí.
 
@@ -53,7 +53,7 @@ Pasos para un agente de IA (Claude Code, Codex, Gemini, Copilot u otro) que resp
 3. **Añade una fila a `fuentes/bibliografia.csv`:** `id,tipo,autores,anio,titulo,doi,pmid,tema,estado_lectura`. El `id` es el apellido del primer autor en mayúsculas y el año, por ejemplo `DHAR2026`. Si ya existe, añade una letra.
 4. **Crea la ficha** copiando [fuentes/articulos/PLANTILLA.md](../fuentes/articulos/PLANTILLA.md). Nombre del archivo: `<año>-<apellido>-<tema-corto>.md`, en minúsculas y sin tildes.
 5. **Rellena el criterio diagnóstico.** Empieza el campo por la etiqueta (`FUNCIONAL`, `LONGITUD/ASPECTO`, `MIXTO`, `NO APLICA` o `PENDIENTE DE VERIFICAR`) y di de dónde sale el dato. Si el resumen no lo dice, es `PENDIENTE DE VERIFICAR`. No lo deduzcas.
-6. **Copia solo cifras comprobadas** en la fuente que has leído. Di en «Estado de lectura» qué leíste y cuándo.
+6. **Copia solo cifras comprobadas** en la fuente que has leído. Di en «Estado de lectura» qué leíste y cuándo. Da protagonismo a los resultados: no rellenes la ficha con advertencias genéricas ni repitas en varios apartados una misma limitación.
 7. **Sección «Figuras»:** ver la tarea 6.
 8. **Si el estudio toca una objeción,** actualízala (tarea 4).
 9. **Si sale de la búsqueda,** cambia su `estado` a `fichado` en `docs/busqueda-2026-11.csv` y quítalo de la lista de pendientes de `BUSQUEDA-2026-11.md`.
@@ -68,7 +68,7 @@ Pasos para un agente de IA (Claude Code, Codex, Gemini, Copilot u otro) que resp
 
 ## 4. Actualizar una objeción o una afirmación
 
-1. Sigue [ENFOQUE-CRITICO.md](ENFOQUE-CRITICO.md): identifica hipótesis, medida y desenlace. No audites automáticamente todas las limitaciones posibles.
+1. Sigue [ENFOQUE-CRITICO.md](ENFOQUE-CRITICO.md): identifica hipótesis, medida y desenlace. Analiza limitaciones concretas cuando afecten a la objeción, sin enumerar automáticamente todo lo que el estudio no demuestra.
 2. Añade el estudio en la cara que le toque: evidencia a favor o en contra. Si matiza las dos, ponlo en las dos.
 3. Di su criterio diagnóstico. Longitud/aspecto no resuelve por sí solo la función; tampoco una prueba funcional parcial resuelve todas las funciones.
 4. Distingue límite documentado de hipótesis de sesgo: una apertura máxima reducida **podría** alterar TRMR, pero no afirmes que ocurriera en un estudio sin datos.
