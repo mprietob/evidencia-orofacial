@@ -31,6 +31,21 @@ for path in paths:
         if not (path.parent / dst.split('#')[0]).exists():
             issues.append(f'Enlace local roto en {rel}: {dst}')
 
+# Integridad real del CSV: DictReader tolera silenciosamente columnas extra.
+# Una nota con comas sin comillas puede partir una fila y falsear el inventario.
+for rel in ('fuentes/bibliografia.csv', 'fuentes/indice-fichas.csv'):
+    archivo = root / rel
+    with archivo.open(encoding='utf-8', newline='') as fh:
+        try:
+            reader = csv.reader(fh, strict=True)
+            cabecera = next(reader)
+            for fila in reader:
+                if len(fila) != len(cabecera):
+                    issues.append(f'CSV mal formado: {rel}, línea {reader.line_num}: '
+                                  f'{len(fila)} columnas; esperadas {len(cabecera)}')
+        except (csv.Error, StopIteration) as exc:
+            issues.append(f'CSV inválido: {rel}: {exc}')
+
 # Bibliografía
 with (root / 'fuentes/bibliografia.csv').open(encoding='utf-8') as fh:
     rows = list(csv.DictReader(fh))
@@ -44,6 +59,19 @@ fichas = [p for p in (root / 'fuentes/articulos').glob('*.md') if p.name != 'PLA
 for f in fichas:
     if 'Criterio diagnóstico de anquiloglosia' not in f.read_text(encoding='utf-8'):
         issues.append(f'Ficha sin criterio diagnóstico: {f.name}')
+
+# El archivo único para IA incluye exactamente las fichas disponibles.
+monolito = root / 'biblioteca-completa.md'
+if monolito.exists():
+    texto = monolito.read_text(encoding='utf-8')
+    incorporadas = re.findall(r'<!-- archivo: (fuentes/articulos/[^\\n]+\\.md) -->', texto)
+    esperadas = {f'fuentes/articulos/{f.name}' for f in fichas}
+    if len(incorporadas) != len(set(incorporadas)):
+        issues.append('biblioteca-completa.md tiene fichas duplicadas')
+    if set(incorporadas) != esperadas:
+        issues.append(f'biblioteca-completa.md incompleta: faltan '
+                      f'{len(esperadas - set(incorporadas))}; sobran '
+                      f'{len(set(incorporadas) - esperadas)}')
 
 # El índice de fichas está al día
 sys.path.insert(0, str(root / 'scripts'))
