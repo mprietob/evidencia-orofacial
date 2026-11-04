@@ -11,6 +11,8 @@
 - docs/INSTRUCCIONES-IA.md: reglas para pegar en una IA de chat que no lee AGENTS.md
 
 ## Navegación
+- conocimiento/rutas-de-evidencia.md: rutas investigables por eslabones con fuentes; no son tesis personales de la compiladora
+- conocimiento/definiciones-intervencion-frenillo.md: comparación de criterios diagnósticos y técnicas de frenotomía/frenuloplastia en fichas existentes
 - conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md: 9 fuentes nuevas sobre rinitis, respiración bucal, adenoides, morfología, terapia miofuncional, otitis y sueño; incluye evidencia negativa
 - docs/REVISION-INTERDISCIPLINAR-2026-11.md: registro de búsqueda dirigida, alcance y etapas pendientes, no PRISMA
 - docs/PDFS-LECTURA-PENDIENTE-2026-11-03.md: inventario vigente de 115 lecturas pendientes entre 220 referencias
