@@ -12,7 +12,7 @@
 - **Límites metodológicos / confusores:** Transversal. Correlaciones débiles. Del texto completo (lectura previa del equipo): la relación directa entre movilidad e IAH no es significativa (r=-0,08; p=0,07); cifras que no cuadran (44 % con apnea en el resumen frente a 142 de 222 en el texto); erratas («p = 0.0.1» también en el resumen).
 - **Hallazgos contrarios o no significativos:** Los autores plantean la dirección contraria: una mandíbula pequeña por genética llevaría la lengua atrás y el frenillo sería corto como consecuencia.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en adultos frenillo corto, poca movilidad y mandíbula pequeña y retrasada van juntos. No: Decir que el frenillo «hace» la mandíbula pequeña.
-- **Lectura de Marta o del equipo (INTERPRETACION):** [Lectura del equipo, 15/10/2026] El estudio no sirve para decir que el frenillo causa la mandíbula pequeña; solo que van juntos. Usa la misma familia de medida que el test de Marta (TRMR).
+- **Interpretación editorial:** El estudio explora asociaciones entre movilidad lingual, frenillo y morfología mandibular mediante medidas de la familia TRMR; la dirección de la relación queda como pregunta de investigación.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
 - **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Texto completo leído por Marta (PDF vía ClinicalKey, 15/10/2026); los datos que no están en el resumen salen de esa lectura. Origen: notas de trabajo de Marta (no publicadas).
 
