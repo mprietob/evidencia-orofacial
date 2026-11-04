@@ -64,7 +64,7 @@ for f in fichas:
 monolito = root / 'biblioteca-completa.md'
 if monolito.exists():
     texto = monolito.read_text(encoding='utf-8')
-    incorporadas = re.findall(r'<!-- archivo: (fuentes/articulos/[^\\n]+\\.md) -->', texto)
+    incorporadas = re.findall(r'<!-- archivo: (fuentes/articulos/[^\n]+\.md) -->', texto)
     esperadas = {f'fuentes/articulos/{f.name}' for f in fichas}
     if len(incorporadas) != len(set(incorporadas)):
         issues.append('biblioteca-completa.md tiene fichas duplicadas')
