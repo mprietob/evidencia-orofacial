@@ -4,6 +4,7 @@ En la literatura, el nombre «frenillo» puede referirse a **variables anatómic
 
 | Publicación | Definición utilizada en la ficha | Tratamiento/comparador descrito | Resultado recogido |
 |---|---|---|---|
+| [Ricke 2005](../fuentes/articulos/2005-ricke-prevalencia-lactancia-atlff.md) | Selección **visual** del frenillo en neonatos; ATLFF **mixto aplicado después** (κ=0,49; 31/49 sin categoría) | Cuatro frenotomías, cuyos datos posteriores **se excluyeron** de la comparación de alimentación | Riesgo relativo de solo biberón 3,11 en semana 1; 1,00 al mes |
 | [Messner y Lalakea 2002](../fuentes/articulos/2002-messner-frenuloplastia-habla.md) | Niños de 1 a 12 años; criterio inicial exacto pendiente en el abstract | Frenuloplastia, con comparación pre/post pero sin control | Cambios de movilidad medidos en mm y articulación evaluada en parte de la muestra |
 | [O’Callahan 2013](../fuentes/articulos/2013-ocallahan-frenotomia-anterior-posterior.md) | Lactantes, Coryllos I–IV (**anatómica**) | Frenotomía en consulta; la ficha no precisa planos ni extensión de liberación | Encuesta posterior de lactancia y dolor, sin grupo control |
 | [Dinh 2025](../fuentes/articulos/2025-dinh-ensayo-frenotomia-lactancia.md) | Recién nacidos, Hazelbaker (**aspecto + función**) | Frenotomía frente a procedimiento simulado (55 y 57 díadas) | Sin diferencia significativa inmediata en LATCH ni dolor |
