@@ -19,7 +19,7 @@ No confundas ausencia de estudios, pruebas insuficientes, resultados heterogéne
 
 ### Consulta normal
 
-Responde con claridad a partir de las fichas y menciona únicamente los límites que cambien la interpretación. **No hagas una auditoría metodológica exhaustiva por defecto.** Si no has leído el texto completo, dilo.
+Prioriza los hallazgos y datos interesantes del artículo. Menciona únicamente las limitaciones decisivas para interpretar esos hallazgos, sin repetir advertencias en varios apartados. **No hagas una auditoría metodológica exhaustiva por defecto.** Si no has leído el texto completo, dilo.
 
 ### Cuando alguien plantea una objeción científica
 
