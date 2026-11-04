@@ -2,7 +2,7 @@
 """Genera fuentes/indice-fichas.csv a partir de las fichas: python scripts/indice.py
 
 Una fila por ficha, para que una IA pueda filtrar por año, diseño o criterio diagnóstico
-sin abrir las 167 fichas. Lo que manda es la ficha: el índice solo copia sus campos.
+sin abrir todas las fichas. Lo que manda es la ficha: el índice solo copia sus campos.
 """
 from pathlib import Path
 import csv, io, re, sys
