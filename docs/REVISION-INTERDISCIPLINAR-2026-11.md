@@ -22,7 +22,7 @@ Una sola metaanálisis «de todo» no sería interpretable. Preparar primero una
 
 | Etapa | Estado al 03/11/2026 | Entregable |
 |---|---|---|
-| A. Inventario de fuentes existentes | **HECHO**, 220 referencias y 183 fichas tras actualización | [PDFs/lecturas pendientes](PDFS-LECTURA-PENDIENTE-2026-11-03.md), con acceso abierto por verificar individualmente |
+| A. Inventario de fuentes existentes | **HECHO**, 222 referencias y 190 fichas tras actualización | [PDFs/lecturas pendientes](PDFS-LECTURA-PENDIENTE-2026-11-03.md), con acceso abierto por verificar individualmente |
 | B. Primera ampliación de ORL, crecimiento y sueño | **HECHO (primera tanda)**, 9 fichas nuevas, una ficha de Mills neonatal, y **segunda tanda**, 3 fichas (Bandyopadhyay 2020, Avivar-Pardo 2026, Carey 2026) | [Mapa de evidencia](../conocimiento/mapa-craneo-orofacial-via-aerea-sueno-postura.md), fichas vinculadas y bibliografía/index actualizados |
 | C. Completar 15 fichas con criterio diagnóstico pendiente | **PENDIENTE** | Leer original cuando exista, verificar método y corregir sin conjeturas |
 | D. Cribar 34 prioritarios + 140 pendientes de búsqueda de 2025–2026 | **PENDIENTE** | Separar pertinente, duplicado, tangencial y descartado con motivo |
@@ -88,6 +88,15 @@ Consultas orientativas empleadas (no deben presentarse como cadenas exhaustivas 
 Se revisaron **cuatro originales**, tres con medidas directas de funciones/posición y uno con repetibilidad de imagen de fenómenos distintos: [Coppelson 2023](../fuentes/articulos/2023-coppelson-postura-cbct.md) (postura/NBC3/MCA, 90 adultos), [Engelke 2011](../fuentes/articulos/2011-engelke-presiones-intraorales.md) (presión subpalatina e interoclusal, 20 adultos sanos) y [Knösel 2012](../fuentes/articulos/2012-knoesel-lengua-deglucion-respiracion-bucal.md) (contacto lingual durante deglución, 29 niños). además de [Sun 2024](../fuentes/articulos/2024-sun-repetibilidad-ct-via-aerea.md), que documenta discrepancias test–retest entre tomografías (10 CBCT y 10 MDCT, dos imágenes por persona). [Síntesis con el límite de cada inferencia](../conocimiento/postura-cervical-presion-subpalatina-deglucion.md); [acta de revisión](REVISION-ABIERTOS-FASE3-2026-11-03.md).
 
 **Punto crítico:** Knösel excluyó niños que no podían alcanzar la papila con la lengua. Coppelson encontró diferencias significativas al **manipular** flexión/extensión cervical, pero no comprobó que una obstrucción cause una postura espontánea concreta. Engelke registró presión subpalatina tras instrucciones, no crecimiento óseo. Estas piezas **no son tres pruebas independientes de una cadena causal completa**.
+
+## Cuarta tanda de fuentes primarias abiertas — 04/11/2026
+
+- **Ricke 2005**: tras leer el original, se comprobó selección neonatal por **apariencia** y ATLFF aplicado después (**31/49 sin categoría; κ=0,49**). Es un ejemplo documental de por qué registrar diagnóstico de inclusión y evaluación posterior por separado.
+- **Ye 2026**: original en **182 adolescentes** con fuerza lingual, postura cefalométrica y ANB medidos conjuntamente; MTP clase III **1,65 kg** frente a **2,20–2,21 kg** clases I/II.
+- **Zheng 2023**: **194 adultos**, postura lingual en CBCT y segmentos faríngeos; resultados globales sin diferencia pero un subgrupo extremo con mayores volúmenes/áreas.
+- **Malhotra 2020**: lectura íntegra del marco de endotipos fisiológicos de apnea obstructiva.
+
+[Registro de esta tanda](REVISION-ABIERTOS-FASE4-2026-11-04.md) y [rutas de evidencia](../conocimiento/rutas-de-evidencia.md).
 
 ## Archivos de continuidad
 
