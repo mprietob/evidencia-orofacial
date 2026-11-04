@@ -1,10 +1,10 @@
 # Guía: cómo consultar esta biblioteca con una IA
 
-No hace falta saber nada de GitHub. Necesitas una IA: NotebookLM, ChatGPT, Claude o Gemini. Las cuentas gratuitas sirven para la forma 2.
+No hace falta saber nada de GitHub. Necesitas una IA: NotebookLM, ChatGPT, Claude o Gemini. **El repositorio sigue privado**: esta guía describe el acceso para quienes tienen permisos y cómo se podrá utilizar cuando se publique. No debe darse por disponible hoy para cualquier visitante.
 
 ## 1. Mirarla sin más (sin cuenta)
 
-Un repositorio público se ve entero sin cuenta. Las fichas están en la carpeta `fuentes/articulos`, el índice por temas en `llms.txt` y la portada en el README.
+**Cuando el repositorio se haga público**, podrá verse sin cuenta. Las fichas están en la carpeta `fuentes/articulos`, el índice por temas en `llms.txt` y la portada en el README.
 
 ## 2. Preguntarle a una IA subiendo un solo archivo (gratis)
 
