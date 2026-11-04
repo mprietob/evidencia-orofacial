@@ -141,11 +141,12 @@ La ha reunido Marta Prieto, dermatóloga (@dermaprieto en Instagram): **son los 
 
 ## Qué es
 
-- **188 fichas** de estudios, revisiones y documentos de sociedades científicas en fuentes/articulos/, con su DOI o PMID y el índice en bibliografia.csv. Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: docs/BUSQUEDA-2026-11.md.
+- **190 fichas** de estudios, revisiones y documentos de sociedades científicas en fuentes/articulos/, con su DOI o PMID y el índice en bibliografia.csv. Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: docs/BUSQUEDA-2026-11.md.
 - **Objeciones frecuentes**, con resultados de estudios en distintos sentidos: objeciones/.
-- **Cobertura comprobada** de la bibliografía: 220 referencias, 188 fichas y cinco estudios recuperados.
+- **Cobertura comprobada** de la bibliografía: 222 referencias y 190 fichas registradas.
 - **Un mapa interdisciplinar de evidencia** sobre vía aérea, crecimiento craneofacial, sueño, terapia miofuncional y otitis, con registro de la revisión por etapas y lista completa de textos completos/PDF por revisar y primera tanda práctica, cuya lectura de fuentes abiertas ya está documentada. Se ha completado otra tanda de originales sobre postura cervical, presión subpalatina, coordinación lingual y repetibilidad del CBCT (acta de lectura); también se ha ampliado el contraste sobre terapia miofuncional infantil y apnea, validación de herramientas diagnósticas y ensayos clínicos registrados aún sin resultados.
 - **Preguntas e hipótesis exploratorias**, sin atribuirlas como tesis personales de quien recopila las referencias: hipotesis/.
+- **Nueva tanda de cuatro textos originales** — Ricke 2005, Malhotra 2020, Zheng 2023 y Ye 2026 — con hallazgos sobre diagnóstico por apariencia frente a función, postura/fuerza de lengua, morfología y vía aérea.
 - **Síntesis por temas** y una matriz de afirmaciones con su grado de apoyo.
 - **Las ideas públicas de Soroush Zaghi** (cirujano de vía aérea, coautor de las escalas de movilidad TRMR), cada una con el vídeo del que sale: expertos/soroush-zaghi/.
 - **Figuras** de artículos con licencia abierta, con su crédito: figuras/.
@@ -295,6 +296,12 @@ Un instrumento puede tener:
 
 **Ninguno de los primeros cuatro elementos garantiza automáticamente el quinto.** Si se compara una escala con otra escala que tampoco es patrón de referencia, la correlación puede ser alta sin establecer la realidad de la restricción funcional que preocupa al paciente.
 
+## Un ejemplo primario especialmente ilustrativo: Ricke 2005
+
+En **Ricke et al. 2005**, la selección inicial de **148/3.490 recién nacidos** como «anquiloglosia» dependió **solo de la apariencia** valorada por enfermeras; **después** se aplicó ATLFF a los casos. En los **49 casos** del análisis, la propia escala **dejó 31 (63 %) fuera de las categorías predefinidas** y el acuerdo interobservador para función alterada fue **κ=0,49**, pese a entrenamiento de los investigadores.
+
+**La distinción que importa al revisar literatura:** un trabajo puede **usar una herramienta funcional durante el estudio sin haber seleccionado originalmente a los participantes por disfunción funcional**. Esta diferencia debe quedar clara en las tablas de revisiones y metaanálisis. El mismo estudio encontró riesgo relativo **3,11** de alimentación solo con biberón en semana 1 frente a controles y **1,00** al mes: resultados temporales distintos dentro de la misma cohorte.
+
 ## Qué dice exactamente cada fuente
 
 | Fuente | Población y pregunta | Resultado | Límite que importa |
@@ -338,6 +345,7 @@ En la literatura, el nombre «frenillo» puede referirse a **variables anatómic
 
 | Publicación | Definición utilizada en la ficha | Tratamiento/comparador descrito | Resultado recogido |
 |---|---|---|---|
+| Ricke 2005 | Selección **visual** del frenillo en neonatos; ATLFF **mixto aplicado después** (κ=0,49; 31/49 sin categoría) | Cuatro frenotomías, cuyos datos posteriores **se excluyeron** de la comparación de alimentación | Riesgo relativo de solo biberón 3,11 en semana 1; 1,00 al mes |
 | Messner y Lalakea 2002 | Niños de 1 a 12 años; criterio inicial exacto pendiente en el abstract | Frenuloplastia, con comparación pre/post pero sin control | Cambios de movilidad medidos en mm y articulación evaluada en parte de la muestra |
 | O’Callahan 2013 | Lactantes, Coryllos I–IV (**anatómica**) | Frenotomía en consulta; la ficha no precisa planos ni extensión de liberación | Encuesta posterior de lactancia y dolor, sin grupo control |
 | Dinh 2025 | Recién nacidos, Hazelbaker (**aspecto + función**) | Frenotomía frente a procedimiento simulado (55 y 57 díadas) | Sin diferencia significativa inmediata en LATCH ni dolor |
@@ -454,6 +462,14 @@ El interés es investigar cómo interactúan estructuras y funciones, no atribui
 | **Terapia miofuncional aislada ↔ apnea infantil objetiva** | Revisión de ensayos: IAH, 4 ECA con n=174; DM −1,68/h (IC95% −3,61 a +0,24; p=0,07): **no hay diferencia concluyente**. | Riesgo de sesgo serio; muchos niños con apnea residual tras cirugía; no generalizar a todos los fenotipos. **El resultado negativo sí importa**. | Cnockaert 2026 |
 | **Terapia miofuncional ↔ apnea en adultos** | Umbrella review de 9 revisiones/21 estudios primarios sugiere mejoría de algunos desenlaces adultos, con IAH −9,54/h agrupado. | Calidad metodológica frecuentemente críticamente baja y alto sesgo primario. **No extrapolar los efectos de adultos a niños**. | Pisoni 2026 |
 | **Adenoides / trompa de Eustaquio ↔ otitis media con efusión** | Umbrella review de intervenciones: eficacia dependiente de edad de tubos y adenoidectomía en OME; otras intervenciones con limitaciones. | No estudia frenillo, desarrollo maxilar ni postura. No conectar causalmente sin estudios que hayan medido ambas cosas. | Chandrasekharan 2026 |
+
+## Nueva evidencia original sobre fuerza, postura lingual y geometría faríngea (04/11/2026)
+
+- **Adolescentes y patrón sagital:** Ye et al. 2026 midieron **en las mismas 182 personas** fuerza lingual MTP, posición cefalométrica de punta/dorso y ANB. En clase III MTP mediana **1,65 kg** frente a **2,20–2,21 kg** en clases I/II; el análisis estadístico indicó asociación parcial MTP–TTI–ANB (**32,4 %** en ruta mediada). Da una nueva conexión cuantitativa entre función y morfología. No clasificaron frenillo; excluyeron predominantemente respiradores bucales y deglución atípica.
+- **Adultos y segmentos faríngeos:** Zheng et al. 2023 compararon **98 adultos con lengua alta y 96 con lengua baja en CBCT**. **No hubo diferencia global significativa** de volumen/áreas de vía aérea; el subgrupo de lengua extremadamente baja tenía *mayores* valores en algunos segmentos retropalatinos y retroglosos. Este hallazgo aconseja investigar **subtipos, espacio intraoral y segmento** antes de generalizar sobre lengua baja y obstrucción.
+- **OSA no se explica por anatomía aislada:** Malhotra et al. 2020 integran geometría faríngea, dilatadores musculares, control ventilatorio (*loop gain*) y umbral de despertar. Este marco permite formular preguntas sobre por qué resultados de imagen y sueño no siempre coinciden.
+
+Mapa de conexiones actualizado.
 
 ## Actualización de terapia miofuncional: por qué las revisiones discrepan
 
@@ -629,6 +645,12 @@ Este mapa enlaza **hallazgos publicados sobre fenómenos relacionados** para abr
 
 **Conexión exploratoria:** fascia y movilidad ↔ contacto y sellado ↔ presión oral. Son piezas investigadas por separado; el siguiente estudio útil debería medir varios eslabones conjuntamente.
 
+## Fuerza, posición lingual y morfología esquelética: eslabones medidos en una misma cohorte
+
+**Ye et al. (2026)** estudiaron **182 adolescentes de 11–17 años**. En clase III se observó una fuerza lingual MTP menor (**1,65 kg** frente a **2,20–2,21 kg** en I/II) y una posición diferente de la punta (**TTI 8,94 %** frente a **15,26–15,70 %**). En el modelo ajustado, MTP y TTI conservaron asociación con ANB y la **mediación estadística por TTI fue del 32,4 %**. Aquí los tres elementos (fuerza, postura, esqueleto) **sí se midieron en las mismas personas**.
+
+La pregunta científica interesante es **cómo evolucionan juntos a lo largo del crecimiento** y qué ocurre en poblaciones con respiración bucal o deglución atípica, expresamente excluidas de esta cohorte. **TTI es la posición cefalométrica sagital de la punta, no TRMR ni prueba de anquiloglosia**.
+
 ## Nariz, sueño y crecimiento dentofacial
 
 | Resultado documentado | Estudio | Conexión por investigar |
@@ -639,6 +661,12 @@ Este mapa enlaza **hallazgos publicados sobre fenómenos relacionados** para abr
 | Cambios dentofaciales estudiados tras cirugía adenoidea o amigdalar | Singla 2026 | Describir crecimiento natural y tratamientos concomitantes |
 
 **Conexión exploratoria:** afecciones ORL ↔ respiración y sueño ↔ morfología dentofacial. El valor es formular **qué debería medirse conjuntamente** en una cohorte, no convertir asociaciones entre artículos en una conclusión causal automática.
+
+## Posición lingual y vía aérea medida directamente
+
+**Zheng et al. (2023)** compararon CBCT de **194 adultos**, con lengua en reposo alta (**98**) o baja (**96**): **no encontraron una diferencia global significativa** de dimensiones faríngeas entre los dos grupos. Sin embargo, el subgrupo con lengua extremadamente baja y mayor espacio intraoral mostró **volúmenes/áreas mayores** en segmentos retropalatino y retrogloso. Esta observación sugiere que **el espacio disponible y la postura lingual no se traducen en un único resultado faríngeo**; la dirección y el segmento estudiado importan.
+
+**Malhotra et al. (2020)** proporcionan un marco para seguir conectando estos resultados: además de anatomía, cuentan los **músculos dilatadores faríngeos**, el *loop gain* y el **umbral de despertar**. Es especialmente útil para investigar por qué personas con geometrías semejantes pueden tener distinto sueño y distinta respuesta clínica.
 
 ## Postura cervical y medición de vía aérea
 
@@ -760,6 +788,10 @@ La revisión de **Póvoa-Santos et al. (2024)** incluye 11 estudios observaciona
 - **Yoon 2017:** asociación transversal entre medidas linguales y características maxilares; no permite demostrar que una intervención cambie el crecimiento. Ficha.
 - **Kotarska 2024:** revisión adicional con resultados diversos y certeza limitada. Ficha.
 - **Deregibus 2021:** algunos resultados mencionados en notas anteriores siguen **PENDIENTES DE VERIFICAR** en el original. Ficha.
+
+## Una nueva pieza relevante: fuerza y postura de lengua en adolescentes (2026)
+
+**Ye et al. 2026** examinaron a **182 adolescentes**: en clase III, MTP **1,65 kg** frente a aproximadamente **2,20 kg** en clase I/II y TTI sagital de punta lingual **8,94 %** frente a **15–16 %**. En modelos ajustados por inclinación incisiva, **MTP (p=0,001)** y **TTI (p=0,004)** siguieron asociados al ANB, con **32,4 % de la asociación total** mediada estadísticamente por TTI. Aporta **mediciones simultáneas de fuerza, postura y morfología** que enriquecen la pregunta. El estudio **no clasificó frenillo** ni investigó intervención; además, excluyó respiración bucal predominante y deglución atípica. Es una vía de investigación distinta del metaanálisis JADA, no una refutación de sus datos.
 
 ## Qué se puede concluir
 
@@ -5786,21 +5818,27 @@ Figuras no revisadas. [Ver el documento](https://www.nice.org.uk/guidance/htg95)
 # Estudio: Newborn tongue-tie: prevalence and effect on breast-feeding
 
 - **ID:** RICKE2005
-- **Autores, año y revista:** Ricke LA; Baker NJ; Madlon-Kay DJ; DeFor TA. *Journal of the American Board of Family Practice* 2005;18(1):1–7.
-- **DOI / PMID / URL:** DOI `10.3122/jabfm.18.1.1`; PMID `15709057`; [original (acceso libre)](https://pubmed.ncbi.nlm.nih.gov/15709057/).
-- **Tipo de estudio:** Estudio de casos y controles en recién nacidos con seguimiento de alimentación a una semana y un mes.
-- **Población y tamaño muestral:** Cribado de lactantes de nursery: prevalencia observada **4,2 %**. Seguimiento de **49 recién nacidos** clasificados con frenillo corto y **98 controles** emparejados.
-- **Definición diagnóstica y técnicas:** Examen neonatal inicial del frenillo; los casos se evaluaron además con **Assessment Tool for Lingual Frenulum Function (ATLFF/Hazelbaker)**. Entrevistas maternas al cabo de una semana y un mes. No se dispone en el resumen del criterio exacto de cribado anatómico.
-- **Criterio diagnóstico de anquiloglosia:** MIXTO para valoración posterior: cribado de tongue-tie más aplicación del **ATLFF**, que incluye componentes anatómicos y funcionales. El criterio exacto de selección inicial se comprobará en métodos completos.
-- **Variables de resultado:** Alimentación con biberón exclusivamente a una semana y un mes, prevalencia y clasificación ATLFF.
-- **Resultados NUMÉRICOS verificados:** A una semana, riesgo de alimentación solo con biberón **RR 3,11 (IC95 % 1,21–8,03)** frente a controles. A un mes **RR 1,00 (0,55–1,82)**. En los 49 casos, ATLFF clasificó **12 «perfect»**, **0 «acceptable»**, **6 «function impaired»** y dejó **31 fuera de esas categorías**. Los autores concluyeron que el ATLFF **no resultó útil para identificar qué bebés tendrían problemas de lactancia**.
-- **Aportación del estudio:** Un mismo estudio combina prevalencia, evolución temporal de la lactancia y exploración funcional/anatómica; muestra que un resultado diferente a una semana puede atenuarse al cabo de un mes y que la utilidad predictiva de una escala merece examinarse por separado.
-- **Límites metodológicos / confusores (solo los relevantes):** Población neonatal y seguimiento breve; resultados de alimentación influidos por apoyo, decisiones familiares y otros factores. No se estudió directamente una técnica quirúrgica.
-- **Licencia y derechos:** Artículo disponible gratuitamente; verificar licencia antes de reutilizar material. Ficha original sin PDF ni tablas reproducidas.
-- **Estado de lectura:** **Resumen de PubMed revisado el 04/11/2026**. Existe artículo completo abierto en revista, pero tablas y métodos completos aún no auditados.
+- **Autores, año y revista:** Ricke LA; Baker NJ; Madlon-Kay DJ; DeFor TA. *J Am Board Fam Pract* 2005;18(1):1–7.
+- **DOI / PMID / URL:** DOI `10.3122/jabfm.18.1.1`; PMID `15709057`; [texto completo original disponible gratuitamente](https://www.jabfm.org/content/jabfp/18/1/1.full.pdf).
+- **Tipo de estudio:** Casos y controles emparejados, con cribado neonatal prospectivo y entrevista a la semana y al mes.
+- **Población y tamaño muestral:** **3.490** neonatos examinados en Regions Hospital, Minnesota (octubre de 2000–mayo de 2002); **148** identificados por apariencia como tongue-tie (**4,24 %**). Después de exclusiones: **49 casos y 98 controles** (dos controles por caso). Seguimiento telefónico: semana 1, **38 casos/71 controles**; mes 1, **33/65**. Los datos posfrenotomía de cuatro casos se retiraron de la comparación del seguimiento.
+- **Definición diagnóstica y técnicas:** El cribado **lo realizaron enfermeras por el ASPECTO del frenillo, apoyadas en un catálogo fotográfico**. Una investigadora confirmó visualmente el hallazgo y solo entonces se aplicó a los casos la herramienta **ATLFF de Hazelbaker (5 ítems de aspecto y 7 de función)**. Los controles también fueron explorados funcionalmente. En este estudio se utilizaron tres categorías: «Perfect» (función=14), «Acceptable» (función=11 y aspecto=10) y «Function Impaired» (función<11); el sistema dejaba sin clasificar otras puntuaciones. En emparejamiento: edad materna ±5 años, etnia, primiparidad y sexo del bebé. Se utilizó IBFAT materno y entrevistas telefónicas. El personal de lactancia y las madres no recibieron las puntuaciones ATLFF del equipo.
+- **Criterio diagnóstico de anquiloglosia:** **LONGITUD/ASPECTO para entrar en el grupo con anquiloglosia**. El ATLFF **MIXTO se aplicó a posteriori como evaluación adicional**, **no** como criterio de selección de los 148 casos. Este matiz es central para comparar estudios.
+- **Variables de resultado:** Prevalencia de «frenillo corto» visible; abandono de lactancia materna / alimentación solo con biberón; IBFAT; utilidad e interobservador de ATLFF.
+- **Resultados NUMÉRICOS verificados en métodos/tablas del original:**
+  - **Alimentación solo con biberón en semana 1:** **8/38 (21,05 %) casos** frente a **4/71 (5,63 %) controles**, **RR 3,11** (IC95 % 1,21–8,03); diferencia de estado de alimentación p=0,035.
+  - **Al mes:** **10/33 (30,3 %) casos** frente a **15/65 (23,08 %) controles**, **RR 1,00** (IC95 % 0,55–1,82); diferencia global de estado de alimentación p=0,46.
+  - **IBFAT inicial:** media **10,08** casos frente a **9,97** controles; el 85 % de las madres solo anotó una toma.
+  - **Puntuaciones ATLFF entre los 49 casos:** **12 Perfect**, **0 Acceptable**, **6 Function Impaired** y **31 sin categoría definida** (**63 %**). La concordancia entre observadores para función alterada fue **κ=0,49**, moderada, pese al entrenamiento directo por Hazelbaker.
+  - **Tabla 5 (semana 1, subgrupos muy pequeños):** 2/5 con «Function Impaired» y 1/8 con «Perfect» estaban con solo biberón; otros **2/5** del primer grupo tuvieron frenotomía y continuaban con solo lactancia materna. La tabla no permite extraer efectos quirúrgicos comparativos.
+- **Hallazgo útil para el debate diagnóstico:** El **método de selección por apariencia** y el posterior uso de una escala funcional se confunden fácilmente en revisiones. En este caso, además, los propios investigadores consideraron que ATLFF **no resultaba útil para predecir dificultades de lactancia**, destacando su interobservador moderado y que la versión de la escala **dejaba el 63 % de los casos fuera de las categorías**.
+- **Aportación del estudio:** Documenta la evolución neonatal, los resultados de alimentación y las dificultades de aplicar un instrumento diagnóstico que combina aspecto y función. Permite formular preguntas sobre **qué fenotipo se selecciona en cada investigación** y cómo validar la función sin utilizar apariencia como filtro obligatorio.
+- **Límites metodológicos / confusores (decisivos):** Cribado inicial visual, seguimiento incompleto y madres que podían recibir apoyo clínico; cuatro frenotomías fuera del seguimiento analítico; población exclusivamente neonatal. Las comparaciones de grupos son observacionales.
+- **Licencia y derechos:** PDF libremente accesible, con aviso de copyright de la revista; no se reproduce ni incorpora al repositorio.
+- **Estado de lectura:** **Texto completo PDF del editor, métodos, resultados, tablas 1–5 y discusión revisados el 04/11/2026**. Extracción textual del PDF disponible; el renderizado de páginas en la herramienta web falló, por lo que no se efectuó una inspección visual de todas sus figuras.
 ## Figuras
 
-No examinadas. [Original](https://doi.org/10.3122/jabfm.18.1.1).
+Fig. 1: flujo de inclusión (3.490 → 148 → 49 casos/98 controles). [Ver original](https://www.jabfm.org/content/jabfp/18/1/1.full.pdf).
 
 ---
 
@@ -7556,21 +7594,34 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 # Estudio: Endotypes and phenotypes in obstructive sleep apnea
 
 - **ID:** MALHOTRA2020
-- **Autores, año y revista:** Malhotra A; Mesarwi O; Pépin JL; Owens RL. *Current Opinion in Pulmonary Medicine* 2020;26(6):609–614.
-- **DOI / PMID / URL:** DOI `10.1097/MCP.0000000000000724`; PMID `32890019`; PMCID `PMC7544644`; [manuscrito abierto](https://pmc.ncbi.nlm.nih.gov/articles/PMC7544644/).
-- **Tipo de estudio:** Revisión narrativa sobre heterogeneidad fisiopatológica de apnea obstructiva del sueño (OSA), no revisión sistemática cuantitativa.
-- **Población y tamaño muestral:** Síntesis conceptual de literatura en personas con OSA; **no tiene una cohorte primaria ni tamaño muestral propio**.
-- **Definición diagnóstica y técnicas:** Distingue **fenotipos clínicos** de **endotipos fisiopatológicos**. Describe como rasgos relevantes: compromiso anatómico de vía aérea faríngea, respuesta de músculos dilatadores, inestabilidad del control ventilatorio (*loop gain*) y bajo umbral de despertar.
-- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no clasifica pacientes por frenillo ni por pruebas de movilidad lingual.
-- **Variables de resultado:** Mecanismos que contribuyen a la aparición y variabilidad clínica de OSA y sus posibles implicaciones para tratamientos personalizados.
-- **Resultados NUMÉRICOS verificados:** No aporta en el abstract una estimación combinada de efecto. La revisión destaca que **ninguna variable aislada** define por sí sola quién tendrá OSA o cómo responderá; en el artículo se enumeran varios mecanismos anatómicos y no anatómicos.
-- **Aportación del estudio:** Marco para integrar anatomía, control ventilatorio y mecanismos neuromusculares cuando se investigan relaciones entre forma craneofacial, permeabilidad de vía aérea y sueño.
-- **Límites metodológicos / confusores (solo los relevantes):** Revisión narrativa de mecanismos; no estudia eficacia de frenectomía ni explica por sí misma fenotipos orofaciales infantiles.
-- **Licencia y derechos:** Manuscrito de autor abierto en PMC; derechos/licencia de reutilización no confirmados. Sin reproducción de texto o imágenes.
-- **Estado de lectura:** **Abstract PubMed y secciones accesibles del manuscrito PMC contrastados el 04/11/2026**; no se ha auditado íntegramente su bibliografía.
+- **Autores, año y revista:** Malhotra A; Mesarwi O; Pépin JL; Owens RL. *Curr Opin Pulm Med* 2020;26(6):609–614.
+- **DOI / PMID / URL:** DOI `10.1097/MCP.0000000000000724`; PMID `32890019`; PMCID `PMC7544644`; [manuscrito íntegro de autor en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7544644/).
+- **Tipo de estudio:** Revisión narrativa mecanística (sin metaanálisis ni cohorte original).
+- **Población y tamaño muestral:** Integra trabajos anteriores de apnea obstructiva del sueño (OSA) y factores fisiopatológicos; no hay un n conjunto de participantes.
+- **Definición diagnóstica y técnicas:** Distingue **endotipos** (mecanismos fisiológicos) de **fenotipos** (manifestaciones observadas, riesgos y síntomas), con ejemplos procedentes de estudios con imagen, fisiología ventilatoria, EMG y análisis de conglomerados.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no clasifica frenillo ni movilidad lingual.
+- **Variables de resultado:** Mecanismos de colapso faríngeo durante sueño, expresión clínica, riesgo cardiometabólico y posibles diferencias de respuesta terapéutica.
+- **Resultados y hallazgos revisados en texto completo:**
+  - Describe **cuatro grandes endotipos** que pueden combinarse: **(1) compromiso anatómico/colapsabilidad faríngea, (2) respuesta insuficiente de dilatadores faríngeos, (3) control ventilatorio inestable (*loop gain* elevado), (4) umbral bajo de despertar**. También menciona volumen pulmonar, intensidad de la respuesta al despertar y redistribución de líquidos.
+  - La **actividad muscular dilatadora aumenta en vigilia en muchos pacientes con OSA** como compensación; al iniciar el sueño disminuyen reflejos protectores, y puede manifestarse el colapso en vías aéreas predispuestas.
+  - Los autores distinguen **EMG** (activación eléctrica) de eficacia mecánica y explican la variabilidad del **reflejo de presión negativa** (*negative-pressure reflex*) en vigilia y sueño.
+  - En análisis de conglomerados, diferentes poblaciones pueden agruparse por **somnolencia/riesgo cardiovascular**, **sueño alterado con insomnio** o **pocos síntomas**, entre otras agrupaciones; las clasificaciones dependen de las variables seleccionadas.
+  - El **IAH/AHI** es útil para definir OSA pero comprime fenotipos fisiológicos distintos; los autores consideran además **carga hipóxica**, duración de eventos y frecuencia de activaciones para investigar riesgo y respuesta.
+  - **No** ofrece una estimación única combinada de eficacia de tratamientos ni un porcentaje general aplicable a todos los pacientes; es una síntesis conceptual.
+- **Aportación del estudio:** Propone **una estructura mecanística útil para conectar anatomía craneofacial, actividad neuromuscular, respiración y sueño**. Permite formular mejores preguntas de investigación que comparar únicamente volumen anatómico o IAH entre poblaciones no caracterizadas por mecanismo.
+- **Límites metodológicos / confusores (pertinentes):** Revisión narrativa principalmente de adultos con OSA; no investiga aquí fenotipos por anquiloglosia ni evalúa liberación lingual. La taxonomía de endotipos y los subgrupos clínicos proceden de estudios diferentes.
+- **Licencia y derechos:** Manuscrito abierto en PubMed Central; licencia de reproducción de imágenes no verificada. Sin figuras copiadas.
+- **Estado de lectura:** **Manuscrito completo de autor en PMC revisado el 04/11/2026**: introducción, endotipos, fenotipos, implicaciones y conclusiones. Sin evaluación exhaustiva de cada referencia citada.
+
+## Conexiones con otras piezas de la biblioteca
+
+- Li 2026: rinitis y SDB infantil: una manifestación nasal es un factor clínico adicional, no una categoría universal de OSA.
+- Coppelson 2023: postura y CBCT: anatomía en imagen y función durante sueño son mediciones complementarias.
+- Mapa interdisciplinar: añadir endotipos como marco de mecanismos, no como evidencia de una única cadena causal.
+
 ## Figuras
 
-No reproducidas. [Texto abierto](https://pmc.ncbi.nlm.nih.gov/articles/PMC7544644/).
+No reproducidas. [Original abierto en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7544644/).
 
 ---
 
