@@ -2,7 +2,7 @@
 
 ---
 
-Generado el 04/11/2026 desde https://github.com/mprietob/evidencia-orofacial . Un solo archivo para subir a ChatGPT, Claude, Gemini o NotebookLM.
+Generado el 05/11/2026 desde https://github.com/mprietob/evidencia-orofacial . Un solo archivo para subir a ChatGPT, Claude, Gemini o NotebookLM.
 
 ---
 
@@ -139,6 +139,8 @@ Biblioteca de investigación sobre lengua, frenillo lingual, maxilar, deglución
 
 La ha reunido Marta Prieto, dermatóloga (@dermaprieto en Instagram): **son los artículos que ha ido revisando sobre el tema.** **No es una revisión sistemática, porque el tema es demasiado amplio.** Es conocimiento en elaboración, y **toda aportación será más que bienvenida, e incluida**: [cómo aportar](#una-investigación-abierta-a-aportaciones).
 
+**¿Nunca has usado GitHub? Guía paso a paso para leerla con tu IA y para aportar: [recursos.inimamed.com/evidencia](https://recursos.inimamed.com/evidencia).**
+
 ## Qué es
 
 - **190 fichas** de estudios, revisiones y documentos de sociedades científicas en fuentes/articulos/, con su DOI o PMID y el índice en bibliografia.csv. Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: docs/BUSQUEDA-2026-11.md.
@@ -219,7 +221,7 @@ En una IA de chat, pega en las instrucciones del proyecto las reglas de docs/INS
 
 > Usa como fuente el repositorio https://github.com/mprietob/evidencia-orofacial. Lee primero AGENTS.md, docs/ENFOQUE-CRITICO.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). Di qué criterio diagnóstico usa cada estudio. Separa lo que dice el estudio de la interpretación. Si algo no está, dilo.
 
-**¿Nunca has usado GitHub?** Tienes una guía paso a paso: qué IA usar, cómo darle la biblioteca y cómo crearte una cuenta si quieres aportar.
+**¿Nunca has usado GitHub?** Tienes una [guía paso a paso](https://recursos.inimamed.com/evidencia) (también aquí, en GUIA.md): qué IA usar, cómo darle la biblioteca y cómo crearte una cuenta si quieres aportar.
 
 Formas de dárselo, de más sencilla a más técnica:
 

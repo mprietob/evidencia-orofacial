@@ -1,5 +1,7 @@
 # Guía: cómo consultar esta biblioteca con una IA
 
+Esta guía también está, más cómoda de leer, en [recursos.inimamed.com/evidencia](https://recursos.inimamed.com/evidencia).
+
 No hace falta saber nada de GitHub. Necesitas una IA: NotebookLM, ChatGPT, Claude o Gemini. **El repositorio sigue privado**: esta guía describe el acceso para quienes tienen permisos y cómo se podrá utilizar cuando se publique. No debe darse por disponible hoy para cualquier visitante.
 
 ## 1. Mirarla sin más (sin cuenta)
