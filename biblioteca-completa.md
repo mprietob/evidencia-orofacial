@@ -823,6 +823,9 @@ La revisión de **Póvoa-Santos et al. (2024)** incluye 11 estudios observaciona
 
 - **Yoon 2017:** asociación transversal entre medidas linguales y características maxilares; no permite demostrar que una intervención cambie el crecimiento. Ficha.
 - **Kotarska 2024:** revisión adicional con resultados diversos y certeza limitada. Ficha.
+- **Calvo-Henríquez 2022:** 100 niños de tres hospitales españoles, frenillo valorado con el protocolo de Marchesan y oclusión valorada a ciegas por un ortodoncista. Maloclusión en el 48 % con frenillo corto frente al 24 %; OR 2,92 (1,15 a 7,56), significativo para la clase III y no para la clase II. Ficha.
+- **Dydyk 2023:** 86 personas con anquiloglosia frente a 86 controles. Maloclusión o apiñamiento en el 62 % frente al 21,6 %, y anquiloglosia en el 75,6 % de quienes tragaban con patrón infantil. Criterio exacto `PENDIENTE DE VERIFICAR`. Ficha.
+- **Srinivasan 2013:** con criterio de Kotlow, menores anchuras intercaninas e intermolar superior en 57 personas con anquiloglosia frente a 60 sin ella. Ficha.
 - **Deregibus 2021:** algunos resultados mencionados en notas anteriores siguen **PENDIENTES DE VERIFICAR** en el original. Ficha.
 
 ## Una nueva pieza relevante: fuerza y postura de lengua en adolescentes (2026)
@@ -6107,6 +6110,30 @@ No reproducidas. [Texto original](https://doi.org/10.1007/s00455-011-9383-8).
 
 ---
 
+<!-- archivo: fuentes/articulos/2012-marchesan-cambios-frenectomia.md -->
+# Estudio: Lingual frenulum: changes after frenectomy (Frênulo lingual: modificações após frenectomia)
+
+- **ID:** MARCHESAN2012B
+- **Autores, año y revista:** Marchesan IQ; Martinelli RL; Gusmão RJ. *J Soc Bras Fonoaudiol* 2012;24(4):409-412.
+- **DOI / PMID / URL:** DOI `10.1590/s2179-64912012000400020`; PMID `23306695`.
+- **Tipo de estudio:** Serie de casos antes y después.
+- **Población y tamaño muestral:** 53 personas sin terapia ni cirugía previas; 10 con frenillo alterado fueron derivadas a frenectomía y reevaluadas.
+- **Definición diagnóstica y técnicas:** Protocolo de frenillo lingual con puntuación aplicado por logopedas; fotos y vídeos antes y después.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: protocolo de frenillo lingual de Marchesan (ver Marchesan 2012).
+- **Variables de resultado:** Forma de la punta, movimientos de la lengua, cierre labial y habla.
+- **Resultados NUMÉRICOS verificados:** A los 30 días mejoraron la forma de la punta de la lengua y sus movimientos, el cierre labial y el habla. El resumen no da cifras.
+- **Límites metodológicos / confusores (solo los relevantes):** Diez casos sin grupo control; los mismos evaluadores antes y después.
+- **Otros resultados relevantes (si los hay):** Incluido en la revisión de Miranda 2016.
+- **Aportación del estudio:** Cambios funcionales tras la frenectomía con el protocolo de Marchesan.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas.
+
+---
+
 <!-- archivo: fuentes/articulos/2012-marchesan-protocolo.md -->
 # Estudio: Lingual frenulum protocol
 
@@ -6256,6 +6283,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 
 ---
 
+<!-- archivo: fuentes/articulos/2013-srinivasan-anquiloglosia-esqueleto.md -->
+# Estudio: Skeletal and dental characteristics in subjects with ankyloglossia
+
+- **ID:** SRINIVASAN2013
+- **Autores, año y revista:** Srinivasan B; Chitharanjan AB. *Prog Orthod* 2013;14:44.
+- **DOI / PMID / URL:** DOI `10.1186/2196-1042-14-44`; PMID `24326143`; PMC4384905.
+- **Tipo de estudio:** Estudio comparativo transversal.
+- **Población y tamaño muestral:** 57 personas con anquiloglosia frente a 60 sin ella con base esquelética de clase I.
+- **Definición diagnóstica y técnicas:** Cefalometría (SNA, SNB, ANB, Go-Gn-SN, FMA), anchuras intercaninas e intermolares, discrepancia dentoalveolar y sobremordida.
+- **Criterio diagnóstico de anquiloglosia:** LONGITUD/ASPECTO: clasificación de Kotlow (lengua libre medida con calibre digital; normal 16 mm), elegida por los autores por ser sencilla y de una sola medida.
+- **Variables de resultado:** Medidas esqueléticas y dentales por grupo y por grado de anquiloglosia.
+- **Resultados NUMÉRICOS verificados:** Con anquiloglosia, menores anchuras intercaninas superior e inferior y menor anchura intermolar superior (significativas en la prueba t). El ángulo del plano mandibular y la sobremordida variaron con la gravedad. La mayoría del grupo con anquiloglosia tenía base esquelética de clase I, seguida de clase II y III; la anquiloglosia moderada fue la más frecuente.
+- **Límites metodológicos / confusores (solo los relevantes):** Transversal. Valores numéricos de cada medida: `PENDIENTE DE VERIFICAR` en las tablas.
+- **Otros resultados relevantes (si los hay):** Incluido en las revisiones de Póvoa-Santos 2024 y Kotarska 2024.
+- **Aportación del estudio:** Medidas óseas y dentales en anquiloglosia con criterio de longitud.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Licencia CC BY. Figura 2: medición de la lengua libre con calibre (foto de boca: solo enlace). [Ver el artículo](https://doi.org/10.1186/2196-1042-14-44).
+
+---
+
 <!-- archivo: fuentes/articulos/2014-lacerda-sindrome-respiracion-oral.md -->
 # Estudio: The mouth breathing syndrome: prevalence, causes, consequences and treatment
 
@@ -6301,6 +6352,30 @@ Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIE
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.smrv.2013.12.003).
+
+---
+
+<!-- archivo: fuentes/articulos/2014-seo-mordida-abierta-frenillo-caso.md -->
+# Estudio: Treatment and retention of relapsed anterior open-bite with low tongue posture and tongue-tie: A 10-year follow-up
+
+- **ID:** SEO2014
+- **Autores, año y revista:** Seo YJ; Kim SJ; Munkhshur J; Chung KR; Ngan P; Kim SH. *Korean J Orthod* 2014;44(4):203-216.
+- **DOI / PMID / URL:** DOI `10.4041/kjod.2014.44.4.203`; PMID `25133135`; PMC4130916.
+- **Tipo de estudio:** Caso clínico con 10 años de seguimiento.
+- **Población y tamaño muestral:** Un hombre de 19 años con mordida abierta anterior, lengua baja y frenillo corto, que consultó por dificultad para masticar.
+- **Definición diagnóstica y técnicas:** Exploración clínica y radiográfica. Tratamiento con intrusión molar y ejercicios de lengua; tras la recaída, elevador lingual.
+- **Criterio diagnóstico de anquiloglosia:** NO PROPONE NINGUNO: diagnostica el frenillo corto por exploración clínica sin escala descrita (búsqueda en el texto completo el 05/11/2026).
+- **Variables de resultado:** Estabilidad de la mordida abierta.
+- **Resultados NUMÉRICOS verificados:** Se le recomendó frenectomía para evitar la recaída; la rechazó porque no tenía molestias en la lengua. El primer tratamiento corrigió la mordida abierta, pero recayó durante la retención. Con el elevador lingual la corrección se mantuvo seis años mientras siguió usándolo.
+- **Límites metodológicos / confusores (solo los relevantes):** Un solo caso.
+- **Otros resultados relevantes (si los hay):** Los autores describen el elevador lingual como alternativa y como retenedor activo.
+- **Aportación del estudio:** Caso documentado de recaída de una mordida abierta con frenillo corto no operado.
+- **Licencia y derechos:** CC BY-NC.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.4041/kjod.2014.44.4.203).
 
 ---
 
@@ -6696,6 +6771,30 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2016-ferres-amat-protocolo-101.md -->
+# Estudio: Multidisciplinary management of ankyloglossia in childhood. Treatment of 101 cases. A protocol
+
+- **ID:** FERRESAMAT2016
+- **Autores, año y revista:** Ferrés-Amat E; Pastor-Vera T; Ferrés-Amat E; Mareque-Bueno J; Prats-Armengol J; Ferrés-Padró E. *Med Oral Patol Oral Cir Bucal* 2016;21(1):e39-47.
+- **DOI / PMID / URL:** DOI `10.4317/medoral.20736`; PMID `26595832`; PMC4765751.
+- **Tipo de estudio:** Estudio descriptivo de cohorte (protocolo de un hospital pediátrico de Barcelona).
+- **Población y tamaño muestral:** 101 niños de 4 a 14 años sin síndromes, operados en 2 años.
+- **Definición diagnóstica y técnicas:** Frenectomía con plastia lingual por cirugía maxilofacial; entrenamiento miofuncional desde una semana antes de la cirugía y rehabilitación orofacial después.
+- **Criterio diagnóstico de anquiloglosia:** `PENDIENTE DE VERIFICAR`: define la anquiloglosia parcial como limitación de la protrusión y elevación de la punta por un frenillo o unos geniogloso cortos y gradúa su intensidad; la escala exacta no se ha comprobado.
+- **Variables de resultado:** Grado de anquiloglosia tras la cirugía y tras la rehabilitación; complicaciones; derivación.
+- **Resultados NUMÉRICOS verificados:** Tras la cirugía, corrección en 29 pacientes (28 %; IC 95 % 20 a 38 %); con la rehabilitación posterior, en 97 (96 %; IC 95 % 90 a 98 %).
+- **Límites metodológicos / confusores (solo los relevantes):** Descriptivo, sin grupo control.
+- **Otros resultados relevantes (si los hay):** Mismo grupo que Ferrés-Amat 2026.
+- **Aportación del estudio:** Protocolo español con cirugía y rehabilitación, y cuánto aporta cada una (cuarta pregunta de la lectura crítica).
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.4317/medoral.20736).
+
+---
+
 <!-- archivo: fuentes/articulos/2016-guilleminault-frenillo-corto-apnea.md -->
 # Estudio: A frequent phenotype for paediatric sleep apnoea: short lingual frenulum
 
@@ -6775,6 +6874,30 @@ Licencia del artículo: CC BY 4.0. Figuras en PubMed Central (PMC5237674).
 - **Figura 4.** Medida digital de la distancia entre los dos puntos. [Ver en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5237674/figure/F04/). Copia local: figuras/MAHBOUB2016-fig4.jpg.
 
 Crédito: figuras de Mahboub F; Kimyai S; Molavi E (PMC5237674), CC BY 4.0. Las copias locales no se han modificado.
+
+---
+
+<!-- archivo: fuentes/articulos/2016-miranda-intervenciones-frenillo.md -->
+# Estudio: Interventions in the Alteration on Lingual Frenum: Systematic Review
+
+- **ID:** MIRANDA2016
+- **Autores, año y revista:** Miranda PP; Cardoso CL; Gomes E. *Int Arch Otorhinolaryngol* 2016;20(3):275-280.
+- **DOI / PMID / URL:** DOI `10.1055/s-0035-1568135`; PMID `27413412`; PMC4942291.
+- **Tipo de estudio:** Revisión sistemática cualitativa.
+- **Población y tamaño muestral:** 26 estudios de 443 publicaciones (MEDLINE, LILACS, SciELO, Cochrane, IBECS; 2000-2014; portugués, inglés y español).
+- **Definición diagnóstica y técnicas:** Métodos de tratamiento del frenillo alterado.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: los estudios incluidos usan herramientas distintas (por ejemplo Marchesan y Hazelbaker), según el texto completo.
+- **Variables de resultado:** Tipo de intervención y resultados.
+- **Resultados NUMÉRICOS verificados:** Todos los estudios usaron cirugía, con técnicas e instrumentos distintos; 4 recomendaron logopedia tras la cirugía. Solo 4 estudios, todos en lactantes, tenían evidencia científica según los autores.
+- **Límites metodológicos / confusores (solo los relevantes):** Revisión cualitativa sin metaanálisis.
+- **Otros resultados relevantes (si los hay):** Incluye Marchesan 2012b.
+- **Aportación del estudio:** Muestra que las técnicas de liberación no son uniformes (cuarta pregunta de la lectura crítica).
+- **Licencia y derechos:** Licencia `PENDIENTE DE VERIFICAR` (texto en PMC). Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1055/s-0035-1568135).
 
 ---
 
@@ -7651,6 +7774,30 @@ No copiadas ni verificadas visualmente. [Manuscrito de autor](https://scholarwor
 
 ---
 
+<!-- archivo: fuentes/articulos/2020-baxter-funcion-tras-frenectomia.md -->
+# Estudio: Functional Improvements of Speech, Feeding, and Sleep After Lingual Frenectomy Tongue-Tie Release: A Prospective Cohort Study
+
+- **ID:** BAXTER2020
+- **Autores, año y revista:** Baxter R; Merkel-Walsh R; Baxter BS; Lashley A; Rendell NR. *Clin Pediatr (Phila)* 2020;59(9-10):885-892.
+- **DOI / PMID / URL:** DOI `10.1177/0009922820928055`; PMID `32462918`.
+- **Tipo de estudio:** Cohorte prospectiva antes y después, sin grupo control.
+- **Población y tamaño muestral:** 37 niños de 13 meses a 12 años (media 4,2) con restricción lingual y problemas de habla, alimentación o sueño.
+- **Definición diagnóstica y técnicas:** Frenectomía lingual con láser de CO2 y ejercicios miofuncionales. Cuestionarios de los padres antes, a la semana y al mes.
+- **Criterio diagnóstico de anquiloglosia:** LONGITUD/ASPECTO: clasificación de Kotlow, según la revisión de Bussi 2022. Comprobación en el original: `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Habla, alimentación sólida y sueño según los padres.
+- **Resultados NUMÉRICOS verificados:** Según los padres mejoraron el habla en el 89 %, la alimentación sólida en el 83 % y el sueño en el 83 %. El 50 % (8 de 16) de los niños con retraso del habla dijo palabras nuevas (p = 0,008) y el 76 % (16 de 21) de los que comían despacio comió más rápido.
+- **Límites metodológicos / confusores (solo los relevantes):** Resultados referidos por los padres, sin grupo control y con seguimiento de un mes.
+- **Otros resultados relevantes (si los hay):** Distinto de Baxter 2024.
+- **Aportación del estudio:** Resultados funcionales fuera de la lactancia tras la frenectomía.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1177/0009922820928055).
+
+---
+
 <!-- archivo: fuentes/articulos/2020-burgos-sanchez-alcohol-apnea.md -->
 # Estudio: Impact of Alcohol Consumption on Snoring and Sleep Apnea: A Systematic Review and Meta-analysis
 
@@ -7948,6 +8095,30 @@ No tiene figuras.
 
 ---
 
+<!-- archivo: fuentes/articulos/2021-bargiel-miofrenuloplastia.md -->
+# Estudio: Miofrenuloplasty for Full Functional Tongue Release in Ankyloglossia in Adults and Adolescents-Preliminary Report and Step-by-Step Technique Showcase
+
+- **ID:** BARGIEL2021
+- **Autores, año y revista:** Bargiel J; Gontarz M; Gąsiorowski K; Marecik T; Szczurowski P; Zapała J; Wyszyńska-Pawelec G. *Medicina (Kaunas)* 2021;57(8):848.
+- **DOI / PMID / URL:** DOI `10.3390/medicina57080848`; PMID `34441053`; PMC8398067.
+- **Tipo de estudio:** Serie de casos y descripción de técnica quirúrgica.
+- **Población y tamaño muestral:** 6 pacientes de 18 a 37 años.
+- **Definición diagnóstica y técnicas:** Miofrenuloplastia (liberación del complejo frenillo-geniogloso) con terapia miofuncional y valoración por logopeda antes y 6 meses después.
+- **Criterio diagnóstico de anquiloglosia:** FUNCIONAL: TRMR-TIP y TRMR-LPS en posición natural de la cabeza; antes de operar, todos con TRMR-TIP < 50 % y TRMR-LPS < 60 % (uno < 5 %).
+- **Variables de resultado:** Movilidad lingual, tensión de la musculatura del cuello, ronquido y habla.
+- **Resultados NUMÉRICOS verificados:** Cicatrización sin complicaciones mayores. La movilidad lingual y la tensión del cuello mejoraron en todos; en un caso la mejora del habla fue menor.
+- **Límites metodológicos / confusores (solo los relevantes):** Seis casos sin control.
+- **Otros resultados relevantes (si los hay):** Describe la técnica paso a paso.
+- **Aportación del estudio:** Técnica quirúrgica descrita con criterio funcional antes y después (cuarta pregunta de la lectura crítica: qué técnica y si la liberación fue efectiva).
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/medicina57080848).
+
+---
+
 <!-- archivo: fuentes/articulos/2021-deregibus-funcion-lingual-ortodoncia.md -->
 # Estudio: Analysis of Tongue Function from the Orthodontist's Point of View: Not Only a Matter of Deglutition
 
@@ -7974,6 +8145,30 @@ No tiene figuras.
 ## Figuras
 
 No incorporadas. [Fuente original](https://doi.org/10.3390/app11062520).
+
+---
+
+<!-- archivo: fuentes/articulos/2021-fioravanti-frenectomia-apnea-ensayo.md -->
+# Estudio: The Efficacy of Lingual Laser Frenectomy in Pediatric OSAS: A Randomized Double-Blinded and Controlled Clinical Study
+
+- **ID:** FIORAVANTI2021
+- **Autores, año y revista:** Fioravanti M; Zara F; Vozza I; Polimeni A; Sfasciotti GL. *Int J Environ Res Public Health* 2021;18(11):6112.
+- **DOI / PMID / URL:** DOI `10.3390/ijerph18116112`; PMID `34204017`; PMC8200995.
+- **Tipo de estudio:** Ensayo aleatorizado, descrito por los autores como doble ciego y controlado.
+- **Población y tamaño muestral:** 32 niños con apnea moderada o grave, 16 por grupo.
+- **Definición diagnóstica y técnicas:** Grupo de estudio: polisomnografía, frenectomía lingual con láser de diodo (7 W) y nueva polisomnografía a los 3 meses. Grupo control: mismo protocolo sin frenectomía, con terapia miofuncional y logopedia.
+- **Criterio diagnóstico de anquiloglosia:** `PENDIENTE DE VERIFICAR`: la introducción describe Kotlow, MOTTIP, ATLFF y BTAT, pero no se ha localizado cuál se usó para seleccionar a los niños.
+- **Variables de resultado:** Gravedad de la apnea por polisomnografía y dolor.
+- **Resultados NUMÉRICOS verificados:** Al inicio, en el grupo operado había 8 apneas graves y 8 moderadas; en el control, 3 graves y 13 moderadas. A los 3 meses, en el grupo operado el 93,8 % tenía apnea leve y el 6,2 % moderada; en el control, 18,75 % leve, 62,5 % moderada y 18,75 % grave.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña. Gravedad inicial distinta entre grupos (más graves en el grupo operado). Resultados en categorías de gravedad; valores de IAH: `PENDIENTE DE VERIFICAR`.
+- **Otros resultados relevantes (si los hay):** Posiblemente es el único ensayo aleatorizado sobre frenectomía y apnea que citan Cordray 2023 y Palomo 2026: `PENDIENTE DE VERIFICAR`.
+- **Aportación del estudio:** Ensayo aleatorizado de frenectomía frente a terapia en apnea infantil.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/ijerph18116112).
 
 ---
 
@@ -8335,6 +8530,30 @@ Licencia del artículo: CC BY-NC-ND 4.0 (no permite copiar aquí). Figuras en Pu
 
 ---
 
+<!-- archivo: fuentes/articulos/2022-arena-revision-liberacion-no-lactantes.md -->
+# Estudio: Outcomes of tongue-tie release by means of tongue and frenulum assessment tools: a scoping review on non-infants
+
+- **ID:** ARENA2022
+- **Autores, año y revista:** Arena M; Micarelli A; Guzzo F; Misici I; Jamshir D; Micarelli B; Castaldo A; di Benedetto A; Alessandrini M. *Acta Otorhinolaryngol Ital* 2022;42(6):492-501.
+- **DOI / PMID / URL:** DOI `10.14639/0392-100x-n2211`; PMID `36654515`; PMC9853103.
+- **Tipo de estudio:** Revisión de alcance con metaanálisis.
+- **Población y tamaño muestral:** 7 estudios en no lactantes (2011-2021), de 2.235 registros.
+- **Definición diagnóstica y técnicas:** Estudios que usaron herramientas estructuradas de valoración de la lengua y el frenillo antes y después de la liberación.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: incluye estudios con Kotlow y con el protocolo de Marchesan, entre otros (palabras clave del artículo).
+- **Variables de resultado:** Resultados anatómicos y funcionales tras la liberación.
+- **Resultados NUMÉRICOS verificados:** La mayoría de las opciones de tratamiento mejoraron de forma significativa la limitación anatómica de la lengua, con beneficios en las funciones. Cifras del metaanálisis: `PENDIENTE DE VERIFICAR`.
+- **Límites metodológicos / confusores (solo los relevantes):** Pocos estudios.
+- **Otros resultados relevantes (si los hay):** Pide aplicar con rigor herramientas validadas antes y después de liberar.
+- **Aportación del estudio:** Revisión centrada en niños mayores y adultos con herramientas de valoración.
+- **Licencia y derechos:** CC BY-NC-ND 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.14639/0392-100x-n2211).
+
+---
+
 <!-- archivo: fuentes/articulos/2022-baxter-frenillo-labial.md -->
 # Estudio: Safety and efficacy of maxillary labial frenectomy in children: A retrospective comparative cohort study
 
@@ -8356,6 +8575,102 @@ Licencia del artículo: CC BY-NC-ND 4.0 (no permite copiar aquí). Figuras en Pu
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.ortho.2022.100630).
+
+---
+
+<!-- archivo: fuentes/articulos/2022-bussi-anquiloglosia-apnea-revision.md -->
+# Estudio: Is ankyloglossia associated with obstructive sleep apnea?
+
+- **ID:** BUSSI2022
+- **Autores, año y revista:** Bussi MT; Corrêa CC; Cassettari AJ; Giacomin LT; Faria AC; Moreira APSM; Magalhães I; Cunha MOD; Weber SAT; Zancanella E; Machado Júnior AJ. *Braz J Otorhinolaryngol* 2022;88 Supl 1:S156-S162.
+- **DOI / PMID / URL:** DOI `10.1016/j.bjorl.2021.09.008`; PMID `34895868`; PMC9734261.
+- **Tipo de estudio:** Revisión integradora.
+- **Población y tamaño muestral:** 4 estudios de 97 registros: niños con trastorno respiratorio del sueño a los que se valoró el frenillo.
+- **Definición diagnóstica y técnicas:** Análisis de diseño, muestra, caracterización del frenillo y valoración del sueño.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: los estudios incluidos usan sobre todo la clasificación de Kotlow (por ejemplo Villa y Baxter), según el texto completo.
+- **Variables de resultado:** Asociación entre anquiloglosia y apnea.
+- **Resultados NUMÉRICOS verificados:** Dos estudios retrospectivos asocian el frenillo corto no tratado al nacer con apnea más tarde; uno prospectivo describe mejora del habla, la deglución y el sueño tras la frenectomía; una cohorte retrospectiva describe la frenuloplastia con terapia miofuncional como eficaz para el ronquido y la respiración bucal. Los autores concluyen que los estudios apoyan la asociación.
+- **Límites metodológicos / confusores (solo los relevantes):** Solo 4 estudios, ninguno aleatorizado.
+- **Otros resultados relevantes (si los hay):** Incluye Baxter 2020 y Zaghi 2019.
+- **Aportación del estudio:** Revisión brasileña de frenillo y apnea infantil.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.bjorl.2021.09.008).
+
+---
+
+<!-- archivo: fuentes/articulos/2022-calvo-henriquez-frenillo-maloclusion.md -->
+# Estudio: Relationship between short lingual frenulum and malocclusion. A multicentre study
+
+- **ID:** CALVOHENRIQUEZ2022
+- **Autores, año y revista:** Calvo-Henríquez C; Neves SM; Branco AM; Lechien JR; Reinoso FB; Rojas XM; O'Connor-Reina C; González-Guijarro I; Martínez Capoccioni G. *Acta Otorrinolaringol Esp (Engl Ed)* 2022;73(3):177-183.
+- **DOI / PMID / URL:** DOI `10.1016/j.otoeng.2021.01.003`; PMID `35577433`.
+- **Tipo de estudio:** Casos y controles multicéntrico (tres hospitales terciarios españoles, consultas de otorrinolaringología pediátrica).
+- **Población y tamaño muestral:** 100 niños de 4 a 14 años (70 niños y 30 niñas): casos con frenillo corto y controles sanos emparejados por sexo y edad.
+- **Definición diagnóstica y técnicas:** Frenillo valorado con el protocolo de Marchesan. Oclusión valorada en fotografías por un experto en ortodoncia que no sabía qué niños tenían el frenillo corto.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: protocolo de Marchesan (pruebas anatómicas y funcionales), según el resumen.
+- **Variables de resultado:** Presencia y tipo de maloclusión.
+- **Resultados NUMÉRICOS verificados:** Maloclusión en el 48 % con frenillo corto frente al 24 % con frenillo normal; OR 2,92 (IC 95 % 1,15 a 7,56; p = 0,012). Significativo para la clase III (p = 0,029); sin diferencia para la clase II (p = 0,317).
+- **Límites metodológicos / confusores (solo los relevantes):** Oclusión valorada en fotografías. Muestra de consultas hospitalarias de otorrinolaringología.
+- **Otros resultados relevantes (si los hay):** Los autores concluyen que apoya la hipótesis que relaciona la maloclusión de clase III con el frenillo corto.
+- **Aportación del estudio:** Estudio español con criterio funcional para el frenillo y evaluador de la oclusión ciego.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.otoeng.2021.01.003).
+
+---
+
+<!-- archivo: fuentes/articulos/2022-carminatti-frenectomia-miofuncional-ensayo.md -->
+# Estudio: The Effectiveness of Lingual Frenectomy and Myofunctional Therapy for Children: A Randomized Controlled Clinical Trial
+
+- **ID:** CARMINATTI2022
+- **Autores, año y revista:** Carminatti M; Nicoloso GF; Miranda PP; Gomes E; de Araujo FB. *J Dent Child (Chic)* 2022;89(1):3-10.
+- **DOI / PMID / URL:** PMID `35337393`; https://pubmed.ncbi.nlm.nih.gov/35337393/
+- **Tipo de estudio:** Ensayo aleatorizado con evaluador ciego.
+- **Población y tamaño muestral:** 40 niños de 6 a 12 años con frenillo lingual alterado. Todos operados; a los 15 días, 20 aleatorizados a ejercicios isotónicos de lengua y 20 sin ejercicios.
+- **Definición diagnóstica y técnicas:** Frenectomía y evaluaciones a los 15 y 30 días.
+- **Criterio diagnóstico de anquiloglosia:** `PENDIENTE DE VERIFICAR`: el resumen dice «frenillo lingual alterado» sin nombrar la herramienta.
+- **Variables de resultado:** Movilidad lingual, apertura bucal máxima y apertura con la punta de la lengua en la papila incisiva.
+- **Resultados NUMÉRICOS verificados:** Con ejercicios mejoraron más que sin ellos la movilidad lingual (p = 0,016), la apertura máxima (p = 0,024) y la apertura con la punta en la papila (p = 0,026).
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña y seguimiento de 30 días. Compara ejercicios tras la cirugía, no cirugía frente a no cirugía.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Ensayo aleatorizado sobre la terapia tras la frenectomía en niños.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver en PubMed](https://pubmed.ncbi.nlm.nih.gov/35337393/).
+
+---
+
+<!-- archivo: fuentes/articulos/2022-correa-frenotomia-colapso-adultos.md -->
+# Estudio: Does Frenotomy Modify Upper Airway Collapse in OSA Adult Patients? Case Report and Systematic Review
+
+- **ID:** CORREA2022
+- **Autores, año y revista:** Correa EJ; O'Connor-Reina C; Rodríguez-Alcalá L; Benjumea F; Casado-Morente JC; Baptista PM; Casale M; Moffa A; Plaza G. *J Clin Med* 2022;12(1):201.
+- **DOI / PMID / URL:** DOI `10.3390/jcm12010201`; PMID `36615001`; PMC9821269.
+- **Tipo de estudio:** Serie de casos más revisión sistemática.
+- **Población y tamaño muestral:** 3 adultos con apnea y anquiloglosia.
+- **Definición diagnóstica y técnicas:** Endoscopia del sueño inducido por fármacos (clasificación VOTE) antes y después de la frenotomía.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: protocolo «Tongue+» con las pruebas de Marchesan y Hazelbaker, según el texto completo.
+- **Variables de resultado:** Colapso de la vía aérea en la endoscopia.
+- **Resultados NUMÉRICOS verificados:** En 2 de los 3 pacientes el colapso a nivel de la lengua pasó de completo anteroposterior (2A-P) a parcial (1ap); en el tercero no cambió, ni a peor ni a mejor.
+- **Límites metodológicos / confusores (solo los relevantes):** Tres casos.
+- **Otros resultados relevantes (si los hay):** Los autores recomiendan logopedia y ejercicios orofaríngeos antes de cualquier cirugía para evitar la glosoptosis. Grupo español (O'Connor-Reina, Plaza).
+- **Aportación del estudio:** Observa el colapso lingual tras la frenotomía en adultos, el punto que se discute en Messner 2020.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/jcm12010201).
 
 ---
 
@@ -8419,6 +8734,54 @@ La figura 2 son fotos de recién nacidos: solo enlace.
 
 ---
 
+<!-- archivo: fuentes/articulos/2022-gonzalez-garrido-miofuncional-anquiloglosia.md -->
+# Estudio: Effectiveness of Myofunctional Therapy in Ankyloglossia: A Systematic Review
+
+- **ID:** GONZALEZGARRIDO2022
+- **Autores, año y revista:** González Garrido MDP; Garcia-Munoz C; Rodríguez-Huguet M; Martin-Vega FJ; Gonzalez-Medina G; Vinolo-Gil MJ. *Int J Environ Res Public Health* 2022;19(19):12347.
+- **DOI / PMID / URL:** DOI `10.3390/ijerph191912347`; PMID `36231647`; PMC9566693.
+- **Tipo de estudio:** Revisión sistemática.
+- **Población y tamaño muestral:** 11 estudios, con participantes de 17 días a 79 años.
+- **Definición diagnóstica y técnicas:** Calidad con PEDro, STROBE y escala de diseño de caso único.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: los estudios incluidos usan sobre todo Kotlow, después Coryllos y en dos casos el TRMR de Yoon (texto completo). Mezcla criterios distintos (segunda pregunta de la lectura crítica).
+- **Variables de resultado:** Efecto de la terapia miofuncional, sola o con cirugía.
+- **Resultados NUMÉRICOS verificados:** Según los estudios incluidos, la cirugía es más eficaz que la terapia miofuncional, y los mejores resultados se dan combinando ambas. Mejoras descritas en dolor materno, peso del bebé, duración de la lactancia, movilidad, fuerza y resistencia lingual, apnea, respiración bucal y ronquido, calidad de vida, apretamiento dental, tensión miofascial, dolor posoperatorio y habla.
+- **Límites metodológicos / confusores (solo los relevantes):** Pocos estudios y de calidad limitada, según los propios autores. Solo uno no usó frenectomía.
+- **Otros resultados relevantes (si los hay):** Las técnicas de frenectomía variaron entre estudios (sonda acanalada y tijeras, entre otras).
+- **Aportación del estudio:** Revisión de la terapia miofuncional en anquiloglosia en todas las edades.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/ijerph191912347).
+
+---
+
+<!-- archivo: fuentes/articulos/2022-hatami-herramientas-valoracion.md -->
+# Estudio: Effectiveness of tongue-tie assessment tools in diagnosing and fulfilling lingual frenectomy criteria: a systematic review
+
+- **ID:** HATAMI2022
+- **Autores, año y revista:** Hatami A; Dreyer CW; Meade MJ; Kaur S. *Aust Dent J* 2022;67(3):212-219.
+- **DOI / PMID / URL:** DOI `10.1111/adj.12921`; PMID `35689515`; PMC9796854.
+- **Tipo de estudio:** Revisión sistemática.
+- **Población y tamaño muestral:** 14 estudios analizados de 205 resúmenes (1947-2021), con pacientes con anquiloglosia sintomática y sección del frenillo.
+- **Definición diagnóstica y técnicas:** Relación entre la gravedad según la herramienta antes de operar y el resultado tras la sección.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: compara herramientas; 6 estudios usaron HATLFF (Hazelbaker), 2 Kotlow, 5 Coryllos y 1 Kotlow con Coryllos. No incluye el TRMR ni el protocolo de Marchesan.
+- **Variables de resultado:** Asociación entre gravedad previa y resultado.
+- **Resultados NUMÉRICOS verificados:** Gran heterogeneidad entre estudios; no se pudo determinar una correlación estadística. No hay datos de que la gravedad según estas herramientas identifique a quién beneficiará la sección, aunque la sección parece aportar beneficios en lactancia y habla.
+- **Límites metodológicos / confusores (solo los relevantes):** Herramientas sobre todo neonatales y de aspecto.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Muestra que las herramientas de aspecto (Coryllos, Kotlow) y la de Hazelbaker no predicen quién mejora tras operar.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1111/adj.12921).
+
+---
+
 <!-- archivo: fuentes/articulos/2022-iapd-anquiloglosia.md -->
 # Estudio: Management of Ankyloglossia (International Association of Paediatric Dentistry)
 
@@ -8440,6 +8803,30 @@ La figura 2 son fotos de recién nacidos: solo enlace.
 ## Figuras
 
 Figuras no revisadas. [Ver el documento](https://iapdworld.org/management-of-ankyloglossia/).
+
+---
+
+<!-- archivo: fuentes/articulos/2022-martinelli-frenotomia-reposo.md -->
+# Estudio: Effect of Lingual Frenotomy on Tongue and Lip Rest Position: A Nonrandomized Clinical Trial
+
+- **ID:** MARTINELLI2022
+- **Autores, año y revista:** Martinelli RLC; Marchesan IQ; Gusmão RJ; Berretin-Felix G. *Int Arch Otorhinolaryngol* 2022;26(1):e069-e074.
+- **DOI / PMID / URL:** DOI `10.1055/s-0041-1726050`; PMID `35096161`; PMC8789490.
+- **Tipo de estudio:** Ensayo clínico no aleatorizado.
+- **Población y tamaño muestral:** 334 lactantes de 1 a 60 días con anquiloglosia. Grupo experimental: madres que aceptaron la frenotomía. Grupo control: madres que la rechazaron o estaban en espera.
+- **Definición diagnóstica y técnicas:** Posición de labios (cerrados, entreabiertos, abiertos) y de la lengua en reposo durante el sueño tranquilo, con la maniobra descrita por Martinelli.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: protocolo de valoración del frenillo lingual para lactantes de Martinelli (ver Martinelli 2012).
+- **Variables de resultado:** Posición de la lengua y de los labios en reposo.
+- **Resultados NUMÉRICOS verificados:** Diferencias significativas entre grupos en la posición de la lengua y de los labios en reposo entre la valoración inicial y la final. Los autores concluyen que la frenotomía permitió mantener la lengua acoplada al paladar y los labios cerrados en reposo. Cifras por grupo: `PENDIENTE DE VERIFICAR` en las tablas.
+- **Límites metodológicos / confusores (solo los relevantes):** Grupos decididos por las madres, no por azar.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Efecto de la frenotomía en la postura de reposo, no solo en la lactancia.
+- **Licencia y derechos:** CC BY-NC-ND 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Licencia CC BY-NC-ND (no se copian figuras). Figura 1: posición de los labios en reposo. [Ver el artículo](https://doi.org/10.1055/s-0041-1726050).
 
 ---
 
@@ -8589,6 +8976,30 @@ Figuras del original CC BY, pero no incorporadas: [texto y PDF editor](https://w
 Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Diagrama PRISMA de inclusión. [Ver en el artículo](https://doi.org/10.1044/2023_AJSLP-23-00169), figura 1.
+
+---
+
+<!-- archivo: fuentes/articulos/2023-dydyk-frenillo-deglucion-oclusion.md -->
+# Estudio: Influence of Shortened Tongue Frenulum on Tongue Mobility, Speech and Occlusion
+
+- **ID:** DYDYK2023
+- **Autores, año y revista:** Dydyk A; Milona M; Janiszewska-Olszowska J; Wyganowska M; Grocholewicz K. *J Clin Med* 2023;12(23):7415.
+- **DOI / PMID / URL:** DOI `10.3390/jcm12237415`; PMID `38068467`; PMC10707515.
+- **Tipo de estudio:** Estudio de casos y controles (transversal).
+- **Población y tamaño muestral:** 172 personas de 5 a 60 años (media 33,3; 96 mujeres y 76 hombres): 86 con anquiloglosia y 86 con frenillo de longitud normal. Universidad Médica de Pomerania (Polonia).
+- **Definición diagnóstica y técnicas:** Tipo de deglución observado separando ligeramente los labios para ver la punta de la lengua (deglución infantil si se interpone entre los dientes); movilidad lingual; habla; oclusión (distoclusión, mesioclusión, mordida abierta, mordida cruzada, apiñamiento); periodonto.
+- **Criterio diagnóstico de anquiloglosia:** `PENDIENTE DE VERIFICAR`: clasifica la anquiloglosia en leve, moderada y grave con ejemplos fotográficos, y la discusión se apoya en la clasificación por longitud de Kotlow; no se ha localizado en métodos la herramienta exacta. Mide la movilidad lingual por separado.
+- **Variables de resultado:** Patrón de deglución, movilidad lingual, habla (dislalias), maloclusión y periodonto.
+- **Resultados NUMÉRICOS verificados:** Tenían anquiloglosia el 75,6 % de quienes tragaban con patrón infantil y el 41,3 % de quienes tragaban con patrón maduro. Movilidad lingual limitada en el 29,4 % de las anquiloglosias moderadas y el 70,6 % de las graves; normal en todas las leves y en todos los controles. Relación significativa entre gravedad y alteraciones del habla. Maloclusión o apiñamiento en el 62 % con anquiloglosia frente al 21,6 % de los controles. Sin alteraciones periodontales en nadie.
+- **Límites metodológicos / confusores (solo los relevantes):** Rango de edad muy amplio. Transversal: no permite saber qué fue antes.
+- **Otros resultados relevantes (si los hay):** Es de los pocos estudios que valoran a la vez deglución, movilidad, habla y oclusión en las mismas personas.
+- **Aportación del estudio:** Relaciona frenillo corto con deglución infantil y con maloclusión en el mismo grupo.
+- **Licencia y derechos:** CC BY 4.0 (MDPI).
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Licencia CC BY. Figuras 1 a 3: ejemplos fotográficos de anquiloglosia leve, moderada y grave (fotos de bocas: solo enlace). [Ver el artículo](https://doi.org/10.3390/jcm12237415).
 
 ---
 
@@ -9430,6 +9841,30 @@ Es un caso clínico de una sola paciente: todas las figuras (fotos, radiografía
 Licencia del artículo: Derechos del editor. No se copian imágenes.
 
 Figuras no extraídas: la versión de PMC no se puede leer por la API. [Ver el artículo en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12007659/). Descripción: `PENDIENTE DE VERIFICAR`.
+
+---
+
+<!-- archivo: fuentes/articulos/2025-beckmann-trmr-kotlow-atm.md -->
+# Estudio: Anatomical versus functional classification of ankyloglossia and their association with temporomandibular joint disorders in adults: a cross sectional study
+
+- **ID:** BECKMANN2025
+- **Autores, año y revista:** Beckmann A; Peroz I; Peroz S. *J Oral Facial Pain Headache* 2025;39(3):77-83.
+- **DOI / PMID / URL:** DOI `10.22514/jofph.2025.049`; PMID `41070568`; PMC12520432.
+- **Tipo de estudio:** Estudio transversal.
+- **Población y tamaño muestral:** 129 adultos de 18 a 80 años (41 hombres y 88 mujeres).
+- **Definición diagnóstica y técnicas:** Trastornos temporomandibulares con las tres preguntas de Lövgren y la exploración de cribado de la sociedad alemana DGFDT.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: compara dos criterios en las mismas personas, el funcional TRMR (versión 2019) y la lengua libre de Kotlow.
+- **Variables de resultado:** Asociación entre anquiloglosia y trastorno temporomandibular según cada criterio.
+- **Resultados NUMÉRICOS verificados:** Trastorno temporomandibular en el 49,1 %. Anquiloglosia en el 46,7 % según el TRMR (restricción anterior 39,6 %, posterior 34,9 %) y en el 59,2 % según Kotlow (leve a grave). Con el TRMR no hubo asociación con el trastorno temporomandibular; con Kotlow sí (p = 0,026). La edad y el sexo no se asociaron con la anquiloglosia.
+- **Límites metodológicos / confusores (solo los relevantes):** Transversal y muestra de consulta. Los autores piden una herramienta validada para adultos que combine criterios anatómicos y funcionales.
+- **Otros resultados relevantes (si los hay):** Ejemplo directo de cómo el resultado cambia según el criterio diagnóstico usado.
+- **Aportación del estudio:** Mismas personas clasificadas con un criterio funcional y con uno de longitud, con resultados distintos.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.22514/jofph.2025.049).
 
 ---
 
@@ -10330,6 +10765,30 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2026-hoang-funcion-lingual-trs.md -->
+# Estudio: Tongue function and high-risk sleep-disordered breathing in youth: age-stratified associations and interactions in a Vietnamese cross-sectional study
+
+- **ID:** HOANG2026
+- **Autores, año y revista:** Hoang DA; Nguyen TM; Tam DNN; Jagomägi T. *Sleep Breath* 2026;30(2):124.
+- **DOI / PMID / URL:** DOI `10.1007/s11325-026-03666-3`; PMID `41981344`; PMC13079498.
+- **Tipo de estudio:** Estudio transversal.
+- **Población y tamaño muestral:** 1.244 participantes en Vietnam: 462 niños de 6 a 8 años y 782 jóvenes de 18 a 25 años.
+- **Definición diagnóstica y técnicas:** Alto riesgo de trastorno respiratorio del sueño por cuestionarios (niños: PSQ, Epworth o escala de ronquido; adultos: Berlín, Epworth o escala de ronquido). Función lingual: movilidad, fuerza (IOPI), postura y función orofacial.
+- **Criterio diagnóstico de anquiloglosia:** FUNCIONAL: TRMR-TIP y TRMR-LPS según los protocolos de Yoon y Zaghi; restricción definida como grado 3 o más (TRMR-TIP < 50 % o TRMR-LPS < 30 %).
+- **Variables de resultado:** Clasificación de alto riesgo por cuestionario.
+- **Resultados NUMÉRICOS verificados:** Alto riesgo en el 26,8 % de los niños y el 11,9 % de los jóvenes. En niños se asociaron de forma independiente la lengua baja en reposo (OR ajustada 1,69) y la boca abierta frecuente por la noche (2,69). En jóvenes fueron protectores una mejor función orofacial (0,79), más movilidad posterior (0,96) y más fuerza posterior (0,98). En niños, amígdalas grandes con movilidad posterior restringida: 34,5 % de alto riesgo frente a 13,8 % (p = 0,006).
+- **Límites metodológicos / confusores (solo los relevantes):** Riesgo por cuestionario, no por polisomnografía. Transversal.
+- **Otros resultados relevantes (si los hay):** Estudio del mismo grupo que Hoang 2024.
+- **Aportación del estudio:** Muestra grande con criterio funcional (TRMR) y fuerza lingual medida.
+- **Licencia y derechos:** CC BY-NC-ND 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1007/s11325-026-03666-3).
+
+---
+
 <!-- archivo: fuentes/articulos/2026-kang-rinitis-activaciones-psg.md -->
 # Estudio: Association of allergic rhinitis with polysomnographic arousal indices in children with sleep-disordered breathing
 
@@ -10570,6 +11029,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 
 - **Figura 1.** Anquiloglosia restrictiva en quirófano. [Ver en el artículo](https://doi.org/10.1177/01455613231223355), figura 1.
 - **Figura 2.** Visión de la glotis tras la frenotomía. [Ver en el artículo](https://doi.org/10.1177/01455613231223355), figura 2.
+
+---
+
+<!-- archivo: fuentes/articulos/2026-osko-frenotomia-miofascial.md -->
+# Estudio: Objective Tongue-Function Outcomes After Lingual Frenotomy with Adjunctive Myofascial Rehabilitation: A Retrospective Observational Longitudinal Study
+
+- **ID:** OSKO2026
+- **Autores, año y revista:** Ośko MI; Rządzka M; Czuchryta-Kamińska A; Mikulewicz M; Manzanares Céspedes MC; Sánchez Molins M. *J Clin Med* 2026;15(13):5171.
+- **DOI / PMID / URL:** DOI `10.3390/jcm15135171`; PMID `42452634`; PMC13363322.
+- **Tipo de estudio:** Estudio observacional longitudinal retrospectivo.
+- **Población y tamaño muestral:** 64 pacientes de 5 a 46 años tratados entre 2021 y 2024; 30 completaron la última visita (unos 15 meses).
+- **Definición diagnóstica y técnicas:** Frenotomía seguida de un protocolo de liberación miofascial. Fuerza lingual con IOPI.
+- **Criterio diagnóstico de anquiloglosia:** FUNCIONAL: escala TEMMO (elevación de la lengua con la boca abierta al máximo), derivada de la clasificación de Durán.
+- **Variables de resultado:** Movilidad (TEMMO), presión lingual (IOPI) y su relación con la adherencia.
+- **Resultados NUMÉRICOS verificados:** En quienes completaron el seguimiento (n = 30), la presión subió de 35,4 a 49,0 kPa y el TEMMO mejoró de 3,1 a 1,4; el 66,7 % llegó al grado 1. Más adherencia, más presión final (52,7 frente a 43,5 kPa; diferencia 9,2; IC 95 % 0,8 a 17,6; p = 0,032). Sin complicaciones registradas.
+- **Límites metodológicos / confusores (solo los relevantes):** Retrospectivo, sin grupo control y con pérdidas (30 de 64 completaron). La adherencia se clasificó a posteriori.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Resultados funcionales medidos (movilidad y fuerza) tras la frenotomía en niños y adultos.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/jcm15135171).
 
 ---
 

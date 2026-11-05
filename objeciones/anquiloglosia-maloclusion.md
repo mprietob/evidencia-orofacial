@@ -22,6 +22,9 @@ La revisión de **Póvoa-Santos et al. (2024)** incluye 11 estudios observaciona
 
 - **Yoon 2017:** asociación transversal entre medidas linguales y características maxilares; no permite demostrar que una intervención cambie el crecimiento. [Ficha](../fuentes/articulos/2017-yoon-maxilar.md).
 - **Kotarska 2024:** revisión adicional con resultados diversos y certeza limitada. [Ficha](../fuentes/articulos/2024-kotarska-frenotomia-desarrollo-facial.md).
+- **Calvo-Henríquez 2022:** 100 niños de tres hospitales españoles, frenillo valorado con el protocolo de Marchesan y oclusión valorada a ciegas por un ortodoncista. Maloclusión en el 48 % con frenillo corto frente al 24 %; OR 2,92 (1,15 a 7,56), significativo para la clase III y no para la clase II. [Ficha](../fuentes/articulos/2022-calvo-henriquez-frenillo-maloclusion.md).
+- **Dydyk 2023:** 86 personas con anquiloglosia frente a 86 controles. Maloclusión o apiñamiento en el 62 % frente al 21,6 %, y anquiloglosia en el 75,6 % de quienes tragaban con patrón infantil. Criterio exacto `PENDIENTE DE VERIFICAR`. [Ficha](../fuentes/articulos/2023-dydyk-frenillo-deglucion-oclusion.md).
+- **Srinivasan 2013:** con criterio de Kotlow, menores anchuras intercaninas e intermolar superior en 57 personas con anquiloglosia frente a 60 sin ella. [Ficha](../fuentes/articulos/2013-srinivasan-anquiloglosia-esqueleto.md).
 - **Deregibus 2021:** algunos resultados mencionados en notas anteriores siguen **PENDIENTES DE VERIFICAR** en el original. [Ficha](../fuentes/articulos/2021-deregibus-funcion-lingual-ortodoncia.md).
 
 ## Una nueva pieza relevante: fuerza y postura de lengua en adolescentes (2026)
