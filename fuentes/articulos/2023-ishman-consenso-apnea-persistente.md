@@ -6,14 +6,14 @@
 - **Tipo de estudio:** Consenso de expertos con método Delphi modificado.
 - **Población y tamaño muestral:** Niños de 2 a 18 años con apnea persistente.
 - **Definición diagnóstica y técnicas:** Panel de clínicos nominados por sociedades; búsqueda bibliográfica por documentalista.
-- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: consenso de apnea persistente. Búsqueda en el texto completo (PMC) el 05/11/2026: no aparecen «ankyloglossia», «tongue-tie» ni «frenulum».
 - **Variables de resultado:** Grado de consenso de cada afirmación.
 - **Resultados NUMÉRICOS verificados:** 34 afirmaciones alcanzaron consenso y 18 no, en 7 categorías.
 - **Límites metodológicos / confusores:** Opinión de expertos. Conflictos declarados con Inspire Medical Systems.
-- **Hallazgos contrarios o no significativos:** Zaghi lo critica en sus charlas por preferir cirugía de tejido blando a la expansión; que el consenso recomiende eso PENDIENTE DE VERIFICAR.
+- **Hallazgos contrarios o no significativos:** La terapia miofuncional y la expansión rápida del maxilar figuran entre los términos de búsqueda, pero ninguna afirmación votada trata de ellas. No alcanzaron consenso la septoplastia, la glosectomía posterior media, la reducción de base de lengua y la epiglotopexia, sobre todo por falta de evidencia en niños.
 - **Conclusión que sí permite / que no permite:** Sí: Citar qué opina un panel de ORL sobre la apnea persistente. No: Presentarlo como evidencia de eficacia.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
+- **Estado de lectura:** Texto completo (PMC) leído por búsqueda de términos el 05/11/2026.
 
 ## Figuras
 

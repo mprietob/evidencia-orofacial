@@ -6,14 +6,14 @@
 - **Tipo de estudio:** Guía de práctica clínica de la American Academy of Otolaryngology-Head and Neck Surgery Foundation. Actualiza la de 2011. Panel multidisciplinar (enfermería, anestesia, consumidores, medicina de familia, infecciosas, otorrinolaringología, pediatría y medicina del sueño).
 - **Población y tamaño muestral:** Niños de 1 a 18 años candidatos a amigdalectomía.
 - **Definición diagnóstica y técnicas:** Amigdalectomía definida como extirpación completa de la amígdala con su cápsula, con o sin adenoidectomía.
-- **Criterio diagnóstico de anquiloglosia:** NO APLICA: guía de amigdalectomía. Si el texto completo nombra la anquiloglosia: `PENDIENTE DE VERIFICAR`.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: guía de amigdalectomía. Búsqueda en el texto completo el 05/11/2026: no aparecen «ankyloglossia», «tongue-tie», «frenulum» ni «myofunctional».
 - **Variables de resultado:** No aplica (guía).
 - **Resultados NUMÉRICOS verificados:** Unos 289.000 procedimientos ambulatorios al año en menores de 15 años en EE. UU. Para trastornos respiratorios del sueño: recomendar amigdalectomía a niños con apnea documentada por polisomnografía (en 2011 decía «aconsejar»). Infecciones de garganta recurrentes: espera vigilante si hay menos de 7 episodios en el último año, menos de 5 al año en 2 años o menos de 3 al año en 3 años.
 - **Límites metodológicos / confusores (solo los relevantes):** No trata alternativas a la cirugía para la apnea más allá de la propia amigdalectomía.
-- **Otros resultados relevantes (si los hay):** Dexametasona intravenosa intraoperatoria; no antibióticos perioperatorios; no codeína en menores de 12 años; ibuprofeno, paracetamol o ambos para el dolor. En noviembre de 2026 la AAO-HNS sigue listando esta versión como la vigente.
+- **Otros resultados relevantes (si los hay):** Dexametasona intravenosa intraoperatoria; no antibióticos perioperatorios; no codeína en menores de 12 años; ibuprofeno, paracetamol o ambos para el dolor. En noviembre de 2026 la AAO-HNS sigue listando esta versión como la vigente. Dice que la evidencia que apoya la amigdalectomía por motivos ortodóncicos, disfagia, disfonía, enuresis secundaria, cálculos amigdalinos, halitosis o amigdalitis crónica es limitada y de menor calidad.
 - **Aportación del estudio:** Es la guía estadounidense vigente de amigdalectomía infantil, en la que se apoya la indicación quirúrgica de la apnea.
 - **Licencia y derechos:** Copyright de la AAO-HNSF / SAGE. Aquí solo resumen propio.
-- **Estado de lectura:** Resumen de PubMed y Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+- **Estado de lectura:** Texto completo (PDF) leído por búsqueda de términos el 05/11/2026. Recomendaciones del resumen.
 
 ## Figuras
 
