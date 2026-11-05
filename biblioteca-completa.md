@@ -856,6 +856,7 @@ La revisión de **Póvoa-Santos et al. (2024)** incluye 11 estudios observaciona
 - **Papageorgiou 2025**, *Eur J Orthod*, 11 estudios retrospectivos, 891 pacientes. Sin diferencias en volumen ni área mínima de la vía aérea medidos en CBCT, salvo un área orofaríngea algo mayor con extracciones (+23 mm²). Fuerza de la evidencia moderada; estudios con alto riesgo de sesgo. Ficha.
 - **Orabi 2021**, *AJO-DO*, 7 estudios, 268 con extracciones y 342 sin ellas. Sin diferencias salvo +0,41 cm³ orofaríngeo, de relevancia dudosa. Evidencia muy baja. Ficha.
 - **Guo 2023**, *Chin J Dent Res*, 12 estudios (6 cuantitativos). Sin cambios significativos; en adultos el área mínima baja sin llegar a ser significativa. Ficha.
+- **Al Maaitah 2012**, *Angle Orthod*, 40 adultos con biprotrusión y extracción de cuatro premolares: la longitud de la lengua y las arcadas se redujeron de forma significativa; la vía aérea en cefalometría no cambió. Ficha.
 - **American Association of Orthodontists**, documentos de posición de 2019 y 2026. No son estudios: revisan la literatura. 2026: «no evidence to support a causal relationship between extractions and the development of SDB», y las medidas de vía aérea en CBCT o cefalometría no sirven para diagnosticar ni para valorar resultados.
 
 **Lectura justa:** de media, y medida en CBCT, la vía aérea no se reduce de forma demostrable tras extracciones.
@@ -5923,6 +5924,54 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2009-jalaly-interposicion-lingual-resalte.md -->
+# Estudio: Effect of tongue thrust swallowing on position of anterior teeth
+
+- **ID:** JALALY2009
+- **Autores, año y revista:** Jalaly T; Ahrari F; Amini F. *J Dent Res Dent Clin Dent Prospects* 2009;3(3):73-77.
+- **DOI / PMID / URL:** DOI `10.5681/joddd.2009.019`; PMID `23230488`; PMC3517276.
+- **Tipo de estudio:** Estudio transversal con grupo control.
+- **Población y tamaño muestral:** 193 escolares de 9 a 13 años examinados; 10 (5 %) con deglución con interposición lingual, comparados con 36 controles con oclusión normal.
+- **Definición diagnóstica y técnicas:** Exploración por un investigador entrenado; posición de los dientes anteriores.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen ni en el texto completo.
+- **Variables de resultado:** Resalte y posición de los incisivos.
+- **Resultados NUMÉRICOS verificados:** Interposición lingual al tragar en el 5 % de los examinados. El resalte fue significativamente mayor en quienes interponían la lengua. Resto de medidas: `PENDIENTE DE VERIFICAR` (el resumen está incompleto).
+- **Límites metodológicos / confusores (solo los relevantes):** Solo 10 casos. Controles elegidos por tener oclusión normal.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Relaciona la interposición lingual con más resalte.
+- **Licencia y derechos:** CC BY.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.5681/joddd.2009.019).
+
+---
+
+<!-- archivo: fuentes/articulos/2009-ozbek-expansion-postura-lingual.md -->
+# Estudio: Stability of maxillary expansion and tongue posture
+
+- **ID:** OZBEK2009
+- **Autores, año y revista:** Ozbek MM; Memikoglu UT; Altug-Atac AT; Lowe AA. *Angle Orthod* 2009;79(2):214-220.
+- **DOI / PMID / URL:** DOI `10.2319/010908-12.1`; PMID `19216585`.
+- **Tipo de estudio:** Estudio comparativo antes y después.
+- **Población y tamaño muestral:** 20 niños en crecimiento con maxilar estrecho y mordida cruzada bilateral tratados con expansión rápida y 20 controles con morfología normal.
+- **Definición diagnóstica y técnicas:** Cefalometría de la postura lingual antes, a los 6,75 meses y en 17 casos a los 29 meses.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen; texto completo `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Postura lingual estática.
+- **Resultados NUMÉRICOS verificados:** Reducción significativa de la distancia lengua-paladar tras la expansión. Los autores concluyen que la expansión consigue una postura lingual más alta en niños sin trastornos respiratorios. Cifras: `PENDIENTE DE VERIFICAR`.
+- **Límites metodológicos / confusores (solo los relevantes):** Postura en radiografía estática.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Expansión del maxilar y postura de la lengua.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.2319/010908-12.1).
+
+---
+
 <!-- archivo: fuentes/articulos/2011-alonso-alvarez-consenso-sahs-infantil.md -->
 # Estudio: Documento de consenso del síndrome de apneas-hipopneas durante el sueño en niños (versión completa)
 
@@ -6051,6 +6100,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 
 - **Figura 8.** Tipos de cara: dolicofacial, mesofacial y braquifacial. Sin enlace público.
 - **Figura 18.** Vertical por subnasal en posición natural de la cabeza. Sin enlace público.
+
+---
+
+<!-- archivo: fuentes/articulos/2012-al-maaitah-extracciones-lengua-via-aerea.md -->
+# Estudio: First premolar extraction effects on upper airway dimension in bimaxillary proclination patients
+
+- **ID:** ALMAAITAH2012
+- **Autores, año y revista:** Al Maaitah E; El Said N; Abu Alhaija ES. *Angle Orthod* 2012;82(5):853-859.
+- **DOI / PMID / URL:** DOI `10.2319/101711-646.1`; PMID `22369618`; PMC8823111.
+- **Tipo de estudio:** Estudio antes y después.
+- **Población y tamaño muestral:** 40 adultos de 18 a 23 años con biprotrusión tratados con extracción de los cuatro primeros premolares.
+- **Definición diagnóstica y técnicas:** Cefalometría para la vía aérea y modelos para las arcadas, antes y después.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen; texto completo `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Dimensiones de la vía aérea, longitud de la lengua y de las arcadas.
+- **Resultados NUMÉRICOS verificados:** Reducción significativa de la longitud de la lengua y de las dimensiones de las arcadas; las dimensiones de la vía aérea en la cefalometría no cambiaron. Cifras: `PENDIENTE DE VERIFICAR`.
+- **Límites metodológicos / confusores (solo los relevantes):** Vía aérea medida en cefalometría lateral, sin función ni sueño. Sin grupo control.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Extracciones en dientes adelantados y cambio en la lengua.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.2319/101711-646.1).
 
 ---
 
@@ -6304,6 +6377,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 ## Figuras
 
 Licencia CC BY. Figura 2: medición de la lengua libre con calibre (foto de boca: solo enlace). [Ver el artículo](https://doi.org/10.1186/2196-1042-14-44).
+
+---
+
+<!-- archivo: fuentes/articulos/2014-homem-miofuncional-ortodoncia-revision.md -->
+# Estudio: Effectiveness of orofacial myofunctional therapy in orthodontic patients: a systematic review
+
+- **ID:** HOMEM2014
+- **Autores, año y revista:** Homem MA; Vieira-Andrade RG; Falci SG; Ramos-Jorge ML; Marques LS. *Dental Press J Orthod* 2014;19(4):94-99.
+- **DOI / PMID / URL:** DOI `10.1590/2176-9451.19.4.094-099.oar`; PMID `25279527`; PMC4296637.
+- **Tipo de estudio:** Revisión sistemática.
+- **Población y tamaño muestral:** 4 estudios de 355 publicaciones (1965 a marzo de 2011).
+- **Definición diagnóstica y técnicas:** Terapia miofuncional como complemento de la ortodoncia.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen ni en el texto completo.
+- **Variables de resultado:** Eficacia de la terapia combinada.
+- **Resultados NUMÉRICOS verificados:** Los 4 estudios tenían alto riesgo de sesgo. Los autores concluyen que hay escasez de estudios consistentes y de evidencia que apoye añadir la terapia miofuncional a la ortodoncia.
+- **Límites metodológicos / confusores (solo los relevantes):** Búsqueda hasta 2011.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Evidencia en contra de la terapia miofuncional como complemento, hasta 2011.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1590/2176-9451.19.4.094-099.oar).
 
 ---
 
@@ -6795,6 +6892,30 @@ Figuras no revisadas. [Ver el artículo](https://doi.org/10.4317/medoral.20736).
 
 ---
 
+<!-- archivo: fuentes/articulos/2016-grippaudo-habitos-respiracion-maloclusion.md -->
+# Estudio: Association between oral habits, mouth breathing and malocclusion
+
+- **ID:** GRIPPAUDO2016
+- **Autores, año y revista:** Grippaudo C; Paolantonio EG; Antonini G; Saulle R; La Torre G; Deli R. *Acta Otorhinolaryngol Ital* 2016;36(5):386-394.
+- **DOI / PMID / URL:** DOI `10.14639/0392-100x-770`; PMID `27958599`; PMC5225794.
+- **Tipo de estudio:** Estudio transversal.
+- **Población y tamaño muestral:** 3.017 niños.
+- **Definición diagnóstica y técnicas:** Índice ROMA de necesidad de tratamiento ortodóncico; hábitos orales y respiración bucal.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen ni en el texto completo.
+- **Variables de resultado:** Asociación de hábitos y respiración bucal con maloclusión.
+- **Resultados NUMÉRICOS verificados:** A mayor grado del índice, más hábitos y más respiración bucal. Los hábitos se asociaron a resalte aumentado y mordida abierta, no a mordida cruzada. La respiración bucal se asoció a resalte aumentado o reducido, mordida cruzada anterior o posterior, mordida abierta y desplazamiento de puntos de contacto.
+- **Límites metodológicos / confusores (solo los relevantes):** Transversal.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Muestra grande de hábitos, respiración y maloclusión.
+- **Licencia y derechos:** CC BY-NC-ND 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.14639/0392-100x-770).
+
+---
+
 <!-- archivo: fuentes/articulos/2016-guilleminault-frenillo-corto-apnea.md -->
 # Estudio: A frequent phenotype for paediatric sleep apnoea: short lingual frenulum
 
@@ -6898,6 +7019,30 @@ Crédito: figuras de Mahboub F; Kimyai S; Molavi E (PMC5237674), CC BY 4.0. Las 
 ## Figuras
 
 Figuras no revisadas. [Ver el artículo](https://doi.org/10.1055/s-0035-1568135).
+
+---
+
+<!-- archivo: fuentes/articulos/2016-van-dyck-miofuncional-mordida-abierta.md -->
+# Estudio: The effect of orofacial myofunctional treatment in children with anterior open bite and tongue dysfunction: a pilot study
+
+- **ID:** VANDYCK2016
+- **Autores, año y revista:** Van Dyck C; Dekeyser A; Vantricht E; Manders E; Goeleven A; Fieuws S; Willems G. *Eur J Orthod* 2016;38(3):227-234.
+- **DOI / PMID / URL:** DOI `10.1093/ejo/cjv044`; PMID `26136435`; PMC4914902.
+- **Tipo de estudio:** Ensayo aleatorizado piloto.
+- **Población y tamaño muestral:** 22 niños de 7 a 10 años (11 niños y 11 niñas) con mordida abierta anterior y deglución visceral, aleatorizados a terapia o no, estratificados por mordida cruzada.
+- **Definición diagnóstica y técnicas:** Fuerza de elevación lingual con IOPI; postura de reposo, patrón de deglución, articulación y mordida abierta al inicio, al final y 6 meses después.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen; texto completo `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Fuerza, postura, deglución, habla y mordida abierta.
+- **Resultados NUMÉRICOS verificados:** La terapia cambió de forma significativa la fuerza de elevación, la postura de reposo y la posición de la lengua al tragar sólidos. A los 6 meses, más niños tratados tenían contacto de los incisivos inferiores con sus antagonistas o el paladar (p = 0,036). La deglución de agua fisiológica fue más frecuente con terapia, sin diferencia significativa. La articulación de /s, l, n, d, t/ no mejoró. Sin interacción con la expansión.
+- **Límites metodológicos / confusores (solo los relevantes):** Estudio piloto pequeño.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Ensayo de terapia miofuncional en mordida abierta.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1093/ejo/cjv044).
 
 ---
 
@@ -7117,6 +7262,30 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2017-iwasaki-resistencia-nasal-postura-lingual.md -->
+# Estudio: Relationships among nasal resistance, adenoids, tonsils, and tongue posture and maxillofacial form in Class II and Class III children
+
+- **ID:** IWASAKI2017
+- **Autores, año y revista:** Iwasaki T; Sato H; Suga H; Takemoto Y; Inada E; Saitoh I; Kakuno E; Kanomi R; Yamasaki Y. *Am J Orthod Dentofacial Orthop* 2017;151(5):929-940.
+- **DOI / PMID / URL:** DOI `10.1016/j.ajodo.2016.10.027`; PMID `28457271`.
+- **Tipo de estudio:** Estudio transversal.
+- **Población y tamaño muestral:** 64 niños (media 9,3 años) con maloclusión, en clase II y clase III según ANB.
+- **Definición diagnóstica y técnicas:** Resistencia nasal por dinámica de fluidos a partir de CBCT; adenoides, amígdalas y postura lingual en CBCT.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen; texto completo `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Relación entre factores de la vía aérea y forma maxilofacial.
+- **Resultados NUMÉRICOS verificados:** Resistencia nasal mayor en la clase II que en la clase III (p = 0,005). En la clase II, la resistencia nasal se correlacionó con una postura lingual más baja.
+- **Límites metodológicos / confusores (solo los relevantes):** Postura en CBCT estático.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Postura lingual baja asociada a resistencia nasal en clase II.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.ajodo.2016.10.027).
+
+---
+
 <!-- archivo: fuentes/articulos/2017-kaditis-ers-apnea-lactantes.md -->
 # Estudio: ERS statement on obstructive sleep disordered breathing in 1- to 23-month-old children
 
@@ -7325,6 +7494,30 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1007/s00405-017-4848-5).
+
+---
+
+<!-- archivo: fuentes/articulos/2018-foletti-deglucion-atipica-recaida-ortognatica.md -->
+# Estudio: Is Atypical Swallowing Associated With Relapse in Orthognathic Patients? A Retrospective Study of 256 Patients
+
+- **ID:** FOLETTI2018
+- **Autores, año y revista:** Foletti JM; Antonarakis GS; Galant C; Courvoisier DS; Scolozzi P. *J Oral Maxillofac Surg* 2018;76(5):1084-1090.
+- **DOI / PMID / URL:** DOI `10.1016/j.joms.2017.09.007`; PMID `29024621`.
+- **Tipo de estudio:** Cohorte retrospectiva.
+- **Población y tamaño muestral:** 256 pacientes con tratamiento combinado de ortodoncia y cirugía ortognática en el Hospital Universitario de Ginebra (1998-2015).
+- **Definición diagnóstica y técnicas:** Deglución atípica antes y después del tratamiento; recaída al año; tipo de deformidad, técnica (osteotomía sagital bilateral con o sin Le Fort I) y clase de Angle.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen; texto completo `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Recaída al año.
+- **Resultados NUMÉRICOS verificados:** Recaída en 23 de 256 (9 %). En el análisis multivariante, la deglución atípica se asoció a la recaída: antes del tratamiento OR 9,44 (p = 0,005) y después OR 56,17. Algunos pacientes sin deglución atípica al principio la presentaron después del tratamiento.
+- **Límites metodológicos / confusores (solo los relevantes):** Retrospectivo; criterio de deglución atípica: `PENDIENTE DE VERIFICAR`.
+- **Otros resultados relevantes (si los hay):** La asociación se mantuvo con independencia de la deformidad y de la técnica quirúrgica.
+- **Aportación del estudio:** Deglución y estabilidad tras cirugía ortognática.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.joms.2017.09.007).
 
 ---
 
@@ -7593,6 +7786,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1155/2019/3408053).
+
+---
+
+<!-- archivo: fuentes/articulos/2019-kurihara-presion-lingual-mordida-abierta.md -->
+# Estudio: The effect of tongue thrusting on tongue pressure production during swallowing in adult anterior open bite cases
+
+- **ID:** KURIHARA2019
+- **Autores, año y revista:** Kurihara K; Fukui T; Sakaue K; Hori K; Ono T; Saito I. *J Oral Rehabil* 2019;46(10):895-902.
+- **DOI / PMID / URL:** DOI `10.1111/joor.12820`; PMID `31081951`.
+- **Tipo de estudio:** Estudio transversal comparativo.
+- **Población y tamaño muestral:** 11 adultos con mordida abierta anterior (8 con interposición lingual y 3 sin ella) y 8 voluntarios sanos.
+- **Definición diagnóstica y técnicas:** Presión lingual al tragar 4 mL de gelatina con una lámina de sensores en el paladar (5 puntos).
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen; texto completo `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Secuencia, magnitud y duración de la presión lingual.
+- **Resultados NUMÉRICOS verificados:** Ondas de presión muy variables en el grupo con interposición. Con interposición, la duración en la zona posterior media fue más corta y las presiones máximas en las zonas media, posterior y periférica fueron menores que en los sanos.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra muy pequeña.
+- **Otros resultados relevantes (si los hay):** Los autores proponen que la interposición compensatoria dificulta elevar la lengua y transportar el bolo.
+- **Aportación del estudio:** Presión lingual medida al tragar en mordida abierta.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1111/joor.12820).
 
 ---
 
@@ -8830,6 +9047,30 @@ Licencia CC BY-NC-ND (no se copian figuras). Figura 1: posición de los labios e
 
 ---
 
+<!-- archivo: fuentes/articulos/2022-thijs-miofuncional-habla-maloclusion-revision.md -->
+# Estudio: Oral Myofunctional and Articulation Disorders in Children with Malocclusions: A Systematic Review
+
+- **ID:** THIJS2022
+- **Autores, año y revista:** Thijs Z; Bruneel L; De Pauw G; Van Lierde KM. *Folia Phoniatr Logop* 2022;74(1):1-16.
+- **DOI / PMID / URL:** DOI `10.1159/000516414`; PMID `34107494`.
+- **Tipo de estudio:** Revisión sistemática.
+- **Población y tamaño muestral:** 17 artículos de 2.652 (niños y adolescentes de 3 a 18 años).
+- **Definición diagnóstica y técnicas:** Trastornos miofuncionales (bruxismo, deglución desviada, lengua baja en reposo, hábitos de mordida) y del habla frente a maloclusión.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen; texto completo `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Asociaciones entre maloclusión, trastornos miofuncionales y del habla.
+- **Resultados NUMÉRICOS verificados:** Relación entre mordida abierta anterior y distorsiones articulatorias apicoalveolares, y entre mordida abierta anterior y deglución desviada. Para hábitos de mordida, bruxismo y lengua baja no se pudieron sacar conclusiones claras.
+- **Límites metodológicos / confusores (solo los relevantes):** Los autores piden evidencia de mayor nivel.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Revisión de función oral y habla en maloclusión infantil.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1159/000516414).
+
+---
+
 <!-- archivo: fuentes/articulos/2022-usman-frenillo-plano-oclusal.md -->
 # Estudio: Analysis of the distance between lingual frenal attachment and mandibular incisal edge position in establishing occlusal plane in three different races
 
@@ -9003,6 +9244,54 @@ Licencia CC BY. Figuras 1 a 3: ejemplos fotográficos de anquiloglosia leve, mod
 
 ---
 
+<!-- archivo: fuentes/articulos/2023-goncalves-deglucion-atipica-maloclusion-revision.md -->
+# Estudio: Association between atypical swallowing and malocclusions: a systematic review
+
+- **ID:** GONCALVES2023
+- **Autores, año y revista:** Gonçalves FM; Taveira KVM; Araujo CM; Ravazzi GMNC; Guariza Filho O; Zeigelboim BS; Santos RS; Stechman Neto J. *Dental Press J Orthod* 2023;27(6):e2221285.
+- **DOI / PMID / URL:** DOI `10.1590/2177-6709.27.6.e2221285.oar`; PMID `36995845`; PMC10042461.
+- **Tipo de estudio:** Revisión sistemática de estudios transversales, con GRADE. PROSPERO 42020215203.
+- **Población y tamaño muestral:** 4 estudios incluidos de 4.750 registros (hasta febrero de 2021).
+- **Definición diagnóstica y técnicas:** Pacientes con diagnóstico clínico de deglución atípica frente a deglución normal.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen ni en el texto completo.
+- **Variables de resultado:** Maloclusión asociada a deglución atípica.
+- **Resultados NUMÉRICOS verificados:** Más distoclusión, resalte extremo y mordida abierta con alteraciones de la deglución; la mayoría de los estudios señalan la mordida cruzada posterior como la más asociada, solo en población joven (3 a 11 años). Riesgo de sesgo moderado a alto en todos; certeza muy baja.
+- **Límites metodológicos / confusores (solo los relevantes):** Solo 4 estudios.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Revisión sistemática de deglución atípica y maloclusión.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1590/2177-6709.27.6.e2221285.oar).
+
+---
+
+<!-- archivo: fuentes/articulos/2023-gorurgoz-ecografia-deglucion-maloclusion.md -->
+# Estudio: Is it possible to reveal a typical swallowing pattern for specific skeletal malocclusion types using M-mode sonographic imaging of tongue movements?
+
+- **ID:** GORURGOZ2023
+- **Autores, año y revista:** Görürgöz C; Yangıncı Y; Akçam MO; Orhan K. *J Orofac Orthop* 2023;84(6):392-404.
+- **DOI / PMID / URL:** DOI `10.1007/s00056-022-00387-6`; PMID `35394138`.
+- **Tipo de estudio:** Estudio transversal.
+- **Población y tamaño muestral:** 36 adolescentes de 10 a 17 años con distintas maloclusiones esqueléticas.
+- **Definición diagnóstica y técnicas:** Ecografía en modo B y modo M de la lengua durante la deglución en vacío.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen; texto completo `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Duración, recorrido y velocidad de la deglución.
+- **Resultados NUMÉRICOS verificados:** Media de 2,43 s, 24,06 mm y 10,34 mm/s. Sin repetibilidad clara en la misma persona y gran variabilidad entre personas. Con estas medidas no se pudo distinguir la deglución de los distintos tipos de maloclusión.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña; los autores dudan de que el modo M refleje bien la deglución.
+- **Otros resultados relevantes (si los hay):** Resultado nulo.
+- **Aportación del estudio:** Resultado en contra de un patrón de deglución propio de cada maloclusión.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1007/s00056-022-00387-6).
+
+---
+
 <!-- archivo: fuentes/articulos/2023-guo-extracciones-via-aerea.md -->
 # Estudio: Effect of Premolar Extraction on the Upper Airway in Adult and Adolescent Orthodontic Patients: a Meta-analysis
 
@@ -9050,6 +9339,30 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 Licencia del artículo: Derechos del editor. No se copian imágenes.
 
 Figuras no extraídas: la versión de PMC no se puede leer por la API. [Ver el artículo en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10105630/). Descripción: `PENDIENTE DE VERIFICAR`.
+
+---
+
+<!-- archivo: fuentes/articulos/2023-martins-presion-lingual-clase-angle.md -->
+# Estudio: Evaluation of the maximum tongue and lip pressure in individuals with Class I, II, or III Angle malocclusions and different facial types
+
+- **ID:** MARTINS2023
+- **Autores, año y revista:** Martins FAG; Motta AR; Neves LS; Furlan RMMM. *Codas* 2023;35(5):e20220102.
+- **DOI / PMID / URL:** DOI `10.1590/2317-1782/20232022102`; PMID `37436259`; PMC10449092.
+- **Tipo de estudio:** Estudio transversal.
+- **Población y tamaño muestral:** 55 adultos de 18 a 55 años (29 hombres y 26 mujeres) con clase I, II o III.
+- **Definición diagnóstica y técnicas:** Presión lingual anterior y posterior, resistencia lingual y presión labial con IOPI; tipo facial con el VERT de Ricketts.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO, como criterio de exclusión: se excluyó a quienes tenían el frenillo alterado según el protocolo de Marchesan (texto completo, 05/11/2026). También se excluyó a quienes tenían mordida abierta o terapia miofuncional previa.
+- **Variables de resultado:** Presiones linguales y labiales por clase y tipo facial.
+- **Resultados NUMÉRICOS verificados:** Sin diferencias significativas en presión lingual anterior o posterior, presión labial ni resistencia lingual entre clases de Angle. La presión lingual posterior fue menor en los individuos verticales que en los mesofaciales.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña. Al excluir los frenillos alterados, no estudia su efecto.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Fuerza lingual y labial según la oclusión, con el frenillo controlado.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1590/2317-1782/20232022102).
 
 ---
 
@@ -9348,6 +9661,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 
 ---
 
+<!-- archivo: fuentes/articulos/2024-gomez-gonzalez-respiracion-bucal-deglucion.md -->
+# Estudio: Mouth Breathing and Its Impact on Atypical Swallowing: A Systematic Review and Meta-Analysis
+
+- **ID:** GOMEZGONZALEZ2024
+- **Autores, año y revista:** Gómez-González C; González-Mosquera A; Alkhraisat MH; Anitua E. *Dent J (Basel)* 2024;12(2):21.
+- **DOI / PMID / URL:** DOI `10.3390/dj12020021`; PMID `38392225`; PMC10888353.
+- **Tipo de estudio:** Revisión sistemática y metaanálisis. PROSPERO CRD42022339527.
+- **Población y tamaño muestral:** 12 estudios de 424 registros; 4 en el metaanálisis.
+- **Definición diagnóstica y técnicas:** Interposición lingual en pacientes con y sin respiración bucal.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen ni en el texto completo.
+- **Variables de resultado:** Riesgo de deglución atípica según respiración bucal.
+- **Resultados NUMÉRICOS verificados:** Riesgo relativo de deglución atípica con respiración bucal: 3,70 (IC 95 % 2,06 a 6,66). No hay consenso en los métodos de diagnóstico de la respiración bucal ni de la interposición lingual.
+- **Límites metodológicos / confusores (solo los relevantes):** Heterogeneidad de herramientas y criterios entre estudios (segunda pregunta de la lectura crítica).
+- **Otros resultados relevantes (si los hay):** Grupo español (Anitua).
+- **Aportación del estudio:** Relaciona respiración bucal y deglución atípica.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/dj12020021).
+
+---
+
 <!-- archivo: fuentes/articulos/2024-gomez-vela-armonizacion-antropometria.md -->
 # Estudio: Tratamiento para la armonización del perfil facial basado en la antropometría directa. A propósito de un caso
 
@@ -9422,6 +9759,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 ## Figuras
 
 No se reproducen; [documento original](https://doi.org/10.52010/ijom.2024.50.2.3).
+
+---
+
+<!-- archivo: fuentes/articulos/2024-inchingolo-deglucion-atipica-tratamiento-revision.md -->
+# Estudio: Orthodontic treatment in patients with atypical swallowing and malocclusion: a systematic review
+
+- **ID:** INCHINGOLO2024
+- **Autores, año y revista:** Inchingolo AD; Inchingolo AM; Campanelli M; Carpentiere V; de Ruvo E; Ferrante L; Palermo A; Inchingolo F; Dipalma G. *J Clin Pediatr Dent* 2024;48(5):14-26.
+- **DOI / PMID / URL:** DOI `10.22514/jocpd.2024.100`; PMID `39275817`.
+- **Tipo de estudio:** Revisión sistemática cualitativa. PROSPERO CRD42024499707.
+- **Población y tamaño muestral:** 12 estudios de 2.554 registros (2003-2023).
+- **Definición diagnóstica y técnicas:** Tratamientos miofuncionales y ortodóncicos de la deglución atípica con maloclusión.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen; texto completo `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Tipos de tratamiento y resultados.
+- **Resultados NUMÉRICOS verificados:** Terapia miofuncional orofacial, rejilla lingual, Habit corrector y restrictores linguales blandos aparecen como tratamientos posibles con resultados clínicos eficaces, según los autores.
+- **Límites metodológicos / confusores (solo los relevantes):** Síntesis cualitativa; los autores piden más investigación.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Revisión de tratamientos de la deglución atípica.
+- **Licencia y derechos:** Copyright del editor. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.22514/jocpd.2024.100).
 
 ---
 
@@ -9607,6 +9968,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/01455613211064045).
+
+---
+
+<!-- archivo: fuentes/articulos/2024-ovsenik-ecografia-deglucion-postura.md -->
+# Estudio: Changes in the swallowing pattern and tongue posture during the transition from deciduous to mixed dentition: a longitudinal ultrasonography study
+
+- **ID:** OVSENIK2024
+- **Autores, año y revista:** Ovsenik R; Marolt Mušič M; Primožič J. *Eur J Orthod* 2024;46(1):cjad066.
+- **DOI / PMID / URL:** DOI `10.1093/ejo/cjad066`; PMID `38001045`; PMC10783148.
+- **Tipo de estudio:** Estudio longitudinal.
+- **Población y tamaño muestral:** 57 niños de unos 6 años con oclusión y funciones orofaciales normales.
+- **Definición diagnóstica y técnicas:** Ecografía de la postura lingual y de la deglución espontánea en dentición temporal, mixta temprana y mixta intermedia.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen ni en el texto completo.
+- **Variables de resultado:** Patrón de deglución y postura lingual.
+- **Resultados NUMÉRICOS verificados:** Asociación significativa entre patrón de deglución y postura lingual. La deglución visceral disminuye con la edad (OR 0,777) y con una fase IIa prolongada (OR 0,071), y aumenta cuando la lengua reposa en el suelo de la boca (OR 5,020). Sin cambios significativos durante la transición de dentición.
+- **Límites metodológicos / confusores (solo los relevantes):** Niños pequeños; contacto directo de la sonda.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Relaciona deglución infantil con lengua baja en niños con oclusión normal.
+- **Licencia y derechos:** CC BY 4.0.
+- **Estado de lectura:** Resumen de Europe PMC revisado y texto completo (Europe PMC) consultado por búsqueda de términos el 05/11/2026; tablas no revisadas celda a celda.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1093/ejo/cjad066).
 
 ---
 
@@ -11221,6 +11606,30 @@ Figuras no revisadas.
 ## Figuras
 
 Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/PMC12913740/).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-wang-postura-lingual-presion-deglucion.md -->
+# Estudio: Influence of Habitual Tongue Posture on Tongue Pressure During Swallowing
+
+- **ID:** WANG2026POSTURA
+- **Autores, año y revista:** Wang L; Okuno K; Masago A; Kobuchi R; Murakami K; Hori K; Takahashi K. *J Oral Rehabil* 2026;53(8):1488-1498.
+- **DOI / PMID / URL:** DOI `10.1111/joor.70206`; PMID `41992604`; PMC13358460.
+- **Tipo de estudio:** Estudio transversal.
+- **Población y tamaño muestral:** 52 adultos sanos (mediana 26 años).
+- **Definición diagnóstica y técnicas:** Postura lingual habitual en cefalometría (distancia lengua-paladar y mandíbula-hioides); grupos de distancia larga y corta. Presión lingual al tragar 5 mL de agua con 5 sensores.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: no valora la anquiloglosia. Búsqueda del 05/11/2026: no aparecen «ankyloglossia», «frenulum» ni «tongue-tie» en el resumen; texto completo `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Presión lingual por zonas.
+- **Resultados NUMÉRICOS verificados:** En el grupo de lengua más baja, la presión en el canal 3 (2,1 kPa) fue menor que en los canales 4 (5,6 kPa; p = 0,0286) y 5 (8,1 kPa). Los autores concluyen que la lengua baja habitual reduce la presión en ciertas zonas al tragar.
+- **Límites metodológicos / confusores (solo los relevantes):** Postura medida en una radiografía estática.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Relación entre postura de reposo y presión al tragar en adultos sanos.
+- **Licencia y derechos:** Licencia `PENDIENTE DE VERIFICAR`.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1111/joor.70206).
 
 ---
 
