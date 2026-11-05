@@ -40,7 +40,7 @@ Cada ficha lo dice en un campo propio, porque decide qué pregunta puede respond
 - `MIXTO`: combina ambos, o es una revisión con estudios de los dos tipos.
 - `NO APLICA`: el estudio no diagnostica anquiloglosia.
 
-Un estudio por longitud puede responder sobre longitud o inserción, pero no resuelve por sí solo una hipótesis específica de restricción funcional; una medida funcional tampoco está exenta de límites y no equivale automáticamente a prueba causal. Si una ficha incluye una interpretación, va en su propio campo, marcada como `INTERPRETACION`.
+Un estudio por longitud puede responder sobre longitud o inserción, pero no resuelve por sí solo una hipótesis específica de restricción funcional; una medida funcional tampoco está exenta de límites y no equivale automáticamente a prueba causal. Las fichas no llevan interpretaciones propias: la lectura crítica es común a todos los artículos (las cuatro preguntas de [ENFOQUE-CRITICO.md](ENFOQUE-CRITICO.md)).
 
 ## Escala editorial interna
 - `VERIFICADO`: dato sustentado por la fuente primaria consultada; no implica certeza clínica alta.

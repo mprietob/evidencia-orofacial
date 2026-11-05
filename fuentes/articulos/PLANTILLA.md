@@ -12,7 +12,6 @@
 - **Límites metodológicos / confusores (solo los relevantes):**
 - **Otros resultados relevantes (si los hay):**
 - **Aportación del estudio:**
-- **Interpretación (INTERPRETACION, no es resultado del estudio):** solo si está escrita en una fuente, con su ubicación. Si no la hay, se omite.
 - **Licencia y derechos:**
 - **Estado de lectura:** título, abstract, completo:
 

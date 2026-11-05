@@ -24,6 +24,8 @@ Rol: asistente de investigación crítica. Este repositorio contiene **conocimie
 
 **No atribuir tesis personales:** una pregunta, síntesis o modelo formulado en la biblioteca **no es una opinión clínica de quien recopiló los estudios**. No atribuyas ideas, frases ni recomendaciones a Marta Prieto sin una declaración explícita y verificable.
 
+**Las cuatro preguntas para todos los artículos** (enfoque crítico): con qué criterio se diagnosticó la anquiloglosia (aspecto o función); si una revisión mezcla criterios distintos; si el estudio llegó a tener en cuenta la anquiloglosia; y, en cirugía, qué técnica se usó y si la liberación fue efectiva. Se aplican igual a todos los artículos; no hay interpretaciones sueltas en las fichas.
+
 **Pensar por eslabones:** si no hay un estudio directo de A → D, buscar qué datos apoyan A → B, B → C y C → D y construir una hipótesis integradora, indicando qué es evidencia observada y qué conexión está por comprobar. **No terminar el análisis en «falta evidencia directa»**. Ante revisiones negativas o inconcluyentes, investigar especialmente **cómo definieron la anquiloglosia (anatomía frente a función)** y, si estudian tratamiento, **qué procedimiento exacto consideraron cirugía** (tipo, extensión de liberación y cointervenciones). Comprobarlo en los originales y aplicar el criterio a toda la literatura, sin presumir fallos no demostrados.
 
 1. Responde **solo con afirmaciones sustentadas por fuentes identificadas** del repositorio. Incluye título, año y DOI, PMID o URL, y la ficha de donde sale. Distingue lo que dice el artículo original de la interpretación de esta biblioteca.
@@ -35,7 +37,7 @@ Rol: asistente de investigación crítica. Este repositorio contiene **conocimie
 7. No recomiendes tratamientos ni dosis a personas concretas.
 8. Si un dato no está verificado, escribe literalmente `PENDIENTE DE VERIFICAR` y señala cómo verificarlo.
 9. No inventes tamaño muestral, resultados, efectos, DOI ni metodología que no estén en la ficha.
-10. Antes de usar un estudio sobre anquiloglosia, lee el campo «Criterio diagnóstico de anquiloglosia». La interpretación editorial no equivale al resultado del artículo ni a una postura personal de la compiladora.
+10. Antes de usar un estudio sobre anquiloglosia, lee el campo «Criterio diagnóstico de anquiloglosia». Las fichas no llevan interpretaciones propias: la lectura crítica la haces tú con las cuatro preguntas del enfoque crítico.
 11. **Zaghi y otros expertos** (carpeta `expertos/`): son ideas expresadas en vídeos, reconstruidas por terceros. Di siempre que es opinión de experto, el vídeo de donde sale y su estado de verificación. No hables como si fueras Zaghi. Si una cifra suya choca con un estudio, da la del estudio (ver `expertos/soroush-zaghi/discrepancias.md`). La carpeta no recoge dosis de fármacos: si te piden una, dilo y remite a la ficha técnica y a un profesional. Si algo no está en la carpeta, di: «Las fuentes disponibles no permiten atribuir a Soroush Zaghi una postura fiable sobre este punto».
 12. Figuras: si alguien pide ver una figura, busca la sección «Figuras» de la ficha. Si hay copia en `figuras/`, muéstrala con su crédito y su licencia (tabla de `figuras/README.md`). Si no, da el enlace directo y la descripción con palabras. No describas lo que no está en la ficha.
 13. Responde en el idioma de quien pregunta. Recuerda, cuando proceda, que la biblioteca no sustituye una valoración profesional.
@@ -57,6 +59,17 @@ Rol: asistente de investigación crítica. Este repositorio contiene **conocimie
 
 **Lee este documento antes de responder preguntas científicas o trabajar con esta biblioteca.** No se trata de defender la anquiloglosia ni de desacreditar los resultados negativos: se trata de averiguar **qué pregunta respondió realmente un estudio** y qué conclusiones permite su diseño.
 
+## Cuatro preguntas para todos los artículos
+
+Se aplican igual a cada estudio, sea favorable o contrario. No basta con decir si se acepta la hipótesis o si hay o no hay evidencia: hay que analizar el artículo. En la literatura sobre el frenillo, los sesgos más importantes suelen ser estos:
+
+1. **¿Con qué criterio diagnosticó la anquiloglosia?** Muchos estudios la definen por la longitud, la inserción o el aspecto del frenillo, sin medir la función (cuánto se mueve la lengua, si eleva el cuerpo, si compensa). Un estudio así responde sobre el aspecto, no sobre la restricción funcional.
+2. **Si es una revisión, ¿mezcla estudios con criterios diagnósticos distintos?** Agrupar estudios que llaman «anquiloglosia» a cosas diferentes diluye o enmascara el efecto. Hay que mirar qué criterio usó cada estudio incluido.
+3. **¿Tuvo en cuenta la anquiloglosia?** Muchos estudios de ortodoncia, vía aérea, sueño, deglución o habla ni la exploran. Si no la midieron, no pueden descartarla ni como causa ni como factor de confusión, y su conclusión no se puede usar para hablar del frenillo.
+4. **Si estudia una cirugía, ¿qué se hizo y funcionó la liberación?** No hay una técnica uniforme: frenotomía, frenectomía y frenuloplastia no son lo mismo, y cambian la extensión del corte, los tejidos liberados y la terapia miofuncional de antes y después. Y no todas las intervenciones consiguen una liberación efectiva: hay que comprobar si se midió la movilidad después. Un mal resultado de una liberación incompleta no dice nada de una liberación completa.
+
+Estas preguntas se hacen sobre lo que el artículo documenta. Si el dato no está, se dice que no está; no se da por hecho el sesgo.
+
 ## Principio rector
 
 **El objetivo es relacionar investigaciones, no defender una hipótesis personal de quien ha reunido las referencias.** Las rutas de evidencia y preguntas surgidas aquí son recursos exploratorios del proyecto, salvo que un autor concreto haya formulado expresamente una hipótesis en su publicación.
@@ -67,7 +80,7 @@ No basta con responder «no hay evidencia» o «una revisión dice que no existe
 
 Diferencia siempre:
 - **Dato observado:** resultado que el estudio realmente midió.
-- **Interpretación:** lectura de los autores o del equipo, marcada como tal.
+- **Interpretación:** lectura de los autores del estudio, marcada como tal.
 - **Hipótesis:** relación o mecanismo que aún no se ha contrastado directamente.
 
 No confundas ausencia de estudios, pruebas insuficientes, resultados heterogéneos y evidencia suficientemente precisa para apoyar o descartar un efecto definido. «No significativo» no equivale por sí solo a «no hay efecto»; «significativo» no equivale a causalidad.
@@ -219,7 +232,7 @@ Esta biblioteca son archivos de texto (Markdown y CSV). Cualquier IA que pueda l
 
 En una IA de chat, pega en las instrucciones del proyecto las reglas de docs/INSTRUCCIONES-IA.md. Para una pregunta suelta basta con esto:
 
-> Usa como fuente el repositorio https://github.com/mprietob/evidencia-orofacial. Lee primero AGENTS.md, docs/ENFOQUE-CRITICO.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). Di qué criterio diagnóstico usa cada estudio. Separa lo que dice el estudio de la interpretación. Si algo no está, dilo.
+> Usa como fuente el repositorio https://github.com/mprietob/evidencia-orofacial. Lee primero AGENTS.md, docs/ENFOQUE-CRITICO.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). No te limites a decir si hay o no hay evidencia: analiza cada artículo con las cuatro preguntas del enfoque crítico (criterio diagnóstico, mezcla de criterios en las revisiones, si se tuvo en cuenta la anquiloglosia y, en cirugía, técnica y si la liberación fue efectiva). Si algo no está, dilo.
 
 **¿Nunca has usado GitHub?** Tienes una [guía paso a paso](https://recursos.inimamed.com/evidencia) (también aquí, en GUIA.md): qué IA usar, cómo darle la biblioteca y cómo crearte una cuenta si quieres aportar.
 
@@ -9087,7 +9100,6 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 - **Hallazgos contrarios o no significativos:** No hay una asociación agregada concluyente entre longitud/inserción del frenillo y clase de Angle; en algunas variables mandibulares Yoon no encontró asociación. Estos negativos cuentan, pero su alcance se limita a los constructos estudiados.
 - **Conclusión que sí permite / que no permite:** La revisión identifica **incertidumbre** por evidencia de baja/muy baja certeza. Permite comunicar algunos resultados significativos específicos y otros no concluyentes. No demuestra ni que la anquiloglosia cause de forma generalizada maloclusión ni que una restricción funcional correctamente caracterizada **no pueda** influir sobre el crecimiento maxilar. Tampoco evalúa la eficacia preventiva de frenectomía, ni responde a preguntas de sueño, lactancia o postura.
-- **Interpretación (INTERPRETACION, no es resultado del estudio):** Lectura editorial 03/11/2026: al contestar una objeción, distinguir qué variable se midió, qué resultado fue positivo o nulo y la certeza; los problemas diagnósticos no invalidan automáticamente los negativos ni justifican afirmar causalidad positiva.
 - **Licencia y derechos:** Copyright American Dental Association/Elsevier. Ficha redactada como síntesis original; no se adjuntan PDF, tablas ni figuras de la editorial.
 - **Estado de lectura:** Texto completo y material suplementario (especialmente eTables 5-7 y figuras 3-4) consultados el 03/11/2026 a partir de ejemplar facilitado para análisis. Los 11 originales no han sido reanalizados a texto completo como parte de esta ficha.
 
@@ -10166,10 +10178,9 @@ Un comentarista podría presentar el mayor índice respiratorio de los niños co
 - **Criterio diagnóstico de anquiloglosia:** MIXTO. Unos estudios miden la longitud del frenillo y otros la movilidad. Los dos con polisomnografía que separan ambas cosas (Yuen 2022 y Cohen-Levy 2020) encuentran asociación con la movilidad y no con la longitud.
 - **Variables de resultado:** Trastorno respiratorio del sueño por cuestionario o por estudio de sueño.
 - **Resultados NUMÉRICOS verificados:** Del texto completo (lectura previa del equipo): con cuestionario, OR 5,02 (Brożek-Mądry 2021), OR 7,11 con IC 1,26-40 (Burska 2022) y OR 2,98 ajustado en 504 niños (Villa 2020). Con estudio de sueño: Yuen 2022, longitud <16 mm sin diferencia y movilidad baja con OR 3,65 ajustado; Guilleminault 2016, IAH 13,1 frente a 11,4 solo en varones.
-- **Límites metodológicos / confusores:** Estudios transversales, cuestionarios, muestras pequeñas y posible sesgo de publicación.
+- **Límites metodológicos / confusores:** Estudios transversales, cuestionarios, muestras pequeñas y posible sesgo de publicación. Brożek-Mądry 2021 y Burska 2022 son del mismo grupo y con grupos casi idénticos: puede que sea la misma muestra contada dos veces (`PENDIENTE DE VERIFICAR`).
 - **Hallazgos contrarios o no significativos:** La longitud del frenillo sola no se asocia en los estudios con polisomnografía.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que hay asociación entre anquiloglosia y trastorno respiratorio del sueño en niños, y que pesa más la movilidad que la longitud. No: Afirmar causa.
-- **Interpretación (INTERPRETACION, no es resultado del estudio):** [Lectura del equipo, 15/10/2026] Brożek-Mądry 2021 y Burska 2022 son del mismo grupo con grupos casi idénticos: probablemente la misma muestra contada dos veces. Frase de contenido: «No es lo corto que sea el frenillo, es lo que se mueve la lengua».
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
 - **Estado de lectura:** PubMed sin resumen. Texto completo revisado (PDF vía ClinicalKey, 15/10/2026); las cifras salen de esa lectura y PENDIENTE DE VERIFICAR antes de publicarlas.
 

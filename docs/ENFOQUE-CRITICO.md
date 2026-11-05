@@ -2,6 +2,17 @@
 
 **Lee este documento antes de responder preguntas científicas o trabajar con esta biblioteca.** No se trata de defender la anquiloglosia ni de desacreditar los resultados negativos: se trata de averiguar **qué pregunta respondió realmente un estudio** y qué conclusiones permite su diseño.
 
+## Cuatro preguntas para todos los artículos
+
+Se aplican igual a cada estudio, sea favorable o contrario. No basta con decir si se acepta la hipótesis o si hay o no hay evidencia: hay que analizar el artículo. En la literatura sobre el frenillo, los sesgos más importantes suelen ser estos:
+
+1. **¿Con qué criterio diagnosticó la anquiloglosia?** Muchos estudios la definen por la longitud, la inserción o el aspecto del frenillo, sin medir la función (cuánto se mueve la lengua, si eleva el cuerpo, si compensa). Un estudio así responde sobre el aspecto, no sobre la restricción funcional.
+2. **Si es una revisión, ¿mezcla estudios con criterios diagnósticos distintos?** Agrupar estudios que llaman «anquiloglosia» a cosas diferentes diluye o enmascara el efecto. Hay que mirar qué criterio usó cada estudio incluido.
+3. **¿Tuvo en cuenta la anquiloglosia?** Muchos estudios de ortodoncia, vía aérea, sueño, deglución o habla ni la exploran. Si no la midieron, no pueden descartarla ni como causa ni como factor de confusión, y su conclusión no se puede usar para hablar del frenillo.
+4. **Si estudia una cirugía, ¿qué se hizo y funcionó la liberación?** No hay una técnica uniforme: frenotomía, frenectomía y frenuloplastia no son lo mismo, y cambian la extensión del corte, los tejidos liberados y la terapia miofuncional de antes y después. Y no todas las intervenciones consiguen una liberación efectiva: hay que comprobar si se midió la movilidad después. Un mal resultado de una liberación incompleta no dice nada de una liberación completa.
+
+Estas preguntas se hacen sobre lo que el artículo documenta. Si el dato no está, se dice que no está; no se da por hecho el sesgo.
+
 ## Principio rector
 
 **El objetivo es relacionar investigaciones, no defender una hipótesis personal de quien ha reunido las referencias.** Las rutas de evidencia y preguntas surgidas aquí son recursos exploratorios del proyecto, salvo que un autor concreto haya formulado expresamente una hipótesis en su publicación.
@@ -12,7 +23,7 @@ No basta con responder «no hay evidencia» o «una revisión dice que no existe
 
 Diferencia siempre:
 - **Dato observado:** resultado que el estudio realmente midió.
-- **Interpretación:** lectura de los autores o del equipo, marcada como tal.
+- **Interpretación:** lectura de los autores del estudio, marcada como tal.
 - **Hipótesis:** relación o mecanismo que aún no se ha contrastado directamente.
 
 No confundas ausencia de estudios, pruebas insuficientes, resultados heterogéneos y evidencia suficientemente precisa para apoyar o descartar un efecto definido. «No significativo» no equivale por sí solo a «no hay efecto»; «significativo» no equivale a causalidad.

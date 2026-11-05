@@ -84,7 +84,7 @@ Esta biblioteca son archivos de texto (Markdown y CSV). Cualquier IA que pueda l
 
 En una IA de chat, pega en las instrucciones del proyecto las reglas de [docs/INSTRUCCIONES-IA.md](docs/INSTRUCCIONES-IA.md). Para una pregunta suelta basta con esto:
 
-> Usa como fuente el repositorio https://github.com/mprietob/evidencia-orofacial. Lee primero AGENTS.md, docs/ENFOQUE-CRITICO.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). Di qué criterio diagnóstico usa cada estudio. Separa lo que dice el estudio de la interpretación. Si algo no está, dilo.
+> Usa como fuente el repositorio https://github.com/mprietob/evidencia-orofacial. Lee primero AGENTS.md, docs/ENFOQUE-CRITICO.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). No te limites a decir si hay o no hay evidencia: analiza cada artículo con las cuatro preguntas del enfoque crítico (criterio diagnóstico, mezcla de criterios en las revisiones, si se tuvo en cuenta la anquiloglosia y, en cirugía, técnica y si la liberación fue efectiva). Si algo no está, dilo.
 
 **¿Nunca has usado GitHub?** Tienes una [guía paso a paso](https://recursos.inimamed.com/evidencia) (también aquí, en [GUIA.md](GUIA.md)): qué IA usar, cómo darle la biblioteca y cómo crearte una cuenta si quieres aportar.
 
