@@ -20,10 +20,6 @@
 - **Licencia y derechos:** Acceso abierto MDPI, **CC BY 4.0**. Resumen original; no se copian sus tablas/figuras ni PDF.
 - **Estado de lectura:** **Texto completo abierto consultado el 03/11/2026**, incluida tabla 2 y métodos, [editor](https://www.mdpi.com/2076-3417/11/6/2520) y [PDF abierto](https://doi.org/10.3390/app11062520). La anotación anterior «solo metadatos» ha quedado subsanada.
 
-## Lectura crítica para objeciones — INTERPRETACIÓN editorial
-
-Este estudio es especialmente útil porque **separa fenotipos de función lingual**: las diferencias en postura de reposo y succión no equivalen a un diagnóstico funcional validado de anquiloglosia. Se debe mencionar el resultado negativo de deglución y no confundir «anatomía» con «función». También hay que recordar que ni la selección por clase III ni la comparación transversal establecen qué apareció primero.
-
 ## Figuras
 
 No incorporadas. [Fuente original](https://doi.org/10.3390/app11062520).

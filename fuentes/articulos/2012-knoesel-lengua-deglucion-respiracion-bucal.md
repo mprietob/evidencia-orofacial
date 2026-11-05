@@ -21,12 +21,6 @@
 - **Licencia y derechos:** Acceso abierto bajo licencia **CC BY-NC 2.0** (atribución no comercial). Ficha de síntesis propia; ni figuras ni PDF redistribuidos.
 - **Estado de lectura:** **Texto completo HTML editorial, métodos, resultados y discusión** verificados el 03/11/2026 en [Springer](https://link.springer.com/article/10.1007/s00455-011-9383-8). Las tablas se identificaron por su descripción, pero **no se reanalizó archivo bruto ni datos participante por participante**.
 
-## Por qué importa en nuestra investigación (INTERPRETACIÓN editorial)
-
-Este trabajo muestra que se puede observar **contacto lingual al paladar con medición directa** en vez de inferir función por apariencia. Pero hay una consecuencia del diseño que un agente debe detectar ante una objeción: **se excluyó explícitamente a los niños incapaces de colocar la lengua en la papila**. Por ello un resultado favorable de maniobras no responde a la pregunta de si una **restricción funcional severa** permite alcanzar el mismo objetivo, ni a si la frenectomía ayudaría. No es una crítica genérica, es una característica documentada que cambia la población relevante.
-
-La discordancia entre examen clínico y sensor invita a validar las medidas funcionales, sin afirmar que todo diagnóstico clínico sea inútil. [Relación con Engelke 2011, presiones intraorales](2011-engelke-presiones-intraorales.md).
-
 ## Figuras
 
 No reproducidas. [Texto original](https://doi.org/10.1007/s00455-011-9383-8).

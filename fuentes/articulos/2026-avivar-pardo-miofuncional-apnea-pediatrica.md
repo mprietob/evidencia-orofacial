@@ -15,12 +15,6 @@
 - **Licencia y derechos:** Publicación de **acceso abierto Springer**; no se reproducen tablas ni figuras y la licencia concreta de reutilización requiere verificación.
 - **Estado de lectura:** Resumen, descripción del cribado, calidad de los cuatro estudios y resultados cualitativos consultados en la página abierta de Springer el **03/11/2026**. No se ha extraído individualmente toda la tabla 1 ni realizado evaluación nueva del riesgo de sesgo.
 
-## Interpretación editorial: por qué importa junto a Cnockaert 2026
-
-Una frase como «una revisión encuentra mejoría y otra no» **no describe un conflicto de estudios primarios independientes**. Cambian los criterios de inclusión, los diseños y los estimadores: esta incluye observacionales (tres de cuatro) y valora mejorías descriptivas, mientras que Cnockaert analiza el **efecto comparativo agregado de ECA** en intervenciones aisladas. También deben cotejarse sus estudios subyacentes para evitar doble conteo. Ninguna revisó específicamente el efecto de liberar un frenillo sobre la apnea.
-
-**Punto pendiente:** el resumen atribuye la mejoría de hasta 58 % a un ensayo; en métodos, el único ECA tiene n=27 y la muestra máxima n=133 procede de un observacional. No llamar al de n=133 «ensayo grande». Contrastar las referencias primarias antes de usar ese porcentaje en debate.
-
 ## Figuras
 
 No reproducidas. [Fuente original](https://doi.org/10.1007/s41105-026-00682-4).

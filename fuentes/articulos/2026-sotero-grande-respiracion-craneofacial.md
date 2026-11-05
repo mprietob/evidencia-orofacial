@@ -18,7 +18,3 @@
 ## Figuras
 
 No incorporadas ni auditadas. [Artículo original](https://doi.org/10.3390/healthcare14121737).
-
-## Lectura crítica (INTERPRETACIÓN editorial; 03/11/2026)
-
-El resultado de interés no es «la respiración bucal causa deformidad facial», sino que los estudios seleccionados describen **diferencias de morfología asociadas**. Para interpretar cada asociación hay que saber quién definió la respiración bucal (anamnesis/observación/permeabilidad nasal), distinguir anchura de arcada dental de base esquelética y diferenciar respiración oral por obstrucción de la derivada de otros hábitos. El estudio ofrece un **mapa narrativo de hipótesis y referencias para buscar originales**, no una estimación causal o un valor combinado de efecto. La mezcla de fuentes primarias y revisiones obliga a deduplicar cohortes si se usa para nuestra futura scoping review.

@@ -32,10 +32,6 @@ Licencia del artículo: CC BY 4.0. Figuras en PubMed Central (PMC11432234).
 
 Crédito: figuras de Lichnowska A; Gnatek A; Tyszkiewicz S; Kozakiewicz M; Zaghi S (PMC11432234), CC BY 4.0. Las copias locales no se han modificado.
 
-## Interpretación de riesgo de sesgo (lectura editorial, 03/11/2026)
-
-En los métodos se describe asignación por día de presentación en clínica, no mediante un generador aleatorio ocultado; el grupo con cirugía era en promedio **8 años más joven** que el control. Una diferencia de edad tan grande importa para la función muscular y los cambios en niños/adultos. Por tanto, usar el término `RCT` sin advertir el mecanismo de asignación **sobrestima** su fuerza inferencial. No rechazar automáticamente el resultado favorable observado: **describirlo**, pero no interpretarlo como demostración de cambios óseos causados por frenuloplastia. Las técnicas de valoración funcional y la medición de ceguera deben comprobarse antes de una valoración formal RoB 2/ROBINS-I.
-
 ## Actualización del apartado de resultados, 03/11/2026
 
 Los porcentajes de postura labial (86 % A; 8,5 % mejoría B), deglución (90 % normal A) y mejoría percibida de mordida (72 %) figuran en la sección 3 del artículo [abierto en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11432234/). **No** describir «mejoró la mordida» como avance de la mandíbula o cambios de la base ósea; la medición de respiración se describe clínicamente, no como resolución objetiva de OSA. Con la diferencia de edad basal y la asignación por llegada, estos efectos favorables observados merecen una interpretación prudente.

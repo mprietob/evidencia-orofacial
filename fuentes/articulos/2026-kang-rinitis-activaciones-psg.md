@@ -18,7 +18,3 @@
 ## Figuras
 
 No incorporadas ni auditadas. [Artículo original](https://doi.org/10.1186/s12887-026-07684-8).
-
-## Objeción metodológica importante — INTERPRETACIÓN editorial (03/11/2026)
-
-Un comentarista podría presentar el mayor índice respiratorio de los niños con OSA+rinitis como prueba causal de que la rinitis desencadena microdespertares. Pero en un estudio transversal/retrospectivo de niños **derivados por sospecha de SDB**, la gravedad del propio OSA, selección clínica, confusión por asma/IMC/edad y las diferencias en el fenotipo de ronquido requieren cautela. **Es especialmente importante no convertir una diferencia no ajustada en un efecto independiente ajustado de rinitis**: el resumen sí documenta aIRR para PLMAI en sentido contrario y para OSA en microdespertares respiratorios; no verifica el aIRR respiratorio independiente de rinitis. La presencia de AR sigue siendo un factor clínico relevante para estudiar el sueño, pero este trabajo no evalúa ni frenillo ni crecimiento óseo.

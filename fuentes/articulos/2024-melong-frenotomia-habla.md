@@ -12,7 +12,6 @@
 - **Límites metodológicos / confusores:** 25 niños, seguimiento de 1 mes, sin control. Si el criterio no fue funcional, puede haber incluido frenillos sin restricción real.
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en esta serie la frenotomía no mejoró el habla al mes y que la mayoría de errores eran de la edad. No: Generalizar a niños con restricción funcional definida por TRMR o a seguimientos largos.
-- **Interpretación editorial:** Para comparar grupos es importante comprobar si se seleccionó por aspecto del frenillo o por limitación funcional; el resumen de este estudio no permite cerrar esa cuestión.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
 - **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 

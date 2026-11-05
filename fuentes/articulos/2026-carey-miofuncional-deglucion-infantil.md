@@ -16,10 +16,6 @@
 - **Estado de lectura:** Texto completo HTML abierto (métodos, cribado, diseño, participantes, evaluación de calidad, discusión) consultado el **03/11/2026**; **no reanálisis individual de los 17 estudios**.
 - **Conflictos de interés relevantes:** Los autores declaran vínculos profesionales con clínicas, servicios formativos de terapia orofacial y asociaciones del área; entre ellos Carey declara pertenencia a la junta ICAP y Merkel-Walsh actividad privada/formativa en terapia orofacial. Tratar estos vínculos como **posibles intereses a considerar**, no prueba de falsedad de los resultados.
 
-## Lectura crítica ante objeciones — INTERPRETACIÓN editorial
-
-**«Todos los estudios encontraron mejoría»** es correcto como descripción de los 17 incluidos. **«La terapia funciona de forma causal»** no se deduce: en 10/17 los estudios se calificaron como pobres, en 11/17 había otras intervenciones y ninguno presentó magnitud de efecto. A la inversa, tampoco es correcto descartar toda mejoría clínica real: la revisión identifica una señal que justifica diseñar ensayos específicos. **No mezclar deglución (Carey), apnea medida por PSG (Cnockaert/Avivar) y efecto de frenectomía**: son desenlaces/poblaciones/intervenciones distintos.
-
 ## Figuras
 
 No se reproducen. [Artículo original](https://doi.org/10.1111/joor.70304).

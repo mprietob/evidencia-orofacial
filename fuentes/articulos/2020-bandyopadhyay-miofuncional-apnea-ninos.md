@@ -20,10 +20,6 @@
 - **Licencia y derechos:** Manuscrito de autor disponible públicamente en repositorio; **licencia de reutilización no verificada**. No incorporar PDF ni figuras al repositorio de evidencia.
 - **Estado de lectura:** Texto extraído de manuscrito de autor abierto consultado el **03/11/2026**, incluyendo métodos, resultados, discusión y limitaciones. **La herramienta de captura visual del PDF no pudo renderizar sus tablas/figuras**, por lo que no se ha verificado la representación gráfica ni los datos originales de cada subestudio. No declarar auditoría completa del riesgo de sesgo.
 
-## Interpretación crítica — comparación con 2026
-
-La aparente discrepancia entre el metaanálisis favorable de 2020 y [Cnockaert 2026](2026-cnockaert-miofuncional-apnea-infantil.md) **se entiende en parte porque sus estimandos no son iguales**: Bandyopadhyay resume cambios *dentro de grupos antes/después* e incluye dispositivos pasivos y estudios sin controles; Cnockaert estima diferencias **frente a grupo de comparación de ECA** con terapia activa aislada. No podemos resolver toda la discrepancia sin identificar las cohortes compartidas y reconstruir los análisis, pero **no es correcto describirlos como dos ensayos contradictorios**.
-
 ## Figuras
 
 No copiadas ni verificadas visualmente. [Manuscrito de autor](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/9bc77cf4-a306-4afc-b3b2-4ca0d4d1a4bb/content).

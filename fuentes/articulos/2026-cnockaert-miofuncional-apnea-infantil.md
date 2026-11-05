@@ -18,11 +18,3 @@
 ## Figuras
 
 No incorporadas ni evaluadas. [Original](https://doi.org/10.1016/j.sleep.2026.108840).
-
-## Importancia como evidencia contraria (INTERPRETACIÓN editorial, 03/11/2026)
-
-Esta revisión es una **objeción pertinente** a la afirmación de que la **terapia miofuncional aislada mejora de forma demostrada la apnea pediátrica medida por polisomnografía**: el metaanálisis de 4 ECA no halló una diferencia significativa del IAH. No basta con invalidarlo alegando que algunos niños tienen frenillo o que no hubo selección TRMR; esas afirmaciones no demuestran eficacia. Tampoco el intervalo de confianza permite afirmar equivalencia ni ausencia definitiva de efecto en todos los subgrupos. Separar de los estudios de terapia combinada, de los ensayos en adultos y de medidas subjetivas como ronquido o cuestionarios. La revisión no investiga si la liberación lingual modifica el crecimiento óseo.
-
-### Contraste con una revisión favorable publicada en septiembre de 2026
-
-[Avivar-Pardo 2026](2026-avivar-pardo-miofuncional-apnea-pediatrica.md) identifica 4 estudios, **solo 1 ECA n=27**, y sintetiza mejorías observacionales de IAH con certeza **baja**. Cnockaert 2026 sintetiza **4 ECA n=174** y no encuentra beneficio agrupado significativo de la intervención activa **aislada**. Estas conclusiones no se anulan sin cotejar sus estudios originales: cambian los diseños (antes/después frente a comparaciones controladas), los criterios y probablemente las poblaciones. No sumar artículos y revisiones como si fuesen personas diferentes.

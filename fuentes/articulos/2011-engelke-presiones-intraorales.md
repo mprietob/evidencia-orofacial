@@ -21,12 +21,6 @@
 - **Licencia y derechos:** Original **open access CC BY-NC 2.0**. Síntesis propia; no se duplican figuras, tablas o PDF.
 - **Estado de lectura:** **Texto completo HTML de Springer** comprobado el 03/11/2026, incluidos criterios de inclusión/exclusión, método, resultados, discusión y límites. No se ha reanalizado la señal fisiológica cruda ni los 20 registros individuales.
 
-## Interpretación para las objeciones
-
-**El contacto de la punta con la papila no es el mismo desenlace que un sello linguopalatino posterior mantenido.** Engelke midió la presión de un espacio **subpalatino** y la comparó con el espacio **interoclusal**; no concluye que todo paciente tenga una restricción funcional si falla un sello. En este sentido hay una vía experimental para estudiar una parte del mecanismo que suele invocarse en las discusiones sobre función: **medición directa de presión/estabilidad del compartimento**, en vez de inferencia a partir de longitud libre de frenillo.
-
-**Importante:** los participantes tenían respiración nasal y oclusión normales. El estudio no permite inferir directamente qué ocurre en niños con paladar estrecho, adenoides grandes o apnea. [Experimento de deglución en niños respiradores bucales, Knösel 2012](2012-knoesel-lengua-deglucion-respiracion-bucal.md).
-
 ## Figuras
 
 No copiadas; [fuente original](https://doi.org/10.1007/s00784-009-0367-0).

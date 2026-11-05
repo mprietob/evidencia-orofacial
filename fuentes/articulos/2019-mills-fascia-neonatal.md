@@ -15,10 +15,6 @@
 - **Licencia y derechos:** Texto abierto publicado bajo **CC BY 4.0**, según la versión de autor/editorial. Ficha redactada como síntesis; no se incorporan fotos, tablas ni PDF.
 - **Estado de lectura:** Texto íntegro HTML de Wiley y resumen PubMed consultados el **03/11/2026**, incluidos métodos, resultados de los cuatro especímenes y discusión del significado de las clasificaciones anatómicas. Figuras disponibles en el editor, no reproducidas.
 
-## Lectura crítica para el proyecto (INTERPRETACIÓN editorial)
-
-Este artículo responde a una objeción habitual: «el frenillo es simplemente una banda corta» no representa toda la estructura descrita; pero la anatomía fascial observada **no demuestra por sí misma** patología funcional ni fuerza posterior sobre la mandíbula. La variación anatómica es una razón para no convertir Kotlow o Coryllos en pruebas diagnósticas funcionales por sí solas; del mismo modo, no legitima diagnosticar una restricción solo por hipótesis biomecánica. En niños vivos tendríamos que medir función, compensaciones relevantes y desenlaces específicos de forma independiente.
-
 ## Figuras
 
 Disponibles en el [original Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/ca.23410); no se almacenan copias locales ni imágenes de muestras de cadáver.

@@ -20,6 +20,28 @@ Documentos de sociedades científicas, agencias y grupos de consenso sobre anqui
 | [ICAP](../fuentes/articulos/2024-icap-guia-ankylofrenula.md) | 2024 | Consorcio profesional internacional | `PENDIENTE DE VERIFICAR` | Guía de práctica de un consorcio de profesionales que tratan frenillos. |
 | [Academia Brasileña de ORL Pediátrica](../fuentes/articulos/2026-caixeta-abopi-brasil.md) | 2026 | Brasil, otorrinos, niños | No. La mayoría de métodos no están validados | Sin datos de relación con maloclusión, apnea o reflujo; la frenotomía puede reducir el dolor materno. |
 | [Guía GRADE de Pediatric Dentistry (Dhar)](../fuentes/articulos/2026-dhar-aapd-guia-lactancia.md) | 2026 | Lactantes con dificultades de lactancia | Valoración anatómica y funcional; BTAT/TABBY con más apoyo | 12 recomendaciones, todas condicionales y de certeza muy baja. |
+| [Canadian Academy of Pediatric Dentistry](../fuentes/articulos/2025-capd-canada-posicionamiento.md) | 2025 | Canadá, odontopediatría, lactancia | No. Pide investigación para estandarizar el diagnóstico | Valoración completa de la lactancia antes de tratar; equipo multidisciplinar; consentimiento informado que incluya no tratar. |
+| [New Zealand College of Midwives](../fuentes/articulos/2025-nzcom-matronas-consenso.md) | 2025 | Nueva Zelanda, matronas, lactancia | Herramientas de aspecto y función (BTAT, TABBY, Hazelbaker), no solo el aspecto | El apoyo a la lactancia va antes que la cirugía; poca o ninguna evidencia para «posterior tie», frenillos labiales o bucales y estiramientos. |
+| [American Association of Orthodontists](../fuentes/articulos/2019-behrents-aao-apnea-ortodoncia.md) | 2019 | EE. UU., ortodoncia, apnea | No. Cita la escala funcional de Yoon 2017 | Frenectomía adecuada para habla y masticación, no apoyada para prevenir la apnea. |
+| [American Association of Orthodontists, actualización](../fuentes/articulos/2026-palomo-aao-actualizacion.md) | 2026 | EE. UU., ortodoncia, trastornos respiratorios del sueño | No. Señala criterios diagnósticos heterogéneos | No considera la anquiloglosia una causa demostrada; no recomienda frenectomía rutinaria para prevenir ni tratar; ninguna intervención ortodóncica previene estos trastornos. |
+
+## Guías y consensos de apnea infantil
+
+Guías de apnea del sueño en niños, comprobadas el 05/11/2026. La columna «¿Nombra la anquiloglosia?» recoge si el documento llega a tenerla en cuenta, buscado en el texto completo cuando se ha podido leer.
+
+| Documento | Año | Ámbito | ¿Nombra la anquiloglosia? | Lo esencial |
+|---|---|---|---|---|
+| [Consenso español de SAHS infantil](../fuentes/articulos/2011-alonso-alvarez-consenso-sahs-infantil.md) | 2011 | España, avalado por SEPAR, SES, SEPEAP, AEPap y SEORL | No (texto completo) | Adenoamigdalectomía como tratamiento de elección, eficacia citada del 78 % y de solo el 27,2 % en un estudio multicéntrico. |
+| [American Academy of Pediatrics (Marcus)](../fuentes/articulos/2012-marcus-aap-guia-apnea.md) | 2012 | EE. UU., atención primaria | `PENDIENTE DE VERIFICAR` (solo resumen leído) | Cribado del ronquido, polisomnografía, adenoamigdalectomía como primera opción, CPAP si persiste. Sigue siendo la versión vigente. |
+| [ERS, 2 a 18 años (Kaditis)](../fuentes/articulos/2016-kaditis-ers-apnea-2-18.md) | 2016 | Europa | No (texto completo) | Tratamiento escalonado con reevaluación tras cada paso; la terapia miofuncional tras la cirugía, con solo dos estudios de baja calidad. |
+| [ERS, 1 a 23 meses (Kaditis)](../fuentes/articulos/2017-kaditis-ers-apnea-lactantes.md) | 2017 | Europa, lactantes | `PENDIENTE DE VERIFICAR` (solo resumen leído) | Adenoamigdalectomía y CPAP, más intervenciones dirigidas a cada causa. |
+| [AAO-HNS, amigdalectomía (Mitchell)](../fuentes/articulos/2019-mitchell-aaohns-amigdalectomia.md) | 2019 | EE. UU., otorrinos | `PENDIENTE DE VERIFICAR` (solo resumen leído) | Recomendar amigdalectomía si la apnea está documentada por polisomnografía. |
+| [AAPD, política sobre apnea](../fuentes/articulos/2021-aapd-politica-apnea.md) | 2021 | EE. UU., odontopediatría | No (texto completo). Pide valorar la posición de la lengua | Cribar, derivar al médico, aparatos solo tras valoración ortodóncica. |
+| [Consenso de apnea persistente (Ishman)](../fuentes/articulos/2023-ishman-consenso-apnea-persistente.md) | 2023 | EE. UU., otorrinos | `PENDIENTE DE VERIFICAR` | 34 afirmaciones con consenso y 18 sin él sobre la apnea que persiste tras la cirugía. |
+| [ATS, apnea persistente (Ehsan)](../fuentes/articulos/2024-ehsan-guia-ats.md) | 2024 | Internacional, GRADE | `PENDIENTE DE VERIFICAR` | Hasta un 40 % sigue con apnea tras la adenoamigdalectomía. |
+| [Canadian Thoracic Society / Canadian Sleep Society (MacLean)](../fuentes/articulos/2026-maclean-cts-diagnostico-apnea.md) | 2026 | Canadá, diagnóstico | No (texto completo) | Polisomnografía como estándar; poligrafía domiciliaria como segunda opción en mayores de 5 años sanos. |
+
+No se ha encontrado una guía española de apnea infantil posterior a 2011, ni una versión de la AAP posterior a 2012 (búsqueda del 05/11/2026). El consenso internacional de 2022 sobre apnea (Mediano et al., *Arch Bronconeumol*) trata solo adultos.
 
 ## Lo que no se ha podido confirmar (02/11/2026)
 
@@ -27,7 +49,6 @@ Documentos de sociedades científicas, agencias y grupos de consenso sobre anqui
 - **Otras sociedades españolas** (SEORL-CCC, odontopediatría, cirugía pediátrica, logopedia): no se ha encontrado un documento de posicionamiento. Hay artículos y protocolos de hospitales, que no son posicionamientos de sociedades.
 - **«Consenso internacional de 2023»:** no se ha encontrado uno con ese nombre. Los documentos internacionales localizados son el de la IAPD (2019/2022), el de la ABM (2021) y el de ICAP (2024).
 - **American Dental Association (EE. UU.):** una búsqueda web no encontró un posicionamiento propio sobre anquiloglosia: `PENDIENTE DE VERIFICAR` en ada.org. El documento estadounidense de odontopediatría es el de la AAPD.
-- **Canadian Academy of Pediatric Dentistry:** se cita un posicionamiento de 2025 sobre anquiloglosia y lactancia: `PENDIENTE DE VERIFICAR`.
 
 ## Lectura de conjunto (INTERPRETACION del equipo, 02/11/2026)
 

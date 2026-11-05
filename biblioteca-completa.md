@@ -721,6 +721,28 @@ Documentos de sociedades científicas, agencias y grupos de consenso sobre anqui
 | ICAP | 2024 | Consorcio profesional internacional | `PENDIENTE DE VERIFICAR` | Guía de práctica de un consorcio de profesionales que tratan frenillos. |
 | Academia Brasileña de ORL Pediátrica | 2026 | Brasil, otorrinos, niños | No. La mayoría de métodos no están validados | Sin datos de relación con maloclusión, apnea o reflujo; la frenotomía puede reducir el dolor materno. |
 | Guía GRADE de Pediatric Dentistry (Dhar) | 2026 | Lactantes con dificultades de lactancia | Valoración anatómica y funcional; BTAT/TABBY con más apoyo | 12 recomendaciones, todas condicionales y de certeza muy baja. |
+| Canadian Academy of Pediatric Dentistry | 2025 | Canadá, odontopediatría, lactancia | No. Pide investigación para estandarizar el diagnóstico | Valoración completa de la lactancia antes de tratar; equipo multidisciplinar; consentimiento informado que incluya no tratar. |
+| New Zealand College of Midwives | 2025 | Nueva Zelanda, matronas, lactancia | Herramientas de aspecto y función (BTAT, TABBY, Hazelbaker), no solo el aspecto | El apoyo a la lactancia va antes que la cirugía; poca o ninguna evidencia para «posterior tie», frenillos labiales o bucales y estiramientos. |
+| American Association of Orthodontists | 2019 | EE. UU., ortodoncia, apnea | No. Cita la escala funcional de Yoon 2017 | Frenectomía adecuada para habla y masticación, no apoyada para prevenir la apnea. |
+| American Association of Orthodontists, actualización | 2026 | EE. UU., ortodoncia, trastornos respiratorios del sueño | No. Señala criterios diagnósticos heterogéneos | No considera la anquiloglosia una causa demostrada; no recomienda frenectomía rutinaria para prevenir ni tratar; ninguna intervención ortodóncica previene estos trastornos. |
+
+## Guías y consensos de apnea infantil
+
+Guías de apnea del sueño en niños, comprobadas el 05/11/2026. La columna «¿Nombra la anquiloglosia?» recoge si el documento llega a tenerla en cuenta, buscado en el texto completo cuando se ha podido leer.
+
+| Documento | Año | Ámbito | ¿Nombra la anquiloglosia? | Lo esencial |
+|---|---|---|---|---|
+| Consenso español de SAHS infantil | 2011 | España, avalado por SEPAR, SES, SEPEAP, AEPap y SEORL | No (texto completo) | Adenoamigdalectomía como tratamiento de elección, eficacia citada del 78 % y de solo el 27,2 % en un estudio multicéntrico. |
+| American Academy of Pediatrics (Marcus) | 2012 | EE. UU., atención primaria | `PENDIENTE DE VERIFICAR` (solo resumen leído) | Cribado del ronquido, polisomnografía, adenoamigdalectomía como primera opción, CPAP si persiste. Sigue siendo la versión vigente. |
+| ERS, 2 a 18 años (Kaditis) | 2016 | Europa | No (texto completo) | Tratamiento escalonado con reevaluación tras cada paso; la terapia miofuncional tras la cirugía, con solo dos estudios de baja calidad. |
+| ERS, 1 a 23 meses (Kaditis) | 2017 | Europa, lactantes | `PENDIENTE DE VERIFICAR` (solo resumen leído) | Adenoamigdalectomía y CPAP, más intervenciones dirigidas a cada causa. |
+| AAO-HNS, amigdalectomía (Mitchell) | 2019 | EE. UU., otorrinos | `PENDIENTE DE VERIFICAR` (solo resumen leído) | Recomendar amigdalectomía si la apnea está documentada por polisomnografía. |
+| AAPD, política sobre apnea | 2021 | EE. UU., odontopediatría | No (texto completo). Pide valorar la posición de la lengua | Cribar, derivar al médico, aparatos solo tras valoración ortodóncica. |
+| Consenso de apnea persistente (Ishman) | 2023 | EE. UU., otorrinos | `PENDIENTE DE VERIFICAR` | 34 afirmaciones con consenso y 18 sin él sobre la apnea que persiste tras la cirugía. |
+| ATS, apnea persistente (Ehsan) | 2024 | Internacional, GRADE | `PENDIENTE DE VERIFICAR` | Hasta un 40 % sigue con apnea tras la adenoamigdalectomía. |
+| Canadian Thoracic Society / Canadian Sleep Society (MacLean) | 2026 | Canadá, diagnóstico | No (texto completo) | Polisomnografía como estándar; poligrafía domiciliaria como segunda opción en mayores de 5 años sanos. |
+
+No se ha encontrado una guía española de apnea infantil posterior a 2011, ni una versión de la AAP posterior a 2012 (búsqueda del 05/11/2026). El consenso internacional de 2022 sobre apnea (Mediano et al., *Arch Bronconeumol*) trata solo adultos.
 
 ## Lo que no se ha podido confirmar (02/11/2026)
 
@@ -728,7 +750,6 @@ Documentos de sociedades científicas, agencias y grupos de consenso sobre anqui
 - **Otras sociedades españolas** (SEORL-CCC, odontopediatría, cirugía pediátrica, logopedia): no se ha encontrado un documento de posicionamiento. Hay artículos y protocolos de hospitales, que no son posicionamientos de sociedades.
 - **«Consenso internacional de 2023»:** no se ha encontrado uno con ese nombre. Los documentos internacionales localizados son el de la IAPD (2019/2022), el de la ABM (2021) y el de ICAP (2024).
 - **American Dental Association (EE. UU.):** una búsqueda web no encontró un posicionamiento propio sobre anquiloglosia: `PENDIENTE DE VERIFICAR` en ada.org. El documento estadounidense de odontopediatría es el de la AAPD.
-- **Canadian Academy of Pediatric Dentistry:** se cita un posicionamiento de 2025 sobre anquiloglosia y lactancia: `PENDIENTE DE VERIFICAR`.
 
 ## Lectura de conjunto (INTERPRETACION del equipo, 02/11/2026)
 
@@ -832,6 +853,7 @@ La revisión de **Póvoa-Santos et al. (2024)** incluye 11 estudios observaciona
 - **Papageorgiou 2025**, *Eur J Orthod*, 11 estudios retrospectivos, 891 pacientes. Sin diferencias en volumen ni área mínima de la vía aérea medidos en CBCT, salvo un área orofaríngea algo mayor con extracciones (+23 mm²). Fuerza de la evidencia moderada; estudios con alto riesgo de sesgo. Ficha.
 - **Orabi 2021**, *AJO-DO*, 7 estudios, 268 con extracciones y 342 sin ellas. Sin diferencias salvo +0,41 cm³ orofaríngeo, de relevancia dudosa. Evidencia muy baja. Ficha.
 - **Guo 2023**, *Chin J Dent Res*, 12 estudios (6 cuantitativos). Sin cambios significativos; en adultos el área mínima baja sin llegar a ser significativa. Ficha.
+- **American Association of Orthodontists**, documentos de posición de 2019 y 2026. No son estudios: revisan la literatura. 2026: «no evidence to support a causal relationship between extractions and the development of SDB», y las medidas de vía aérea en CBCT o cefalometría no sirven para diagnosticar ni para valorar resultados.
 
 **Lectura justa:** de media, y medida en CBCT, la vía aérea no se reduce de forma demostrable tras extracciones.
 
@@ -5898,6 +5920,30 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2011-alonso-alvarez-consenso-sahs-infantil.md -->
+# Estudio: Documento de consenso del síndrome de apneas-hipopneas durante el sueño en niños (versión completa)
+
+- **ID:** ALONSOALVAREZ2011
+- **Autores, año y revista:** Alonso-Álvarez ML; Canet T; Cubell-Alarco M; Estivill E; Fernández-Julián E; Gozal D; Jurado-Luque MJ; Lluch-Roselló MA; Martínez-Pérez F; Merino-Andreu M; Pin-Arboledas G; Roure N; Sanmartí FX; Sans-Capdevila O; Segarra-Isern F; Tomás-Vila M; Terán-Santos J. *Arch Bronconeumol* 2011;47(Supl 5):2-18. Reproducido con permiso en *Rev Bol Ped* 2012;51(1).
+- **DOI / PMID / URL:** DOI `10.1016/S0300-2896(11)70026-6`; https://www.archbronconeumol.org/es-documento-consenso-del-sindrome-apneas-hipopneas-articulo-S0300289611700266
+- **Tipo de estudio:** Documento de consenso español de expertos. Avalado por SEPAR, la Sociedad Española de Sueño, SEPEAP, AEPap y SEORL.
+- **Población y tamaño muestral:** Niños.
+- **Definición diagnóstica y técnicas:** Polisomnografía como prueba de referencia; propone la poligrafía respiratoria como primera técnica diagnóstica en la población infantil con sospecha, reservando la polisomnografía para casos con comorbilidad, dudas u otras patologías del sueño.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: consenso de apnea. Búsqueda en el texto completo el 05/11/2026: no aparecen «frenillo», «anquiloglosia», «miofuncional», «ortodoncia» ni «expansión». En la exploración pide valorar la anatomía craneofacial y de la vía aérea (respiración bucal, hipertrofia adenoamigdalar, retrognatia, Mallampati).
+- **Variables de resultado:** No aplica (consenso).
+- **Resultados NUMÉRICOS verificados:** Tratamiento de elección: adenoamigdalectomía. Eficacia citada de aproximadamente el 78 %, variable según estudios; cita un estudio multicéntrico con una tasa de curación de solo el 27,2 %. Riesgo posquirúrgico del 0 al 1,3 % en general y del 16 al 27 % en niños con apnea. Estudio de sueño tras la cirugía en los casos graves o si persisten síntomas o factores de riesgo.
+- **Límites metodológicos / confusores (solo los relevantes):** Evidencia hasta 2010. Recoge que la revisión Cochrane de entonces no encontraba ensayos doble ciego y que la literatura sobre adenoamigdalectomía tenía problemas metodológicos (sin aleatorización ni controles y con definiciones variables).
+- **Otros resultados relevantes (si los hay):** Considera aceptado tratar siempre los casos graves o con riesgo de complicaciones serias, no operar el ronquido simple, y controvertido el tratamiento de las alteraciones polisomnográficas leves.
+- **Aportación del estudio:** Es el último consenso español sobre apnea infantil localizado. El consenso internacional de 2022 (Mediano et al.) trata solo adultos y anunció un documento pediátrico aparte que no se ha encontrado (búsqueda del 05/11/2026).
+- **Licencia y derechos:** Copyright de SEPAR. Aquí solo resumen propio.
+- **Estado de lectura:** Texto completo (reproducción en SciELO Bolivia) leído por búsqueda de términos y en el apartado de tratamiento el 05/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el documento](https://doi.org/10.1016/S0300-2896(11)70026-6).
+
+---
+
 <!-- archivo: fuentes/articulos/2011-engelke-presiones-intraorales.md -->
 # Estudio: Intra-oral compartment pressures: a biofunctional model and experimental measurements under different conditions of posture
 
@@ -5921,12 +5967,6 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 - **Conclusión que sí permite / que no permite:** **Sí:** demostrar presiones intraorales diferentes en compartimentos subpalatino e interoclusal bajo condiciones voluntarias, y que un sello posterior/oral ayuda a mantener presión negativa sin actividad muscular continua igual a una tarea de soplado. **No:** concluir que «presión negativa» provoque un crecimiento óseo concreto, que frenillo corto impida generar el sello en pacientes clínicos, que elevar la lengua cure apnea, ni que un individuo con TRMR normal tenga necesariamente sellado funcional posterior normal.
 - **Licencia y derechos:** Original **open access CC BY-NC 2.0**. Síntesis propia; no se duplican figuras, tablas o PDF.
 - **Estado de lectura:** **Texto completo HTML de Springer** comprobado el 03/11/2026, incluidos criterios de inclusión/exclusión, método, resultados, discusión y límites. No se ha reanalizado la señal fisiológica cruda ni los 20 registros individuales.
-
-## Interpretación para las objeciones
-
-**El contacto de la punta con la papila no es el mismo desenlace que un sello linguopalatino posterior mantenido.** Engelke midió la presión de un espacio **subpalatino** y la comparó con el espacio **interoclusal**; no concluye que todo paciente tenga una restricción funcional si falla un sello. En este sentido hay una vía experimental para estudiar una parte del mecanismo que suele invocarse en las discusiones sobre función: **medición directa de presión/estabilidad del compartimento**, en vez de inferencia a partir de longitud libre de frenillo.
-
-**Importante:** los participantes tenían respiración nasal y oclusión normales. El estudio no permite inferir directamente qué ocurre en niños con paladar estrecho, adenoides grandes o apnea. Experimento de deglución en niños respiradores bucales, Knösel 2012.
 
 ## Figuras
 
@@ -6061,12 +6101,6 @@ Figuras no extraídas: la versión de PMC no se puede leer por la API. [Ver el a
 - **Licencia y derechos:** Acceso abierto bajo licencia **CC BY-NC 2.0** (atribución no comercial). Ficha de síntesis propia; ni figuras ni PDF redistribuidos.
 - **Estado de lectura:** **Texto completo HTML editorial, métodos, resultados y discusión** verificados el 03/11/2026 en [Springer](https://link.springer.com/article/10.1007/s00455-011-9383-8). Las tablas se identificaron por su descripción, pero **no se reanalizó archivo bruto ni datos participante por participante**.
 
-## Por qué importa en nuestra investigación (INTERPRETACIÓN editorial)
-
-Este trabajo muestra que se puede observar **contacto lingual al paladar con medición directa** en vez de inferir función por apariencia. Pero hay una consecuencia del diseño que un agente debe detectar ante una objeción: **se excluyó explícitamente a los niños incapaces de colocar la lengua en la papila**. Por ello un resultado favorable de maniobras no responde a la pregunta de si una **restricción funcional severa** permite alcanzar el mismo objetivo, ni a si la frenectomía ayudaría. No es una crítica genérica, es una característica documentada que cambia la población relevante.
-
-La discordancia entre examen clínico y sensor invita a validar las medidas funcionales, sin afirmar que todo diagnóstico clínico sea inútil. Relación con Engelke 2011, presiones intraorales.
-
 ## Figuras
 
 No reproducidas. [Texto original](https://doi.org/10.1007/s00455-011-9383-8).
@@ -6094,6 +6128,30 @@ No reproducidas. [Texto original](https://doi.org/10.1007/s00455-011-9383-8).
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/23367525/).
+
+---
+
+<!-- archivo: fuentes/articulos/2012-marcus-aap-guia-apnea.md -->
+# Estudio: Diagnosis and Management of Childhood Obstructive Sleep Apnea Syndrome (American Academy of Pediatrics, clinical practice guideline)
+
+- **ID:** MARCUS2012
+- **Autores, año y revista:** Marcus CL; Brooks LJ; Draper KA; Gozal D; Halbower AC; Jones J; Schechter MS; Sheldon SH; Spruyt K; Ward SD; Lehmann C; Shiffman RN; American Academy of Pediatrics. *Pediatrics* 2012;130(3):576-584.
+- **DOI / PMID / URL:** DOI `10.1542/peds.2012-1671`; PMID `22926173`; https://publications.aap.org/pediatrics/article/130/3/576/30284/Diagnosis-and-Management-of-Childhood-Obstructive
+- **Tipo de estudio:** Guía de práctica clínica de la AAP (revisión de la de 2002), con informe técnico aparte (Pediatrics 2012;130(3):e714-e755). Dirigida a atención primaria.
+- **Población y tamaño muestral:** Niños y adolescentes con apnea «no complicada»: hipertrofia adenoamigdalar u obesidad en un niño por lo demás sano. Excluye a menores de 1 año y a niños con alteraciones craneofaciales, neuromusculares u otras enfermedades asociadas. Base: de 3.166 artículos de 1999 a 2010, 350 con datos relevantes, la mayoría de nivel II a IV.
+- **Definición diagnóstica y técnicas:** Polisomnografía en niños que roncan y tienen síntomas o signos de apnea.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: guía de apnea. Si el texto completo nombra la anquiloglosia o la función lingual: `PENDIENTE DE VERIFICAR` (no se ha podido abrir: la web de la AAP y las copias en PDF piden una verificación contra bots).
+- **Variables de resultado:** No aplica (guía).
+- **Resultados NUMÉRICOS verificados:** Ocho recomendaciones (resumen): (1) preguntar a todos los niños si roncan; (2) polisomnografía si roncan y tienen síntomas o signos, o derivar si no está disponible; (3) adenoamigdalectomía como primer tratamiento si hay hipertrofia adenoamigdalar; (4) vigilar ingresados tras la cirugía a los pacientes de alto riesgo; (5) reevaluar tras la cirugía, con prueba objetiva en los de alto riesgo o con síntomas persistentes; (6) CPAP si no se operan o si la apnea persiste; (7) perder peso si hay sobrepeso u obesidad; (8) corticoides nasales como opción en apnea leve si la cirugía está contraindicada o en apnea leve tras la cirugía.
+- **Límites metodológicos / confusores (solo los relevantes):** Evidencia hasta 2010. Es anterior al ensayo CHAT (Marcus 2013), que comparó la adenoamigdalectomía con la espera vigilante.
+- **Otros resultados relevantes (si los hay):** En noviembre de 2026 no se ha encontrado una versión más nueva de la AAP; la siguen citando como vigente, por ejemplo el manual de referencia de la AAPD 2025-2026. Si se reafirmó formalmente: `PENDIENTE DE VERIFICAR`.
+- **Aportación del estudio:** Es la guía de la AAP sobre apnea infantil vigente y la que se suele citar.
+- **Licencia y derechos:** Copyright de la AAP. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de PubMed y Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver la guía](https://doi.org/10.1542/peds.2012-1671).
 
 ---
 
@@ -6665,6 +6723,30 @@ Licencia del artículo: CC BY-NC 4.0 (no permite copiar aquí). Figuras en PubMe
 
 ---
 
+<!-- archivo: fuentes/articulos/2016-kaditis-ers-apnea-2-18.md -->
+# Estudio: Obstructive sleep disordered breathing in 2- to 18-year-old children: diagnosis and management (European Respiratory Society statement)
+
+- **ID:** KADITIS2016
+- **Autores, año y revista:** Kaditis AG; Alonso Alvarez ML; Boudewyns A; Alexopoulos EI; Ersu R; Joosten K; Larramona H; Miano S; Narang I; Trang H; Tsaoussoglou M; Vandenbussche N; Villa MP; Van Waardenburg D; Weber S; Verhulst S. *Eur Respir J* 2016;47(1):69-94.
+- **DOI / PMID / URL:** DOI `10.1183/13993003.00385-2015`; PMID `26541535`.
+- **Tipo de estudio:** Declaración de un grupo de trabajo de la European Respiratory Society, con revisión de 362 artículos. No es una guía GRADE: clasifica los estudios por clases (I a IV).
+- **Población y tamaño muestral:** Niños de 2 a 18 años con trastorno respiratorio del sueño obstructivo.
+- **Definición diagnóstica y técnicas:** Gravedad medida de forma objetiva, preferiblemente con polisomnografía.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: declaración de apnea. Búsqueda en el texto completo el 05/11/2026: no aparecen «ankyloglossia», «tongue-tie» ni «frenulum».
+- **Variables de resultado:** No aplica (declaración).
+- **Resultados NUMÉRICOS verificados:** Siete pasos. Parecen beneficiarse del tratamiento: IAH mayor de 5 por hora; IAH de 1 a 5 con morbilidad o factores de persistencia; niños con enfermedades complejas (por ejemplo síndrome de Down o Prader-Willi). Tratamiento escalonado: pérdida de peso, corticoides nasales o montelukast, adenoamigdalectomía, expansión rápida del maxilar o aparatos de ortodoncia, CPAP o ventilación no invasiva, cirugía craneofacial y traqueostomía, con reevaluación tras cada paso para detectar enfermedad residual.
+- **Límites metodológicos / confusores (solo los relevantes):** Los propios autores dicen que escasean los estudios de cohortes sobre la historia natural y los ensayos aleatorizados doble ciego sobre el tratamiento.
+- **Otros resultados relevantes (si los hay):** Terapia miofuncional: dice que la reeducación con ejercicios nasales y orofaríngeos se ha usado tras la adenoamigdalectomía para tratar la apnea residual o prevenir su reaparición, pero que la evidencia publicada son solo dos estudios de baja calidad metodológica (clase III y IV): Villa 2015 y Guilleminault 2013.
+- **Aportación del estudio:** Es la declaración europea de referencia para niños de 2 a 18 años, firmada entre otros por la española Alonso Álvarez.
+- **Licencia y derechos:** Copyright de la ERS. Aquí solo resumen propio.
+- **Estado de lectura:** Texto completo (copia en PDF) leído por búsqueda de términos y en los apartados de tratamiento el 05/11/2026. No se han revisado las tablas de evidencia.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1183/13993003.00385-2015).
+
+---
+
 <!-- archivo: fuentes/articulos/2016-mahboub-frenillo-borde-incisal.md -->
 # Estudio: Determining the distance from the lingual frenum anterior attachment to the lower incisors' incisal edges
 
@@ -6909,6 +6991,30 @@ Figuras no revisadas. [Ver el documento](https://portal.guiasalud.es/wp-content/
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.3109/14015439.2016.1156737).
+
+---
+
+<!-- archivo: fuentes/articulos/2017-kaditis-ers-apnea-lactantes.md -->
+# Estudio: ERS statement on obstructive sleep disordered breathing in 1- to 23-month-old children
+
+- **ID:** KADITIS2017
+- **Autores, año y revista:** Kaditis AG; Alonso Alvarez ML; Boudewyns A; Abel F; Alexopoulos EI; Ersu R; Joosten K; Larramona H; Miano S; Narang I; Tan HL; Trang H; Tsaoussoglou M; Vandenbussche N; Villa MP; Van Waardenburg D; Weber S; Verhulst S. *Eur Respir J* 2017;50(6):1700985.
+- **DOI / PMID / URL:** DOI `10.1183/13993003.00985-2017`; PMID `29217599`.
+- **Tipo de estudio:** Declaración de un grupo de trabajo de la European Respiratory Society, con búsqueda sistemática y 159 artículos resumidos.
+- **Población y tamaño muestral:** Lactantes de 1 a 23 meses.
+- **Definición diagnóstica y técnicas:** Gravedad medida de forma objetiva, preferiblemente con polisomnografía; si no, poligrafía u oximetría nocturna.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA en el resumen. Si el texto completo nombra la anquiloglosia: `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** No aplica (declaración).
+- **Resultados NUMÉRICOS verificados:** Se benefician del tratamiento: obstrucción evidente de la vía aérea despiertos; estudio de sueño anormal con síntomas (por ejemplo ronquido) o con condiciones predisponentes (por ejemplo hipoplasia mandibular); y niños con enfermedades complejas. Los tratamientos más usados son la adenoamigdalectomía y la CPAP, junto con intervenciones dirigidas (por ejemplo supraglotoplastia en la laringomalacia o cánula nasofaríngea en la hipoplasia mandibular).
+- **Límites metodológicos / confusores (solo los relevantes):** Solo se ha leído el resumen.
+- **Otros resultados relevantes (si los hay):** Menciona las dificultades de alimentación como condición que puede coexistir. Una puesta al día de 2024 (Polytarchou, *Eur Respir Rev* 2024;33(171):230121) revisa lo publicado desde 2016 para este grupo de edad.
+- **Aportación del estudio:** Es la declaración europea de referencia para menores de 2 años.
+- **Licencia y derechos:** Copyright de la ERS. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1183/13993003.00985-2017).
 
 ---
 
@@ -7267,6 +7373,30 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2019-behrents-aao-apnea-ortodoncia.md -->
+# Estudio: Obstructive sleep apnea and orthodontics: An American Association of Orthodontists White Paper
+
+- **ID:** BEHRENTS2019
+- **Autores, año y revista:** Behrents RG; Shelgikar AV; Conley RS; Flores-Mir C; Hans M; Levine M; McNamara JA; Palomo JM; Pliska B; Stockstill JW; Wise J; Murphy S; Nagel NJ; Hittner J. *Am J Orthod Dentofacial Orthop* 2019;156(1):13-28.e1.
+- **DOI / PMID / URL:** DOI `10.1016/j.ajodo.2019.04.009`; PMID `31256826`; versión de la AAO (modificada el 15/03/2019): https://www2.aaoinfo.org/wp-content/uploads/2019/03/sleep-apnea-white-paper-amended-March-2019.pdf
+- **Tipo de estudio:** Documento de posición («white paper») de la American Association of Orthodontists, escrito por un grupo de expertos en medicina del sueño y medicina dental del sueño. PubMed lo clasifica como declaración de consenso. Actualizado en 2026 (Palomo 2026).
+- **Población y tamaño muestral:** Niños y adultos.
+- **Definición diagnóstica y técnicas:** Diagnóstico de apnea por el médico; el ortodoncista criba y deriva.
+- **Criterio diagnóstico de anquiloglosia:** NO PROPONE NINGUNO. En el apartado «Frenectomy» dice que sigue habiendo incertidumbre sobre qué grado de inserción del frenillo altera la forma o la función salvo en las formas más graves, y cita la escala funcional de movilidad lingual de 4 grados de Yoon 2017.
+- **Variables de resultado:** No aplica (documento de posición).
+- **Resultados NUMÉRICOS verificados:** Sin cifras propias. Frenectomía: la considera un tratamiento adecuado para problemas de habla y masticación, pero no apoyada como tratamiento para prevenir la aparición de apnea. Cita que en Yoon 2017 las lenguas más restringidas tenían menor anchura intercanina del maxilar y paladar blando más largo, y dice que la relación entre movilidad lingual y función de la vía aérea es compleja y que hay que estudiar la función de la vía aérea durante el sueño en relación con la movilidad lingual. Extracciones: «Conventional orthodontic treatment never has been proven to be an etiologic factor in the development of obstructive sleep apnea».
+- **Límites metodológicos / confusores (solo los relevantes):** Revisión narrativa sin método sistemático descrito.
+- **Otros resultados relevantes (si los hay):** Sobre extracciones cita un estudio de más de 2.700 adultos sin cuatro premolares, sin más apnea que un grupo emparejado. Dice que una vía aérea estrecha no produce apnea por sí sola y que lo determinante es que los músculos no compensen, y pide estudiar la función de la vía aérea en lugar de solo sus dimensiones.
+- **Aportación del estudio:** Fue el documento de referencia de la ortodoncia estadounidense sobre apnea hasta 2026.
+- **Licencia y derechos:** Copyright de la AAO / Elsevier. Aquí solo resumen propio.
+- **Estado de lectura:** Texto completo de la versión de la AAO (PDF modificado en marzo de 2019) leído por búsqueda de términos y en los apartados de frenectomía y extracciones el 05/11/2026. No se ha comparado con la versión publicada en la revista.
+
+## Figuras
+
+Figuras no revisadas. [Ver el documento](https://doi.org/10.1016/j.ajodo.2019.04.009).
+
+---
+
 <!-- archivo: fuentes/articulos/2019-camacho-mma-largo-plazo.md -->
 # Estudio: Long-term Results for Maxillomandibular Advancement to Treat Obstructive Sleep Apnea: A Meta-analysis
 
@@ -7361,10 +7491,6 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 - **Licencia y derechos:** Texto abierto publicado bajo **CC BY 4.0**, según la versión de autor/editorial. Ficha redactada como síntesis; no se incorporan fotos, tablas ni PDF.
 - **Estado de lectura:** Texto íntegro HTML de Wiley y resumen PubMed consultados el **03/11/2026**, incluidos métodos, resultados de los cuatro especímenes y discusión del significado de las clasificaciones anatómicas. Figuras disponibles en el editor, no reproducidas.
 
-## Lectura crítica para el proyecto (INTERPRETACIÓN editorial)
-
-Este artículo responde a una objeción habitual: «el frenillo es simplemente una banda corta» no representa toda la estructura descrita; pero la anatomía fascial observada **no demuestra por sí misma** patología funcional ni fuerza posterior sobre la mandíbula. La variación anatómica es una razón para no convertir Kotlow o Coryllos en pruebas diagnósticas funcionales por sí solas; del mismo modo, no legitima diagnosticar una restricción solo por hipótesis biomecánica. En niños vivos tendríamos que medir función, compensaciones relevantes y desenlaces específicos de forma independiente.
-
 ## Figuras
 
 Disponibles en el [original Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/ca.23410); no se almacenan copias locales ni imágenes de muestras de cadáver.
@@ -7414,6 +7540,30 @@ La figura 11 es la más útil para explicar qué es el frenillo.
 **Inferencia que NO autoriza:** la continuidad anatómica fascia–mandíbula no demuestra una fuerza posterior constante capaz de retraer la mandíbula, ni que la frenotomía cambie el crecimiento óseo. La propuesta biomecánica sobre estabilidad lingual es una **interpretación de los autores**, no una medición de fuerzas mandibulares en vivo.
 
 **Estado de lectura:** texto completo abierto verificado en su versión PMC/Wiley, con métodos y conclusiones anatómicas, 03/11/2026. Licencia **CC BY-NC-ND 4.0**: no copiar/adaptar figuras para materiales comerciales.
+
+---
+
+<!-- archivo: fuentes/articulos/2019-mitchell-aaohns-amigdalectomia.md -->
+# Estudio: Clinical Practice Guideline: Tonsillectomy in Children (Update)
+
+- **ID:** MITCHELL2019
+- **Autores, año y revista:** Mitchell RB; Archer SM; Ishman SL; Rosenfeld RM; Coles S; Finestone SA; Friedman NR; Giordano T; Hildrew DM; Kim TW; Lloyd RM; Parikh SR; Shulman ST; Walner DL; Walsh SA; Nnacheta LC. *Otolaryngol Head Neck Surg* 2019;160(1_suppl):S1-S42. Resumen ejecutivo: 2019;160(2):187-205 (PMID 30921525).
+- **DOI / PMID / URL:** DOI `10.1177/0194599818801757`; PMID `30798778`; https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/tonsillectomy-in-children-update/
+- **Tipo de estudio:** Guía de práctica clínica de la American Academy of Otolaryngology-Head and Neck Surgery Foundation. Actualiza la de 2011. Panel multidisciplinar (enfermería, anestesia, consumidores, medicina de familia, infecciosas, otorrinolaringología, pediatría y medicina del sueño).
+- **Población y tamaño muestral:** Niños de 1 a 18 años candidatos a amigdalectomía.
+- **Definición diagnóstica y técnicas:** Amigdalectomía definida como extirpación completa de la amígdala con su cápsula, con o sin adenoidectomía.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: guía de amigdalectomía. Si el texto completo nombra la anquiloglosia: `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** No aplica (guía).
+- **Resultados NUMÉRICOS verificados:** Unos 289.000 procedimientos ambulatorios al año en menores de 15 años en EE. UU. Para trastornos respiratorios del sueño: recomendar amigdalectomía a niños con apnea documentada por polisomnografía (en 2011 decía «aconsejar»). Infecciones de garganta recurrentes: espera vigilante si hay menos de 7 episodios en el último año, menos de 5 al año en 2 años o menos de 3 al año en 3 años.
+- **Límites metodológicos / confusores (solo los relevantes):** No trata alternativas a la cirugía para la apnea más allá de la propia amigdalectomía.
+- **Otros resultados relevantes (si los hay):** Dexametasona intravenosa intraoperatoria; no antibióticos perioperatorios; no codeína en menores de 12 años; ibuprofeno, paracetamol o ambos para el dolor. En noviembre de 2026 la AAO-HNS sigue listando esta versión como la vigente.
+- **Aportación del estudio:** Es la guía estadounidense vigente de amigdalectomía infantil, en la que se apoya la indicación quirúrgica de la apnea.
+- **Licencia y derechos:** Copyright de la AAO-HNSF / SAGE. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de PubMed y Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver la guía](https://doi.org/10.1177/0194599818801757).
 
 ---
 
@@ -7494,10 +7644,6 @@ Figuras no revisadas. [Ver el documento](https://www.rch.org.au/uploadedFiles/Ma
 - **Conclusión que sí permite / que no permite:** Sí: los estudios reunidos describieron mejorías *dentro de los pacientes* en algunas métricas de sueño después de terapias heterogéneas, que merecen investigación. No: demostrar eficacia frente a control de terapia miofuncional aislada, beneficio de frenotomía, crecimiento esquelético ni persistencia a largo plazo de cambios.
 - **Licencia y derechos:** Manuscrito de autor disponible públicamente en repositorio; **licencia de reutilización no verificada**. No incorporar PDF ni figuras al repositorio de evidencia.
 - **Estado de lectura:** Texto extraído de manuscrito de autor abierto consultado el **03/11/2026**, incluyendo métodos, resultados, discusión y limitaciones. **La herramienta de captura visual del PDF no pudo renderizar sus tablas/figuras**, por lo que no se ha verificado la representación gráfica ni los datos originales de cada subestudio. No declarar auditoría completa del riesgo de sesgo.
-
-## Interpretación crítica — comparación con 2026
-
-La aparente discrepancia entre el metaanálisis favorable de 2020 y Cnockaert 2026 **se entiende en parte porque sus estimandos no son iguales**: Bandyopadhyay resume cambios *dentro de grupos antes/después* e incluye dispositivos pasivos y estudios sin controles; Cnockaert estima diferencias **frente a grupo de comparación de ECA** con terapia activa aislada. No podemos resolver toda la discrepancia sin identificar las cohortes compartidas y reconstruir los análisis, pero **no es correcto describirlos como dos ensayos contradictorios**.
 
 ## Figuras
 
@@ -7778,6 +7924,30 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2021-aapd-politica-apnea.md -->
+# Estudio: Policy on Obstructive Sleep Apnea (OSA) (American Academy of Pediatric Dentistry)
+
+- **ID:** AAPD2021OSA
+- **Autores, año y revista:** American Academy of Pediatric Dentistry (AAPD), Council on Clinical Affairs. Adoptada en 2016, última revisión 2021. The Reference Manual of Pediatric Dentistry 2025:145-8.
+- **DOI / PMID / URL:** PDF: https://www.aapd.org/globalassets/media/policies_guidelines/p_sleepapnea.pdf
+- **Tipo de estudio:** Política (posicionamiento) de una sociedad de odontopediatría. Búsqueda en PubMed de los últimos 10 años (283 artículos); donde los datos no bastaban, opinión de expertos o consenso.
+- **Población y tamaño muestral:** Pacientes pediátricos.
+- **Definición diagnóstica y técnicas:** Diagnóstico por el médico; la AAPD pide derivar.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: política de apnea. Búsqueda en el texto completo el 05/11/2026: no aparecen «ankyloglossia», «tongue-tie», «frenulum» ni «myofunctional».
+- **Variables de resultado:** No aplica (política).
+- **Resultados NUMÉRICOS verificados:** Prevalencia citada del 1 al 5 % de los niños, más frecuente de 2 a 7 años. Recomendaciones: cribar trastornos respiratorios del sueño y ronquido; valorar la hipertrofia amigdalar; **valorar la posición de la lengua, porque puede contribuir a la obstrucción**; reconocer la obesidad y las anomalías craneofaciales; derivar al médico para diagnóstico y tratamiento; considerar aparatos intraorales solo tras una valoración ortodóncica y craniofacial completa, dentro de un enfoque multidisciplinar.
+- **Límites metodológicos / confusores (solo los relevantes):** Dice que la evidencia sobre la expansión rápida del maxilar son estudios pequeños, sin control y con seguimiento corto, y que los estudios a favor de intervenciones dentales no quirúrgicas tienen muestras pequeñas y sin grupo control.
+- **Otros resultados relevantes (si los hay):** Para valorar la lengua cita la clasificación de Mallampati y la posición lingual de Friedman, que miden la posición de la lengua en reposo, no su movilidad. Según la web de la AAPD, el manual 2026-27 trae una revisión nueva de esta política: `PENDIENTE DE VERIFICAR`.
+- **Aportación del estudio:** Posicionamiento de la odontopediatría estadounidense sobre apnea; complementa su política sobre el frenillo (AAPD 2022).
+- **Licencia y derechos:** Documento de la AAPD. Aquí solo resumen propio.
+- **Estado de lectura:** Texto completo (PDF, versión del manual 2025) leído el 05/11/2026.
+
+## Figuras
+
+No tiene figuras.
+
+---
+
 <!-- archivo: fuentes/articulos/2021-deregibus-funcion-lingual-ortodoncia.md -->
 # Estudio: Analysis of Tongue Function from the Orthodontist's Point of View: Not Only a Matter of Deglutition
 
@@ -7800,10 +7970,6 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 - **Conclusión que sí permite / que no permite:** Permite describir asociaciones contemporáneas entre fenotipo clase III y frenillo visualmente corto, reposo lingual y ejercicios de succión. **No** prueba que un frenillo anatómicamente corto cause clase III, que la movilidad funcional esté restringida en todos los casos ni que frenectomía modifique crecimiento.
 - **Licencia y derechos:** Acceso abierto MDPI, **CC BY 4.0**. Resumen original; no se copian sus tablas/figuras ni PDF.
 - **Estado de lectura:** **Texto completo abierto consultado el 03/11/2026**, incluida tabla 2 y métodos, [editor](https://www.mdpi.com/2076-3417/11/6/2520) y [PDF abierto](https://doi.org/10.3390/app11062520). La anotación anterior «solo metadatos» ha quedado subsanada.
-
-## Lectura crítica para objeciones — INTERPRETACIÓN editorial
-
-Este estudio es especialmente útil porque **separa fenotipos de función lingual**: las diferencias en postura de reposo y succión no equivalen a un diagnóstico funcional validado de anquiloglosia. Se debe mencionar el resultado negativo de deglución y no confundir «anatomía» con «función». También hay que recordar que ni la selección por clase III ni la comparación transversal establecen qué apareció primero.
 
 ## Figuras
 
@@ -8836,17 +9002,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 - **Criterio diagnóstico de anquiloglosia:** FUNCIONAL (definición propuesta en guía): **la restricción de función es necesaria**, no únicamente un grado de apariencia. **No implica validación independiente** de la definición o sus implicaciones; la guía presenta recomendaciones profesionales, no un estándar diagnóstico validado con precisión/sensibilidad.
 - **Variables de resultado:** Estandarización profesional, roles/licencias, diagnóstico y evaluación multidisciplinar, alternativas no quirúrgicas, consentimiento, cirugía, seguimiento, heridas y ejercicios.
 - **Resultados NUMÉRICOS verificados:** **Sin resultados experimentales cuantitativos**; recomienda revisiones posquirúrgicas guiadas por el estado funcional y menciona 2–4 semanas para revisión de tejidos en determinadas situaciones. Esa cifra es una **recomendación de documento**, no duración óptima demostrada en ensayo. Admite que **no existen protocolos de seguimiento quirúrgico estandarizados publicados**.
-- **Límites metodológicos / confusores:** Consorcio de profesionales implicados en diagnóstico/tratamiento, posible sesgo de representación y conflictos comerciales/profesionales. Reconoce falta de investigación de alta calidad y posibles sesgos de selección del grupo. No hay estudio primario para demostrar que la terapia posterior sea necesaria universalmente, que liberar frenillo altere el crecimiento óseo o que un profesional deba realizar todos los componentes de tratamiento. Recomendaciones condicionadas por normas y licencias locales.
+- **Límites metodológicos / confusores:** Consorcio de profesionales implicados en diagnóstico/tratamiento, posible sesgo de representación y conflictos comerciales/profesionales. Reconoce falta de investigación de alta calidad y posibles sesgos de selección del grupo. No hay estudio primario para demostrar que la terapia posterior sea necesaria universalmente, que liberar frenillo altere el crecimiento óseo o que un profesional deba realizar todos los componentes de tratamiento. Recomendaciones condicionadas por normas y licencias locales. El propio ICAP pide colaboración entre profesionales y respeto a las competencias y a la legislación de cada país.
 - **Hallazgos contrarios o no significativos:** La propia guía reconoce **evidencia limitada** para evaluar/liberar frenillos bucales y **consenso y evidencia insuficientes para ejercicios pre y posoperatorios**. Aboga por considerar opciones no quirúrgicas antes de operar; no afirma eficacia garantizada de la cirugía por sí sola.
 - **Conclusión que sí permite / que no permite:** Sí: mostrar que **ICAP adopta una definición funcional** y recomienda evaluación colaborativa y decisiones individualizadas; contrasta con clasificaciones puramente morfológicas. No: utilizar su posición como prueba de que todas las restricciones visibles causan disfunción, que un mecanismo lingual provoca apnea/maloclusión, o que la práctica aceptada por este consorcio sea una guía clínica universal obligatoria.
 - **Licencia y derechos:** Acceso abierto **CC BY** según página de MDPI; síntesis original sin PDF ni tablas copiadas.
 - **Estado de lectura:** Documento completo HTML abierto revisado el **03/11/2026**, con apartados de definición, diagnóstico, tratamientos, seguimiento, ejercicios y límites; [página oficial](https://www.mdpi.com/2694-2526/50/2/11).
-
-## Lectura crítica y discrepancias frente a otras guías — INTERPRETACIÓN editorial
-
-**AAP 2024** define anquiloglosia sintomática del lactante en relación con lactancia y limita indicaciones neonatales; **ICAP 2024** utiliza una definición funcional general para todas las edades. No son respuestas contradictorias a una misma pregunta **en la misma población**: las indicaciones para la lactancia no equivalen a los efectos del frenillo sobre habla de adultos, desarrollo craneofacial o sueño. ICAP es un **posicionamiento de parte profesional** y no prueba eficacia del tratamiento; AAP tampoco evalúa directamente una hipótesis biomecánica longitudinal de infancia y vida adulta. Informe AAP.
-
-**Punto esencial para posibles acusaciones de intrusismo:** el propio ICAP exige colaboración de los profesionales y respeto a las competencias y legislación de cada país. Su afirmación de que distintos profesionales pueden participar en la valoración **no sustituye la normativa profesional española**; no debe citarse como autorización legal para un acto clínico concreto.
 
 ## Figuras
 
@@ -8927,7 +9087,7 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 - **Criterio diagnóstico de anquiloglosia:** MIXTO. La revisión reconoce que no hay un criterio diagnóstico estándar. Los estudios incluidos usan longitud (regla de frenillo, lengua libre de Kotlow), reducción de apertura (Marchesan) y TRMR (texto completo, tabla de métodos).
 - **Variables de resultado:** Anchuras intercanina e intermolar, clase de Angle, apiñamiento, hioides.
 - **Resultados NUMÉRICOS verificados:** 7 estudios, 1.439 participantes (1.349 con anquiloglosia y 90 controles); los propios autores califican la certeza global **baja**. En Srinivasan, anchuras maxilares intercanina 33,008 vs 35,402 mm e intermolar 42,807 vs 48,374 mm (grupos con/sin anquiloglosia). Yoon describió asociaciones en ratios de arcada maxilar y pendiente palatina, con desenlaces mandibulares no concluyentes; **no se hizo metaanálisis común** por heterogeneidad y datos escasos.
-- **Límites metodológicos / confusores:** Estudios seleccionados por atención ortodóncica en gran parte, controles escasos, definiciones variables, diseños observacionales con asociación/correlación, confusión y edad; síntesis cuantitativa conjunta imposible. **Especial atención: la revisión plantea recomendaciones de edad para frenotomía pese a excluir pacientes ya operados. No presenta datos de beneficio por edad ni efecto quirúrgico experimental o longitudinal para sustentarlas.**
+- **Límites metodológicos / confusores:** Estudios seleccionados por atención ortodóncica en gran parte, controles escasos, definiciones variables, diseños observacionales con asociación/correlación, confusión y edad; síntesis cuantitativa conjunta imposible. **Especial atención: la revisión plantea recomendaciones de edad para frenotomía pese a excluir pacientes ya operados. No presenta datos de beneficio por edad ni efecto quirúrgico experimental o longitudinal para sustentarlas.** Varios estudios primarios aparecen también en Póvoa-Santos 2024 (Jang, Meenakshi, Srinivasan, Yoon, Sepet): no son muestras independientes.
 - **Hallazgos contrarios o no significativos:** En la tabla 8, Yoon informa **sin asociación** para medidas mandibulares como SN–Mn y H–Mn con TRMR o Kotlow (p>0,05); la tabla 7 presenta varios desenlaces sin diferencias significativas. La relación con el hioides se clasifica de certeza **muy baja**. No se ha demostrado un efecto de frenotomía en los estudios incluidos.
 - **Conclusión que sí permite / que no permite:** Sí: los estudios disponibles describen asociaciones inciertas entre medidas de anquiloglosia y algunas dimensiones dentoalveolares o tipos de oclusión. No: afirmar causalidad, que la frenotomía modifica el crecimiento ni recomendar edades de cirugía basándose en esos datos. **La conclusión editorial de los autores sobre intervenir a los 4 años o aplazar según clase II NO está probada por los estudios que seleccionaron.**
 - **Licencia y derechos:** Acceso abierto **CC BY 4.0**. Resumen editorial propio y enlaces, sin copiar tablas/figuras protegidas o ajenas.
@@ -8941,12 +9101,6 @@ Licencia del artículo: CC BY 4.0. Figuras en PubMed Central (PMC11722303).
 - **Figura 1.** Diagrama de selección de estudios. [Ver en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11722303/figure/jcm-14-00081-f001/). Copia local: figuras/KOTARSKA2024-fig1.jpg.
 
 Crédito: figuras de Kotarska M; Wądołowska A; Sarul M; Kawala B; Lis J (PMC11722303), CC BY 4.0. Las copias locales no se han modificado.
-
-## Auditoría de la pregunta realmente respondida (INTERPRETACIÓN editorial, 03/11/2026)
-
-**La discrepancia decisiva está entre el título y el diseño**: el trabajo se titula *Does Ankyloglossia Surgery Promote Normal Facial Development?*, pero la exposición de los estudios incluidos es la **presencia/gravedad de frenillo no operado**, y se excluyeron cirugías previas. Los resultados observacionales pueden ser útiles para estudiar *asociación* con morfología; **no responden al efecto de operar ni al momento óptimo de la operación**. Las recomendaciones quirúrgicas por edades que aparecen en las conclusiones constituyen **extrapolaciones de autores**, no resultados de comparación de intervenciones. Tampoco es correcto desacreditar automáticamente todos los estudios por usar longitud: sí informan sobre anatomía, pero no resuelven una pregunta funcional distinta.
-
-**Solapamiento**: varios estudios primarios aparecen también en Póvoa-Santos/JADA 2024 (Jang, Meenakshi, Srinivasan, Yoon, Sepet). No sumar ambas revisiones como si fueran muestras independientes. Ficha JADA.
 
 ---
 
@@ -8984,10 +9138,6 @@ Licencia del artículo: CC BY 4.0. Figuras en PubMed Central (PMC11432234).
 - **Figura 9.** Valoración global del proyecto (densidad antes y después). [Ver en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11432234/figure/jcm-13-05354-f009/). Copia local: figuras/LICHNOWSKA2024-fig9.jpg.
 
 Crédito: figuras de Lichnowska A; Gnatek A; Tyszkiewicz S; Kozakiewicz M; Zaghi S (PMC11432234), CC BY 4.0. Las copias locales no se han modificado.
-
-## Interpretación de riesgo de sesgo (lectura editorial, 03/11/2026)
-
-En los métodos se describe asignación por día de presentación en clínica, no mediante un generador aleatorio ocultado; el grupo con cirugía era en promedio **8 años más joven** que el control. Una diferencia de edad tan grande importa para la función muscular y los cambios en niños/adultos. Por tanto, usar el término `RCT` sin advertir el mecanismo de asignación **sobrestima** su fuerza inferencial. No rechazar automáticamente el resultado favorable observado: **describirlo**, pero no interpretarlo como demostración de cambios óseos causados por frenuloplastia. Las técnicas de valoración funcional y la medición de ceguera deben comprobarse antes de una valoración formal RoB 2/ROBINS-I.
 
 ## Actualización del apartado de resultados, 03/11/2026
 
@@ -9040,7 +9190,6 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 - **Límites metodológicos / confusores:** 25 niños, seguimiento de 1 mes, sin control. Si el criterio no fue funcional, puede haber incluido frenillos sin restricción real.
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en esta serie la frenotomía no mejoró el habla al mes y que la mayoría de errores eran de la edad. No: Generalizar a niños con restricción funcional definida por TRMR o a seguimientos largos.
-- **Interpretación editorial:** Para comparar grupos es importante comprobar si se seleccionó por aspecto del frenillo o por limitación funcional; el resumen de este estudio no permite cerrar esa cuestión.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
 - **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
@@ -9192,12 +9341,6 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 - **Licencia y derechos:** Original abierto **CC BY-NC-ND 4.0**. Síntesis original sin imágenes, tablas textuales reproducidas ni PDF en repositorio.
 - **Estado de lectura:** **Texto íntegro HTML (incluidos métodos, tablas 1–4, discusión y limitaciones) consultado el 03/11/2026** mediante copia pública del artículo indexada en PMC/portal editorial. No se han verificado las figuras pixel a pixel ni rehecho cálculos de los DICOM.
 
-## Interpretación crítica: confundir precisión de lectura con repetibilidad entre exploraciones
-
-Un observador puede delimitar una vía aérea de forma casi idéntica si se le muestra **la misma tomografía** dos veces (ICC alto). Eso **no garantiza** que una exploración repetida semanas después dé el mismo volumen cuando postura, respiración, segmentación o adquisición cambian. Ante una objeción del tipo «el CBCT demuestra que la expansión aumentó/redujo la vía aérea», la pregunta correcta es: **¿cuánto del cambio supera el error de repetición de exploraciones comparables y se acompaña de una mejoría de función?**. Sun aporta un estimador de variación en un protocolo concreto, **no un umbral universal** aplicable a todos los equipos.
-
-**Relación con Coppelson 2023:** Coppelson **manipuló** flexión/extensión y midió **MCA**, Sun comparó **dos imágenes de distintos momentos** y cuantificó error test–retest (destacando el volumen OAV). Son estudios complementarios de la **validez de la medición**, no pruebas de que el paciente adopte una postura compensatoria a causa de un frenillo.
-
 ## Figuras
 
 No reproducidas. [Artículo original](https://doi.org/10.1016/j.jds.2024.07.033).
@@ -9221,10 +9364,6 @@ No reproducidas. [Artículo original](https://doi.org/10.1016/j.jds.2024.07.033)
 - **Conclusión que sí permite / que no permite:** Sí: citar la posición AAP de priorizar evaluación funcional y apoyo de lactancia antes de contemplar cirugía; intervenir selectivamente cuando persisten síntomas. No: presentar estas recomendaciones como **prueba experimental de ausencia universal** de influencia del frenillo sobre crecimiento mandibular/posición lingual posterior en niños mayores o adultos, porque no lo estudia. Tampoco se puede afirmar que las dudas de la AAP prueben utilidad de cirugía preventiva.
 - **Licencia y derechos:** Informe en lectura gratuita, pero **copyright de AAP**; solo síntesis propia y enlace (no subir su PDF ni reproducir figuras).
 - **Estado de lectura:** Texto completo HTML gratuito (definiciones, evaluación, tratamiento y recomendaciones 1–9) leído y contrastado el **03/11/2026** a través de la [página oficial AAP](https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2024-067605/198022/Identification-and-Management-of-Ankyloglossia-and). No se ha reanalizado individualmente cada ensayo citado.
-
-## Lectura crítica para objeciones (INTERPRETACIÓN editorial)
-
-Una objeción frecuente es «la AAP dice que no hay evidencia de relación con apnea o habla». **La AAP desaconseja utilizar la frenotomía neonatal de forma preventiva** para esos desenlaces tardíos, con razón a la luz de la evidencia que evalúa. Eso **no constituye un ensayo negativo de restricción funcional y crecimiento** en niños de otras edades. A la inversa, la falta de pruebas de prevención **sí** impide recomendar hoy una cirugía de lactante con ese objetivo hipotético. La AAP está hablando de indicaciones en recién nacidos, no proclamando que todos los mecanismos biomecánicos sean imposibles.
 
 ## Figuras
 
@@ -9319,6 +9458,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 - **Figura 1.** Recomendaciones de tratamiento según quién las dio. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2025.112306), figura 1.
 - **Figura 2.** Tratamientos recomendados con varios frenillos. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2025.112306), figura 2.
 - **Figura 3.** Coste del tratamiento quirúrgico y no quirúrgico. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2025.112306), figura 3.
+
+---
+
+<!-- archivo: fuentes/articulos/2025-capd-canada-posicionamiento.md -->
+# Estudio: Position Statement on Ankyloglossia and Breastfeeding (Canadian Academy of Pediatric Dentistry / Académie Canadienne de Dentisterie Pédiatrique)
+
+- **ID:** CAPD2025
+- **Autores, año y revista:** Canadian Academy of Pediatric Dentistry (CAPD/ACDP). Posicionamiento publicado en su web el 1 de marzo de 2025, en inglés y en francés.
+- **DOI / PMID / URL:** Sin DOI ni PMID. https://www.capd-acdp.org/Education/Ankyloglossia-and-Breastfeeding
+- **Tipo de estudio:** Posicionamiento de una sociedad de odontopediatría. No describe método de búsqueda ni de consenso.
+- **Población y tamaño muestral:** Lactantes amamantados y sus madres.
+- **Definición diagnóstica y técnicas:** Define la anquiloglosia como «a restrictive lingual frenulum» y la describe como una variación de una estructura oral normal. Dice que el frenillo restrictivo puede dificultar la lactancia al limitar la extensión y la elevación de la lengua.
+- **Criterio diagnóstico de anquiloglosia:** NO PROPONE NINGUNO. No nombra ninguna herramienta ni escala. En su recomendación 4 pide investigación con desenlaces a largo plazo para desarrollar un enfoque estandarizado de diagnóstico y manejo en lactantes.
+- **Variables de resultado:** No aplica (posicionamiento).
+- **Resultados NUMÉRICOS verificados:** No hay cifras. Cuatro recomendaciones: (1) valoración completa de la lactancia antes de cualquier tratamiento, con un enfoque multidisciplinar, porque la anquiloglosia puede ser solo uno de varios factores; (2) dentistas generales y especialistas pueden diagnosticar y tratar quirúrgicamente la anquiloglosia, con apoyo de consultoras de lactancia, enfermería, medicina de familia o pediatría; (3) consentimiento informado documentado que incluya las alternativas basadas en la evidencia, también no tratar; (4) más investigación.
+- **Límites metodológicos / confusores (solo los relevantes):** Solo trata la lactancia. Se apoya en AAPD 2024, AAP 2024 (Thomas), AAO-HNS 2020 (Messner), ABM 2021, Cochrane 2017 y CPS 2015, sin revisión propia.
+- **Otros resultados relevantes (si los hay):** Dice que la frenotomía puede mejorar la lactancia y reducir el dolor del pezón y que es en general segura y bien tolerada. Según una noticia de la Universidad de Toronto, el posicionamiento se publicó después de que un bebé de cuatro semanas muriera en Montreal en 2023 tras una intervención de frenillo hecha por un dentista (https://www.dentistry.utoronto.ca/news/helping-families-unknot-tongue-tie-surgery). Ese dato no aparece en el posicionamiento.
+- **Aportación del estudio:** Confirma el posicionamiento canadiense de odontopediatría de 2025, que antes figuraba como pendiente de verificar en la tabla de sociedades.
+- **Licencia y derechos:** Texto de la CAPD/ACDP. Aquí solo resumen propio.
+- **Estado de lectura:** Texto completo de la página web (versión inglesa) leído el 05/11/2026.
+
+## Figuras
+
+No tiene figuras.
 
 ---
 
@@ -9722,6 +9885,30 @@ Figuras no revisadas.
 
 ---
 
+<!-- archivo: fuentes/articulos/2025-nzcom-matronas-consenso.md -->
+# Estudio: Consensus statement: Tongue-tie (Ankyloglossia) (New Zealand College of Midwives)
+
+- **ID:** NZCOM2025
+- **Autores, año y revista:** New Zealand College of Midwives / Te Kāreti o ngā Kaiwhakawhānau ki Aotearoa. Subido el 16/10/2025; aprobado y pendiente de ratificar en la asamblea del Colegio de 2026. Sustituye al de 2017. Revisión prevista en 2030.
+- **DOI / PMID / URL:** Sin DOI ni PMID. https://www.midwife.org.nz/wp-content/uploads/2025/10/Consensus-statement-Tongue-tie-Ankyloglossia-with-watermark.pdf
+- **Tipo de estudio:** Declaración de consenso de un colegio profesional de matronas. No describe método de búsqueda ni de consenso.
+- **Población y tamaño muestral:** Recién nacidos amamantados.
+- **Definición diagnóstica y técnicas:** Define la anquiloglosia como una condición congénita con un frenillo lingual corto o tenso que puede restringir los movimientos de la lengua. Incidencia citada: 4 a 11 % de los recién nacidos (O'Shea 2017).
+- **Criterio diagnóstico de anquiloglosia:** MIXTO, con herramientas que combinan aspecto y función. Dice que la matrona puede identificar una anquiloglosia que causa problemas de alimentación durante una observación completa de la toma, con una herramienta como BTAT, TABBY o Hazelbaker. Citando a Mills 2019, dice que no se puede diagnosticar solo por el aspecto del frenillo.
+- **Variables de resultado:** No aplica (declaración).
+- **Resultados NUMÉRICOS verificados:** Sin cifras propias. Recomendaciones: el apoyo experto a la lactancia va primero y tiene prioridad sobre la cirugía; la frenotomía no siempre es necesaria aunque haya anquiloglosia; las matronas formadas pueden hacer una frenotomía lingual simple; los casos complejos se derivan a un especialista; vitamina K antes de una frenotomía electiva.
+- **Límites metodológicos / confusores (solo los relevantes):** Solo trata la lactancia neonatal.
+- **Otros resultados relevantes (si los hay):** Dice que «posterior tie», frenillo labial superior, frenillo bucal, frenillo labial inferior y los estiramientos tras el tratamiento tienen poca o ninguna evidencia que apoye su diagnóstico o tratamiento (cita a Mills 2019, la Asociación Dental de Nueva Zelanda 2018 y Shah 2020). Citando a Mills 2019, dice que el término «posterior tongue-tie» es anatómicamente incorrecto.
+- **Aportación del estudio:** Es el documento de sociedad más reciente sobre anquiloglosia neonatal localizado (octubre de 2025).
+- **Licencia y derechos:** Documento del New Zealand College of Midwives. Aquí solo resumen propio.
+- **Estado de lectura:** Texto completo (PDF de 6 páginas) leído el 05/11/2026.
+
+## Figuras
+
+No tiene figuras.
+
+---
+
 <!-- archivo: fuentes/articulos/2025-papageorgiou-extracciones-via-aerea.md -->
 # Estudio: Extraction of premolars in orthodontic treatment does not negatively affect upper airway volume and minimum cross-sectional area: a systematic review with meta-analysis
 
@@ -9826,6 +10013,30 @@ Figuras no revisadas.
 
 ---
 
+<!-- archivo: fuentes/articulos/2025-ye-miofuncional-apnea-residual.md -->
+# Estudio: The Therapeutic Role of Orofacial Myofunctional Therapy in Childhood Residual Obstructive Sleep Apnea
+
+- **ID:** YE2025
+- **Autores, año y revista:** Ye M; Huang S; Wang F; Li W; Tan G; Wang T. *Pediatr Pulmonol* 2025;60(2):e70993.
+- **DOI / PMID / URL:** DOI `10.1002/ppul.70993`; PMID `39945575`. Registro ChiCTR2300072252 (07/06/2023).
+- **Tipo de estudio:** Estudio de intervención con grupo control sin tratamiento. El resumen dice que los niños se «dividieron» en dos grupos; si fue al azar: `PENDIENTE DE VERIFICAR`.
+- **Población y tamaño muestral:** 37 niños con apnea residual tras adenoamigdalectomía: 21 con terapia miofuncional orofacial y 16 sin ella. Seguimiento a 0, 1 y 3 meses.
+- **Definición diagnóstica y técnicas:** Polisomnografía, apertura bucal durante el sueño, cuestionario OSA-18 modificado y evaluación miofuncional orofacial con puntuación (OMES).
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA en el resumen. Si el texto completo valora la anquiloglosia o la movilidad lingual: `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** IAH, duración máxima de apneas e hipopneas, arquitectura del sueño, apertura bucal, OSA-18 y OMES.
+- **Resultados NUMÉRICOS verificados:** El resumen no da cifras. Frente a antes de la terapia o a los no tratados, con la terapia bajaron la apertura bucal durante el sueño, la puntuación total del OSA-18, el IAH, la duración máxima de apneas e hipopneas y la proporción de vigilia, y aumentó el sueño profundo. Mejoraron la puntuación total del OMES y sus apartados de aspecto y postura, movilidad y funciones.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña y seguimiento de 3 meses.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Estudio de terapia miofuncional en niños con apnea residual tras la cirugía, con grupo sin tratamiento.
+- **Licencia y derechos:** Copyright de Wiley. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1002/ppul.70993).
+
+---
+
 <!-- archivo: fuentes/articulos/2025-zhao-hipertrofia-adenoamigdalar-morfologia.md -->
 # Estudio: Is adenotonsillar hypertrophy associated with dentofacial morphology? A systematic review and meta-analyses
 
@@ -9867,12 +10078,6 @@ No incorporadas ni evaluadas. [Original](https://doi.org/10.1016/j.ajodo.2025.04
 - **Conclusión que sí permite / que no permite:** Puede existir mejoría en determinados desenlaces tras MFT, pero la evidencia **no establece su efectividad clínica de forma definitiva** ni justifica su uso aislado universal como primera línea. No evalúa cirugía del frenillo ni crecimiento óseo.
 - **Licencia y derechos:** Publicación de **acceso abierto Springer**; no se reproducen tablas ni figuras y la licencia concreta de reutilización requiere verificación.
 - **Estado de lectura:** Resumen, descripción del cribado, calidad de los cuatro estudios y resultados cualitativos consultados en la página abierta de Springer el **03/11/2026**. No se ha extraído individualmente toda la tabla 1 ni realizado evaluación nueva del riesgo de sesgo.
-
-## Interpretación editorial: por qué importa junto a Cnockaert 2026
-
-Una frase como «una revisión encuentra mejoría y otra no» **no describe un conflicto de estudios primarios independientes**. Cambian los criterios de inclusión, los diseños y los estimadores: esta incluye observacionales (tres de cuatro) y valora mejorías descriptivas, mientras que Cnockaert analiza el **efecto comparativo agregado de ECA** en intervenciones aisladas. También deben cotejarse sus estudios subyacentes para evitar doble conteo. Ninguna revisó específicamente el efecto de liberar un frenillo sobre la apnea.
-
-**Punto pendiente:** el resumen atribuye la mejoría de hasta 58 % a un ensayo; en métodos, el único ECA tiene n=27 y la muestra máxima n=133 procede de un observacional. No llamar al de n=133 «ensayo grande». Contrastar las referencias primarias antes de usar ese porcentaje en debate.
 
 ## Figuras
 
@@ -9922,10 +10127,6 @@ Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/P
 - **Licencia y derechos:** Texto abierto Wiley; solo síntesis original y enlaces. Revisar licencia específica antes de reutilizar tablas.
 - **Estado de lectura:** Texto completo HTML abierto (métodos, cribado, diseño, participantes, evaluación de calidad, discusión) consultado el **03/11/2026**; **no reanálisis individual de los 17 estudios**.
 - **Conflictos de interés relevantes:** Los autores declaran vínculos profesionales con clínicas, servicios formativos de terapia orofacial y asociaciones del área; entre ellos Carey declara pertenencia a la junta ICAP y Merkel-Walsh actividad privada/formativa en terapia orofacial. Tratar estos vínculos como **posibles intereses a considerar**, no prueba de falsedad de los resultados.
-
-## Lectura crítica ante objeciones — INTERPRETACIÓN editorial
-
-**«Todos los estudios encontraron mejoría»** es correcto como descripción de los 17 incluidos. **«La terapia funciona de forma causal»** no se deduce: en 10/17 los estudios se calificaron como pobres, en 11/17 había otras intervenciones y ninguno presentó magnitud de efecto. A la inversa, tampoco es correcto descartar toda mejoría clínica real: la revisión identifica una señal que justifica diseñar ensayos específicos. **No mezclar deglución (Carey), apnea medida por PSG (Cnockaert/Avivar) y efecto de frenectomía**: son desenlaces/poblaciones/intervenciones distintos.
 
 ## Figuras
 
@@ -9978,14 +10179,6 @@ No incorporadas ni evaluadas. [Original](https://doi.org/10.1016/j.otc.2026.04.0
 ## Figuras
 
 No incorporadas ni evaluadas. [Original](https://doi.org/10.1016/j.sleep.2026.108840).
-
-## Importancia como evidencia contraria (INTERPRETACIÓN editorial, 03/11/2026)
-
-Esta revisión es una **objeción pertinente** a la afirmación de que la **terapia miofuncional aislada mejora de forma demostrada la apnea pediátrica medida por polisomnografía**: el metaanálisis de 4 ECA no halló una diferencia significativa del IAH. No basta con invalidarlo alegando que algunos niños tienen frenillo o que no hubo selección TRMR; esas afirmaciones no demuestran eficacia. Tampoco el intervalo de confianza permite afirmar equivalencia ni ausencia definitiva de efecto en todos los subgrupos. Separar de los estudios de terapia combinada, de los ensayos en adultos y de medidas subjetivas como ronquido o cuestionarios. La revisión no investiga si la liberación lingual modifica el crecimiento óseo.
-
-### Contraste con una revisión favorable publicada en septiembre de 2026
-
-Avivar-Pardo 2026 identifica 4 estudios, **solo 1 ECA n=27**, y sintetiza mejorías observacionales de IAH con certeza **baja**. Cnockaert 2026 sintetiza **4 ECA n=174** y no encuentra beneficio agrupado significativo de la intervención activa **aislada**. Estas conclusiones no se anulan sin cotejar sus estudios originales: cambian los diseños (antes/después frente a comparaciones controladas), los criterios y probablemente las poblaciones. No sumar artículos y revisiones como si fuesen personas diferentes.
 
 ---
 
@@ -10128,7 +10321,6 @@ Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/P
 - **Límites metodológicos / confusores:** Transversal. Correlaciones débiles. Del texto completo (lectura previa del equipo): la relación directa entre movilidad e IAH no es significativa (r=-0,08; p=0,07); cifras que no cuadran (44 % con apnea en el resumen frente a 142 de 222 en el texto); erratas («p = 0.0.1» también en el resumen).
 - **Hallazgos contrarios o no significativos:** Los autores plantean la dirección contraria: una mandíbula pequeña por genética llevaría la lengua atrás y el frenillo sería corto como consecuencia.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en adultos frenillo corto, poca movilidad y mandíbula pequeña y retrasada van juntos. No: Decir que el frenillo «hace» la mandíbula pequeña.
-- **Interpretación editorial:** El estudio explora asociaciones entre movilidad lingual, frenillo y morfología mandibular mediante medidas de la familia TRMR; la dirección de la relación queda como pregunta de investigación.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
 - **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Texto completo revisado (PDF vía ClinicalKey, 15/10/2026); los datos que no están en el resumen salen de esa lectura.
 
@@ -10159,10 +10351,6 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 ## Figuras
 
 No incorporadas ni auditadas. [Artículo original](https://doi.org/10.1186/s12887-026-07684-8).
-
-## Objeción metodológica importante — INTERPRETACIÓN editorial (03/11/2026)
-
-Un comentarista podría presentar el mayor índice respiratorio de los niños con OSA+rinitis como prueba causal de que la rinitis desencadena microdespertares. Pero en un estudio transversal/retrospectivo de niños **derivados por sospecha de SDB**, la gravedad del propio OSA, selección clínica, confusión por asma/IMC/edad y las diferencias en el fenotipo de ronquido requieren cautela. **Es especialmente importante no convertir una diferencia no ajustada en un efecto independiente ajustado de rinitis**: el resumen sí documenta aIRR para PLMAI en sentido contrario y para OSA en microdespertares respiratorios; no verifica el aIRR respiratorio independiente de rinitis. La presencia de AR sigue siendo un factor clínico relevante para estudiar el sueño, pero este trabajo no evalúa ni frenillo ni crecimiento óseo.
 
 ---
 
@@ -10286,6 +10474,78 @@ Figuras no revisadas.
 
 ---
 
+<!-- archivo: fuentes/articulos/2026-maclean-cts-diagnostico-apnea.md -->
+# Estudio: The Canadian Thoracic Society/Canadian Sleep Society Guideline on the Diagnosis of Obstructive Sleep Apnea in Children
+
+- **ID:** MACLEAN2026
+- **Autores, año y revista:** MacLean JE; Adeleye A; Van Dam A; Lal A; Abusido T; Adamko DJ; Amin R; Campisi P; Constantin E; Duncan J; Dyck G; Jones J; Kevat A; Lee J; Shi J; Zelman M; KidsCan YPRAG. *Chest* 2026;170(2):565-582. También publicada en *Can J Respir Crit Care Sleep Med* (24/03/2026).
+- **DOI / PMID / URL:** DOI `10.1016/j.chest.2025.12.017`; PMID `41887281`; versión canadiense DOI 10.1080/24745332.2026.2629327 (https://www.tandfonline.com/doi/full/10.1080/24745332.2026.2629327).
+- **Tipo de estudio:** Guía de práctica clínica con revisión sistemática y metaanálisis de pruebas alternativas a la polisomnografía. Recomendaciones votadas por un panel de 14 miembros, teniendo en cuenta las preferencias de pacientes y familias.
+- **Población y tamaño muestral:** Niños menores de 18 años con sospecha de apnea. 250 artículos en 5 tipos de valoración clínica.
+- **Definición diagnóstica y técnicas:** Compara con la polisomnografía la poligrafía domiciliaria (nivel 3), el cuestionario pediátrico de sueño (PSQ) y la oximetría nocturna, entre otras.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: guía de diagnóstico de apnea. Búsqueda en el texto completo el 05/11/2026: no aparecen «ankyloglossia», «tongue», «frenulum» ni «myofunctional».
+- **Variables de resultado:** Exactitud diagnóstica frente a la polisomnografía.
+- **Resultados NUMÉRICOS verificados:** La polisomnografía sigue siendo el estándar. La poligrafía domiciliaria de nivel 3 se recomienda como segunda opción en niños sanos de más de 5 años sin acceso real a polisomnografía (recomendación fuerte, evidencia baja a moderada), con un área bajo la curva de 0,88 a 0,92 frente a la polisomnografía. El PSQ y la oximetría nocturna aportan información, pero se sugiere no usarlos para diagnosticar. El 62 % de los artículos excluía a niños con comorbilidades y el 26 % no informaba de exclusiones; solo el 13 % incluía menores de 2 años.
+- **Límites metodológicos / confusores (solo los relevantes):** No trata el tratamiento de la apnea. Pocos datos se pudieron combinar en metaanálisis.
+- **Otros resultados relevantes (si los hay):** Su recomendación sobre la poligrafía domiciliaria difiere de la de la AASM de 2017, que la desaconsejaba en niños.
+- **Aportación del estudio:** Es la guía de apnea infantil más reciente localizada (marzo de 2026).
+- **Licencia y derechos:** `PENDIENTE DE VERIFICAR`. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC y texto completo de la versión canadiense (recomendaciones y tabla 1) leídos el 05/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver la guía](https://www.tandfonline.com/doi/full/10.1080/24745332.2026.2629327).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-mahony-expansion-amigdalectomia.md -->
+# Estudio: Maxillary Arch Expansion and Adenotonsillectomy in Prepubertal Children Diagnosed with Paediatric Obstructive Sleep Apnoea: An Interventional Study
+
+- **ID:** MAHONY2026A
+- **Autores, año y revista:** Mahony D; Bhattarai N; Petocz P. *J Clin Med* 2026;15(8):2981. Publicado el 14/04/2026.
+- **DOI / PMID / URL:** DOI `10.3390/jcm15082981`; PMID `42074783`; PMC13116212; https://www.mdpi.com/2077-0383/15/8/2981
+- **Tipo de estudio:** Cohorte retrospectiva no aleatorizada (los autores la titulan «interventional study»).
+- **Población y tamaño muestral:** 80 niños de 7 a 9 años (edad media 8,31; 35 niños y 45 niñas) con apnea confirmada por polisomnografía, maxilar estrecho e hipertrofia adenoamigdalar, de una cohorte de 3.671 niños de clínicas privadas de ortodoncia (2007-2022). 39 se operaron primero de amígdalas y vegetaciones y después hicieron expansión semirrápida del maxilar; 41 hicieron primero la expansión (por esperas para el otorrino o el seguro) y después la cirugía.
+- **Definición diagnóstica y técnicas:** Polisomnografía de nivel 1 al inicio y 3 meses después de cada tratamiento. Desenlace: índice de alteración respiratoria (RDI).
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no valora la anquiloglosia. Búsqueda en el texto completo el 05/11/2026: no aparecen «ankyloglossia» ni «frenulum».
+- **Variables de resultado:** RDI tras el primer tratamiento y tras los dos.
+- **Resultados NUMÉRICOS verificados:** RDI inicial 18,99 ± 1,66 por hora. Tras los dos tratamientos (medias ajustadas, combinando categorías de IMC): 4,86 si la cirugía fue primero y 4,19 si la expansión fue primero. La primera bajada fue mayor con la expansión que con la cirugía (diferencia ajustada 1,49; p = 0,002), y la diferencia se mantuvo al final (1,42; p = 0,007). El IMC influyó: con peso normal el RDI final ajustado fue de 2,79 a 3,14 y con obesidad de 5,02 a 6,28.
+- **Límites metodológicos / confusores (solo los relevantes):** Orden de los tratamientos decidido por preferencia y logística, no por azar. Los grupos difieren en IMC: 24 de 39 con obesidad en el grupo de cirugía primero frente a 6 de 41 en el de expansión primero (ajustado en el modelo). Ningún niño normalizó el RDI con los dos tratamientos.
+- **Otros resultados relevantes (si los hay):** Los autores atribuyen la apnea residual a la resistencia nasal, la postura lingual alterada y factores neuromusculares, y proponen la terapia miofuncional como posible complemento; lo estudian después en Mahony 2026b.
+- **Aportación del estudio:** Muestra de partida del estudio de terapia miofuncional de octubre de 2026.
+- **Licencia y derechos:** CC BY 4.0 (MDPI).
+- **Estado de lectura:** Texto completo (Europe PMC) leído el 05/11/2026: métodos, tablas 1 y 2 y conclusiones.
+
+## Figuras
+
+Licencia CC BY. Figuras no copiadas. Figura 1: diagrama de selección. Figura 3: RDI ajustado por orden, IMC y momento. [Ver el artículo](https://pmc.ncbi.nlm.nih.gov/articles/PMC13116212/).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-mahony-miofuncional-apnea-residual.md -->
+# Estudio: Orofacial Myofunctional Therapy to Treat Residual Obstructive Sleep Apnoea in Children Treated with Adenotonsillectomy and Maxillary Expansion: An Interventional Study
+
+- **ID:** MAHONY2026B
+- **Autores, año y revista:** Mahony D; Bhattarai N; Petocz P; Borbély P; Kárpáti K. *J Clin Med* 2026;15(19):7676. Publicado el 04/10/2026 (preprint en septiembre de 2026).
+- **DOI / PMID / URL:** DOI `10.3390/jcm15197676`; PMID `42882137`; https://www.mdpi.com/2077-0383/15/19/7676
+- **Tipo de estudio:** Cohorte retrospectiva no aleatorizada (los autores la titulan «interventional study»). Seguimiento de 12 meses de la misma muestra de Mahony 2026a.
+- **Población y tamaño muestral:** 80 niños de 7 a 9 años (edad media 8,3), de una cohorte de 3.671 niños atendidos en su primera consulta en nueve clínicas privadas de ortodoncia de Australia de un mismo especialista (2007-2022). Todos con apnea residual confirmada por polisomnografía (índice de alteración respiratoria, RDI, de 1 o más por hora) tras adenoamigdalectomía y expansión semirrápida del maxilar. 41 completaron 12 meses de terapia miofuncional orofacial y 39 no. Excluidos: síndromes genéticos, alteraciones craneofaciales (salvo el maxilar estrecho), problemas del desarrollo, traumatismos, tumores y cualquier otra intervención de otorrino u ortodoncia durante los 12 meses.
+- **Definición diagnóstica y técnicas:** Polisomnografía de nivel 1 en laboratorio, puntuada a mano por técnicos que no sabían a qué grupo pertenecía cada niño (reglas pediátricas de la AASM). Desenlace principal: RDI (apneas, hipopneas y despertares por esfuerzo respiratorio por hora). Terapia: 24 sesiones quincenales con un terapeuta miofuncional y 10 a 15 minutos diarios de ejercicios en casa, con diario de cumplimiento rellenado por los padres.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no valora la anquiloglosia. Búsqueda en el texto completo el 05/11/2026: no aparecen «ankyloglossia», «tongue-tie», «frenulum», «frenotomy» ni «frenectomy». No informa de la movilidad lingual de los niños ni de frenotomías previas.
+- **Variables de resultado:** RDI a los 12 meses y su cambio desde el final de los dos tratamientos.
+- **Resultados NUMÉRICOS verificados:** RDI al inicio del estudio (tras los dos tratamientos): 4,45 ± 1,71 en el conjunto, sin diferencia entre grupos (p = 0,21). A los 12 meses: 0,49 ± 0,60 con terapia (rango 0 a 2) frente a 5,26 ± 1,77 sin terapia (rango 1 a 8); diferencia 4,77 (IC 95 % 4,19 a 5,35; p < 0,001). Cambio: −4,20 ± 0,95 con terapia frente a +1,05 ± 0,61 sin terapia; todos los tratados mejoraron (−6 a −2) y ningún control mejoró (0 a +2). Ajustado por orden de los tratamientos, sexo, edad, raza, IMC y RDI inicial: medias 0,28 frente a 5,42 (p < 0,001). Motivos de no hacer la terapia: coste o acceso (22), falta de cumplimiento (9) y falta de interés (8), sin diferencias de resultado entre esos subgrupos.
+- **Límites metodológicos / confusores (solo los relevantes):** Grupos decididos por las familias (capacidad de cumplir, coste, preferencia), no por azar; los autores dicen que es una asociación fuerte, no un efecto causal confirmado, que factores familiares no medidos pueden explicar parte de la diferencia, y que el rango estrecho de RDI residual favorece que los grupos no se solapen. Un solo especialista y práctica privada. Cumplimiento según diarios de los padres, sin verificar.
+- **Otros resultados relevantes (si los hay):** Los autores lo comparan con Villa 2015 (ensayo aleatorizado, ejercicios orofaríngeos tras adenoamigdalectomía, IAH de 4,87 a 1,84) y con Guilleminault 2013 (niños ya normalizados: sin recaída con reeducación, IAH 0,5, frente a recaída sin ella, IAH 5,3). Declaran no tener conflictos de interés ni financiación externa.
+- **Aportación del estudio:** Según los autores, es el primero en evaluar la terapia miofuncional en niños con apnea residual confirmada tras adenoamigdalectomía y expansión del maxilar, y el de seguimiento más largo con cumplimiento registrado.
+- **Licencia y derechos:** CC BY 4.0 (MDPI). Se podrían copiar sus figuras con atribución.
+- **Estado de lectura:** Texto completo HTML leído el 05/11/2026 (métodos, resultados, discusión y limitaciones). Las tablas no se han revisado celda a celda.
+
+## Figuras
+
+Licencia CC BY. Figuras no copiadas. Figura 1: diagrama de selección de pacientes. Figuras 2 y 3: distribución del RDI final y de su cambio por grupo. Figura 4: trayectoria individual de cada niño. Figura 5: trayectorias según el motivo de no hacer la terapia. [Ver el artículo](https://www.mdpi.com/2077-0383/15/19/7676).
+
+---
+
 <!-- archivo: fuentes/articulos/2026-marino-frenotomia-laringoscopia.md -->
 # Estudio: Frenotomy Provides Improved Direct Laryngoscopy Exposure in Select Adult Patients With Ankyloglossia
 
@@ -10310,6 +10570,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 
 - **Figura 1.** Anquiloglosia restrictiva en quirófano. [Ver en el artículo](https://doi.org/10.1177/01455613231223355), figura 1.
 - **Figura 2.** Visión de la glotis tras la frenotomía. [Ver en el artículo](https://doi.org/10.1177/01455613231223355), figura 2.
+
+---
+
+<!-- archivo: fuentes/articulos/2026-palomo-aao-actualizacion.md -->
+# Estudio: Sleep-disordered breathing and orthodontics: An American Association of Orthodontists white paper update
+
+- **ID:** PALOMO2026
+- **Autores, año y revista:** Palomo JM; Cohen-Levy J; Flores-Mir C; Khosravi R; Levine M; Pickard M; Hittner J; Callahan J; Siegel SM. *Am J Orthod Dentofacial Orthop* 2026;169(4):419-427. En línea el 02/03/2026.
+- **DOI / PMID / URL:** DOI `10.1016/j.ajodo.2026.01.014`; PMID `41770191`; https://www.ajodo.org/article/S0889-5406(26)00035-1/fulltext
+- **Tipo de estudio:** Actualización del documento de posición de 2019 (Behrents 2019), hecha por un grupo de ortodoncistas expertos en medicina dental del sueño a petición de la junta de la American Association of Orthodontists. PubMed lo clasifica como guía de práctica y declaración de consenso. Pasa de hablar de apnea a hablar de trastornos respiratorios del sueño en general.
+- **Población y tamaño muestral:** Niños y adultos.
+- **Definición diagnóstica y técnicas:** Polisomnografía con síntomas clínicos como referencia; solo un médico diagnostica; cribado con cuestionarios validados (PSQ en niños, STOP-Bang en adultos).
+- **Criterio diagnóstico de anquiloglosia:** NO PROPONE NINGUNO. Señala la heterogeneidad de los criterios diagnósticos y la falta de una definición uniforme del grado de restricción que altera la forma o la función, salvo en las formas más graves. No menciona el TRMR ni otra medida funcional concreta.
+- **Variables de resultado:** No aplica (documento de posición).
+- **Resultados NUMÉRICOS verificados:** Nueve conclusiones, entre ellas: ninguna intervención ortodóncica, como la expansión del maxilar o los aparatos funcionales, ha demostrado prevenir los trastornos respiratorios del sueño; la ortodoncia no es un tratamiento aislado de esos trastornos; ningún fenotipo craneofacial conocido identifica su presencia; las medidas de la vía aérea en cefalometría o CBCT no sirven para diagnosticar, estimar riesgo ni valorar resultados (cambio respecto a 2019); **«Current evidence does not support ankyloglossia as an SDB etiology. Routine frenectomy is not recommended for SDB prevention or treatment»**; las extracciones y la distalización no afectan la etiología ni aumentan la probabilidad de estos trastornos. Expansión del maxilar: reservarla para pacientes con indicación ortodóncica clara y diagnóstico confirmado.
+- **Límites metodológicos / confusores (solo los relevantes):** Revisión narrativa sin método sistemático descrito. En el apartado de frenectomía, las referencias numeradas no coinciden con lo que se les atribuye: la revisión de alcance de 2023 con 26 estudios se cita como referencia 41, que es Hicks 2017 (tono muscular de la vía aérea en sueño profundo); y la frase entrecomillada que atribuye al consenso de la AAO-HNS («the anterior tethering of the tongue serves to prevent the posterior collapse of the tongue, so if the frenulum is released, it could lead to OSA worsening») se cita como referencia 42, que es Cordray 2023, no Messner 2020. Que esa frase esté en Messner 2020: `PENDIENTE DE VERIFICAR`.
+- **Otros resultados relevantes (si los hay):** Sobre la anquiloglosia recoge que una revisión de alcance de 2023 (26 estudios, más de 1.228 pacientes) encontró asociaciones entre anquiloglosia no tratada y factores de riesgo de apnea (maxilar estrecho, paladar blando alargado, colapso retrolingual), que solo un ensayo aleatorizado sugirió menos apnea tras la frenectomía, y que muchos estudios combinan adenoamigdalectomía, expansión rápida y frenectomía, de modo que no se puede separar el efecto de cada una. Dice que algunos estudios sugieren que la anquiloglosia puede contribuir al riesgo en pacientes seleccionados.
+- **Aportación del estudio:** Es el documento de 2026 de la ortodoncia estadounidense sobre sueño y vía aérea, muy difundido en redes.
+- **Licencia y derechos:** CC BY (según Europe PMC). Aquí solo resumen propio.
+- **Estado de lectura:** Texto completo HTML leído el 05/11/2026: conclusiones y apartados de imagen, frenectomía, expansión, aparatos y extracciones, y referencias 41 a 45.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.ajodo.2026.01.014).
 
 ---
 
@@ -10382,10 +10666,6 @@ No incorporadas ni evaluadas. [Original](https://doi.org/10.1016/j.ijporl.2026.1
 ## Figuras
 
 No incorporadas ni auditadas. [Artículo original](https://doi.org/10.3390/healthcare14121737).
-
-## Lectura crítica (INTERPRETACIÓN editorial; 03/11/2026)
-
-El resultado de interés no es «la respiración bucal causa deformidad facial», sino que los estudios seleccionados describen **diferencias de morfología asociadas**. Para interpretar cada asociación hay que saber quién definió la respiración bucal (anamnesis/observación/permeabilidad nasal), distinguir anchura de arcada dental de base esquelética y diferenciar respiración oral por obstrucción de la derivada de otros hábitos. El estudio ofrece un **mapa narrativo de hipótesis y referencias para buscar originales**, no una estimación causal o un valor combinado de efecto. La mezcla de fuentes primarias y revisiones obliga a deduplicar cohortes si se usa para nuestra futura scoping review.
 
 ---
 

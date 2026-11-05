@@ -67,5 +67,5 @@ Sin ficha todavía. Muchos tratan del frenillo labial o de técnicas, no del dia
 
 - Nainar SMH. *Simplified patient decision-aid for tongue-tie surgery for breast-fed infants*. Paediatr Child Health 2025. PMID [41049709](https://pubmed.ncbi.nlm.nih.gov/41049709/).
 - Nainar HSM. *Major Considerations Recommended Prior to Performing Surgery for Infants with Ankyloglossia*. Pediatr Dent 2026. PMID [42947298](https://pubmed.ncbi.nlm.nih.gov/42947298/).
-- Canadian Academy of Pediatric Dentistry, posicionamiento sobre anquiloglosia y lactancia (2025): `PENDIENTE DE VERIFICAR`.
+- Canadian Academy of Pediatric Dentistry, posicionamiento sobre anquiloglosia y lactancia (2025): fichado el 05/11/2026 ([ficha](../fuentes/articulos/2025-capd-canada-posicionamiento.md)).
 - Salt 2020 (habla), PMID [32298924](https://pubmed.ncbi.nlm.nih.gov/32298924/).

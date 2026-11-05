@@ -21,12 +21,6 @@
 - **Licencia y derechos:** Original abierto **CC BY-NC-ND 4.0**. Síntesis original sin imágenes, tablas textuales reproducidas ni PDF en repositorio.
 - **Estado de lectura:** **Texto íntegro HTML (incluidos métodos, tablas 1–4, discusión y limitaciones) consultado el 03/11/2026** mediante copia pública del artículo indexada en PMC/portal editorial. No se han verificado las figuras pixel a pixel ni rehecho cálculos de los DICOM.
 
-## Interpretación crítica: confundir precisión de lectura con repetibilidad entre exploraciones
-
-Un observador puede delimitar una vía aérea de forma casi idéntica si se le muestra **la misma tomografía** dos veces (ICC alto). Eso **no garantiza** que una exploración repetida semanas después dé el mismo volumen cuando postura, respiración, segmentación o adquisición cambian. Ante una objeción del tipo «el CBCT demuestra que la expansión aumentó/redujo la vía aérea», la pregunta correcta es: **¿cuánto del cambio supera el error de repetición de exploraciones comparables y se acompaña de una mejoría de función?**. Sun aporta un estimador de variación en un protocolo concreto, **no un umbral universal** aplicable a todos los equipos.
-
-**Relación con [Coppelson 2023](2023-coppelson-postura-cbct.md):** Coppelson **manipuló** flexión/extensión y midió **MCA**, Sun comparó **dos imágenes de distintos momentos** y cuantificó error test–retest (destacando el volumen OAV). Son estudios complementarios de la **validez de la medición**, no pruebas de que el paciente adopte una postura compensatoria a causa de un frenillo.
-
 ## Figuras
 
 No reproducidas. [Artículo original](https://doi.org/10.1016/j.jds.2024.07.033).

@@ -15,10 +15,6 @@
 - **Licencia y derechos:** Informe en lectura gratuita, pero **copyright de AAP**; solo síntesis propia y enlace (no subir su PDF ni reproducir figuras).
 - **Estado de lectura:** Texto completo HTML gratuito (definiciones, evaluación, tratamiento y recomendaciones 1–9) leído y contrastado el **03/11/2026** a través de la [página oficial AAP](https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2024-067605/198022/Identification-and-Management-of-Ankyloglossia-and). No se ha reanalizado individualmente cada ensayo citado.
 
-## Lectura crítica para objeciones (INTERPRETACIÓN editorial)
-
-Una objeción frecuente es «la AAP dice que no hay evidencia de relación con apnea o habla». **La AAP desaconseja utilizar la frenotomía neonatal de forma preventiva** para esos desenlaces tardíos, con razón a la luz de la evidencia que evalúa. Eso **no constituye un ensayo negativo de restricción funcional y crecimiento** en niños de otras edades. A la inversa, la falta de pruebas de prevención **sí** impide recomendar hoy una cirugía de lactante con ese objetivo hipotético. La AAP está hablando de indicaciones en recién nacidos, no proclamando que todos los mecanismos biomecánicos sean imposibles.
-
 ## Figuras
 
 No se reproducen figuras editoriales ni el algoritmo; [informe original](https://doi.org/10.1542/peds.2024-067605).
