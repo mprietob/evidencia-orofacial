@@ -39,7 +39,7 @@ Pasos para un agente de IA (Claude Code, Codex, Gemini, Copilot u otro) que resp
    - **Qué dice la evidencia**, ordenada por diseño: revisiones y ensayos primero, después observacionales, casos y opinión.
    - **Por cada estudio:** autor, año, PMID o DOI, la ficha, su criterio diagnóstico y su resultado.
    - **Evidencia en contra o limitaciones decisivas, cuando sean pertinentes para la pregunta.**
-   - **Sin interpretaciones propias.** La lectura crítica es común a todos los artículos: las cuatro preguntas de [ENFOQUE-CRITICO.md](ENFOQUE-CRITICO.md).
+   - **Sin interpretaciones propias.** La lectura crítica es común a todos los artículos: las cinco preguntas de [ENFOQUE-CRITICO.md](ENFOQUE-CRITICO.md).
    - **Cuestiones abiertas**, solo si aportan algo concreto.
 5. Si la pregunta es sobre una persona concreta, no diagnostiques ni recomiendes tratamiento. Explica qué dice la evidencia en general y recomienda una valoración profesional en persona.
 6. Si no está en la biblioteca, dilo. No rellenes con conocimiento general sin avisar de que no sale de aquí.

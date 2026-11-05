@@ -2,7 +2,7 @@
 
 **Lee este documento antes de responder preguntas científicas o trabajar con esta biblioteca.** No se trata de defender la anquiloglosia ni de desacreditar los resultados negativos: se trata de averiguar **qué pregunta respondió realmente un estudio** y qué conclusiones permite su diseño.
 
-## Cuatro preguntas para todos los artículos
+## Cinco preguntas para todos los artículos
 
 Se aplican igual a cada estudio, sea favorable o contrario. No basta con decir si se acepta la hipótesis o si hay o no hay evidencia: hay que analizar el artículo. En la literatura sobre el frenillo, los sesgos más importantes suelen ser estos:
 
@@ -10,6 +10,7 @@ Se aplican igual a cada estudio, sea favorable o contrario. No basta con decir s
 2. **Si es una revisión, ¿mezcla estudios con criterios diagnósticos distintos?** Agrupar estudios que llaman «anquiloglosia» a cosas diferentes diluye o enmascara el efecto. Hay que mirar qué criterio usó cada estudio incluido.
 3. **¿Tuvo en cuenta la anquiloglosia?** Muchos estudios de ortodoncia, vía aérea, sueño, deglución o habla ni la exploran. Si no la midieron, no pueden descartarla ni como causa ni como factor de confusión, y su conclusión no se puede usar para hablar del frenillo.
 4. **Si estudia una cirugía, ¿qué se hizo y funcionó la liberación?** No hay una técnica uniforme: frenotomía, frenectomía y frenuloplastia no son lo mismo, y cambian la extensión del corte, los tejidos liberados y la terapia miofuncional de antes y después. Y no todas las intervenciones consiguen una liberación efectiva: hay que comprobar si se midió la movilidad después. Un mal resultado de una liberación incompleta no dice nada de una liberación completa.
+5. **Si mide la vía aérea antes y después de una intervención, ¿controló la postura de la cabeza y el cuello?** Expansión del paladar, extracciones, ortodoncia o cirugía: la medida de la vía aérea en cefalometría o CBCT cambia mucho con la postura ([Coppelson 2023](../fuentes/articulos/2023-coppelson-postura-cbct.md): al flexionar la cabeza el área mínima bajó 41 mm² y al extenderla subió 147 mm²; y la repetibilidad entre dos tomografías es limitada, [Sun 2024](../fuentes/articulos/2024-sun-repetibilidad-ct-via-aerea.md)). Además, el cuerpo puede mantener una vía aérea parecida compensando con el cuello, de modo que el efecto de una intervención podría verse más en la postura (por ejemplo, el ángulo NBC3) que en el diámetro. Si el estudio no registró la postura, una vía aérea «igual» no demuestra que no cambiara nada, y una «más grande» no demuestra una mejora.
 
 Estas preguntas se hacen sobre lo que el artículo documenta. Si el dato no está, se dice que no está; no se da por hecho el sesgo.
 

@@ -9,10 +9,10 @@
 - **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
 - **Variables de resultado:** Cefalometría y oclusión antes y después.
 - **Resultados NUMÉRICOS verificados:** Texto completo: SNA 82,6° (norma 82,3), SNB 73,1° en el texto y 73,2° en la tabla (norma 78,9), ANB 9,4° (norma 3,4). Tras el tratamiento, SNA 75,9°, SNB 70,1°, ANB 5,8°.
-- **Límites metodológicos / confusores:** Un solo caso.
+- **Límites metodológicos / confusores:** Un solo caso. Para el tratamiento ortodóncico de los incisivos prominentes en niños y adolescentes, ver [Batista 2018](2018-batista-cochrane-incisivos-prominentes.md).
 - **Hallazgos contrarios o no significativos:** Los autores lo llaman prognatismo maxilar, pero su SNA está en la norma y el SNB muy por debajo: la diferencia viene sobre todo de la mandíbula retrasada.
 - **Conclusión que sí permite / que no permite:** Sí: Usarlo como ejemplo ilustrado de clase II con resalte grande y proinclinación. No: Generalizar.
-- **Licencia y derechos:** CC BY 4.0 (según notas de trabajo, sin verificar). Se puede reutilizar citando.
+- **Licencia y derechos:** CC BY 4.0 (comprobado en Europe PMC el 05/11/2026). Se puede reutilizar citando.
 - **Estado de lectura:** Resumen PubMed y tabla cefalométrica del texto completo (PMC) revisados el 17/10/2026.
 
 ## Figuras

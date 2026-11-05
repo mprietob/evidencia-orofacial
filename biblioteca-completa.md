@@ -24,7 +24,7 @@ Rol: asistente de investigación crítica. Este repositorio contiene **conocimie
 
 **No atribuir tesis personales:** una pregunta, síntesis o modelo formulado en la biblioteca **no es una opinión clínica de quien recopiló los estudios**. No atribuyas ideas, frases ni recomendaciones a Marta Prieto sin una declaración explícita y verificable.
 
-**Las cuatro preguntas para todos los artículos** (enfoque crítico): con qué criterio se diagnosticó la anquiloglosia (aspecto o función); si una revisión mezcla criterios distintos; si el estudio llegó a tener en cuenta la anquiloglosia; y, en cirugía, qué técnica se usó y si la liberación fue efectiva. Se aplican igual a todos los artículos; no hay interpretaciones sueltas en las fichas.
+**Las cinco preguntas para todos los artículos** (enfoque crítico): con qué criterio se diagnosticó la anquiloglosia (aspecto o función); si una revisión mezcla criterios distintos; si el estudio llegó a tener en cuenta la anquiloglosia; en cirugía, qué técnica se usó y si la liberación fue efectiva; y, si mide la vía aérea antes y después de una intervención, si controló la postura de la cabeza y el cuello. Se aplican igual a todos los artículos; no hay interpretaciones sueltas en las fichas.
 
 **Pensar por eslabones:** si no hay un estudio directo de A → D, buscar qué datos apoyan A → B, B → C y C → D y construir una hipótesis integradora, indicando qué es evidencia observada y qué conexión está por comprobar. **No terminar el análisis en «falta evidencia directa»**. Ante revisiones negativas o inconcluyentes, investigar especialmente **cómo definieron la anquiloglosia (anatomía frente a función)** y, si estudian tratamiento, **qué procedimiento exacto consideraron cirugía** (tipo, extensión de liberación y cointervenciones). Comprobarlo en los originales y aplicar el criterio a toda la literatura, sin presumir fallos no demostrados.
 
@@ -37,7 +37,7 @@ Rol: asistente de investigación crítica. Este repositorio contiene **conocimie
 7. No recomiendes tratamientos ni dosis a personas concretas.
 8. Si un dato no está verificado, escribe literalmente `PENDIENTE DE VERIFICAR` y señala cómo verificarlo.
 9. No inventes tamaño muestral, resultados, efectos, DOI ni metodología que no estén en la ficha.
-10. Antes de usar un estudio sobre anquiloglosia, lee el campo «Criterio diagnóstico de anquiloglosia». Las fichas no llevan interpretaciones propias: la lectura crítica la haces tú con las cuatro preguntas del enfoque crítico.
+10. Antes de usar un estudio sobre anquiloglosia, lee el campo «Criterio diagnóstico de anquiloglosia». Las fichas no llevan interpretaciones propias: la lectura crítica la haces tú con las cinco preguntas del enfoque crítico.
 11. **Zaghi y otros expertos** (carpeta `expertos/`): son ideas expresadas en vídeos, reconstruidas por terceros. Di siempre que es opinión de experto, el vídeo de donde sale y su estado de verificación. No hables como si fueras Zaghi. Si una cifra suya choca con un estudio, da la del estudio (ver `expertos/soroush-zaghi/discrepancias.md`). La carpeta no recoge dosis de fármacos: si te piden una, dilo y remite a la ficha técnica y a un profesional. Si algo no está en la carpeta, di: «Las fuentes disponibles no permiten atribuir a Soroush Zaghi una postura fiable sobre este punto».
 12. Figuras: si alguien pide ver una figura, busca la sección «Figuras» de la ficha. Si hay copia en `figuras/`, muéstrala con su crédito y su licencia (tabla de `figuras/README.md`). Si no, da el enlace directo y la descripción con palabras. No describas lo que no está en la ficha.
 13. Responde en el idioma de quien pregunta. Recuerda, cuando proceda, que la biblioteca no sustituye una valoración profesional.
@@ -59,7 +59,7 @@ Rol: asistente de investigación crítica. Este repositorio contiene **conocimie
 
 **Lee este documento antes de responder preguntas científicas o trabajar con esta biblioteca.** No se trata de defender la anquiloglosia ni de desacreditar los resultados negativos: se trata de averiguar **qué pregunta respondió realmente un estudio** y qué conclusiones permite su diseño.
 
-## Cuatro preguntas para todos los artículos
+## Cinco preguntas para todos los artículos
 
 Se aplican igual a cada estudio, sea favorable o contrario. No basta con decir si se acepta la hipótesis o si hay o no hay evidencia: hay que analizar el artículo. En la literatura sobre el frenillo, los sesgos más importantes suelen ser estos:
 
@@ -67,6 +67,7 @@ Se aplican igual a cada estudio, sea favorable o contrario. No basta con decir s
 2. **Si es una revisión, ¿mezcla estudios con criterios diagnósticos distintos?** Agrupar estudios que llaman «anquiloglosia» a cosas diferentes diluye o enmascara el efecto. Hay que mirar qué criterio usó cada estudio incluido.
 3. **¿Tuvo en cuenta la anquiloglosia?** Muchos estudios de ortodoncia, vía aérea, sueño, deglución o habla ni la exploran. Si no la midieron, no pueden descartarla ni como causa ni como factor de confusión, y su conclusión no se puede usar para hablar del frenillo.
 4. **Si estudia una cirugía, ¿qué se hizo y funcionó la liberación?** No hay una técnica uniforme: frenotomía, frenectomía y frenuloplastia no son lo mismo, y cambian la extensión del corte, los tejidos liberados y la terapia miofuncional de antes y después. Y no todas las intervenciones consiguen una liberación efectiva: hay que comprobar si se midió la movilidad después. Un mal resultado de una liberación incompleta no dice nada de una liberación completa.
+5. **Si mide la vía aérea antes y después de una intervención, ¿controló la postura de la cabeza y el cuello?** Expansión del paladar, extracciones, ortodoncia o cirugía: la medida de la vía aérea en cefalometría o CBCT cambia mucho con la postura (Coppelson 2023: al flexionar la cabeza el área mínima bajó 41 mm² y al extenderla subió 147 mm²; y la repetibilidad entre dos tomografías es limitada, Sun 2024). Además, el cuerpo puede mantener una vía aérea parecida compensando con el cuello, de modo que el efecto de una intervención podría verse más en la postura (por ejemplo, el ángulo NBC3) que en el diámetro. Si el estudio no registró la postura, una vía aérea «igual» no demuestra que no cambiara nada, y una «más grande» no demuestra una mejora.
 
 Estas preguntas se hacen sobre lo que el artículo documenta. Si el dato no está, se dice que no está; no se da por hecho el sesgo.
 
@@ -232,7 +233,7 @@ Esta biblioteca son archivos de texto (Markdown y CSV). Cualquier IA que pueda l
 
 En una IA de chat, pega en las instrucciones del proyecto las reglas de docs/INSTRUCCIONES-IA.md. Para una pregunta suelta basta con esto:
 
-> Usa como fuente el repositorio https://github.com/mprietob/evidencia-orofacial. Lee primero AGENTS.md, docs/ENFOQUE-CRITICO.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). No te limites a decir si hay o no hay evidencia: analiza cada artículo con las cuatro preguntas del enfoque crítico (criterio diagnóstico, mezcla de criterios en las revisiones, si se tuvo en cuenta la anquiloglosia y, en cirugía, técnica y si la liberación fue efectiva). Si algo no está, dilo.
+> Usa como fuente el repositorio https://github.com/mprietob/evidencia-orofacial. Lee primero AGENTS.md, docs/ENFOQUE-CRITICO.md y llms.txt y sigue sus reglas. Responde solo con lo que esté en el repositorio. Cita la ficha y el estudio (año y DOI o PMID). No te limites a decir si hay o no hay evidencia: analiza cada artículo con las cinco preguntas del enfoque crítico (criterio diagnóstico, mezcla de criterios en las revisiones, si se tuvo en cuenta la anquiloglosia, en cirugía técnica y si la liberación fue efectiva, y en la vía aérea si se controló la postura del cuello). Si algo no está, dilo.
 
 **¿Nunca has usado GitHub?** Tienes una [guía paso a paso](https://recursos.inimamed.com/evidencia) (también aquí, en GUIA.md): qué IA usar, cómo darle la biblioteca y cómo crearte una cuenta si quieres aportar.
 
@@ -7473,6 +7474,30 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2018-batista-cochrane-incisivos-prominentes.md -->
+# Estudio: Orthodontic treatment for prominent upper front teeth (Class II malocclusion) in children and adolescents
+
+- **ID:** BATISTA2018
+- **Autores, año y revista:** Batista KB; Thiruvenkatachari B; Harrison JE; O'Brien KD. *Cochrane Database Syst Rev* 2018;3:CD003452.
+- **DOI / PMID / URL:** DOI `10.1002/14651858.CD003452.pub4`; PMID `29534303`; PMC6494411.
+- **Tipo de estudio:** Revisión sistemática Cochrane de ensayos aleatorizados.
+- **Población y tamaño muestral:** 27 ensayos con 1.251 niños y adolescentes con los incisivos superiores prominentes (clase II división 1).
+- **Definición diagnóstica y técnicas:** Compara tratamiento precoz y tardío, aparatos funcionales fijos y removibles, Twin Block y casquete (headgear), frente a no tratar o entre sí.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA en el resumen: revisión de tratamiento ortodóncico. Si el texto completo nombra la anquiloglosia o la función lingual: `PENDIENTE DE VERIFICAR`.
+- **Variables de resultado:** Resalte, ANB, traumatismos de los incisivos y otros.
+- **Resultados NUMÉRICOS verificados:** Tratamiento precoz con aparato funcional frente a tardío: al terminar, sin diferencia en el resalte final (DM 0,21 mm; IC 95 % −0,10 a 0,51) ni en el ANB; menos traumatismos de incisivos (OR 0,56; IC 95 % 0,33 a 0,95), 19 % frente a 30 %. Tratamiento precoz con casquete frente a tardío: sin diferencia final en resalte ni ANB; menos traumatismos (OR 0,45; IC 95 % 0,25 a 0,80). Tratamiento en la adolescencia con aparatos funcionales frente a no tratar: menos resalte final con aparatos fijos (DM −5,46 mm) y removibles (DM −4,62 mm); los removibles redujeron el ANB (−2,37°) y los fijos no de forma clara. Twin Block frente a otros aparatos: mismo resalte y algo menos de ANB (−0,56°). Removibles frente a fijos: más reducción del resalte con fijos (0,74 mm) y más del ANB con removibles (−1,04°).
+- **Límites metodológicos / confusores (solo los relevantes):** Evidencia de calidad baja a moderada. Solo niños y adolescentes en crecimiento: no trata adultos ni las opciones de camuflaje con extracciones ni la cirugía.
+- **Otros resultados relevantes (si los hay):** Los autores concluyen que el tratamiento precoz solo aporta, frente al tardío, una reducción de los traumatismos de los incisivos.
+- **Aportación del estudio:** Es la revisión de referencia sobre el tratamiento ortodóncico de los incisivos superiores prominentes en edad de crecimiento. Para el tratamiento en adultos con osteotomía del segmento anterior, ver Tomita 2024.
+- **Licencia y derechos:** Copyright de Cochrane / Wiley. Aquí solo resumen propio.
+- **Estado de lectura:** Resumen de Europe PMC revisado el 05/11/2026. Texto completo `PENDIENTE DE VERIFICAR`.
+
+## Figuras
+
+Figuras no revisadas. [Ver la revisión](https://doi.org/10.1002/14651858.CD003452.pub4).
+
+---
+
 <!-- archivo: fuentes/articulos/2018-camacho-miofuncional-ronquido.md -->
 # Estudio: Oropharyngeal and tongue exercises (myofunctional therapy) for snoring: a systematic review and meta-analysis
 
@@ -10179,10 +10204,10 @@ No se reproducen figuras editoriales ni el algoritmo; [informe original](https:/
 - **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
 - **Variables de resultado:** Cefalometría y oclusión antes y después.
 - **Resultados NUMÉRICOS verificados:** Texto completo: SNA 82,6° (norma 82,3), SNB 73,1° en el texto y 73,2° en la tabla (norma 78,9), ANB 9,4° (norma 3,4). Tras el tratamiento, SNA 75,9°, SNB 70,1°, ANB 5,8°.
-- **Límites metodológicos / confusores:** Un solo caso.
+- **Límites metodológicos / confusores:** Un solo caso. Para el tratamiento ortodóncico de los incisivos prominentes en niños y adolescentes, ver Batista 2018.
 - **Hallazgos contrarios o no significativos:** Los autores lo llaman prognatismo maxilar, pero su SNA está en la norma y el SNB muy por debajo: la diferencia viene sobre todo de la mandíbula retrasada.
 - **Conclusión que sí permite / que no permite:** Sí: Usarlo como ejemplo ilustrado de clase II con resalte grande y proinclinación. No: Generalizar.
-- **Licencia y derechos:** CC BY 4.0 (según notas de trabajo, sin verificar). Se puede reutilizar citando.
+- **Licencia y derechos:** CC BY 4.0 (comprobado en Europe PMC el 05/11/2026). Se puede reutilizar citando.
 - **Estado de lectura:** Resumen PubMed y tabla cefalométrica del texto completo (PMC) revisados el 17/10/2026.
 
 ## Figuras

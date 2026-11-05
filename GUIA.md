@@ -17,7 +17,7 @@ No hace falta saber nada de GitHub. Necesitas una IA: NotebookLM, ChatGPT, Claud
    - **Claude:** puede decirte que el archivo no cabe en una conversación. Si pasa, usa NotebookLM.
 3. Pega esto antes de tu pregunta:
 
-> Responde solo con la información de este archivo y sigue sus reglas. No te limites a decir si hay o no hay evidencia: analiza cada artículo. Mira con qué criterio diagnosticó la anquiloglosia (aspecto o función), si una revisión mezcla estudios con criterios distintos, si el estudio llegó a tener en cuenta la anquiloglosia y, si hay cirugía, qué técnica se usó y si la liberación fue efectiva. Cita la ficha y el estudio (año y DOI o PMID). Si algo no está en el archivo, dilo en vez de inventarlo.
+> Responde solo con la información de este archivo y sigue sus reglas. No te limites a decir si hay o no hay evidencia: analiza cada artículo. Mira con qué criterio diagnosticó la anquiloglosia (aspecto o función), si una revisión mezcla estudios con criterios distintos, si el estudio llegó a tener en cuenta la anquiloglosia si hay cirugía, qué técnica se usó y si la liberación fue efectiva, y, si mide la vía aérea antes y después de algo, si controló la postura de la cabeza y el cuello. Cita la ficha y el estudio (año y DOI o PMID). Si algo no está en el archivo, dilo en vez de inventarlo.
 
 4. Pregunta lo que quieras. Por ejemplo: «¿Qué estudios relacionan el frenillo con la apnea en adultos, y qué límites tienen?».
 
