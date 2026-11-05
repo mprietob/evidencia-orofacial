@@ -2,7 +2,7 @@
 
 ---
 
-Generado el 05/11/2026 desde https://github.com/mprietob/evidencia-orofacial . Un solo archivo para subir a ChatGPT, Claude, Gemini o NotebookLM.
+Generado el 06/11/2026 desde https://github.com/mprietob/evidencia-orofacial . Un solo archivo para subir a ChatGPT, Claude, Gemini o NotebookLM.
 
 ---
 
@@ -5738,6 +5738,30 @@ No examinadas. [Estudio original](https://doi.org/10.1001/archotol.126.1.36).
 
 ---
 
+<!-- archivo: fuentes/articulos/2001-chervin-hiperactividad-polisomnografia.md -->
+# Estudio: Hyperactivity and polysomnographic findings in children evaluated for sleep-disordered breathing
+
+- **ID:** CHERVIN2001
+- **Autores, año y revista:** Chervin RD; Archbold KH. Sleep 2001;24(3):313-20.
+- **DOI / PMID / URL:** DOI `10.1093/sleep/24.3.313`; PMID `11322714`
+- **Tipo de estudio:** Observacional prospectivo.
+- **Población y tamaño muestral:** 113 niños de 2 a 18 años derivados por sospecha de TRS.
+- **Definición diagnóstica y técnicas:** Polisomnografía. Índice de hiperactividad de Conners.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Hiperactividad frente a medidas polisomnográficas y movimientos periódicos de piernas.
+- **Resultados NUMÉRICOS verificados:** Hiperactividad alta con TRS (59,5 ± 18,3) y sin TRS (59,0 ± 15,1), sin diferencia. Sin asociación con el índice de apneas, la saturación mínima ni la presión esofágica (p > 0,10). Asociada a ≥ 5 movimientos periódicos de piernas por hora (p = 0,02).
+- **Límites metodológicos / confusores (solo los relevantes):** Todos derivados por sospecha de TRS.
+- **Otros resultados relevantes (si los hay):** La gravedad del TRS no explica la hiperactividad en esta serie.
+- **Aportación del estudio:** Resultado discrepante: la hiperactividad es frecuente con independencia de la gravedad del TRS.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1093/sleep/24.3.313).
+
+---
+
 <!-- archivo: fuentes/articulos/2001-guilleminault-uars-ninos.md -->
 # Estudio: Upper airway resistance syndrome in children: a clinical review
 
@@ -5759,6 +5783,52 @@ No examinadas. [Estudio original](https://doi.org/10.1001/archotol.126.1.36).
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1053/spen.2001.29045).
+
+---
+
+<!-- archivo: fuentes/articulos/2002-beebe-apnea-corteza-prefrontal-modelo.md -->
+# Estudio: Obstructive sleep apnea and the prefrontal cortex: towards a comprehensive model linking nocturnal upper airway obstruction to daytime cognitive and behavioral deficits
+
+- **ID:** BEEBE2002
+- **Autores, año y revista:** Beebe DW; Gozal D. J Sleep Res 2002;11(1):1-16.
+- **DOI / PMID / URL:** DOI `10.1046/j.1365-2869.2002.00289.x`; PMID `11869421`
+- **Tipo de estudio:** Revisión con modelo teórico.
+- **Población y tamaño muestral:** No aplica.
+- **Definición diagnóstica y técnicas:** Modelo causal propuesto.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Función ejecutiva y conducta diurna.
+- **Resultados NUMÉRICOS verificados:** Sin cifras. El modelo propone que la interrupción del sueño y las alteraciones de los gases en sangre impiden los procesos reparadores del sueño y causan lesión celular, lo que lleva a disfunción de la corteza prefrontal, función ejecutiva alterada y conductas diurnas desadaptativas.
+- **Límites metodológicos / confusores (solo los relevantes):** Es un modelo para contrastar, no un estudio de resultados.
+- **Aportación del estudio:** Propone un mecanismo: sueño fragmentado e hipoxia, corteza prefrontal, conducta.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1046/j.1365-2869.2002.00289.x).
+
+---
+
+<!-- archivo: fuentes/articulos/2002-chervin-inatencion-hiperactividad-sintomas-trs.md -->
+# Estudio: Inattention, hyperactivity, and symptoms of sleep-disordered breathing
+
+- **ID:** CHERVIN2002
+- **Autores, año y revista:** Chervin RD; Archbold KH; Dillon JE et al. Pediatrics 2002;109(3):449-56.
+- **DOI / PMID / URL:** DOI `10.1542/peds.109.3.449`; PMID `11875140`
+- **Tipo de estudio:** Encuesta transversal.
+- **Población y tamaño muestral:** 866 niños de 2 a 13,9 años de dos consultas de pediatría general.
+- **Definición diagnóstica y técnicas:** Pediatric Sleep Questionnaire e índice de hiperactividad de Conners.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Ronquido, somnolencia, riesgo de TRS, inatención e hiperactividad.
+- **Resultados NUMÉRICOS verificados:** Ronquido habitual 16 %. Hiperactividad alta: 22 % de los roncadores y 12 % de los no roncadores. OR 2,2 (IC 1,4-3,6) para ronquido habitual; OR 1,6 (IC 1,4-2,0) por cada ítem más de somnolencia; OR 1,7 (IC 1,4-2,0) por desviación estándar en la puntuación de TRS. La asociación con el ronquido viene sobre todo de niños varones menores de 8 años.
+- **Límites metodológicos / confusores (solo los relevantes):** Por cuestionario.
+- **Aportación del estudio:** Mide los síntomas de TRS en población de pediatría general, no derivada a una unidad de sueño.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1542/peds.109.3.449).
 
 ---
 
@@ -5884,6 +5954,77 @@ Fig. 1: flujo de inclusión (3.490 → 148 → 49 casos/98 controles). [Ver orig
 
 ---
 
+<!-- archivo: fuentes/articulos/2006-chervin-trs-conducta-antes-despues-adenoamigdalectomia.md -->
+# Estudio: Sleep-disordered breathing, behavior, and cognition in children before and after adenotonsillectomy
+
+- **ID:** CHERVIN2006
+- **Autores, año y revista:** Chervin RD; Ruzicka DL; Giordani BJ et al. Pediatrics 2006;117(4):e769-78.
+- **DOI / PMID / URL:** DOI `10.1542/peds.2005-1837`; PMID `16585288`; https://pmc.ncbi.nlm.nih.gov/articles/PMC1434467/
+- **Tipo de estudio:** Estudio controlado no aleatorizado, a un año.
+- **Población y tamaño muestral:** 105 niños de 5,0 a 12,9 años: 78 para adenoamigdalectomía y 27 para otra cirugía. Reevaluados 100 al año.
+- **Definición diagnóstica y técnicas:** Polisomnografía, escalas para padres, test cognitivos, test de latencias múltiples y valoración psiquiátrica.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Hiperactividad, atención, somnolencia y TDAH según DSM-IV.
+- **Resultados NUMÉRICOS verificados:** Antes de operar, el grupo de adenoamigdalectomía tenía más hiperactividad, inatención, somnolencia y TDAH que los controles. Al año no había diferencias entre grupos: el grupo operado mejoró en todas las medidas y los controles en ninguna. La polisomnografía no predijo con claridad la morbilidad inicial ni la mejoría, salvo en somnolencia.
+- **Límites metodológicos / confusores (solo los relevantes):** Sin aleatorización.
+- **Otros resultados relevantes (si los hay):** La polisomnografía no predice bien la mejoría conductual.
+- **Aportación del estudio:** Muestra diagnóstico de TDAH hecho por psiquiatra, antes y después de la cirugía.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1542/peds.2005-1837).
+
+---
+
+<!-- archivo: fuentes/articulos/2006-li-adenoamigdalectomia-conducta.md -->
+# Estudio: Impact of adenotonsillectomy on behavior in children with sleep-disordered breathing
+
+- **ID:** LI2006
+- **Autores, año y revista:** Li HY; Huang YS; Chen NH et al. Laryngoscope 2006;116(7):1142-7.
+- **DOI / PMID / URL:** DOI `10.1097/01.mlg.0000217542.84013.b5`; PMID `16826049`
+- **Tipo de estudio:** Estudio prospectivo antes y después.
+- **Población y tamaño muestral:** 40 niños con TRS e hipertrofia adenoamigdalar, edad media 8,4 ± 1,6 años.
+- **Definición diagnóstica y técnicas:** Polisomnografía, TOVA y CBCL, antes y a los 6 meses.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** IAH, atención y conducta.
+- **Resultados NUMÉRICOS verificados:** Mejoran IAH (p < 0,001), TOVA (p < 0,001) y 8 de 9 dominios del CBCL (p < 0,05). El cambio en el IAH no se correlaciona con el TOVA (r = -0,17; p = 0,38).
+- **Límites metodológicos / confusores (solo los relevantes):** Sin grupo control.
+- **Otros resultados relevantes (si los hay):** La mejoría conductual no sigue al cambio en el IAH.
+- **Aportación del estudio:** Mide atención con test objetivo antes y después de operar.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1097/01.mlg.0000217542.84013.b5).
+
+---
+
+<!-- archivo: fuentes/articulos/2006-mitchell-trs-conducta-revision.md -->
+# Estudio: Behavior, neurocognition and quality-of-life in children with sleep-disordered breathing
+
+- **ID:** MITCHELL2006
+- **Autores, año y revista:** Mitchell RB; Kelly J. Int J Pediatr Otorhinolaryngol 2006;70(3):395-406.
+- **DOI / PMID / URL:** DOI `10.1016/j.ijporl.2005.10.020`; PMID `16321451`
+- **Tipo de estudio:** Revisión.
+- **Población y tamaño muestral:** 33 artículos, 22.255 niños, edad media 6,8 ± 2,8 años.
+- **Definición diagnóstica y técnicas:** PubMed, 1990-2004.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Conducta, neurocognición y calidad de vida.
+- **Resultados NUMÉRICOS verificados:** Problemas descritos: menor atención, hiperactividad, agresividad, irritabilidad y problemas emocionales y con iguales. Calidad de vida similar a la de niños con asma o artritis reumatoide. Mejoran tras adenoamigdalectomía.
+- **Límites metodológicos / confusores (solo los relevantes):** Criterios diagnósticos no uniformes entre estudios.
+- **Aportación del estudio:** Da la lista de manifestaciones conductuales y la comparación de calidad de vida.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.ijporl.2005.10.020).
+
+---
+
 <!-- archivo: fuentes/articulos/2007-gilbert-hidrostato-lingual.md -->
 # Gilbert et al. (2007) — Anatomical basis of lingual hydrostatic deformation
 
@@ -5898,6 +6039,51 @@ Fig. 1: flujo de inclusión (3.490 → 148 → 49 casos/98 controles). [Ver orig
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1242/jeb.007096).
+
+---
+
+<!-- archivo: fuentes/articulos/2007-huang-tdah-apnea-leve-tratamiento.md -->
+# Estudio: Attention-deficit/hyperactivity disorder with obstructive sleep apnea: a treatment outcome study
+
+- **ID:** HUANG2007
+- **Autores, año y revista:** Huang YS; Guilleminault C; Li HY et al. Sleep Med 2007;8(1):18-30.
+- **DOI / PMID / URL:** DOI `10.1016/j.sleep.2006.05.016`; PMID `17157069`
+- **Tipo de estudio:** Estudio de tratamiento no aleatorizado, a 6 meses.
+- **Población y tamaño muestral:** 66 niños con TDAH y apnea leve, 20 controles sanos. 27 con metilfenidato, 25 con adenoamigdalectomía, 14 sin tratamiento.
+- **Definición diagnóstica y técnicas:** TDAH según DSM-IV. Polisomnografía con IAH > 1 y < 5. Tratamiento elegido por padres y médicos.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Escala ADHD-RS, TOVA, CBCL, OSA-18 y polisomnografía.
+- **Resultados NUMÉRICOS verificados:** ADHD-RS en operados: 31,52 ± 7,01 antes y 21,16 ± 7,13 después (p = 0,0001). Diferencia entre operados y tratados con metilfenidato: p = 0,007. Ambos mejoraron más que el grupo sin tratamiento.
+- **Límites metodológicos / confusores (solo los relevantes):** El tratamiento lo eligieron las familias, no hubo aleatorización.
+- **Aportación del estudio:** Compara directamente tratar la apnea leve con tratar el TDAH en niños que tienen ambos.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.sleep.2006.05.016).
+
+---
+
+<!-- archivo: fuentes/articulos/2009-cortese-tdah-sueno-metaanalisis.md -->
+# Estudio: Sleep in children with attention-deficit/hyperactivity disorder: meta-analysis of subjective and objective studies
+
+- **ID:** CORTESE2009
+- **Autores, año y revista:** Cortese S; Faraone SV; Konofal E et al. J Am Acad Child Adolesc Psychiatry 2009;48(9):894-908.
+- **DOI / PMID / URL:** DOI `10.1097/CHI.0b013e3181ac09c9`; PMID `19625983`
+- **Tipo de estudio:** Metaanálisis.
+- **Población y tamaño muestral:** 16 estudios: 722 niños con TDAH y 638 controles.
+- **Definición diagnóstica y técnicas:** Búsqueda 1987-2008. TDAH con criterios estandarizados. Excluye tratados con fármacos y con ansiedad o depresión comórbidas.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Sueño por cuestionario, polisomnografía y actigrafía.
+- **Resultados NUMÉRICOS verificados:** Más trastorno respiratorio del sueño referido (z = 2,05; p = 0,040). Índice de apnea-hipopnea más alto en polisomnografía (z = 3,47; p = 0,001). Menor eficiencia de sueño en polisomnografía (z = 2,26; p = 0,024). Latencia media más corta en el test de latencias múltiples (z = 6,37; p < 0,001). Más resistencia a acostarse, dificultad para dormirse, despertares y somnolencia diurna (z = 1,96; p = 0,050).
+- **Aportación del estudio:** Los niños con TDAH sin tratar duermen peor que los controles en medidas subjetivas y objetivas, incluido el índice de apnea-hipopnea.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1097/CHI.0b013e3181ac09c9).
 
 ---
 
@@ -6128,6 +6314,29 @@ Figuras no revisadas. [Ver el artículo](https://doi.org/10.2319/101711-646.1).
 
 ---
 
+<!-- archivo: fuentes/articulos/2012-beebe-ronquido-persistente-preescolares.md -->
+# Estudio: Persistent snoring in preschool children: predictors and behavioral and developmental correlates
+
+- **ID:** BEEBE2012
+- **Autores, año y revista:** Beebe DW; Rausch J; Byars KC et al. Pediatrics 2012;130(3):382-9.
+- **DOI / PMID / URL:** DOI `10.1542/peds.2012-0045`; PMID `22891224`; https://pmc.ncbi.nlm.nih.gov/articles/PMC3428758/
+- **Tipo de estudio:** Cohorte de nacimiento prospectiva.
+- **Población y tamaño muestral:** 249 parejas madre-hijo, evaluadas a los 2 y 3 años.
+- **Definición diagnóstica y técnicas:** Ronquido fuerte ≥ 2 veces por semana según los padres. Medidas validadas de conducta y cognición.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Conducta, cognición y predictores de ronquido.
+- **Resultados NUMÉRICOS verificados:** Los roncadores persistentes tenían más problemas de conducta, sobre todo hiperactividad, depresión e inatención, en análisis multivariable. La diferencia cognitiva desaparece tras ajustar por datos demográficos. Mayores predictores: menor nivel socioeconómico y ausencia o menor duración de lactancia materna.
+- **Límites metodológicos / confusores (solo los relevantes):** Ronquido referido por los padres.
+- **Aportación del estudio:** Asocia el ronquido persistente a los 2-3 años con la conducta y con la lactancia.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1542/peds.2012-0045).
+
+---
+
 <!-- archivo: fuentes/articulos/2012-bonuck-cohorte-alspac.md -->
 # Estudio: Sleep-disordered breathing in a population-based cohort: behavioral outcomes at 4 and 7 years
 
@@ -6277,6 +6486,29 @@ Figuras no revisadas. [Ver la guía](https://doi.org/10.1542/peds.2012-1671).
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/23362754/).
+
+---
+
+<!-- archivo: fuentes/articulos/2013-carotenuto-posturas-sueno-apnea-hipotesis.md -->
+# Estudio: Positional abnormalities during sleep in children affected by obstructive sleep apnea syndrome: the putative role of kinetic muscular chains
+
+- **ID:** CAROTENUTO2013
+- **Autores, año y revista:** Carotenuto M; Gimigliano F; Fiordelisi G et al. Med Hypotheses 2013;81(2):306-8.
+- **DOI / PMID / URL:** DOI `10.1016/j.mehy.2013.04.023`; PMID `23660129`
+- **Tipo de estudio:** Artículo de hipótesis.
+- **Población y tamaño muestral:** No aplica.
+- **Definición diagnóstica y técnicas:** Sin datos propios.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Posturas al dormir.
+- **Resultados NUMÉRICOS verificados:** Sin cifras. Los niños con apnea pueden dormir sentados o con el cuello hiperextendido. Hipótesis: retraer o cruzar las piernas ampliaría la excursión diafragmática y reduciría la tensión de las cadenas musculares prevertebrales y anterolumbares.
+- **Límites metodológicos / confusores (solo los relevantes):** Es una hipótesis, sin datos.
+- **Aportación del estudio:** Recoge posturas inusuales al dormir en niños con apnea, más allá del cuello.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.mehy.2013.04.023).
 
 ---
 
@@ -6550,6 +6782,28 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 Licencia del artículo: Derechos del editor. No se copian imágenes.
 
 - **Figura 1.** Diagrama de selección de artículos (del texto completo). [Ver en el artículo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9923517/).
+
+---
+
+<!-- archivo: fuentes/articulos/2015-constantin-trs-conducta-disruptiva.md -->
+# Estudio: Association Between Childhood Sleep-Disordered Breathing and Disruptive Behavior Disorders in Childhood and Adolescence
+
+- **ID:** CONSTANTIN2015
+- **Autores, año y revista:** Constantin E; Low NC; Dugas E et al. Behav Sleep Med 2015;13(6):442-54.
+- **DOI / PMID / URL:** DOI `10.1080/15402002.2014.940106`; PMID `25102357`
+- **Tipo de estudio:** Cohorte poblacional.
+- **Población y tamaño muestral:** 605 niños.
+- **Definición diagnóstica y técnicas:** Síntomas de ronquido y apnea, y diagnóstico o síntomas de TDAH y trastornos de conducta.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** TDAH, problemas de conducta y trastorno de conducta.
+- **Resultados NUMÉRICOS verificados:** Ronquido 19 %; síntomas de apnea 10 %; TDAH 13 %; problemas o trastorno de conducta 5-9 %. Ronquido o síntomas de apnea: el doble de odds de TDAH. Síntomas de apnea: entre tres y cuatro veces más odds de problemas o trastorno de conducta.
+- **Aportación del estudio:** Extiende la asociación a la conducta disruptiva. Los autores piden preguntar por el TRS en estos niños.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1080/15402002.2014.940106).
 
 ---
 
@@ -7474,6 +7728,29 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2017-zaffanello-enuresis-trs-revision.md -->
+# Estudio: Obstructive sleep-disordered breathing, enuresis and combined disorders in children: chance or related association?
+
+- **ID:** ZAFFANELLO2017
+- **Autores, año y revista:** Zaffanello M; Piacentini G; Lippi G et al. Swiss Med Wkly 2017;147:w14400.
+- **DOI / PMID / URL:** DOI `10.4414/smw.2017.14400`; PMID `28165541`
+- **Tipo de estudio:** Revisión.
+- **Población y tamaño muestral:** 74 documentos analizados, 17 sobre el resultado urológico del tratamiento.
+- **Definición diagnóstica y técnicas:** Medline, Scopus y Web of Science.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Enuresis y TRS.
+- **Resultados NUMÉRICOS verificados:** Mecanismo propuesto: los episodios obstructivos aumentan la presión intraabdominal y alteran la presión arterial, lo que induce natriuresis y poliuria por cambios en hormona antidiurética y péptidos natriuréticos. Comparten respuesta de despertar alterada y sueño fragmentado.
+- **Límites metodológicos / confusores (solo los relevantes):** Muchos estudios no controlados (recomendación de grado C).
+- **Aportación del estudio:** Explica el mecanismo. Pide buscar ronquido, apneas y sueño inquieto en todo niño con enuresis.
+- **Licencia y derechos:** Licencia CC BY-NC-ND según Europe PMC. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.4414/smw.2017.14400).
+
+---
+
 <!-- archivo: fuentes/articulos/2018-batista-cochrane-incisivos-prominentes.md -->
 # Estudio: Orthodontic treatment for prominent upper front teeth (Class II malocclusion) in children and adolescents
 
@@ -7687,6 +7964,29 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1111/coa.13054).
+
+---
+
+<!-- archivo: fuentes/articulos/2019-au-agregacion-familiar-apnea-ninos.md -->
+# Estudio: Familial Aggregation and Heritability of Obstructive Sleep Apnea Using Children Probands
+
+- **ID:** AU2019
+- **Autores, año y revista:** Au CT; Zhang J; Cheung JYF et al. J Clin Sleep Med 2019;15(11):1561-1570.
+- **DOI / PMID / URL:** DOI `10.5664/jcsm.8012`; PMID `31739845`; https://pmc.ncbi.nlm.nih.gov/articles/PMC6853399/
+- **Tipo de estudio:** Estudio familiar.
+- **Población y tamaño muestral:** 229 niños de 6 a 18 años (33 con apnea moderada-grave, 70 leve, 126 sin apnea) y 412 familiares.
+- **Definición diagnóstica y técnicas:** Estudio de sueño nocturno en todos.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Heredabilidad del IAH obstructivo.
+- **Resultados NUMÉRICOS verificados:** Heredabilidad global no significativa (h² = 0,03 ± 0,09; p = 0,37). Significativa en personas con sobrepeso (h² = 0,43 ± 0,24; p = 0,032).
+- **Otros resultados relevantes (si los hay):** En peso normal no se halla heredabilidad significativa.
+- **Aportación del estudio:** Es la medida directa de heredabilidad de la apnea partiendo de niños.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.5664/jcsm.8012).
 
 ---
 
@@ -7929,6 +8229,28 @@ La figura 11 es la más útil para explicar qué es el frenillo.
 ## Figuras
 
 Figuras no revisadas. [Ver la guía](https://doi.org/10.1177/0194599818801757).
+
+---
+
+<!-- archivo: fuentes/articulos/2019-wolraich-guia-aap-tdah.md -->
+# Estudio: Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents
+
+- **ID:** WOLRAICH2019
+- **Autores, año y revista:** Wolraich ML; Hagan JF; Allan C et al. Pediatrics 2019;144(4).
+- **DOI / PMID / URL:** DOI `10.1542/peds.2019-2528`; PMID `31570648`; https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/
+- **Tipo de estudio:** Guía de práctica clínica (Academia Americana de Pediatría).
+- **Población y tamaño muestral:** No aplica.
+- **Definición diagnóstica y técnicas:** Guía sobre diagnóstico, evaluación y tratamiento del TDAH en niños y adolescentes.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Recomendaciones.
+- **Resultados NUMÉRICOS verificados:** Pide valorar otros trastornos al evaluar un posible TDAH. Entre los físicos nombra los tics y la apnea del sueño.
+- **Aportación del estudio:** Respalda valorar la apnea en la evaluación del TDAH.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed y fragmento de una copia del texto revisados el 06/11/2026. Comprobar la redacción exacta en el original.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1542/peds.2019-2528).
 
 ---
 
@@ -8260,6 +8582,29 @@ Las figuras 1, 2 y 11 a 13 son fotos de piezas de cadáver: solo enlace.
 ## Figuras
 
 No examinadas. [Artículo original](https://doi.org/10.1016/j.ijporl.2020.110035).
+
+---
+
+<!-- archivo: fuentes/articulos/2020-sun-enuresis-apnea.md -->
+# Estudio: Relationship between enuresis and obstructive sleep apnea-hypopnea syndrome in children
+
+- **ID:** SUN2020
+- **Autores, año y revista:** Sun C; Xu Y; Luo C et al. J Int Med Res 2020;48(12):300060520977407.
+- **DOI / PMID / URL:** DOI `10.1177/0300060520977407`; PMID `33290113`; https://pmc.ncbi.nlm.nih.gov/articles/PMC7727060/
+- **Tipo de estudio:** Estudio transversal con seguimiento.
+- **Población y tamaño muestral:** 196 niños ≥ 5 años con ronquido, de consulta de otorrinolaringología.
+- **Definición diagnóstica y técnicas:** Polisomnografía y radiografía lateral de nasofaringe.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Enuresis, IAH, amígdalas y adenoides.
+- **Resultados NUMÉRICOS verificados:** Con enuresis: más apnea grave, IAH, tamaño amigdalar y cociente adenoides-nasofaringe, y menor saturación mínima. Factores de riesgo de enuresis: IMC, IAH, tamaño amigdalar y apnea del sueño.
+- **Límites metodológicos / confusores (solo los relevantes):** Derivados de otorrinolaringología.
+- **Aportación del estudio:** Asocia la enuresis con la gravedad de la apnea y con el tamaño de amígdalas y adenoides.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY-NC. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1177/0300060520977407).
 
 ---
 
@@ -8689,6 +9034,29 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 
 ---
 
+<!-- archivo: fuentes/articulos/2021-urbano-apnea-tdah-revision.md -->
+# Estudio: The Link between Pediatric Obstructive Sleep Apnea (OSA) and Attention Deficit Hyperactivity Disorder (ADHD)
+
+- **ID:** URBANO2021
+- **Autores, año y revista:** Urbano GL; Tablizo BJ; Moufarrej Y et al. Children (Basel) 2021;8(9).
+- **DOI / PMID / URL:** DOI `10.3390/children8090824`; PMID `34572256`; https://pmc.ncbi.nlm.nih.gov/articles/PMC8470037/
+- **Tipo de estudio:** Revisión narrativa.
+- **Población y tamaño muestral:** No aplica.
+- **Definición diagnóstica y técnicas:** Búsqueda en bases electrónicas con términos de TDAH, apnea y TRS en población pediátrica.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Relación apnea-TDAH y efecto del tratamiento.
+- **Resultados NUMÉRICOS verificados:** La apnea afecta hasta al 9,5 % de la población pediátrica. La adenoamigdalectomía resulta eficaz a corto plazo para síntomas de TDAH. CPAP y otras opciones no están bien evaluadas para estos síntomas.
+- **Límites metodológicos / confusores (solo los relevantes):** Faltan datos de beneficio a largo plazo.
+- **Aportación del estudio:** Resume el vínculo apnea-TDAH y el efecto del tratamiento.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/children8090824).
+
+---
+
 <!-- archivo: fuentes/articulos/2021-zaghi-trmr-lps.md -->
 # Zaghi et al. (2021) — Assessment of posterior tongue mobility using lingual-palatal suction
 
@@ -8976,6 +9344,28 @@ La figura 2 son fotos de recién nacidos: solo enlace.
 
 ---
 
+<!-- archivo: fuentes/articulos/2022-garagozzo-cognicion-trs-revision.md -->
+# Estudio: Cognition in pediatric SDB-Yes, no, maybe?
+
+- **ID:** GARAGOZZO2022
+- **Autores, año y revista:** Garagozzo A; Hunter SJ. Pediatr Pulmonol 2022;57(8):1921-1930.
+- **DOI / PMID / URL:** DOI `10.1002/ppul.25420`; PMID `33838008`
+- **Tipo de estudio:** Revisión.
+- **Población y tamaño muestral:** No aplica.
+- **Definición diagnóstica y técnicas:** Revisión por dominios cognitivos.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Inteligencia, atención, función ejecutiva, memoria, lenguaje y habilidad visoespacial.
+- **Resultados NUMÉRICOS verificados:** Sin cifras en el resumen. Señala discrepancias entre estudios debidas a los distintos criterios de TRS y a las distintas medidas neuropsicológicas.
+- **Aportación del estudio:** Explica por qué los resultados cognitivos difieren entre estudios.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1002/ppul.25420).
+
+---
+
 <!-- archivo: fuentes/articulos/2022-gonzalez-garrido-miofuncional-anquiloglosia.md -->
 # Estudio: Effectiveness of Myofunctional Therapy in Ankyloglossia: A Systematic Review
 
@@ -8997,6 +9387,30 @@ La figura 2 son fotos de recién nacidos: solo enlace.
 ## Figuras
 
 Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/ijerph191912347).
+
+---
+
+<!-- archivo: fuentes/articulos/2022-hansen-trs-maloclusion-revision-sistematica.md -->
+# Estudio: Sleep-disordered breathing and malocclusion in children and adolescents-a systematic review
+
+- **ID:** HANSEN2022
+- **Autores, año y revista:** Hansen C; Markström A; Sonnesen L. J Oral Rehabil 2022;49(3):353-361.
+- **DOI / PMID / URL:** DOI `10.1111/joor.13282`; PMID `34779522`
+- **Tipo de estudio:** Revisión sistemática.
+- **Población y tamaño muestral:** 4 publicaciones de 1.996 registros, niños de 6 a 15 años.
+- **Definición diagnóstica y técnicas:** PRISMA, JBI y GRADE. Búsqueda hasta marzo de 2021.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** TRS y rasgos de maloclusión.
+- **Resultados NUMÉRICOS verificados:** Sin asociación entre relación molar o apiñamiento y síntomas de TRS. Calidad de evidencia baja.
+- **Límites metodológicos / confusores (solo los relevantes):** Pocos estudios, riesgo de sesgo moderado.
+- **Otros resultados relevantes (si los hay):** No se puede concluir una asociación entre rasgos concretos y TRS.
+- **Aportación del estudio:** Resultado discrepante sobre maloclusión y TRS.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1111/joor.13282).
 
 ---
 
@@ -9048,6 +9462,28 @@ Figuras no revisadas. [Ver el documento](https://iapdworld.org/management-of-ank
 
 ---
 
+<!-- archivo: fuentes/articulos/2022-lin-respiracion-bucal-desarrollo-dentofacial.md -->
+# Estudio: The impact of mouth breathing on dentofacial development: A concise review
+
+- **ID:** LIN2022
+- **Autores, año y revista:** Lin L; Zhao T; Qin D et al. Front Public Health 2022;10:929165.
+- **DOI / PMID / URL:** DOI `10.3389/fpubh.2022.929165`; PMID `36159237`; https://pmc.ncbi.nlm.nih.gov/articles/PMC9498581/
+- **Tipo de estudio:** Minirrevisión.
+- **Población y tamaño muestral:** No aplica.
+- **Definición diagnóstica y técnicas:** Revisión de publicaciones recientes.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Patrones de crecimiento y maloclusión.
+- **Resultados NUMÉRICOS verificados:** Sin cifras en el resumen. El patrón de crecimiento y la maloclusión dependen de la causa de la respiración oral. El texto describe que con amígdalas hipertróficas el niño tiende a adelantar la mandíbula para ampliar la vía aérea orofaríngea.
+- **Aportación del estudio:** Distingue los patrones por adenoides y por amígdalas.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3389/fpubh.2022.929165).
+
+---
+
 <!-- archivo: fuentes/articulos/2022-martinelli-frenotomia-reposo.md -->
 # Estudio: Effect of Lingual Frenotomy on Tongue and Lip Rest Position: A Nonrandomized Clinical Trial
 
@@ -9069,6 +9505,52 @@ Figuras no revisadas. [Ver el documento](https://iapdworld.org/management-of-ank
 ## Figuras
 
 Licencia CC BY-NC-ND (no se copian figuras). Figura 1: posición de los labios en reposo. [Ver el artículo](https://doi.org/10.1055/s-0041-1726050).
+
+---
+
+<!-- archivo: fuentes/articulos/2022-menzies-trs-neurocognicion-metaanalisis.md -->
+# Estudio: Neurocognitive outcomes of children with sleep disordered breathing: A systematic review with meta-analysis
+
+- **ID:** MENZIES2022
+- **Autores, año y revista:** Menzies B; Teng A; Burns M et al. Sleep Med Rev 2022;63:101629.
+- **DOI / PMID / URL:** DOI `10.1016/j.smrv.2022.101629`; PMID `35439720`
+- **Tipo de estudio:** Revisión sistemática y metaanálisis.
+- **Población y tamaño muestral:** 77 estudios, 63 en el metaanálisis.
+- **Definición diagnóstica y técnicas:** Revisión PRISMA por dominios cognitivos y factores moderadores.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Inteligencia, atención y función ejecutiva, memoria, habilidad visoespacial y lenguaje.
+- **Resultados NUMÉRICOS verificados:** Deterioro significativo en todos los dominios, mayor en inteligencia verbal y global. Hay déficits también en el ronquido primario, no solo en la apnea. Peores resultados con mayor IMC, menor edad, uso de cuestionarios y grupo control.
+- **Aportación del estudio:** El ronquido primario no queda libre de repercusión neurocognitiva.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.smrv.2022.101629).
+
+---
+
+<!-- archivo: fuentes/articulos/2022-pauletto-bruxismo-apnea-scoping.md -->
+# Estudio: Sleep bruxism and obstructive sleep apnea: association, causality or spurious finding? A scoping review
+
+- **ID:** PAULETTO2022
+- **Autores, año y revista:** Pauletto P; Polmann H; Conti Réus J et al. Sleep 2022;45(7).
+- **DOI / PMID / URL:** DOI `10.1093/sleep/zsac073`; PMID `35443064`
+- **Tipo de estudio:** Revisión de alcance.
+- **Población y tamaño muestral:** 21 estudios, 8 en niños.
+- **Definición diagnóstica y técnicas:** Seis bases de datos y literatura gris.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Asociación y prevalencia conjunta.
+- **Resultados NUMÉRICOS verificados:** Prevalencia mediana de ambos trastornos a la vez: 26,1 % en niños y 39,3 % en adultos. En niños la asociación parece plausible, con evidencia insuficiente.
+- **Límites metodológicos / confusores (solo los relevantes):** Gran variabilidad en los métodos de detección, sobre todo en niños.
+- **Otros resultados relevantes (si los hay):** En adultos no se confirma relación.
+- **Aportación del estudio:** Delimita qué se puede afirmar sobre bruxismo y apnea en niños.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1093/sleep/zsac073).
 
 ---
 
@@ -9148,6 +9630,29 @@ Licencia del artículo: Manuscrito de autor; uso según «fair use» (no permite
 - **Figura 1.** Cortes de CBCT con el método de medida del volumen de adenoides y amígdalas. [Ver en el artículo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9213408/).
 - **Figura 2.** Cortes de CBCT antes y después de la expansión. [Ver en el artículo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9213408/).
 - **Figura 3.** Volúmenes de adenoides y amígdalas antes y después en ambos grupos. [Ver en el artículo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9213408/).
+
+---
+
+<!-- archivo: fuentes/articulos/2022-yu-trs-leve-frente-apnea-neuroconducta.md -->
+# Estudio: Neurobehavioral morbidity of pediatric mild sleep-disordered breathing and obstructive sleep apnea
+
+- **ID:** YU2022
+- **Autores, año y revista:** Yu PK; Radcliffe J; Gerry Taylor H et al. Sleep 2022;45(5).
+- **DOI / PMID / URL:** DOI `10.1093/sleep/zsac035`; PMID `35554583`; https://pmc.ncbi.nlm.nih.gov/articles/PMC9113015/
+- **Tipo de estudio:** Comparación de las cohortes basales de PATS y CHAT.
+- **Población y tamaño muestral:** 453 niños con apnea (IAH mediano 5,7) y 459 con TRS leve (IAH mediano 0,5).
+- **Definición diagnóstica y técnicas:** Ensayos PATS y CHAT. Polisomnografía, función ejecutiva y Conners.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Función ejecutiva, inatención e hiperactividad.
+- **Resultados NUMÉRICOS verificados:** En TRS leve frente a apnea: función ejecutiva anormal OR ajustada 1,96 (IC 1,30-2,94), inatención 3,16 (IC 1,98-5,02), hiperactividad 2,82 (IC 1,83-4,34).
+- **Límites metodológicos / confusores (solo los relevantes):** Comparación entre cohortes reclutadas para dos ensayos con edades distintas.
+- **Aportación del estudio:** Un IAH bajo no descarta la repercusión conductual.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1093/sleep/zsac035).
 
 ---
 
@@ -9266,6 +9771,29 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 ## Figuras
 
 Licencia CC BY. Figuras 1 a 3: ejemplos fotográficos de anquiloglosia leve, moderada y grave (fotos de bocas: solo enlace). [Ver el artículo](https://doi.org/10.3390/jcm12237415).
+
+---
+
+<!-- archivo: fuentes/articulos/2023-florez-clase-iii-via-aerea.md -->
+# Estudio: Associations between skeletal discrepancies, breathing pattern, and upper airway obstruction in Class III malocclusions
+
+- **ID:** FLOREZ2023
+- **Autores, año y revista:** Florez BM; Tagawa DT; Inoue DP et al. Int J Pediatr Otorhinolaryngol 2023;166:111471.
+- **DOI / PMID / URL:** DOI `10.1016/j.ijporl.2023.111471`; PMID `36764078`
+- **Tipo de estudio:** Transversal.
+- **Población y tamaño muestral:** 85 niños y adolescentes con clase III, edad media 9,5 ± 1,74 años.
+- **Definición diagnóstica y técnicas:** Cefalometría, otorrinolaringología y nasofibroscopia.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Discrepancia esquelética, patrón respiratorio y obstrucción.
+- **Resultados NUMÉRICOS verificados:** La discrepancia sagital y el tipo de maloclusión no se asocian al patrón respiratorio ni a los cambios de vía aérea, salvo desviación septal. La mayor prevalencia de hipertrofia de cornetes y amígdalas palatinas se da en el tipo dolicofacial.
+- **Otros resultados relevantes (si los hay):** Resultado sin asociación con el patrón respiratorio.
+- **Aportación del estudio:** Aporta datos de vía aérea dentro de la propia clase III y del tipo dolicofacial.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.ijporl.2023.111471).
 
 ---
 
@@ -9417,6 +9945,53 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 
 ---
 
+<!-- archivo: fuentes/articulos/2023-redline-pats-adenoamigdalectomia-trs-leve.md -->
+# Estudio: Adenotonsillectomy for Snoring and Mild Sleep Apnea in Children: A Randomized Clinical Trial
+
+- **ID:** REDLINE2023
+- **Autores, año y revista:** Redline S; Cook K; Chervin RD et al. JAMA 2023;330(21):2084-2095.
+- **DOI / PMID / URL:** DOI `10.1001/jama.2023.22114`; PMID `38051326`; https://pmc.ncbi.nlm.nih.gov/articles/PMC10698619/
+- **Tipo de estudio:** Ensayo clínico aleatorizado (PATS).
+- **Población y tamaño muestral:** 459 niños de 3 a 12,9 años con ronquido e IAH obstructivo < 3. 231 a cirugía y 228 a espera vigilante. 394 (86 %) completaron 12 meses.
+- **Definición diagnóstica y técnicas:** 7 centros de EE. UU. Medidas principales: BRIEF y Go/No-go.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Función ejecutiva, atención y 22 secundarias.
+- **Resultados NUMÉRICOS verificados:** Sin diferencia en función ejecutiva (-0,96; IC -2,66 a 0,74) ni en atención (0,05; IC -0,18 a 0,27) a 12 meses. Mejoraron más con cirugía la conducta, la somnolencia, los síntomas y la calidad de vida. Progresión a IAH > 3: 1,3 % frente a 13,2 %. Seis niños (2,7 %) con efecto adverso grave.
+- **Límites metodológicos / confusores (solo los relevantes):** Seguimiento de 12 meses.
+- **Otros resultados relevantes (si los hay):** Las medidas principales fueron negativas.
+- **Aportación del estudio:** Ensayo aleatorizado en TRS leve con conducta, atención y función ejecutiva.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1001/jama.2023.22114).
+
+---
+
+<!-- archivo: fuentes/articulos/2023-shirke-trs-maloclusion-transversal.md -->
+# Estudio: Association of Sleep-Disordered Breathing and Developing Malocclusion in Children: A Cross-Sectional Study
+
+- **ID:** SHIRKE2023
+- **Autores, año y revista:** Shirke SR; Katre AN. Cureus 2023;15(6):e39813.
+- **DOI / PMID / URL:** DOI `10.7759/cureus.39813`; PMID `37397676`; https://pmc.ncbi.nlm.nih.gov/articles/PMC10314238/
+- **Tipo de estudio:** Transversal.
+- **Población y tamaño muestral:** 177 niños de 6 a 12 años.
+- **Definición diagnóstica y técnicas:** Clase de Angle, IOTN y PSQ. Brodsky para amígdalas.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** TRS y maloclusión.
+- **Resultados NUMÉRICOS verificados:** TRS en el 69 %. Asociación con clases II y III (OR 3,79) y con grados altos de IOTN (OR 53,64).
+- **Límites metodológicos / confusores (solo los relevantes):** Por cuestionario.
+- **Aportación del estudio:** Incluye la clase III en la asociación con TRS.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.7759/cureus.39813).
+
+---
+
 <!-- archivo: fuentes/articulos/2023-zheng-postura-lengua-via-aerea-adultos.md -->
 # Estudio: Three-dimensional evaluation of the association between tongue position and upper airway morphology in adults: A cross-sectional study
 
@@ -9465,6 +10040,52 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 ## Figuras
 
 Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.61409/A06240378).
+
+---
+
+<!-- archivo: fuentes/articulos/2024-alessandribonetti-tdah-maloclusion-bruxismo-apnea.md -->
+# Estudio: Malocclusions, Sleep Bruxism, and Obstructive Sleep Apnea Risk in Pediatric ADHD Patients: A Prospective Study
+
+- **ID:** ALESSANDRIBONETTI2024
+- **Autores, año y revista:** Alessandri-Bonetti A; Guglielmi F; Deledda G et al. J Atten Disord 2024;28(6):1017-1023.
+- **DOI / PMID / URL:** DOI `10.1177/10870547231226139`; PMID `38327066`
+- **Tipo de estudio:** Estudio prospectivo con controles.
+- **Población y tamaño muestral:** 40 niños consecutivos con TDAH y grupo control de igual sexo y edad.
+- **Definición diagnóstica y técnicas:** Exploración ortodóncica y cribado de apnea y de bruxismo del sueño.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Maloclusión, riesgo de apnea, bruxismo del sueño.
+- **Resultados NUMÉRICOS verificados:** Alto riesgo de apnea: 62,5 % en TDAH frente a 10 % (p < 0,00001). Bruxismo del sueño: 40 % frente a 7,5 % (p < 0,001). Sin diferencias en ninguna variable oclusal (p > 0,05).
+- **Límites metodológicos / confusores (solo los relevantes):** Apnea y bruxismo por cribado, sin polisomnografía según el resumen.
+- **Otros resultados relevantes (si los hay):** Las variables de oclusión no difieren entre grupos.
+- **Aportación del estudio:** Reúne en una misma muestra con TDAH riesgo de apnea, bruxismo y oclusión.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1177/10870547231226139).
+
+---
+
+<!-- archivo: fuentes/articulos/2024-andreucodina-enuresis-apnea-arcadas.md -->
+# Estudio: The Relationship between Nocturnal Enuresis and Obstructive Sleep Apnea in Children
+
+- **ID:** ANDREUCODINA2024
+- **Autores, año y revista:** Andreu-Codina M; Nikolic-Jovanovic D; Esteller E et al. Children (Basel) 2024;11(9).
+- **DOI / PMID / URL:** DOI `10.3390/children11091148`; PMID `39334680`; https://pmc.ncbi.nlm.nih.gov/articles/PMC11430803/
+- **Tipo de estudio:** Estudio con grupo control.
+- **Población y tamaño muestral:** 298 niños de 2 a 12 años: 51 con apnea y enuresis, 79 con apnea sin enuresis y 168 controles.
+- **Definición diagnóstica y técnicas:** Apnea por polisomnografía. Enuresis: al menos un episodio al mes. Anchura de arcadas al inicio y al año.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Enuresis, efecto de la adenoamigdalectomía y anchura de arcadas.
+- **Resultados NUMÉRICOS verificados:** Enuresis 39,2 % con apnea frente a 28 % en controles (p = 0,04). Mejoró el 49 % tras la cirugía. Arcadas más estrechas con apnea (p = 0,012), sobre todo con enuresis.
+- **Aportación del estudio:** Une en un mismo estudio enuresis, apnea y arcadas estrechas.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/children11091148).
 
 ---
 
@@ -9760,6 +10381,28 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Correlaciones de Spearman entre movilidad y fuerza. [Ver en el artículo](https://doi.org/10.1007/s40368-024-00938-y), figura 1.
+
+---
+
+<!-- archivo: fuentes/articulos/2024-huynh-bruxismo-ninos-scoping.md -->
+# Estudio: Sleep bruxism in children and adolescents-A scoping review
+
+- **ID:** HUYNH2024
+- **Autores, año y revista:** Huynh N; Fabbro CD. J Oral Rehabil 2024;51(1):103-109.
+- **DOI / PMID / URL:** DOI `10.1111/joor.13603`; PMID `37743603`
+- **Tipo de estudio:** Revisión de alcance.
+- **Población y tamaño muestral:** 144 publicaciones.
+- **Definición diagnóstica y técnicas:** Medline, últimos 20 años.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Prevalencia, fisiopatología, diagnóstico y manejo.
+- **Resultados NUMÉRICOS verificados:** Prevalencia del 5 al 50 % según edad y criterio. Factores de riesgo: problemas de conducta, apnea, ronquido, pesadillas, alergias y respiración oral.
+- **Aportación del estudio:** Sitúa la apnea y la respiración oral entre los factores de riesgo de bruxismo.
+- **Licencia y derechos:** Licencia CC BY-NC según Europe PMC. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1111/joor.13603).
 
 ---
 
@@ -10228,6 +10871,28 @@ Es un caso clínico de una sola paciente: todas las figuras (fotos, radiografía
 
 ---
 
+<!-- archivo: fuentes/articulos/2024-zhang-facies-adenoidea-revision.md -->
+# Estudio: Adenoid facies: a long-term vicious cycle of mouth breathing, adenoid hypertrophy, and atypical craniofacial development
+
+- **ID:** ZHANG2024
+- **Autores, año y revista:** Zhang J; Fu Y; Wang L et al. Front Public Health 2024;12:1494517.
+- **DOI / PMID / URL:** DOI `10.3389/fpubh.2024.1494517`; PMID `39726660`; https://pmc.ncbi.nlm.nih.gov/articles/PMC11669592/
+- **Tipo de estudio:** Revisión.
+- **Población y tamaño muestral:** No aplica.
+- **Definición diagnóstica y técnicas:** PubMed, IEEE y Web of Science, 20 años hasta septiembre de 2024.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Hipertrofia adenoidea, respiración oral y desarrollo craneofacial.
+- **Resultados NUMÉRICOS verificados:** Hipertrofia adenoidea con prevalencia del 49,7 %. Rasgos: resalte aumentado, mordida cruzada posterior, paladar alto, arcadas estrechas y altura facial desproporcionada.
+- **Aportación del estudio:** Describe la facies adenoidea y su relación con la respiración oral.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3389/fpubh.2024.1494517).
+
+---
+
 <!-- archivo: fuentes/articulos/2025-ashley-belleza-ia.md -->
 # Estudio: What Does it Mean to Be Beautiful? Exploring the Limits of AI-Driven Beauty Assessment
 
@@ -10303,6 +10968,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 - **Figura 1.** Recomendaciones de tratamiento según quién las dio. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2025.112306), figura 1.
 - **Figura 2.** Tratamientos recomendados con varios frenillos. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2025.112306), figura 2.
 - **Figura 3.** Coste del tratamiento quirúrgico y no quirúrgico. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2025.112306), figura 3.
+
+---
+
+<!-- archivo: fuentes/articulos/2025-cai-amigdalas-mordida-cruzada-clase-iii.md -->
+# Estudio: The influence of different tonsillar hypertrophy types on dentofacial and craniofacial development in children with mixed dentition
+
+- **ID:** CAI2025
+- **Autores, año y revista:** Cai CS; Li H; Huang Y et al. BMC Oral Health 2025;25(1):1881.
+- **DOI / PMID / URL:** DOI `10.1186/s12903-025-07350-y`; PMID `41316242`; https://pmc.ncbi.nlm.nih.gov/articles/PMC12683797/
+- **Tipo de estudio:** Estudio retrospectivo.
+- **Población y tamaño muestral:** 275 niños en dentición mixta de dos hospitales.
+- **Definición diagnóstica y técnicas:** Métodos de Brodsky y Baroni. Grupos: leve (A), transversal (B), anteroposterior (C), combinada (D). Análisis de Jarabak.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Oclusión anterior y clase esquelética.
+- **Resultados NUMÉRICOS verificados:** Mordida cruzada anterior: C 16,67 % y D 21,77 %, frente a A y B 0 %. Clase III esquelética: C 30,95 % y D 34,01 %, frente a A 2,78 % y B 6,00 % (p < 0,05). D2: SNB 78,75 ± 3,92 y ANB -0,03 ± 3,65.
+- **Límites metodológicos / confusores (solo los relevantes):** Retrospectivo.
+- **Otros resultados relevantes (si los hay):** La obstrucción transversal tiene un impacto esquelético mínimo.
+- **Aportación del estudio:** Vincula la obstrucción amigdalar anteroposterior con mordida cruzada anterior y clase III.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY-NC-ND. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed y texto completo en PMC revisados el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1186/s12903-025-07350-y).
 
 ---
 
@@ -10428,6 +11117,29 @@ Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/P
 Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Diagrama de inclusión y aleatorización. [Ver en el artículo](https://doi.org/10.1016/j.joms.2025.04.006), figura 1.
+
+---
+
+<!-- archivo: fuentes/articulos/2025-eisa-bruxismo-apnea-temporal.md -->
+# Estudio: Sleep bruxism and pediatric obstructive sleep apnea: exploring their chronological overlap and clinical significance
+
+- **ID:** EISA2025
+- **Autores, año y revista:** Eisa E; Yanez-Regonesi F; Okeson JP et al. Sleep Breath 2025;29(6):352.
+- **DOI / PMID / URL:** DOI `10.1007/s11325-025-03518-6`; PMID `41217663`
+- **Tipo de estudio:** Revisión retrospectiva de polisomnografías.
+- **Población y tamaño muestral:** 72 niños y adolescentes de 6 a 17 años con apnea.
+- **Definición diagnóstica y técnicas:** Polisomnografía con electromiografía submentoniana.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Relación temporal entre actividad masticatoria rítmica y apneas-hipopneas.
+- **Resultados NUMÉRICOS verificados:** Bruxismo del sueño 43,1 %. El 61 % de los episodios tuvo relación temporal con apneas-hipopneas (antes 54 %, después 46 %). Más tiempo en sueño ligero con bruxismo.
+- **Límites metodológicos / confusores (solo los relevantes):** Sin causalidad confirmada; la asociación parece indirecta.
+- **Aportación del estudio:** Apunta a un mecanismo compartido ligado al despertar.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1007/s11325-025-03518-6).
 
 ---
 
@@ -10702,6 +11414,29 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2025-lin-tdah-polisomnografia.md -->
+# Estudio: The Role of Polysomnography for Children with Attention-Deficit/Hyperactivity Disorder
+
+- **ID:** LIN2025
+- **Autores, año y revista:** Lin CH; Wu PY; Hong SY et al. Life (Basel) 2025;15(4).
+- **DOI / PMID / URL:** DOI `10.3390/life15040678`; PMID `40283232`; https://pmc.ncbi.nlm.nih.gov/articles/PMC12029080/
+- **Tipo de estudio:** Serie retrospectiva.
+- **Población y tamaño muestral:** 36 niños (29 niños y 7 niñas) de 6 a 14 años con TDAH y quejas de sueño.
+- **Definición diagnóstica y técnicas:** TDAH según DSM-5. Polisomnografía nocturna, 2021-2024.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Parámetros de sueño y trastornos detectados.
+- **Resultados NUMÉRICOS verificados:** Ronquido significativo 77,78 %. Apnea obstructiva 50 %. Ocho con parasomnias, seis de ellos con bruxismo. Tres con movimientos periódicos de piernas, dos narcolepsias.
+- **Límites metodológicos / confusores (solo los relevantes):** Sin grupo control; todos tenían quejas de sueño.
+- **Aportación del estudio:** Los autores recomiendan polisomnografía en niños con TDAH y alteraciones importantes del sueño.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/life15040678).
+
+---
+
 <!-- archivo: fuentes/articulos/2025-necus-herramientas-diagnostico.md -->
 # Estudio: Assessment of tongue structure and function in infants for the diagnosis of ankyloglossia: A systematic review
 
@@ -10882,6 +11617,28 @@ Figuras no revisadas. [Ver el artículo](https://doi.org/10.1002/ppul.70993).
 
 ---
 
+<!-- archivo: fuentes/articulos/2025-yu-ronquido-calidad-vida-funcion-ejecutiva.md -->
+# Estudio: Symptoms, Quality of Life, and Executive Function in Children Who Snore
+
+- **ID:** YU2025
+- **Autores, año y revista:** Yu PK; Cook K; Tapia IE et al. JAMA Otolaryngol Head Neck Surg 2025;151(2):151-159.
+- **DOI / PMID / URL:** DOI `10.1001/jamaoto.2024.4373`; PMID `39699925`; https://pmc.ncbi.nlm.nih.gov/articles/PMC11826363/
+- **Tipo de estudio:** Análisis secundario transversal del ensayo PATS.
+- **Población y tamaño muestral:** 459 niños, edad media 6,1 ± 2,3 años.
+- **Definición diagnóstica y técnicas:** OSA-18, PSQ-SRBD, BRIEF y GoNoGo.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Función ejecutiva, calidad de vida y síntomas.
+- **Resultados NUMÉRICOS verificados:** Correlación de BRIEF con PSQ-SRBD r = 0,58 (IC 0,51-0,64) y con OSA-18 r = 0,59 (IC 0,52-0,64). Asociación mantenida tras ajustar, también por TDAH (β 3,66 y 0,41).
+- **Aportación del estudio:** Los cuestionarios de síntomas pueden señalar a los niños en riesgo de disfunción ejecutiva.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1001/jamaoto.2024.4373).
+
+---
+
 <!-- archivo: fuentes/articulos/2025-zhao-hipertrofia-adenoamigdalar-morfologia.md -->
 # Estudio: Is adenotonsillar hypertrophy associated with dentofacial morphology? A systematic review and meta-analyses
 
@@ -10927,6 +11684,29 @@ No incorporadas ni evaluadas. [Original](https://doi.org/10.1016/j.ajodo.2025.04
 ## Figuras
 
 No reproducidas. [Fuente original](https://doi.org/10.1007/s41105-026-00682-4).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-but-trs-conducta-ortodoncia.md -->
+# Estudio: Sleep-Disordered Breathing and Behavioral Symptoms in Pediatric Orthodontic Patients: A Multicenter Cross-Sectional Study
+
+- **ID:** BUT2026
+- **Autores, año y revista:** But VM; Roșu SN; Bica CI et al. J Clin Med 2026;15(9).
+- **DOI / PMID / URL:** DOI `10.3390/jcm15093386`; PMID `42123119`; https://pmc.ncbi.nlm.nih.gov/articles/PMC13163897/
+- **Tipo de estudio:** Transversal multicéntrico.
+- **Población y tamaño muestral:** 186 niños de 7 a 13 años en consultas de ortodoncia de Rumanía.
+- **Definición diagnóstica y técnicas:** PSQ de 22 ítems, TRS con ≥ 8 positivas. Cribado de conducta referido por los padres, no diagnóstico.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** TDAH, oposicionismo, conducta, ansiedad y depresión.
+- **Resultados NUMÉRICOS verificados:** Respiración bucal 61,8 %, ronquido 26,9 %, TRS 13,4 %. Con TRS: TDAH combinado OR 6,22, hiperactivo-impulsivo OR 5,84, oposicionismo OR 4,91, ansiedad o depresión OR 4,38.
+- **Límites metodológicos / confusores (solo los relevantes):** Por cuestionario, sin medida objetiva del sueño.
+- **Aportación del estudio:** Propone cribar sueño y vía aérea en la consulta de ortodoncia.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/jcm15093386).
 
 ---
 
@@ -11048,6 +11828,29 @@ No incorporadas ni evaluadas. [Original](https://doi.org/10.1016/j.sleep.2026.10
 ## Figuras
 
 Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/PMC12783447/).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-deng-apnea-clase-ii-frente-clase-iii.md -->
+# Estudio: Comparison of craniofacial skeletal morphology in pediatric obstructive sleep apnea-hypopnea syndrome patients with class II and class III malocclusions: a retrospective cross-sectional study
+
+- **ID:** DENG2026
+- **Autores, año y revista:** Deng L; Song H. Front Pediatr 2026;14:1682284.
+- **DOI / PMID / URL:** DOI `10.3389/fped.2026.1682284`; PMID `41867941`; https://pmc.ncbi.nlm.nih.gov/articles/PMC12999884/
+- **Tipo de estudio:** Transversal retrospectivo.
+- **Población y tamaño muestral:** 299 niños de 10 a 12 años con apnea: 150 de clase II y 149 de clase III.
+- **Definición diagnóstica y técnicas:** Análisis de Jarabak y Ricketts.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Morfología craneofacial.
+- **Resultados NUMÉRICOS verificados:** En clase III: ANB -2,8 ± 2,6° (clase II 5,6 ± 1,9°), MP/FH 32,9 ± 2,99° (37,3 ± 2,65°), Hy-C3 5,8 ± 0,9 mm (3,4 ± 0,4 mm).
+- **Límites metodológicos / confusores (solo los relevantes):** Sin grupo sin apnea.
+- **Aportación del estudio:** Describe la morfología de niños con apnea y clase III frente a clase II.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3389/fped.2026.1682284).
 
 ---
 
@@ -11559,6 +12362,29 @@ No incorporadas ni evaluadas. [Original](https://doi.org/10.1016/j.ijporl.2026.1
 ## Figuras
 
 No incorporadas ni auditadas. [Artículo original](https://doi.org/10.3390/healthcare14121737).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-turgeman-apnea-neurocognicion-metaanalisis.md -->
+# Estudio: Neurocognitive deficits in children with polysomnographically confirmed obstructive sleep apnea: A systematic review and meta-analysis
+
+- **ID:** TURGEMAN2026
+- **Autores, año y revista:** Turgeman D; Mazzawi S. Int J Pediatr Otorhinolaryngol 2026;209:112989.
+- **DOI / PMID / URL:** DOI `10.1016/j.ijporl.2026.112989`; PMID `42628447`
+- **Tipo de estudio:** Revisión sistemática y metaanálisis.
+- **Población y tamaño muestral:** 6 estudios, 436 niños (249 con apnea, 187 controles sin ronquido), en edad escolar.
+- **Definición diagnóstica y técnicas:** Apnea confirmada con polisomnografía (IAH ≥ 1). TDAH excluido. Búsqueda hasta julio de 2026.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Test neuropsicológicos estandarizados.
+- **Resultados NUMÉRICOS verificados:** g de Hedges 0,67 (IC 95 % 0,44-0,90; p < 0,001). I² = 25 %. Dejando fuera un estudio cada vez: g de 0,58 a 0,77. Afecta a función ejecutiva, memoria de trabajo, inteligencia y procesamiento fonológico.
+- **Límites metodológicos / confusores (solo los relevantes):** Pocos estudios; los autores piden prudencia con la heterogeneidad.
+- **Aportación del estudio:** Déficit cognitivo moderado en la apnea confirmada, medido en niños sin TDAH.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.ijporl.2026.112989).
 
 ---
 
