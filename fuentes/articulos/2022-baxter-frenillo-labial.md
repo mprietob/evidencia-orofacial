@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la frenectomía labial temprana no impidió el cierre del diastema en esta serie. No: Decir que la frenectomía cierra el diastema: falta comparación con la evolución natural.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.ortho.2022.100630).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.ortho.2022.100630).

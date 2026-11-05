@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la evidencia en apnea es modesta y no mejora. No: Generalizar a toda la literatura.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1002/lary.27075).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1002/lary.27075).

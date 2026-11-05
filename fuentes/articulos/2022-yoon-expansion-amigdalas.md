@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que tras la expansión las amígdalas y adenoides se redujeron en esta cohorte. No: Afirmar que la expansión sustituye a la cirugía de amígdalas.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 

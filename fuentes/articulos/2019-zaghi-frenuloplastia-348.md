@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Que la técnica parece segura en manos de este equipo y que muchos pacientes refieren mejoría. No: Atribuir la mejoría a la cirugía frente a la terapia o al placebo. Los autores piden estudios con medidas objetivas.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026.
 
 ## Figuras
 

@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar un método objetivo para medir la función de la lengua. No: Sacar conclusiones de eficacia.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 

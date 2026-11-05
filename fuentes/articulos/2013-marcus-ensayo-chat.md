@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** El resultado principal (atención medida con test) fue negativo.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que operar mejora la conducta, el sueño y la calidad de vida, pero no la atención medida con test. No: Decir que operar mejora el TDAH.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 

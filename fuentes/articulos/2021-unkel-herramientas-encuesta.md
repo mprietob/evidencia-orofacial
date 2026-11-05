@@ -13,11 +13,11 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en la práctica se decide sobre todo por el aspecto. No: Concluir qué herramienta es mejor.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Caso de frenillo en cordón. [Ver en el artículo](https://pubmed.ncbi.nlm.nih.gov/34937624/), figura 1.
 - **Figura 2.** Caso de frenillo en hebra. [Ver en el artículo](https://pubmed.ncbi.nlm.nih.gov/34937624/), figura 2.

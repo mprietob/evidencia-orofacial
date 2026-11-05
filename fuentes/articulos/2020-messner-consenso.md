@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** Criticado en [GHAHERI2020](2020-ghaheri-lacking-consensus.md). Kummer 2025 lo cita para decir que la anquiloglosia no suele afectar al habla.
 - **Conclusión que sí permite / que no permite:** Sí: citar la postura de la otorrinolaringología pediátrica estadounidense en 2020, su definición funcional y que no pudo recomendar ninguna escala diagnóstica. No: presentarlo como evidencia empírica de que la anquiloglosia no tiene efectos. Es opinión de expertos.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos, resumen propio y citas cortas.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Texto completo leído el 02/11/2026 (copia en PDF disponible en la web; no se redistribuye). Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Texto completo leído el 02/11/2026 (copia en PDF disponible en la web; no se redistribuye).
 
 ## Figuras
 

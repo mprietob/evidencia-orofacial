@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Apoyar que la exploración tiene que ser con la lengua elevada. No: Usarla como evidencia cuantitativa.
 - **Licencia y derechos:** Acceso abierto CC BY-NC (según el PDF).
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 

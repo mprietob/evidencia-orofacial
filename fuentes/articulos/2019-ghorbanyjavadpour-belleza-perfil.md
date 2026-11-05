@@ -13,11 +13,11 @@
 - **Hallazgos contrarios o no significativos:** Sexo y edad no influyeron.
 - **Conclusión que sí permite / que no permite:** Sí: Describir qué perfiles se juzgan más atractivos en esa población. No: Generalizar a otras poblaciones.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 2.** Análisis de Epker. [Ver en el artículo](https://doi.org/10.1016/j.ajodo.2018.07.020), figura 2.
 - **Figura 3.** Análisis de Legan-Burstone. [Ver en el artículo](https://doi.org/10.1016/j.ajodo.2018.07.020), figura 3.

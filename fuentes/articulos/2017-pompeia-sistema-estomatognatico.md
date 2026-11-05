@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** No hay unanimidad sobre la cirugía precoz.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el consenso de autores sobre efectos funcionales. No: Usarlo como prueba de crecimiento.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 

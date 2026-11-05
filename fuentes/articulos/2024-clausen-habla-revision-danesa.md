@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar que el debate sobre habla y frenotomía es público en Dinamarca. No: Usarla como prueba.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.61409/V11230699).
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.61409/V11230699).

@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** Ver [MESSNER2020](2020-messner-consenso.md).
 - **Conclusión que sí permite / que no permite:** Sí: Documentar que el consenso de 2020 fue discutido por clínicos que tratan anquiloglosia. No: Usarla como evidencia clínica.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Solo metadatos PubMed (17/10/2026). Texto pendiente. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Solo metadatos PubMed (17/10/2026). Texto pendiente.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1177/0194599820937299).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/0194599820937299).

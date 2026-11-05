@@ -2,7 +2,7 @@
 
 Copias sin modificar de figuras de artículos publicados con licencia **CC BY** (Creative Commons Atribución). Esa licencia permite copiar y redistribuir si se cita a los autores y la licencia. Por eso cada fila lleva su crédito.
 
-- Origen: conjunto de acceso abierto de PubMed Central (descarga del 18/10/2026).
+-
 - Licencia comprobada el 02/11/2026 en Europe PMC: los 11 artículos figuran como «cc by» y de acceso abierto. La versión exacta de la licencia (por ejemplo 4.0) es la que indica cada artículo en su página.
 - Aquí no hay fotos de pacientes, de bocas, de caras ni de cadáveres. Esas figuras solo se enlazan desde la ficha del artículo, aunque su licencia permita copiarlas.
 - Las figuras de Mills 2020 son cortes histológicos vistos al microscopio. No permiten identificar a nadie.

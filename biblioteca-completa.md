@@ -5515,11 +5515,11 @@ En adultos, Zaghi enseña una técnica de deglución que no usa el "spot" (papil
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Situar la primera descripción de apnea infantil con poligrafía y sus síntomas. No: Sacar cifras de prevalencia ni de tratamiento.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI en PubMed. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI en PubMed.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/934781/).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/934781/).
 
 ---
 
@@ -5535,7 +5535,7 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1043/0003-3219(1978)048<0175:ETRFIP>2.0.CO;2).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1043/0003-3219(1978)048<0175:ETRFIP>2.0.CO;2).
 
 ---
 
@@ -5555,11 +5555,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** La adaptación fue variable entre animales.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la respiración oral forzada cambia la forma de la cara en primates. No: Trasladar magnitudes a niños.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/0002-9416(81)90379-1).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/0002-9416(81)90379-1).
 
 ---
 
@@ -5579,11 +5579,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el estudio clásico sobre qué compone la clase II. No: Usar las cifras antes de comprobarlas en el original.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Solo metadatos PubMed (17/10/2026). Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Solo metadatos PubMed (17/10/2026).
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1043/0003-3219(1981)051<0177:COCIMI>2.0.CO;2).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1043/0003-3219(1981)051<0177:COCIMI>2.0.CO;2).
 
 ---
 
@@ -5603,11 +5603,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Situar el origen de la CPAP nasal. No: Sacar conclusiones sobre niños o crecimiento facial.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/s0140-6736(81)92140-1).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/s0140-6736(81)92140-1).
 
 ---
 
@@ -5624,7 +5624,7 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1111/j.1096-3642.1985.tb01178.x).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1111/j.1096-3642.1985.tb01178.x).
 
 ---
 
@@ -5644,11 +5644,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** El resumen no evalúa el efecto sobre el crecimiento facial.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el estudio pionero de CPAP en niños. No: Usarlo sobre crecimiento facial, que no estudia.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos. En estudios-citados.md figuraba como candidato «discrepante»: es J Pediatr, no Pediatrics.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/s0022-3476(95)70262-8).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/s0022-3476(95)70262-8).
 
 ---
 
@@ -5668,11 +5668,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** Ver YOON2017SB.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el origen de la clasificación por longitud más usada. No: Usar la longitud como medida de función.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/10635253/).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/10635253/).
 
 ---
 
@@ -5714,11 +5714,11 @@ No examinadas. [Estudio original](https://doi.org/10.1001/archotol.126.1.36).
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Definir el UARS y recomendar valorar maxilares en niños con trastorno respiratorio del sueño. No: Usarla como prueba de frecuencias.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1053/spen.2001.29045).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1053/spen.2001.29045).
 
 ---
 
@@ -5760,11 +5760,11 @@ No examinadas. [Artículo original](https://doi.org/10.1067/mhn.2002.129731).
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Describir la frenotomía en consulta. No: Generalizar.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/14523332/).
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/14523332/).
 
 ---
 
@@ -5784,11 +5784,11 @@ Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `
 - **Hallazgos contrarios o no significativos:** Ver CORDRAY2023.
 - **Conclusión que sí permite / que no permite:** Sí: Citar la postura de la logopedia oficial estadounidense en 2005. No: Usarlo como evidencia empírica.
 - **Licencia y derechos:** Derechos de ASHA. Solo metadatos.
-- **Estado de lectura:** Metadatos comprobados en Crossref (17/10/2026). Origen: notas de trabajo de Marta.
+- **Estado de lectura:** Metadatos comprobados en Crossref (17/10/2026).
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1044/leader.ftr2.10172005.6).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1044/leader.ftr2.10172005.6).
 
 ---
 
@@ -5857,7 +5857,7 @@ Fig. 1: flujo de inclusión (3.490 → 148 → 49 casos/98 controles). [Ver orig
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1242/jeb.007096).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1242/jeb.007096).
 
 ---
 
@@ -5877,11 +5877,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que los ejercicios orofaríngeos redujeron la apnea moderada frente a placebo en este ensayo. No: Extrapolar a niños o a apnea grave.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1164/rccm.200806-981OC).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1164/rccm.200806-981OC).
 
 ---
 
@@ -5937,11 +5937,11 @@ No copiadas; [fuente original](https://doi.org/10.1007/s00784-009-0367-0).
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en niños con trastorno respiratorio del sueño los rasgos craneofaciales de riesgo son casi universales. No: Afirmar causa.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos. En estudios-citados.md figuraba como candidato no coincidente para la idea de la «boca semiabierta»; esta ficha recoge lo que el artículo sí dice. Volumen y páginas PENDIENTE DE VERIFICAR.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1007/s11325-011-0504-2).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1007/s11325-011-0504-2).
 
 ---
 
@@ -5961,11 +5961,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el origen de la clasificación del frenillo labial y su técnica láser. No: Afirmar eficacia.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 3.** Frenillos labiales de clase II a IV que pueden afectar a la lactancia. [Ver en el artículo](https://doi.org/10.1007/BF03262789), figura 3.
 
@@ -5987,11 +5987,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Consulta de método de análisis facial. No: Citarlo sin completar la referencia.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** PDF de la biblioteca revisado el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** texto completo revisado el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 8.** Tipos de cara: dolicofacial, mesofacial y braquifacial. Sin enlace público.
 - **Figura 18.** Vertical por subnasal en posición natural de la cabeza. Sin enlace público.
@@ -6014,7 +6014,7 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que ronquido, respiración oral y apneas en los primeros años predicen más hiperactividad después, aunque los síntomas hayan desaparecido. No: Afirmar causalidad.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
@@ -6076,11 +6076,11 @@ No reproducidas. [Texto original](https://doi.org/10.1007/s00455-011-9383-8).
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar un protocolo que combina anatomía y función. No: Afirmar su precisión diagnóstica.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/23367525/).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/23367525/).
 
 ---
 
@@ -6100,11 +6100,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el protocolo («Teste da Linguinha») para lactantes. No: Aplicarlo a niños mayores o adultos.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/23362754/).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/23362754/).
 
 ---
 
@@ -6124,11 +6124,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Plantear que la terapia miofuncional podría prevenir recaídas. No: Afirmarlo como efecto causal demostrado.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.sleep.2013.01.013).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.sleep.2013.01.013).
 
 ---
 
@@ -6148,7 +6148,7 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** El resultado principal (atención medida con test) fue negativo.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que operar mejora la conducta, el sueño y la calidad de vida, pero no la atención medida con test. No: Decir que operar mejora el TDAH.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
@@ -6175,11 +6175,11 @@ Licencia del artículo: Manuscrito de autor; uso según «fair use» (no permite
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Documentar que muchas anquiloglosias derivadas eran posteriores. No: Afirmar eficacia frente a no tratar.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 2.** Lactante de un mes con anquiloglosia tipo IV. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2013.02.022), figura 2.
 
@@ -6201,11 +6201,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar un resumen general del síndrome de respiración oral. No: Usarlo como evidencia primaria.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** PDF de la biblioteca revisado el 17/10/2026; sin DOI ni PMID localizados. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** texto completo revisado el 17/10/2026; sin DOI ni PMID localizados.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. Sin enlace público.
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. Sin enlace público.
 
 ---
 
@@ -6225,11 +6225,11 @@ Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `
 - **Hallazgos contrarios o no significativos:** Un corte de IAH más alto se asoció a efectos más pequeños.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que los síntomas de TDAH se asocian a respirar mal durmiendo y que mejoran tras operar. No: Decir que el TDAH sea un trastorno del sueño.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.smrv.2013.12.003).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.smrv.2013.12.003).
 
 ---
 
@@ -6249,7 +6249,7 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la terapia miofuncional reduce la apnea y puede servir como complemento. No: Presentarla como sustituto de otros tratamientos en apnea grave.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
@@ -6275,11 +6275,11 @@ Figuras no extraídas: la versión de PMC no se puede leer por la API. [Ver el a
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la estimulación del hipogloso reduce la apnea en pacientes seleccionados. No: Compararla con otras terapias.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1002/lary.25032).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1002/lary.25032).
 
 ---
 
@@ -6299,13 +6299,13 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** Conclusión: datos insuficientes.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en 2015 la evidencia era insuficiente para efectos fuera de la lactancia. No: Decir que no hay efecto.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
 Licencia del artículo: Derechos del editor. No se copian imágenes.
 
-- **Figura 1.** Diagrama de selección de artículos (del PDF de la biblioteca). [Ver en el artículo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9923517/).
+- **Figura 1.** Diagrama de selección de artículos (del texto completo). [Ver en el artículo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9923517/).
 
 ---
 
@@ -6349,11 +6349,11 @@ Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/P
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que el EPAP nasal reduce la apnea de media. No: Predecir quién responde; una resistencia nasal alta podría asociarse a fracaso.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1155/2015/734798).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1155/2015/734798).
 
 ---
 
@@ -6397,11 +6397,11 @@ Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/P
 - **Hallazgos contrarios o no significativos:** Las formas leves y moderadas no se relacionaron con apiñamiento ni oclusión.
 - **Conclusión que sí permite / que no permite:** Sí: Citar un estudio negativo con criterio de longitud. No: Usarlo contra la restricción funcional.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Frenillo corto y grueso. [Ver en el artículo](https://doi.org/10.3290/j.ohpd.a32135), figura 1.
 - **Figura 2.** Medida de la lengua libre con calibre. [Ver en el artículo](https://doi.org/10.3290/j.ohpd.a32135), figura 2.
@@ -6425,11 +6425,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar la asociación entre frenillo corto y maxilar estrecho con criterio de Kotlow. No: Afirmar causa.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.4103/0970-9290.172044).
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.4103/0970-9290.172044).
 
 ---
 
@@ -6449,11 +6449,11 @@ Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la expansión temprana redujo la apnea en la mayoría, sobre todo si se empieza pronto. No: Decir que la expansión sola cura: más de la mitad quedó con apnea residual.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos. En estudios-citados.md figuraba como candidato para una afirmación de Zaghi que este estudio no confirma.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.sleep.2014.11.019).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.sleep.2014.11.019).
 
 ---
 
@@ -6473,11 +6473,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la expansión maxilar podría mejorar la apnea en adultos. No: Darlo por demostrado con tan pocos pacientes.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.jcms.2016.02.001).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.jcms.2016.02.001).
 
 ---
 
@@ -6497,11 +6497,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la amigdalectomía aislada funciona en adultos con amígdalas grandes y apnea leve o moderada. No: Extenderla a apnea grave.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1002/lary.25931).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1002/lary.25931).
 
 ---
 
@@ -6521,11 +6521,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que el tamaño de cornetes no predijo la presión de CPAP. No: Generalizar a pacientes operados.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1155/2016/5951273).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1155/2016/5951273).
 
 ---
 
@@ -6545,11 +6545,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Solo citarlo como existente. No: Dar cifras.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Solo metadatos PubMed (17/10/2026). Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Solo metadatos PubMed (17/10/2026).
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1007/s00405-016-3929-1).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1007/s00405-016-3929-1).
 
 ---
 
@@ -6569,11 +6569,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la minitraqueostomía en apnea es una propuesta sin datos. No: Usarla como tratamiento probado.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1155/2016/7195349).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1155/2016/7195349).
 
 ---
 
@@ -6593,11 +6593,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Citar un método rápido de estimar presión de CPAP. No: Sustituir la titulación.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1155/2016/7380874).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1155/2016/7380874).
 
 ---
 
@@ -6617,11 +6617,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que el fármaco cambia lo que se ve en la endoscopia del sueño. No: Saber cuál refleja mejor el sueño natural.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1177/0194599815625972).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/0194599815625972).
 
 ---
 
@@ -6640,9 +6640,8 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Límites metodológicos / confusores:** Retrospectivo. Criterio por longitud. Sin grupo sin síntomas.
 - **Hallazgos contrarios o no significativos:** Según Koento 2026, la diferencia de IAH fue pequeña (13,1 frente a 11,4) y solo en varones.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que el frenillo corto aparece con frecuencia en niños con apnea sin amígdalas grandes y que suele ser familiar. Los autores piden cribar apnea al ver un frenillo corto. No: Afirmar que el frenillo corto cause la apnea.
-- **Lectura de Marta o del equipo (INTERPRETACION):** [Observación de consulta de Marta, notas de trabajo] «Los padres casi siempre lo tienen igual». El dato familiar de este estudio va en esa línea.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026.
 
 ## Figuras
 
@@ -6669,7 +6668,7 @@ Licencia del artículo: CC BY-NC 4.0 (no permite copiar aquí). Figuras en PubMe
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar una referencia anatómica del suelo de boca. No: Usarla para diagnosticar anquiloglosia.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -6700,11 +6699,11 @@ Crédito: figuras de Mahboub F; Kimyai S; Molavi E (PMC5237674), CC BY 4.0. Las 
 - **Hallazgos contrarios o no significativos:** La curación completa es minoritaria (38,5 %), sobre todo con IAH previo >60.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que el MMA reduce mucho la apnea en adultos y que pocos llegan a curación completa. No: Aplicarlo a niños o a otras cirugías.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1001/jamaoto.2015.2678).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1001/jamaoto.2015.2678).
 
 ---
 
@@ -6724,11 +6723,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Definir la catatrenia. No: Recomendar tratamientos: los citados (respiración, yoga, terapia miofuncional) son ideas para investigar.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.5664/jcsm.6556).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.5664/jcsm.6556).
 
 ---
 
@@ -6748,11 +6747,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la cirugía de base de lengua reduce la apnea en niños complejos. No: Aplicarlo a niños sanos.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1007/s00405-017-4545-4).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1007/s00405-017-4545-4).
 
 ---
 
@@ -6772,11 +6771,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la expansión rápida mejora la apnea infantil a corto plazo. No: Separar su efecto del crecimiento y la resolución espontánea.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1002/lary.26352).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1002/lary.26352).
 
 ---
 
@@ -6796,11 +6795,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que estas técnicas mejoran la apnea en Pierre Robin. No: Aplicarlas fuera de ese síndrome.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1017/S0022215117000056).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1017/S0022215117000056).
 
 ---
 
@@ -6820,11 +6819,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la uvulopalatoplastia láser da malos resultados y que los autores desaconsejan hacerla. No: Extenderlo a otras cirugías de paladar.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1093/sleep/zsx004).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1093/sleep/zsx004).
 
 ---
 
@@ -6844,11 +6843,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Comparar fármacos para endoscopia del sueño. No: Saber cuál refleja el sueño natural.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1007/s11325-017-1465-x).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1007/s11325-017-1465-x).
 
 ---
 
@@ -6891,13 +6890,12 @@ Figuras no revisadas. [Ver el documento](https://portal.guiasalud.es/wp-content/
 - **Límites metodológicos / confusores:** Grabaciones de archivo. El mecanismo de los subarmónicos se infiere de un imitador.
 - **Hallazgos contrarios o no significativos:** No confirma las «cuatro octavas».
 - **Conclusión que sí permite / que no permite:** Sí: Decir que lo distintivo de su voz se explica por laringe y técnica. El estudio no habla de los dientes. No: Sacar conclusiones sobre su boca o su frenillo.
-- **Lectura de Marta o del equipo (INTERPRETACION):** [Marta, 17/10/2026, notas de trabajo] No cree que sus dientes contribuyeran a su voz; si acaso, el frenillo la habría perjudicado. Es opinión, no dato del estudio.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (allí «Herbst 2016» por la fecha online).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.3109/14015439.2016.1156737).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.3109/14015439.2016.1156737).
 
 ---
 
@@ -6917,11 +6915,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Citar la técnica. No: Concluir eficacia.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1177/0194599816670366).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/0194599816670366).
 
 ---
 
@@ -6941,11 +6939,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que el avance mandibular aislado funciona en adultos con mandíbula insuficiente seleccionados. No: Generalizar.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.jcms.2017.10.006).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.jcms.2017.10.006).
 
 ---
 
@@ -6989,7 +6987,7 @@ Figuras no revisadas. [Ver el documento](https://doi.org/10.1002/14651858.CD0110
 - **Hallazgos contrarios o no significativos:** No hay unanimidad sobre la cirugía precoz.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el consenso de autores sobre efectos funcionales. No: Usarlo como prueba de crecimiento.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -7015,11 +7013,11 @@ El artículo no tiene figuras en la versión de PMC. [Artículo](https://pmc.ncb
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que estas cirugías reducen la apnea en series pequeñas. No: Recomendarlas con seguridad.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1002/lary.26218).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1002/lary.26218).
 
 ---
 
@@ -7031,12 +7029,12 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - Objetivo: asociaciones entre movilidad lingual y rasgos maxilofaciales.
 - Limitación principal: la asociación transversal no distingue qué factor apareció antes ni prueba un mecanismo causal.
 - Criterio diagnóstico de anquiloglosia: MIXTO. Movilidad funcional con TRMR y longitud con la lengua libre de Kotlow (resumen PubMed revisado el 17/10/2026). Ambas medidas se asociaron a arcada maxilar estrecha y paladar blando largo.
-- Complemento desde el PDF de la biblioteca de Marta (17/10/2026): confirma que la movilidad se gradúa con TRMR (grado 1 >80 %, 2 de 50 a 80 %, 3 <50 %, 4 <25 %) y que se mide también la lengua libre de Kotlow. La cifra del «7,6 % de varianza» que circula en el corpus de Zaghi no se ha localizado en el PDF: `PENDIENTE DE VERIFICAR`.
+- Complemento desde el texto completo (17/10/2026): confirma que la movilidad se gradúa con TRMR (grado 1 >80 %, 2 de 50 a 80 %, 3 <50 %, 4 <25 %) y que se mide también la lengua libre de Kotlow. La cifra del «7,6 % de varianza» que circula en el corpus de Zaghi no se ha localizado en el PDF: `PENDIENTE DE VERIFICAR`.
 - Estado: metadatos y resumen verificados; revisar íntegramente criterios diagnósticos, variables y ajustes.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.1111/ocr.12206).
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.1111/ocr.12206).
 
 ---
 
@@ -7060,7 +7058,7 @@ Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1007/s11325-016-1452-7).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1007/s11325-016-1452-7).
 
 ---
 
@@ -7080,11 +7078,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la terapia miofuncional reduce el ronquido en adultos. No: Extrapolar a niños.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1007/s00405-017-4848-5).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1007/s00405-017-4848-5).
 
 ---
 
@@ -7104,11 +7102,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la evidencia en apnea es modesta y no mejora. No: Generalizar a toda la literatura.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1002/lary.27075).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1002/lary.27075).
 
 ---
 
@@ -7128,11 +7126,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la vitamina D es más baja en la apnea. No: Saber la dirección: el IMC podría explicarlo.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.sleep.2017.10.016).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.sleep.2017.10.016).
 
 ---
 
@@ -7152,11 +7150,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que el avance o la distracción mandibular mejoran mucho la apnea en niños con mandíbula insuficiente. No: Extenderlo a niños sin esa anomalía.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.jcms.2018.04.027).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.jcms.2018.04.027).
 
 ---
 
@@ -7176,11 +7174,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Plantear una neuropatía del paladar en la progresión de ronquido a apnea. No: Afirmar causa.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.amjoto.2018.03.006).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.amjoto.2018.03.006).
 
 ---
 
@@ -7200,11 +7198,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Citar la viabilidad de medir el ciclo nasal durante el sueño. No: Concluir efectos clínicos.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.5664/jcsm.7062).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.5664/jcsm.7062).
 
 ---
 
@@ -7224,11 +7222,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Citar la escala propuesta. No: Concluir sobre tratamiento.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1111/coa.13054).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1111/coa.13054).
 
 ---
 
@@ -7248,11 +7246,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Describir tendencias de la cirugía esquelética de la apnea. No: Concluir eficacia.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.jcms.2018.11.005).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.jcms.2018.11.005).
 
 ---
 
@@ -7272,11 +7270,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que el MMA mantiene la mejoría años después, aunque a muy largo plazo el IAH sube. No: Generalizar con tan pocos pacientes.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1177/0194599818815158).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/0194599818815158).
 
 ---
 
@@ -7296,11 +7294,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** Sexo y edad no influyeron.
 - **Conclusión que sí permite / que no permite:** Sí: Describir qué perfiles se juzgan más atractivos en esa población. No: Generalizar a otras poblaciones.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 2.** Análisis de Epker. [Ver en el artículo](https://doi.org/10.1016/j.ajodo.2018.07.020), figura 2.
 - **Figura 3.** Análisis de Legan-Burstone. [Ver en el artículo](https://doi.org/10.1016/j.ajodo.2018.07.020), figura 3.
@@ -7324,11 +7322,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Ilustrar la frenuloplastia como complemento de la terapia miofuncional. No: Generalizar.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1155/2019/3408053).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1155/2019/3408053).
 
 ---
 
@@ -7369,7 +7367,7 @@ Disponibles en el [original Wiley](https://onlinelibrary.wiley.com/doi/full/10.1
 - Relevancia: fundamento anatómico de la hipótesis H-001.
 - No sirve para: demostrar que esa fascia desplaza la mandíbula hacia atrás en reposo ni explicar cambios clínicos tras frenotomía.
 - Criterio diagnóstico de anquiloglosia: NO APLICA: estudio anatómico o biomecánico, no diagnostica anquiloglosia.
-- Complemento desde el PDF de la biblioteca de Marta (17/10/2026): el PDF coincide con la versión abierta de PMC usada en esta ficha.
+- Complemento desde el texto completo (17/10/2026): el PDF coincide con la versión abierta de PMC usada en esta ficha.
 - Estado: texto primario y hallazgos principales revisados; ficha biomecánica detallada pendiente.
 
 ## Figuras
@@ -7422,7 +7420,7 @@ La figura 11 es la más útil para explicar qué es el frenillo.
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Que la técnica parece segura en manos de este equipo y que muchos pacientes refieren mejoría. No: Atribuir la mejoría a la cirugía frente a la terapia o al placebo. Los autores piden estudios con medidas objetivas.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026.
 
 ## Figuras
 
@@ -7510,11 +7508,11 @@ No copiadas ni verificadas visualmente. [Manuscrito de autor](https://scholarwor
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que el alcohol empeora el ronquido y la apnea en personas susceptibles. No: Cuantificar el efecto en bebedores habituales.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1177/0194599820931087).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/0194599820931087).
 
 ---
 
@@ -7534,11 +7532,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Citar detalles técnicos del MMA. No: Concluir sobre resultados respiratorios.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1007/s00784-019-03017-5).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1007/s00784-019-03017-5).
 
 ---
 
@@ -7558,7 +7556,7 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** La anatomía del frenillo, sola, no se asoció.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en niños con apnea persistente tras la cirugía pesa la función de la lengua más que la longitud del frenillo. No: Afirmar causalidad.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
@@ -7584,11 +7582,11 @@ Figuras no extraídas: la versión de PMC no se puede leer por la API. [Ver el a
 - **Hallazgos contrarios o no significativos:** Ver MESSNER2020.
 - **Conclusión que sí permite / que no permite:** Sí: Documentar que el consenso de 2020 fue discutido por clínicos que tratan anquiloglosia. No: Usarla como evidencia clínica.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Solo metadatos PubMed (17/10/2026). Texto pendiente. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Solo metadatos PubMed (17/10/2026). Texto pendiente.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1177/0194599820937299).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/0194599820937299).
 
 ---
 
@@ -7643,7 +7641,7 @@ No reproducidas. [Original abierto en PMC](https://pmc.ncbi.nlm.nih.gov/articles
 - **Hallazgos contrarios o no significativos:** Criticado en GHAHERI2020. Kummer 2025 lo cita para decir que la anquiloglosia no suele afectar al habla.
 - **Conclusión que sí permite / que no permite:** Sí: citar la postura de la otorrinolaringología pediátrica estadounidense en 2020, su definición funcional y que no pudo recomendar ninguna escala diagnóstica. No: presentarlo como evidencia empírica de que la anquiloglosia no tiene efectos. Es opinión de expertos.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos, resumen propio y citas cortas.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Texto completo leído el 02/11/2026 (copia en PDF disponible en la web; no se redistribuye). Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Texto completo leído el 02/11/2026 (copia en PDF disponible en la web; no se redistribuye).
 
 ## Figuras
 
@@ -7733,11 +7731,11 @@ No examinadas. [Artículo original](https://doi.org/10.1016/j.ijporl.2020.110035
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar la postura prudente: evaluación multidisciplinar antes de operar. No: Usarla como prueba de daño.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Esquema anatómico del frenillo como pliegue de la fascia (basado en Mills). [Ver en el artículo](https://doi.org/10.1007/s00431-020-03705-5), figura 1.
 
@@ -7759,11 +7757,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en esta serie seleccionada la apnea y la obstrucción nasal mejoraron tras DOME. No: Comparar DOME con otros tratamientos ni generalizar a todos los adultos con apnea.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.sleep.2019.06.002).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.sleep.2019.06.002).
 
 ---
 
@@ -7816,7 +7814,7 @@ No incorporadas. [Fuente original](https://doi.org/10.3390/app11062520).
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar un método objetivo para medir la función de la lengua. No: Sacar conclusiones de eficacia.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -7874,11 +7872,11 @@ Figuras no revisadas. [Ver el documento](https://doi.org/10.1089/bfm.2021.29179.
 - **Hallazgos contrarios o no significativos:** Cifras muy por encima de otras series.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que buscando de forma activa, incluidas las formas posteriores, la prevalencia es mucho mayor de lo descrito. No: Equiparar frenillo visible con restricción funcional.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Tipos de anquiloglosia según Coryllos. [Ver en el artículo](https://doi.org/10.1007/s00431-020-03781-7), figura 1.
 - **Figura 2.** Herramienta de Hazelbaker (HATLFF). [Ver en el artículo](https://doi.org/10.1007/s00431-020-03781-7), figura 2.
@@ -7902,11 +7900,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** 5 de los 23 no tenían ninguno de los tres hallazgos.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que amígdalas grandes, lengua restringida y nariz obstruida se asocian, y parecen sumarse, al bruxismo infantil. No: Afirmar causa.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.sleep.2020.11.007).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.sleep.2020.11.007).
 
 ---
 
@@ -7926,11 +7924,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Usar los seis signos como lista de cribado en consulta dental. No: Diagnosticar apnea ni afirmar que la anquiloglosia cause trastorno del sueño.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI en PubMed. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI en PubMed.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/34467840/).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/34467840/).
 
 ---
 
@@ -7950,11 +7948,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** Ver O-003.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que no hay pruebas sólidas de que las extracciones reduzcan la vía aérea medida. No: Decir que está demostrado que no la afectan.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.ajodo.2021.03.013).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.ajodo.2021.03.013).
 
 ---
 
@@ -7974,11 +7972,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Plantear el ODI 4 % ≥15/h como apoyo al diagnóstico en adultos. No: Sustituir la polisomnografía: hay mucha heterogeneidad.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1002/lary.28663).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1002/lary.28663).
 
 ---
 
@@ -7998,7 +7996,7 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Usar la cuchara como medida sencilla de fuerza lingual. No: Darla por plenamente validada.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -8032,7 +8030,7 @@ La figura 3 muestra a una persona: solo enlace.
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Describir la evolución tras frenotomía. No: Atribuir la mejoría del reflujo a la cirugía.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -8063,11 +8061,11 @@ La figura 2 es de bocas de lactantes: solo enlace.
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en la práctica se decide sobre todo por el aspecto. No: Concluir qué herramienta es mejor.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Caso de frenillo en cordón. [Ver en el artículo](https://pubmed.ncbi.nlm.nih.gov/34937624/), figura 1.
 - **Figura 2.** Caso de frenillo en hebra. [Ver en el artículo](https://pubmed.ncbi.nlm.nih.gov/34937624/), figura 2.
@@ -8083,7 +8081,7 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - Punto metodológico: TIP evalúa principalmente punta/anterior; LPS intenta caracterizar elevación funcional del cuerpo lingual posterior mediante succión palatina.
 - Limitación: medir función no establece por sí mismo que el frenillo sea la única causa de una puntuación reducida.
 - Criterio diagnóstico de anquiloglosia: FUNCIONAL. TRMR con punta a la papila (TIP) y con succión lingual-palatina (LPS) en 611 sujetos de 3 a 83 años. LPS se correlacionó mucho mejor que TIP con la dificultad para elevar el cuerpo de la lengua (R² 0,31 frente a 0,05; resumen PubMed revisado el 17/10/2026).
-- Complemento desde el PDF de la biblioteca de Marta (17/10/2026): escala de grados del texto completo. TRMR-TIP: grado 1 >80 %, 2 de 50 a 80 %, 3 <50 %, 4 <25 %. TRMR-LPS: grado 1 >60 %, 2 de 30 a 60 %, 3 <30 %, 4 <5 % o no puede sostenerla. Valores medios de 611 sujetos: apertura cómoda 43,7 ± 7,3 mm, TRMR-TIP 61,5 %, TRMR-LPS 41,4 %; de 12 a 17 años 61,0 % y 45,4 %; de 18 a 35 años 67,7 % y 46,1 %. Los autores avisan de que la medida puede ser poco fiable de 3 a 11 años y con apertura limitada. Voluntarios reclutados entre amigos, familia, colegas y clientes de los investigadores. Estudio dirigido y financiado por The Breathe Institute.
+- Complemento desde el texto completo (17/10/2026): escala de grados del texto completo. TRMR-TIP: grado 1 >80 %, 2 de 50 a 80 %, 3 <50 %, 4 <25 %. TRMR-LPS: grado 1 >60 %, 2 de 30 a 60 %, 3 <30 %, 4 <5 % o no puede sostenerla. Valores medios de 611 sujetos: apertura cómoda 43,7 ± 7,3 mm, TRMR-TIP 61,5 %, TRMR-LPS 41,4 %; de 12 a 17 años 61,0 % y 45,4 %; de 18 a 35 años 67,7 % y 46,1 %. Los autores avisan de que la medida puede ser poco fiable de 3 a 11 años y con apertura limitada. Voluntarios reclutados entre amigos, familia, colegas y clientes de los investigadores. Estudio dirigido y financiado por The Breathe Institute.
 - Estado: artículo cargado previamente por investigadora en su biblioteca; aquí se enlaza DOI en lugar de copiar PDF. Revisión detallada pendiente.
 
 ## Figuras
@@ -8142,7 +8140,7 @@ Figuras no revisadas. [Ver el documento](https://www.aapd.org/globalassets/media
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la cara sigue cambiando hasta la sexta década. No: Extrapolar a pacientes con maloclusión.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -8174,11 +8172,11 @@ Licencia del artículo: CC BY-NC-ND 4.0 (no permite copiar aquí). Figuras en Pu
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la frenectomía labial temprana no impidió el cierre del diastema en esta serie. No: Decir que la frenectomía cierra el diastema: falta comparación con la evolución natural.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.ortho.2022.100630).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.ortho.2022.100630).
 
 ---
 
@@ -8198,11 +8196,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la cifra de prevalencia depende sobre todo del instrumento usado. No: Dar una prevalencia única.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Diagrama PRISMA. [Ver en el artículo](https://doi.org/10.1016/j.adaj.2022.07.011), figura 1.
 - **Figura 2.** Metaanálisis de prevalencia por herramienta diagnóstica. [Ver en el artículo](https://doi.org/10.1016/j.adaj.2022.07.011), figura 2.
@@ -8225,7 +8223,7 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Describir un protocolo de frenotomía láser con buena tolerancia. No: Comparar con tijera o con no tratar.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -8282,7 +8280,7 @@ Figuras no revisadas. [Ver el documento](https://iapdworld.org/management-of-ank
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar variación étnica de una referencia anatómica. No: Diagnosticar anquiloglosia.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -8309,7 +8307,7 @@ Licencia del artículo: CC BY-NC-SA 4.0 (no permite copiar aquí). Figuras en Pu
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que tras la expansión las amígdalas y adenoides se redujeron en esta cohorte. No: Afirmar que la expansión sustituye a la cirugía de amígdalas.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
@@ -8337,7 +8335,7 @@ Licencia del artículo: Manuscrito de autor; uso según «fair use» (no permite
 - **Hallazgos contrarios o no significativos:** Asocia el frenillo a la clase III, no a la II.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en adultos la morfología del frenillo difiere según la clase esquelética. No: Afirmar dirección causal.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -8404,12 +8402,12 @@ Figuras del original CC BY, pero no incorporadas: [texto y PDF editor](https://w
 - **Hallazgos contrarios o no significativos:** Kummer 2025 le acusa de errores de cita y omisiones sobre el habla. Ver KUMMER2025.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el mapa de síntomas que se han descrito tras la lactancia. No: Decir que demuestra efectos sobre el habla.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Complemento desde el PDF de la biblioteca de Marta (17/10/2026):** la tabla de características del PDF recoge métodos diagnósticos muy distintos entre los 26 estudios: Kotlow, Coryllos, protocolo de lactantes, Bristol, Hazelbaker modificado, TRMR, elevación y protrusión, y valoración manual o visual no estandarizada. El recuento exacto por método no se puede leer con seguridad en el texto extraído: `PENDIENTE DE VERIFICAR`.
+- **Complemento desde el texto completo (17/10/2026):** la tabla de características del PDF recoge métodos diagnósticos muy distintos entre los 26 estudios: Kotlow, Coryllos, protocolo de lactantes, Bristol, Hazelbaker modificado, TRMR, elevación y protrusión, y valoración manual o visual no estandarizada. El recuento exacto por método no se puede leer con seguridad en el texto extraído: `PENDIENTE DE VERIFICAR`.
 - **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Autores de Emory y Children's Healthcare of Atlanta. Ojo: en notas de trabajo previas se atribuía al «grupo de Zaghi»; PubMed no lo respalda (Zaghi no figura entre los autores).
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Diagrama PRISMA de inclusión. [Ver en el artículo](https://doi.org/10.1044/2023_AJSLP-23-00169), figura 1.
 
@@ -8431,11 +8429,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** En adultos la tendencia del área mínima es a la baja, aunque no significativa.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que no se ha demostrado más riesgo de colapso de vía aérea con extracciones. No: Decir que el riesgo es cero.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.3290/j.cjdr.b3978679).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.3290/j.cjdr.b3978679).
 
 ---
 
@@ -8455,7 +8453,7 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** Zaghi lo critica en sus charlas por preferir cirugía de tejido blando a la expansión; que el consenso recomiende eso PENDIENTE DE VERIFICAR.
 - **Conclusión que sí permite / que no permite:** Sí: Citar qué opina un panel de ORL sobre la apnea persistente. No: Presentarlo como evidencia de eficacia.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
@@ -8481,11 +8479,11 @@ Figuras no extraídas: la versión de PMC no se puede leer por la API. [Ver el a
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar un protocolo interdisciplinar en español. No: Usarlo como validado.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Exploración anatómica del frenillo. [Ver en el artículo](https://doi.org/10.1097/SCS.0000000000009523), figura 1.
 
@@ -8534,11 +8532,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** Relevancia clínica dudosa.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que hay una reducción pequeña y a corto plazo del dolor. No: Decir que el beneficio está demostrado.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.61409/A06240378).
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.61409/A06240378).
 
 ---
 
@@ -8558,12 +8556,12 @@ Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `
 - **Hallazgos contrarios o no significativos:** Los propios encuestados piden más investigación, clasificación y protocolos.
 - **Conclusión que sí permite / que no permite:** Sí: Describir cómo se diagnostica hoy en la práctica y la falta de consenso. No: Concluir que el frenillo bucal cause síntomas o que liberarlo funcione.
 - **Licencia y derechos:** Acceso abierto (Wiley). Licencia PENDIENTE DE VERIFICAR.
-- **Complemento desde el PDF de la biblioteca de Marta (17/10/2026):** el PDF coincide con el resumen fichado.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Complemento desde el texto completo (17/10/2026):** el PDF coincide con el resumen fichado.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.1111/joor.13609).
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.1111/joor.13609).
 
 ---
 
@@ -8583,7 +8581,7 @@ Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `
 - **Hallazgos contrarios o no significativos:** Los autores piden valorar también la movilidad y el paladar.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que hay asociación entre anquiloglosia y apnea infantil, y que el paladar ojival pesa más. No: Afirmar causa.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -8613,11 +8611,11 @@ Crédito: figuras de Camañes-Gonzalvo S; Montiel-Company JM; Paredes-Gallardo V
 - **Hallazgos contrarios o no significativos:** Contrasta con Melong 2024 y Kummer 2025. Ver O-004.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en estudios no controlados se describe mejora del habla tras frenectomía. No: Decir que está demostrado.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Proceso de la revisión. [Ver en el artículo](https://doi.org/10.1177/00034894241236234), figura 1.
 - **Figura 3.** Diagrama de bosque: mejora del habla en menores de 5 años. [Ver en el artículo](https://doi.org/10.1177/00034894241236234), figura 3.
@@ -8641,11 +8639,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar que el debate sobre habla y frenotomía es público en Dinamarca. No: Usarla como prueba.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.61409/V11230699).
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.61409/V11230699).
 
 ---
 
@@ -8665,11 +8663,11 @@ Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el desequilibrio entre investigación en tratamiento y en prevención. No: Recomendar medidas concretas.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Diagrama PRISMA. [Ver en el artículo](https://doi.org/10.1093/sleep/zsae164), figura 1.
 
@@ -8691,7 +8689,7 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar la idea de la lengua como compensadora y moldeadora de arcadas. No: Usarla como evidencia.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -8724,7 +8722,7 @@ La figura 3 reproduce una clasificación de terceros: solo enlace.
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar la cifra de apnea persistente y que existe una guía oficial con opciones más allá de la cirugía. No: Atribuirle recomendaciones concretas sin leer el texto.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Las seis opciones PENDIENTE DE VERIFICAR. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Las seis opciones PENDIENTE DE VERIFICAR.
 
 ## Figuras
 
@@ -8750,11 +8748,11 @@ Figuras no extraídas: la versión de PMC no se puede leer por la API. [Ver el a
 - **Hallazgos contrarios o no significativos:** Ninguna diferencia en lactancia exclusiva ni total.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en esta cohorte brasileña la anquiloglosia no se asoció a menor duración de la lactancia. No: Extrapolar a restricciones posteriores o a otras funciones.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 2.** Lactancia exclusiva y total según anquiloglosia. [Ver en el artículo](https://doi.org/10.1089/bfm.2023.0182), figura 2.
 
@@ -8776,11 +8774,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el enfoque antropométrico en medicina estética. No: Generalizar.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Metadatos comprobados en Crossref; PDF de la biblioteca. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Metadatos comprobados en Crossref; texto completo.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Proporciones en visión frontal. [Ver en el artículo](https://doi.org/10.48158/MEDICINAESTETICA.080.02), figura 1.
 - **Figura 2.** Visión lateral general. [Ver en el artículo](https://doi.org/10.48158/MEDICINAESTETICA.080.02), figura 2.
@@ -8803,11 +8801,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** La restricción anterior no se asoció a la fuerza.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la restricción posterior es más frecuente que la anterior y que se asocia a menos fuerza lingual. No: Afirmar causa.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Correlaciones de Spearman entre movilidad y fuerza. [Ver en el artículo](https://doi.org/10.1007/s40368-024-00938-y), figura 1.
 
@@ -8859,11 +8857,11 @@ No se reproducen; [documento original](https://doi.org/10.52010/ijom.2024.50.2.3
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar un modelo de consulta especializada para limitar el sobretratamiento. No: Concluir eficacia.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Formulario de derivación a la consulta. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2023.111843), figura 1.
 - **Figura 2.** Hoja de valoración del frenillo. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2023.111843), figura 2.
@@ -8888,11 +8886,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en esta serie el dolor referido bajó tras la frenotomía. No: Atribuirlo a la frenotomía frente a la evolución natural.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Cuestionario inicial. [Ver en el artículo](https://doi.org/10.1007/s00431-024-05799-7), figura 1.
 - **Figura 2.** Cuestionario de seguimiento. [Ver en el artículo](https://doi.org/10.1007/s00431-024-05799-7), figura 2.
@@ -8920,7 +8918,7 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** En la tabla 8, Yoon informa **sin asociación** para medidas mandibulares como SN–Mn y H–Mn con TRMR o Kotlow (p>0,05); la tabla 7 presenta varios desenlaces sin diferencias significativas. La relación con el hioides se clasifica de certeza **muy baja**. No se ha demostrado un efecto de frenotomía en los estudios incluidos.
 - **Conclusión que sí permite / que no permite:** Sí: los estudios disponibles describen asociaciones inciertas entre medidas de anquiloglosia y algunas dimensiones dentoalveolares o tipos de oclusión. No: afirmar causalidad, que la frenotomía modifica el crecimiento ni recomendar edades de cirugía basándose en esos datos. **La conclusión editorial de los autores sobre intervenir a los 4 años o aplazar según clase II NO está probada por los estudios que seleccionaron.**
 - **Licencia y derechos:** Acceso abierto **CC BY 4.0**. Resumen editorial propio y enlaces, sin copiar tablas/figuras protegidas o ajenas.
-- **Complemento desde el PDF de la biblioteca de Marta (17/10/2026):** el PDF coincide con el texto de PMC usado en la ficha.
+- **Complemento desde el texto completo (17/10/2026):** el PDF coincide con el texto de PMC usado en la ficha.
 - **Estado de lectura:** Texto completo abierto examinado el **03/11/2026**, incluidos PECOS, tablas 1, 7–11, GRADE y discusión; fuente [PDF editorial de acceso abierto](https://www.mdpi.com/2077-0383/14/1/81/pdf?version=1735291066). La ficha conserva la referencia al trabajo de lectura anterior.
 
 ## Figuras
@@ -8955,7 +8953,7 @@ Crédito: figuras de Kotarska M; Wądołowska A; Sarul M; Kawala B; Lis J (PMC11
 - **Hallazgos contrarios o no significativos:** En el grupo operado un **10 % no alcanzó la deglución normal** según autores, principalmente por maloclusión severa. No se ha demostrado en estos datos que la frenuloplastia modifique el esqueleto ni mejore apnea medida por PSG.
 - **Conclusión que sí permite / que no permite:** Sí: un estudio controlado clínico informó mejores **indicadores funcionales observados** tras frenuloplastia + terapia que tras terapia aislada, en una cohorte seleccionada con TRMR. **No** demostrar un efecto causal libre de sesgo, ni modificación de crecimiento maxilomandibular, ni mejoría de apnea objetiva. Las frases del artículo acerca de «restaurar el equilibrio del esqueleto» sobrepasan las variables medidas.
 - **Licencia y derechos:** Acceso abierto, CC BY (según PMC).
-- **Complemento desde el PDF de la biblioteca de Marta (17/10/2026):** el PDF lo presenta como ensayo aleatorizado prospectivo; la asignación por orden de entrada sigue siendo la del resumen. Cifras de tablas: `PENDIENTE DE VERIFICAR`.
+- **Complemento desde el texto completo (17/10/2026):** el PDF lo presenta como ensayo aleatorizado prospectivo; la asignación por orden de entrada sigue siendo la del resumen. Cifras de tablas: `PENDIENTE DE VERIFICAR`.
 - **Estado de lectura:** Resumen, métodos completos accesibles y pasajes de resultados del artículo abierto cotejados el **03/11/2026** ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11432234/)); **auditoría íntegra de tablas y cegamiento PENDIENTE DE VERIFICAR**. No registrar como lectura exhaustiva. Origen inicial: estudios citados en vídeos de Zaghi.
 
 ## Figuras
@@ -9000,11 +8998,11 @@ Los porcentajes de postura labial (86 % A; 8,5 % mejoría B), deglución (90 % n
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que las herramientas estándar parecen aplicables en UCI neonatal. No: Generalizar a niños mayores.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Hoja de registro en la historia electrónica. [Ver en el artículo](https://doi.org/10.1002/lary.31615), figura 1.
 - **Figura 2.** Diseño y selección. [Ver en el artículo](https://doi.org/10.1002/lary.31615), figura 2.
@@ -9031,11 +9029,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en esta serie la frenotomía no mejoró el habla al mes y que la mayoría de errores eran de la edad. No: Generalizar a niños con restricción funcional definida por TRMR o a seguimientos largos.
 - **Interpretación editorial:** Para comparar grupos es importante comprobar si se seleccionó por aspecto del frenillo o por limitación funcional; el resumen de este estudio no permite cerrar esa cuestión.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1177/01455613211064045).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/01455613211064045).
 
 ---
 
@@ -9089,7 +9087,7 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 
 - **Hallazgos contrarios o no significativos:** No hay una asociación agregada concluyente entre longitud/inserción del frenillo y clase de Angle; en algunas variables mandibulares Yoon no encontró asociación. Estos negativos cuentan, pero su alcance se limita a los constructos estudiados.
 - **Conclusión que sí permite / que no permite:** La revisión identifica **incertidumbre** por evidencia de baja/muy baja certeza. Permite comunicar algunos resultados significativos específicos y otros no concluyentes. No demuestra ni que la anquiloglosia cause de forma generalizada maloclusión ni que una restricción funcional correctamente caracterizada **no pueda** influir sobre el crecimiento maxilar. Tampoco evalúa la eficacia preventiva de frenectomía, ni responde a preguntas de sueño, lactancia o postura.
-- **Lectura de Marta o del equipo (INTERPRETACION):** Lectura editorial 03/11/2026: al contestar una objeción, distinguir qué variable se midió, qué resultado fue positivo o nulo y la certeza; los problemas diagnósticos no invalidan automáticamente los negativos ni justifican afirmar causalidad positiva.
+- **Interpretación (INTERPRETACION, no es resultado del estudio):** Lectura editorial 03/11/2026: al contestar una objeción, distinguir qué variable se midió, qué resultado fue positivo o nulo y la certeza; los problemas diagnósticos no invalidan automáticamente los negativos ni justifican afirmar causalidad positiva.
 - **Licencia y derechos:** Copyright American Dental Association/Elsevier. Ficha redactada como síntesis original; no se adjuntan PDF, tablas ni figuras de la editorial.
 - **Estado de lectura:** Texto completo y material suplementario (especialmente eTables 5-7 y figuras 3-4) consultados el 03/11/2026 a partir de ejemplar facilitado para análisis. Los 11 originales no han sido reanalizados a texto completo como parte de esta ficha.
 
@@ -9115,11 +9113,11 @@ Examinadas las figuras de metaanálisis en el texto completo; no se reproducen p
 - **Hallazgos contrarios o no significativos:** La frenectomía no mejoró la apnea ni la calidad de vida.
 - **Conclusión que sí permite / que no permite:** Sí: Citar un ensayo pequeño, con criterio funcional, sin beneficio sobre la apnea. No: Concluir que la frenectomía no sirve en apnea: falta potencia.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Ejercicio «pintar» con la lengua. [Ver en el artículo](https://doi.org/10.1007/s00784-024-05932-8), figura 1.
 - **Figura 2.** Ejercicio de comisuras. [Ver en el artículo](https://doi.org/10.1007/s00784-024-05932-8), figura 2.
@@ -9146,11 +9144,11 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Ilustrar el abordaje combinado. No: Concluir eficacia.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Caso 1: antes, durante y después del láser. [Ver en el artículo](https://doi.org/10.1136/bcr-2024-262067), figura 1.
 - **Figura 2.** Caso 2. [Ver en el artículo](https://doi.org/10.1136/bcr-2024-262067), figura 2.
@@ -9237,9 +9235,8 @@ No se reproducen figuras editoriales ni el algoritmo; [informe original](https:/
 - **Límites metodológicos / confusores:** Un solo caso.
 - **Hallazgos contrarios o no significativos:** Los autores lo llaman prognatismo maxilar, pero su SNA está en la norma y el SNB muy por debajo: la diferencia viene sobre todo de la mandíbula retrasada.
 - **Conclusión que sí permite / que no permite:** Sí: Usarlo como ejemplo ilustrado de clase II con resalte grande y proinclinación. No: Generalizar.
-- **Lectura de Marta o del equipo (INTERPRETACION):** [Marta, 17/10/2026, notas de trabajo] No lo ve como prognatismo maxilar: el maxilar se ve retruso en la telerradiografía y lo que hay es proinclinación de incisivos y cuello adelantado. Ojo: el SNA publicado (82,6°) es normal; la retrusión es lectura de Marta sobre la imagen.
 - **Licencia y derechos:** CC BY 4.0 (según notas de trabajo, sin verificar). Se puede reutilizar citando.
-- **Estado de lectura:** Resumen PubMed y tabla cefalométrica del texto completo (PMC) revisados el 17/10/2026. Origen: notas de trabajo de Marta.
+- **Estado de lectura:** Resumen PubMed y tabla cefalométrica del texto completo (PMC) revisados el 17/10/2026.
 
 ## Figuras
 
@@ -9275,7 +9272,7 @@ Es un caso clínico de una sola paciente: todas las figuras (fotos, radiografía
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar los límites de medir la belleza de forma objetiva. No: Usarlo como evidencia.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -9301,11 +9298,11 @@ Figuras no extraídas: la versión de PMC no se puede leer por la API. [Ver el a
 - **Hallazgos contrarios o no significativos:** Los autores lo leen como posible sobrediagnóstico.
 - **Conclusión que sí permite / que no permite:** Sí: Citar la preocupación por sobrediagnóstico en lactantes. No: Medir prevalencia real.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Recomendaciones de tratamiento según quién las dio. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2025.112306), figura 1.
 - **Figura 2.** Tratamientos recomendados con varios frenillos. [Ver en el artículo](https://doi.org/10.1016/j.ijporl.2025.112306), figura 2.
@@ -9353,11 +9350,11 @@ Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/P
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citarlo como estudio preliminar de cambios del paladar tras frenectomía y terapia. No: Afirmar crecimiento esquelético demostrado.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Apertura máxima y medidas en modelo. [Ver en el artículo](https://doi.org/10.23804/ejpd.2024.2143), figura 1.
 - **Figura 3.** Medidas en el modelo. [Ver en el artículo](https://doi.org/10.23804/ejpd.2024.2143), figura 3.
@@ -9404,11 +9401,11 @@ Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/P
 - **Hallazgos contrarios o no significativos:** Resultado negativo.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en este ensayo la frenotomía no mejoró de inmediato la lactancia ni el dolor frente a simulación. No: Concluir sobre efectos a días o semanas.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Diagrama de inclusión y aleatorización. [Ver en el artículo](https://doi.org/10.1016/j.joms.2025.04.006), figura 1.
 
@@ -9430,7 +9427,7 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el P
 - **Hallazgos contrarios o no significativos:** Sin impacto clínicamente relevante.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en esta cohorte la anquiloglosia al nacer no redujo la autoeficacia materna a los 14 días. No: Concluir sobre efectos a largo plazo.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -9504,7 +9501,7 @@ Figuras no revisadas.
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Apoyar que la exploración tiene que ser con la lengua elevada. No: Usarla como evidencia cuantitativa.
 - **Licencia y derechos:** Acceso abierto CC BY-NC (según el PDF).
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -9530,7 +9527,7 @@ Licencia del artículo: CC BY-NC 4.0 (no permite copiar aquí). Figuras en PubMe
 - **Hallazgos contrarios o no significativos:** Disminución de la prominencia nasal en todos.
 - **Conclusión que sí permite / que no permite:** Sí: Citar cómo cambia la estética según el tipo de cirugía. No: Extraer conclusiones funcionales.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -9557,7 +9554,7 @@ Licencia del artículo: CC BY-NC-ND 4.0 (no permite copiar aquí). Figuras en Pu
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar cambios de la mandíbula con la edad independientes de la pérdida dental. No: Inferir cambios individuales.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -9588,7 +9585,7 @@ Licencia del artículo: CC BY-NC-ND 4.0 (no permite copiar aquí). Figuras en Pu
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Ilustrar la técnica. No: Concluir eficacia.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -9622,7 +9619,7 @@ Fotos de pacientes y clasificaciones reproducidas de terceros: solo enlace.
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el fenotipo craneofacial asociado al trastorno respiratorio del sueño infantil. No: Usarla como prueba causal.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -9681,7 +9678,7 @@ Figuras no revisadas.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1044/2024_AJSLP-24-00231).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1044/2024_AJSLP-24-00231).
 
 ---
 
@@ -9729,7 +9726,7 @@ Figuras no revisadas.
 - **Hallazgos contrarios o no significativos:** Ver COPPELSON2023 y O-003.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que, de media y medidas en CBCT, las extracciones apenas cambian la vía aérea. No: Decir que no cambian la función respiratoria ni la postura con que el paciente compensa.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026.
 
 ## Figuras
 
@@ -9757,7 +9754,7 @@ Licencia del artículo: CC BY-NC-ND 4.0 (no permite copiar aquí). Figuras en Pu
 - **Hallazgos contrarios o no significativos:** El reflujo mejora solo con el tiempo.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que no hay pruebas sólidas de que la frenotomía mejore el reflujo. No: Decir que está demostrado que no lo mejora.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
@@ -9783,11 +9780,11 @@ Licencia del artículo: CC BY-NC 4.0 (no permite copiar aquí). Figuras en PubMe
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que las madres de lactantes con anquiloglosia describen más complicaciones y estrés. No: Atribuir esos efectos solo al frenillo.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Diagrama de la revisión sistemática. [Ver en el artículo](https://doi.org/10.1007/s10995-025-04102-w), figura 1.
 
@@ -10121,11 +10118,11 @@ Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/P
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en adultos frenillo corto, poca movilidad y mandíbula pequeña y retrasada van juntos. No: Decir que el frenillo «hace» la mandíbula pequeña.
 - **Interpretación editorial:** El estudio explora asociaciones entre movilidad lingual, frenillo y morfología mandibular mediante medidas de la familia TRMR; la dirección de la relación queda como pregunta de investigación.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Texto completo leído por Marta (PDF vía ClinicalKey, 15/10/2026); los datos que no están en el resumen salen de esa lectura. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Texto completo revisado (PDF vía ClinicalKey, 15/10/2026); los datos que no están en el resumen salen de esa lectura.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1007/s11325-026-03618-x).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1007/s11325-026-03618-x).
 
 ---
 
@@ -10172,13 +10169,13 @@ Un comentarista podría presentar el mayor índice respiratorio de los niños co
 - **Límites metodológicos / confusores:** Estudios transversales, cuestionarios, muestras pequeñas y posible sesgo de publicación.
 - **Hallazgos contrarios o no significativos:** La longitud del frenillo sola no se asocia en los estudios con polisomnografía.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que hay asociación entre anquiloglosia y trastorno respiratorio del sueño en niños, y que pesa más la movilidad que la longitud. No: Afirmar causa.
-- **Lectura de Marta o del equipo (INTERPRETACION):** [Lectura del equipo, 15/10/2026] Brożek-Mądry 2021 y Burska 2022 son del mismo grupo con grupos casi idénticos: probablemente la misma muestra contada dos veces. Frase de contenido: «No es lo corto que sea el frenillo, es lo que se mueve la lengua».
+- **Interpretación (INTERPRETACION, no es resultado del estudio):** [Lectura del equipo, 15/10/2026] Brożek-Mądry 2021 y Burska 2022 son del mismo grupo con grupos casi idénticos: probablemente la misma muestra contada dos veces. Frase de contenido: «No es lo corto que sea el frenillo, es lo que se mueve la lengua».
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** PubMed sin resumen. Texto completo leído por Marta (PDF vía ClinicalKey, 15/10/2026); las cifras salen de esa lectura y PENDIENTE DE VERIFICAR antes de publicarlas. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** PubMed sin resumen. Texto completo revisado (PDF vía ClinicalKey, 15/10/2026); las cifras salen de esa lectura y PENDIENTE DE VERIFICAR antes de publicarlas.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.ijporl.2026.112717).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.ijporl.2026.112717).
 
 ---
 
@@ -10198,11 +10195,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** Las medidas objetivas de TDAH no salen significativas.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que tras operar mejoran la conducta referida y algo la función ejecutiva. No: Decir que mejoran las medidas objetivas de TDAH.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.amjoto.2026.104886).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.amjoto.2026.104886).
 
 ---
 
@@ -10222,11 +10219,11 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en 
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Recomendar valorar la apnea en niños con síntomas de TDAH. No: Usar el 44 % como dato preciso sin revisar el intervalo.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1177/10870547261426094).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/10870547261426094).
 
 ---
 
@@ -10294,11 +10291,11 @@ Figuras no revisadas.
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Ilustrar una consecuencia práctica de la anquiloglosia en adultos. No: Generalizar.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Anquiloglosia restrictiva en quirófano. [Ver en el artículo](https://doi.org/10.1177/01455613231223355), figura 1.
 - **Figura 2.** Visión de la glotis tras la frenotomía. [Ver en el artículo](https://doi.org/10.1177/01455613231223355), figura 2.
@@ -10498,11 +10495,11 @@ Original [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13474726/): figuras de m
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Consultar el método de Wits. No: Citarlo como estudio.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** PDF de la biblioteca revisado el 17/10/2026; sin DOI ni PMID. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** texto completo revisado el 17/10/2026; sin DOI ni PMID.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. Sin enlace público.
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. Sin enlace público.
 
 ---
 
@@ -10522,8 +10519,8 @@ Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Consulta interna. No: Citarlo.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** PDF de la biblioteca revisado el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** texto completo revisado el 17/10/2026.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. Sin enlace público.
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. Sin enlace público.

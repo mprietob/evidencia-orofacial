@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar la cifra de apnea persistente y que existe una guía oficial con opciones más allá de la cirugía. No: Atribuirle recomendaciones concretas sin leer el texto.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Las seis opciones PENDIENTE DE VERIFICAR. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Las seis opciones PENDIENTE DE VERIFICAR.
 
 ## Figuras
 

@@ -50,7 +50,7 @@
 - expertos/soroush-zaghi/estudios-citados.md y discrepancias.md: qué estudios cita y dónde no cuadra lo que dice con el artículo
 
 ## Cómo leer una ficha
-Cada ficha de fuentes/articulos/ tiene el campo «Criterio diagnóstico de anquiloglosia»: FUNCIONAL (TRMR, LPS), LONGITUD/ASPECTO, MIXTO o NO APLICA. Míralo antes de usar un estudio sobre anquiloglosia: un estudio que diagnostica por longitud no responde a una pregunta sobre función. El campo «Lectura de Marta o del equipo» es INTERPRETACION, nunca dato del estudio.
+Cada ficha de fuentes/articulos/ tiene el campo «Criterio diagnóstico de anquiloglosia»: FUNCIONAL (TRMR, LPS), LONGITUD/ASPECTO, MIXTO o NO APLICA. Míralo antes de usar un estudio sobre anquiloglosia: un estudio que diagnostica por longitud no responde a una pregunta sobre función. El campo «Interpretación», si aparece, es INTERPRETACION, nunca dato del estudio.
 
 ## Fichas por tema (fuentes/articulos/)
 - Medir la movilidad y clasificar el frenillo: 1999-kotlow-clasificacion.md, 2012-marchesan-protocolo.md, 2012-martinelli-protocolo-lactantes.md, 2017-yoon-trmr-1052.md, 2021-rodriguez-alcala-cuchara-fuerza.md, 2021-unkel-herramientas-encuesta.md, 2021-zaghi-trmr-lps.md, 2023-palomares-protocolo-quirurgico-logopedico.md, 2024-hoang-vietnam-movilidad-fuerza.md, 2025-bhatt-ontario-encuesta.md

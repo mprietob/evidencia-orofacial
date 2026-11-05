@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Recomendar valorar la apnea en niños con síntomas de TDAH. No: Usar el 44 % como dato preciso sin revisar el intervalo.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1177/10870547261426094).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/10870547261426094).

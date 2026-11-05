@@ -13,11 +13,11 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citarlo como estudio preliminar de cambios del paladar tras frenectomía y terapia. No: Afirmar crecimiento esquelético demostrado.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Apertura máxima y medidas en modelo. [Ver en el artículo](https://doi.org/10.23804/ejpd.2024.2143), figura 1.
 - **Figura 3.** Medidas en el modelo. [Ver en el artículo](https://doi.org/10.23804/ejpd.2024.2143), figura 3.

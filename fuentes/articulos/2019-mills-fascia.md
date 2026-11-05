@@ -6,7 +6,7 @@
 - Relevancia: fundamento anatómico de la hipótesis H-001.
 - No sirve para: demostrar que esa fascia desplaza la mandíbula hacia atrás en reposo ni explicar cambios clínicos tras frenotomía.
 - Criterio diagnóstico de anquiloglosia: NO APLICA: estudio anatómico o biomecánico, no diagnostica anquiloglosia.
-- Complemento desde el PDF de la biblioteca de Marta (17/10/2026): el PDF coincide con la versión abierta de PMC usada en esta ficha.
+- Complemento desde el texto completo (17/10/2026): el PDF coincide con la versión abierta de PMC usada en esta ficha.
 - Estado: texto primario y hallazgos principales revisados; ficha biomecánica detallada pendiente.
 
 ## Figuras

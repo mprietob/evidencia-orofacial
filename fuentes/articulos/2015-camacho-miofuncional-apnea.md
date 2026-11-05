@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** No se describen en el resumen.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la terapia miofuncional reduce la apnea y puede servir como complemento. No: Presentarla como sustituto de otros tratamientos en apnea grave.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 

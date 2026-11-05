@@ -13,9 +13,9 @@
 - **Hallazgos contrarios o no significativos:** Los propios encuestados piden más investigación, clasificación y protocolos.
 - **Conclusión que sí permite / que no permite:** Sí: Describir cómo se diagnostica hoy en la práctica y la falta de consenso. No: Concluir que el frenillo bucal cause síntomas o que liberarlo funcione.
 - **Licencia y derechos:** Acceso abierto (Wiley). Licencia PENDIENTE DE VERIFICAR.
-- **Complemento desde el PDF de la biblioteca de Marta (17/10/2026):** el PDF coincide con el resumen fichado.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Complemento desde el texto completo (17/10/2026):** el PDF coincide con el resumen fichado.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.1111/joor.13609).
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://doi.org/10.1111/joor.13609).

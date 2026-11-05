@@ -13,11 +13,11 @@
 - **Hallazgos contrarios o no significativos:** Kummer 2025 le acusa de errores de cita y omisiones sobre el habla. Ver [KUMMER2025](2025-kummer-carta-cordray.md).
 - **Conclusión que sí permite / que no permite:** Sí: Citar el mapa de síntomas que se han descrito tras la lactancia. No: Decir que demuestra efectos sobre el habla.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Complemento desde el PDF de la biblioteca de Marta (17/10/2026):** la tabla de características del PDF recoge métodos diagnósticos muy distintos entre los 26 estudios: Kotlow, Coryllos, protocolo de lactantes, Bristol, Hazelbaker modificado, TRMR, elevación y protrusión, y valoración manual o visual no estandarizada. El recuento exacto por método no se puede leer con seguridad en el texto extraído: `PENDIENTE DE VERIFICAR`.
+- **Complemento desde el texto completo (17/10/2026):** la tabla de características del PDF recoge métodos diagnósticos muy distintos entre los 26 estudios: Kotlow, Coryllos, protocolo de lactantes, Bristol, Hazelbaker modificado, TRMR, elevación y protrusión, y valoración manual o visual no estandarizada. El recuento exacto por método no se puede leer con seguridad en el texto extraído: `PENDIENTE DE VERIFICAR`.
 - **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Autores de Emory y Children's Healthcare of Atlanta. Ojo: en notas de trabajo previas se atribuía al «grupo de Zaghi»; PubMed no lo respalda (Zaghi no figura entre los autores).
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Diagrama PRISMA de inclusión. [Ver en el artículo](https://doi.org/10.1044/2023_AJSLP-23-00169), figura 1.

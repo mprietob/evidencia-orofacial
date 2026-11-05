@@ -51,8 +51,8 @@ Estas referencias son accesibles en una fuente abierta conocida o muy probableme
 | `THOMAS2024` | Thomas J; Bunik M et al. (2024) | Identification and Management of Ankyloglossia and Its Effect on Breastfeeding in Infants | [Texto gratis AAP](https://doi.org/10.1542/peds.2024-067605) | **Informe completo leído 03/11/2026**; copyright editorial |
 | `ICAP2024` | Smart S; Kittrell A; Merkel-Walsh R; Tseng RJ (2024) | ICAP Practice Guidelines for Ankylofrenula Management | [Texto abierto MDPI](https://doi.org/10.52010/ijom.2024.50.2.3) | **Texto completo leído 03/11/2026**; posicionamiento profesional CC BY |
 | `POVOA2024` | Póvoa-Santos et al. (2024) | Ankyloglossia and malocclusion: A systematic review and meta-analysis | [DOI](https://doi.org/10.1016/j.adaj.2023.09.014) | Texto completo leído 03/11/2026 en conversación; PDF no depositado |
-| `HE2026` | He S; Liu Y; Zhao Z (2026) | Lingual frenulum, craniofacial morphology, and obstructive sleep apnea: a mediation analysis | [DOI](https://doi.org/10.1007/s11325-026-03618-x) | Texto completo leído por Marta |
-| `KOENTO2026` | Koento T; Widjaja S (2026) | Ankyloglossia and its association with sleep-disordered breathing in children: A systematic review | [DOI](https://doi.org/10.1016/j.ijporl.2026.112717) | Texto completo leído por Marta |
+| `HE2026` | He S; Liu Y; Zhao Z (2026) | Lingual frenulum, craniofacial morphology, and obstructive sleep apnea: a mediation analysis | [DOI](https://doi.org/10.1007/s11325-026-03618-x) | Texto completo revisado |
+| `KOENTO2026` | Koento T; Widjaja S (2026) | Ankyloglossia and its association with sleep-disordered breathing in children: A systematic review | [DOI](https://doi.org/10.1016/j.ijporl.2026.112717) | Texto completo revisado |
 
 | `COPPELSON2023` | Coppelson K; Summersgill I; Hatcher D et al. (2023) | Does Head and Neck Posture Affect Cone-Beam Computed Tomography Assessment of the Upper Airway? | [PDF original abierto CC BY](https://www.joms.org/article/S0278239123001027/pdf) | **Texto completo y tabla 3 revisados; ya no hay que pedir PDF** |
 

@@ -13,10 +13,10 @@
 - **Hallazgos contrarios o no significativos:** La restricción anterior no se asoció a la fuerza.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que la restricción posterior es más frecuente que la anterior y que se asocia a menos fuerza lingual. No: Afirmar causa.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Correlaciones de Spearman entre movilidad y fuerza. [Ver en el artículo](https://doi.org/10.1007/s40368-024-00938-y), figura 1.

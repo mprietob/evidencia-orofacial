@@ -191,9 +191,9 @@ No pedir una nueva copia por defecto. Aun así, confirmar si las fichas son sufi
 
 `MILLS2020` — Understanding the Lingual Frenulum: Histological Structure, Tissue Composition, and Implications for Tongue Tie Surgery (Texto fuente verificado)
 
-`HE2026` — Lingual frenulum, craniofacial morphology, and obstructive sleep apnea: a mediation analysis (Texto completo leído por Marta)
+`HE2026` — Lingual frenulum, craniofacial morphology, and obstructive sleep apnea: a mediation analysis (Texto completo revisado)
 
-`KOENTO2026` — Ankyloglossia and its association with sleep-disordered breathing in children: A systematic review (Texto completo leído por Marta)
+`KOENTO2026` — Ankyloglossia and its association with sleep-disordered breathing in children: A systematic review (Texto completo revisado)
 
 `NICE2005` — Division of ankyloglossia (tongue-tie) for breastfeeding (IPG149, ahora HTG95) (Página oficial leída)
 

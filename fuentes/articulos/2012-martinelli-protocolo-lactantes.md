@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el protocolo («Teste da Linguinha») para lactantes. No: Aplicarlo a niños mayores o adultos.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/23362754/).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/23362754/).

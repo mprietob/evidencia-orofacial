@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Consulta interna. No: Citarlo.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** PDF de la biblioteca revisado el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** texto completo revisado el 17/10/2026.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. Sin enlace público.
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. Sin enlace público.

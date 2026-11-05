@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** El resumen no evalúa el efecto sobre el crecimiento facial.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el estudio pionero de CPAP en niños. No: Usarlo sobre crecimiento facial, que no estudia.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos. En estudios-citados.md figuraba como candidato «discrepante»: es J Pediatr, no Pediatrics.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/s0022-3476(95)70262-8).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/s0022-3476(95)70262-8).

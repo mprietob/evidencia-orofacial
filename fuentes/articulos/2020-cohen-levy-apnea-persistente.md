@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** La anatomía del frenillo, sola, no se asoció.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en niños con apnea persistente tras la cirugía pesa la función de la lengua más que la longitud del frenillo. No: Afirmar causalidad.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 

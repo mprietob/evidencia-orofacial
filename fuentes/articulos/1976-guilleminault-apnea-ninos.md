@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Situar la primera descripción de apnea infantil con poligrafía y sus síntomas. No: Sacar cifras de prevalencia ni de tratamiento.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI en PubMed. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI en PubMed.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/934781/).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/934781/).

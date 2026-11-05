@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** En adultos la tendencia del área mínima es a la baja, aunque no significativa.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que no se ha demostrado más riesgo de colapso de vía aérea con extracciones. No: Decir que el riesgo es cero.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.3290/j.cjdr.b3978679).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.3290/j.cjdr.b3978679).

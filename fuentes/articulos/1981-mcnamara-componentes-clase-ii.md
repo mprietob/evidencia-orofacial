@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Citar el estudio clásico sobre qué compone la clase II. No: Usar las cifras antes de comprobarlas en el original.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Solo metadatos PubMed (17/10/2026). Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Solo metadatos PubMed (17/10/2026).
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1043/0003-3219(1981)051<0177:COCIMI>2.0.CO;2).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1043/0003-3219(1981)051<0177:COCIMI>2.0.CO;2).

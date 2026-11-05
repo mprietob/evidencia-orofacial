@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** Los autores piden valorar también la movilidad y el paladar.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que hay asociación entre anquiloglosia y apnea infantil, y que el paladar ojival pesa más. No: Afirmar causa.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 

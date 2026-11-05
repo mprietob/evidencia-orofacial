@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** Un corte de IAH más alto se asoció a efectos más pequeños.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que los síntomas de TDAH se asocian a respirar mal durmiendo y que mejoran tras operar. No: Decir que el TDAH sea un trastorno del sueño.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.smrv.2013.12.003).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.smrv.2013.12.003).

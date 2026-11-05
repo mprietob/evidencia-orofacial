@@ -9,4 +9,4 @@
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1043/0003-3219(1978)048<0175:ETRFIP>2.0.CO;2).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1043/0003-3219(1978)048<0175:ETRFIP>2.0.CO;2).

@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Describir la frenotomía en consulta. No: Generalizar.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Las leyendas de las figuras no se han podido extraer del PDF de la biblioteca: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/14523332/).
+Las leyendas de las figuras no se han podido extraer del texto completo: `PENDIENTE DE VERIFICAR`. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/14523332/).

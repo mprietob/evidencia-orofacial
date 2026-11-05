@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** 5 de los 23 no tenían ninguno de los tres hallazgos.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que amígdalas grandes, lengua restringida y nariz obstruida se asocian, y parecen sumarse, al bruxismo infantil. No: Afirmar causa.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.sleep.2020.11.007).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.sleep.2020.11.007).

@@ -14,8 +14,8 @@
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en adultos frenillo corto, poca movilidad y mandíbula pequeña y retrasada van juntos. No: Decir que el frenillo «hace» la mandíbula pequeña.
 - **Interpretación editorial:** El estudio explora asociaciones entre movilidad lingual, frenillo y morfología mandibular mediante medidas de la familia TRMR; la dirección de la relación queda como pregunta de investigación.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Texto completo leído por Marta (PDF vía ClinicalKey, 15/10/2026); los datos que no están en el resumen salen de esa lectura. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Texto completo revisado (PDF vía ClinicalKey, 15/10/2026); los datos que no están en el resumen salen de esa lectura.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1007/s11325-026-03618-x).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1007/s11325-026-03618-x).

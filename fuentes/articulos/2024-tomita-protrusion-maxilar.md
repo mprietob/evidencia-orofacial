@@ -12,9 +12,8 @@
 - **Límites metodológicos / confusores:** Un solo caso.
 - **Hallazgos contrarios o no significativos:** Los autores lo llaman prognatismo maxilar, pero su SNA está en la norma y el SNB muy por debajo: la diferencia viene sobre todo de la mandíbula retrasada.
 - **Conclusión que sí permite / que no permite:** Sí: Usarlo como ejemplo ilustrado de clase II con resalte grande y proinclinación. No: Generalizar.
-- **Lectura de Marta o del equipo (INTERPRETACION):** [Marta, 17/10/2026, notas de trabajo] No lo ve como prognatismo maxilar: el maxilar se ve retruso en la telerradiografía y lo que hay es proinclinación de incisivos y cuello adelantado. Ojo: el SNA publicado (82,6°) es normal; la retrusión es lectura de Marta sobre la imagen.
 - **Licencia y derechos:** CC BY 4.0 (según notas de trabajo, sin verificar). Se puede reutilizar citando.
-- **Estado de lectura:** Resumen PubMed y tabla cefalométrica del texto completo (PMC) revisados el 17/10/2026. Origen: notas de trabajo de Marta.
+- **Estado de lectura:** Resumen PubMed y tabla cefalométrica del texto completo (PMC) revisados el 17/10/2026.
 
 ## Figuras
 

@@ -12,9 +12,8 @@
 - **Límites metodológicos / confusores:** Retrospectivo. Criterio por longitud. Sin grupo sin síntomas.
 - **Hallazgos contrarios o no significativos:** Según Koento 2026, la diferencia de IAH fue pequeña (13,1 frente a 11,4) y solo en varones.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que el frenillo corto aparece con frecuencia en niños con apnea sin amígdalas grandes y que suele ser familiar. Los autores piden cribar apnea al ver un frenillo corto. No: Afirmar que el frenillo corto cause la apnea.
-- **Lectura de Marta o del equipo (INTERPRETACION):** [Observación de consulta de Marta, notas de trabajo] «Los padres casi siempre lo tienen igual». El dato familiar de este estudio va en esa línea.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026.
 
 ## Figuras
 

@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** Ver [COPPELSON2023](2023-coppelson-postura-cbct.md) y [O-003](../../objeciones/extracciones-via-aerea.md).
 - **Conclusión que sí permite / que no permite:** Sí: Decir que, de media y medidas en CBCT, las extracciones apenas cambian la vía aérea. No: Decir que no cambian la función respiratoria ni la postura con que el paciente compensa.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed y fragmentos del texto completo (PMC) revisados el 17/10/2026.
 
 ## Figuras
 

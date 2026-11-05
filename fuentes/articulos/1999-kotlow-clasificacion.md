@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** Ver [YOON2017SB](2017-yoon-trmr-1052.md).
 - **Conclusión que sí permite / que no permite:** Sí: Citar el origen de la clasificación por longitud más usada. No: Usar la longitud como medida de función.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Sin DOI.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/10635253/).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/10635253/).

@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** Ver [O-003](../../objeciones/extracciones-via-aerea.md).
 - **Conclusión que sí permite / que no permite:** Sí: Decir que no hay pruebas sólidas de que las extracciones reduzcan la vía aérea medida. No: Decir que está demostrado que no la afectan.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.ajodo.2021.03.013).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.ajodo.2021.03.013).

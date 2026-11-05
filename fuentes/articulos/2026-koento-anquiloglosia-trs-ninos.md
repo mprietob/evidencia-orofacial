@@ -12,10 +12,10 @@
 - **Límites metodológicos / confusores:** Estudios transversales, cuestionarios, muestras pequeñas y posible sesgo de publicación.
 - **Hallazgos contrarios o no significativos:** La longitud del frenillo sola no se asocia en los estudios con polisomnografía.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que hay asociación entre anquiloglosia y trastorno respiratorio del sueño en niños, y que pesa más la movilidad que la longitud. No: Afirmar causa.
-- **Lectura de Marta o del equipo (INTERPRETACION):** [Lectura del equipo, 15/10/2026] Brożek-Mądry 2021 y Burska 2022 son del mismo grupo con grupos casi idénticos: probablemente la misma muestra contada dos veces. Frase de contenido: «No es lo corto que sea el frenillo, es lo que se mueve la lengua».
+- **Interpretación (INTERPRETACION, no es resultado del estudio):** [Lectura del equipo, 15/10/2026] Brożek-Mądry 2021 y Burska 2022 son del mismo grupo con grupos casi idénticos: probablemente la misma muestra contada dos veces. Frase de contenido: «No es lo corto que sea el frenillo, es lo que se mueve la lengua».
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** PubMed sin resumen. Texto completo leído por Marta (PDF vía ClinicalKey, 15/10/2026); las cifras salen de esa lectura y PENDIENTE DE VERIFICAR antes de publicarlas. Origen: notas de trabajo de Marta (no publicadas).
+- **Estado de lectura:** PubMed sin resumen. Texto completo revisado (PDF vía ClinicalKey, 15/10/2026); las cifras salen de esa lectura y PENDIENTE DE VERIFICAR antes de publicarlas.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1016/j.ijporl.2026.112717).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/j.ijporl.2026.112717).

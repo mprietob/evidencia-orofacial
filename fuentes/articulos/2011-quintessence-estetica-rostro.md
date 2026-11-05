@@ -13,11 +13,11 @@
 - **Hallazgos contrarios o no significativos:** No aplica.
 - **Conclusión que sí permite / que no permite:** Sí: Consulta de método de análisis facial. No: Citarlo sin completar la referencia.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** PDF de la biblioteca revisado el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** texto completo revisado el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 8.** Tipos de cara: dolicofacial, mesofacial y braquifacial. Sin enlace público.
 - **Figura 18.** Vertical por subnasal en posición natural de la cabeza. Sin enlace público.

@@ -13,10 +13,10 @@
 - **Hallazgos contrarios o no significativos:** Ninguna diferencia en lactancia exclusiva ni total.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en esta cohorte brasileña la anquiloglosia no se asoció a menor duración de la lactancia. No: Extrapolar a restricciones posteriores o a otras funciones.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 2.** Lactancia exclusiva y total según anquiloglosia. [Ver en el artículo](https://doi.org/10.1089/bfm.2023.0182), figura 2.

@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** Asocia el frenillo a la clase III, no a la II.
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en adultos la morfología del frenillo difiere según la clase esquelética. No: Afirmar dirección causal.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 

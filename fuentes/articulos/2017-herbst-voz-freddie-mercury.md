@@ -12,10 +12,9 @@
 - **Límites metodológicos / confusores:** Grabaciones de archivo. El mecanismo de los subarmónicos se infiere de un imitador.
 - **Hallazgos contrarios o no significativos:** No confirma las «cuatro octavas».
 - **Conclusión que sí permite / que no permite:** Sí: Decir que lo distintivo de su voz se explica por laringe y técnica. El estudio no habla de los dientes. No: Sacar conclusiones sobre su boca o su frenillo.
-- **Lectura de Marta o del equipo (INTERPRETACION):** [Marta, 17/10/2026, notas de trabajo] No cree que sus dientes contribuyeran a su voz; si acaso, el frenillo la habría perjudicado. Es opinión, no dato del estudio.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: notas de trabajo de Marta (allí «Herbst 2016» por la fecha online).
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.3109/14015439.2016.1156737).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.3109/14015439.2016.1156737).

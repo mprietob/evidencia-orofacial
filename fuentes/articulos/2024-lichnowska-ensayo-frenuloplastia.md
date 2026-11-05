@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** En el grupo operado un **10 % no alcanzó la deglución normal** según autores, principalmente por maloclusión severa. No se ha demostrado en estos datos que la frenuloplastia modifique el esqueleto ni mejore apnea medida por PSG.
 - **Conclusión que sí permite / que no permite:** Sí: un estudio controlado clínico informó mejores **indicadores funcionales observados** tras frenuloplastia + terapia que tras terapia aislada, en una cohorte seleccionada con TRMR. **No** demostrar un efecto causal libre de sesgo, ni modificación de crecimiento maxilomandibular, ni mejoría de apnea objetiva. Las frases del artículo acerca de «restaurar el equilibrio del esqueleto» sobrepasan las variables medidas.
 - **Licencia y derechos:** Acceso abierto, CC BY (según PMC).
-- **Complemento desde el PDF de la biblioteca de Marta (17/10/2026):** el PDF lo presenta como ensayo aleatorizado prospectivo; la asignación por orden de entrada sigue siendo la del resumen. Cifras de tablas: `PENDIENTE DE VERIFICAR`.
+- **Complemento desde el texto completo (17/10/2026):** el PDF lo presenta como ensayo aleatorizado prospectivo; la asignación por orden de entrada sigue siendo la del resumen. Cifras de tablas: `PENDIENTE DE VERIFICAR`.
 - **Estado de lectura:** Resumen, métodos completos accesibles y pasajes de resultados del artículo abierto cotejados el **03/11/2026** ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11432234/)); **auditoría íntegra de tablas y cegamiento PENDIENTE DE VERIFICAR**. No registrar como lectura exhaustiva. Origen inicial: estudios citados en vídeos de Zaghi.
 
 ## Figuras

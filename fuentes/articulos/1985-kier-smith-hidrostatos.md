@@ -10,4 +10,4 @@
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1111/j.1096-3642.1985.tb01178.x).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1111/j.1096-3642.1985.tb01178.x).

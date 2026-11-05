@@ -13,8 +13,8 @@
 - **Hallazgos contrarios o no significativos:** Ver [CORDRAY2023](2023-cordray-anquiloglosia-mas-alla-lactancia.md).
 - **Conclusión que sí permite / que no permite:** Sí: Citar la postura de la logopedia oficial estadounidense en 2005. No: Usarlo como evidencia empírica.
 - **Licencia y derechos:** Derechos de ASHA. Solo metadatos.
-- **Estado de lectura:** Metadatos comprobados en Crossref (17/10/2026). Origen: notas de trabajo de Marta.
+- **Estado de lectura:** Metadatos comprobados en Crossref (17/10/2026).
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC ni en la biblioteca de Marta. [Ver el artículo](https://doi.org/10.1044/leader.ftr2.10172005.6).
+Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1044/leader.ftr2.10172005.6).

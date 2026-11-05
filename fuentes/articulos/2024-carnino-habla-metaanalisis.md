@@ -13,11 +13,11 @@
 - **Hallazgos contrarios o no significativos:** Contrasta con Melong 2024 y Kummer 2025. Ver [O-004](../../objeciones/anquiloglosia-habla.md).
 - **Conclusión que sí permite / que no permite:** Sí: Decir que en estudios no controlados se describe mejora del habla tras frenectomía. No: Decir que está demostrado.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed y PDF de la biblioteca revisados el 17/10/2026. Origen: biblioteca personal de PDF de Marta. El PDF no entra en el repo.
+- **Estado de lectura:** Resumen PubMed y texto completo revisados el 17/10/2026.
 
 ## Figuras
 
-Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el PDF de la biblioteca de Marta; puede haber más figuras que las listadas.
+Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el texto completo; puede haber más figuras que las listadas.
 
 - **Figura 1.** Proceso de la revisión. [Ver en el artículo](https://doi.org/10.1177/00034894241236234), figura 1.
 - **Figura 3.** Diagrama de bosque: mejora del habla en menores de 5 años. [Ver en el artículo](https://doi.org/10.1177/00034894241236234), figura 3.

@@ -13,7 +13,7 @@
 - **Hallazgos contrarios o no significativos:** Zaghi lo critica en sus charlas por preferir cirugía de tejido blando a la expansión; que el consenso recomiende eso PENDIENTE DE VERIFICAR.
 - **Conclusión que sí permite / que no permite:** Sí: Citar qué opina un panel de ORL sobre la apnea persistente. No: Presentarlo como evidencia de eficacia.
 - **Licencia y derechos:** Acceso abierto en PMC. Licencia PENDIENTE DE VERIFICAR.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026. Origen: estudios que cita Soroush Zaghi en sus vídeos.
+- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
 
 ## Figuras
 
