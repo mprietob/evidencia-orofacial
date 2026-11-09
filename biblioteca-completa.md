@@ -2,7 +2,7 @@
 
 ---
 
-Generado el 06/11/2026 desde https://github.com/mprietob/evidencia-orofacial . Un solo archivo para subir a ChatGPT, Claude, Gemini o NotebookLM.
+Generado el 09/11/2026 desde https://github.com/mprietob/evidencia-orofacial . Un solo archivo para subir a ChatGPT, Claude, Gemini o NotebookLM.
 
 ---
 
@@ -5668,6 +5668,29 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/1995-guilleminault-agregados-familiares-apnea.md -->
+# Estudio: Familial aggregates in obstructive sleep apnea syndrome
+
+- **ID:** GUILLEMINAULT1995
+- **Autores, año y revista:** Guilleminault C; Partinen M; Hollman K et al. Chest 1995;107(6):1545-51.
+- **DOI / PMID / URL:** DOI `10.1378/chest.107.6.1545`; PMID `7781344`
+- **Tipo de estudio:** Estudio familiar con controles.
+- **Población y tamaño muestral:** 157 casos índice y sus familiares de primer grado; 531 cuestionarios de familiares y 198 de amigos de la misma edad; 166 familiares y 69 amigos estudiados a fondo.
+- **Definición diagnóstica y técnicas:** Cuestionarios, exploración, monitorización ambulatoria y cefalometría.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Síntomas, anatomía y TRS en familiares frente a amigos.
+- **Resultados NUMÉRICOS verificados:** Ronquido casi diario: OR 1,78 (IC 1,25-2,54). Ronquido y somnolencia: OR 3,11 (IC 1,94-4,99). Cansancio o somnolencia junto con paladar alto y estrecho (ojival): OR 10,9 (IC 5,31-22,5). El IMC no distinguía a familiares de amigos.
+- **Límites metodológicos / confusores (solo los relevantes):** Cefalometría solo en 22 familiares.
+- **Aportación del estudio:** Une la herencia de la apnea a la anatomía craneofacial, con el paladar ojival.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1378/chest.107.6.1545).
+
+---
+
 <!-- archivo: fuentes/articulos/1995-marcus-cpap-ninos.md -->
 # Estudio: Use of nasal continuous positive airway pressure as treatment of childhood obstructive sleep apnea
 
@@ -5689,6 +5712,74 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1016/s0022-3476(95)70262-8).
+
+---
+
+<!-- archivo: fuentes/articulos/1995-mathur-estudio-familiar-apnea-cefalometria.md -->
+# Estudio: Family studies in patients with the sleep apnea-hypopnea syndrome
+
+- **ID:** MATHUR1995
+- **Autores, año y revista:** Mathur R; Douglas NJ. Ann Intern Med 1995;122(3):174-8.
+- **DOI / PMID / URL:** DOI `10.7326/0003-4819-122-3-199502010-00003`; PMID `7810934`
+- **Tipo de estudio:** Casos y controles.
+- **Población y tamaño muestral:** 51 familiares de primer grado de pacientes con apnea (no obesos) y 51 controles emparejados por edad, sexo, talla y peso.
+- **Definición diagnóstica y técnicas:** Polisomnografía, reflexión acústica de la vía aérea y cefalometría lateral.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Respiración en el sueño, calibre de la vía aérea y estructura facial.
+- **Resultados NUMÉRICOS verificados:** Ronquido: 24 frente a 7 (p < 0,001). IAH mediano 13/h frente a 4/h (p < 0,001). Microdespertares 30/h frente a 17/h (p < 0,001). Los familiares tenían vías aéreas más estrechas, maxilares y mandíbulas retrasados y paladar blando más largo.
+- **Aportación del estudio:** Atribuye la tendencia familiar a la estructura facial, controlando la obesidad.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.7326/0003-4819-122-3-199502010-00003).
+
+---
+
+<!-- archivo: fuentes/articulos/1995-pillar-herencia-apnea-hijos-adultos.md -->
+# Estudio: Assessment of the role of inheritance in sleep apnea syndrome
+
+- **ID:** PILLAR1995
+- **Autores, año y revista:** Pillar G; Lavie P. Am J Respir Crit Care Med 1995;151(3 Pt 1):688-91.
+- **DOI / PMID / URL:** DOI `10.1164/ajrccm/151.3_Pt_1.688`; PMID `7881657`
+- **Tipo de estudio:** Estudio familiar con polisomnografía.
+- **Población y tamaño muestral:** 105 hijos adultos de 45 padres con apnea.
+- **Definición diagnóstica y técnicas:** Polisomnografía nocturna completa.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Apnea en los hijos.
+- **Resultados NUMÉRICOS verificados:** Apnea en el 47 % de los hijos (frente a una prevalencia estimada del 4 % en la población; p < 0,001). Roncadores simples 21,9 %. Sin afectación 31 %.
+- **Límites metodológicos / confusores (solo los relevantes):** Comparación con prevalencia estimada, sin grupo control propio.
+- **Aportación del estudio:** Mide con polisomnografía a los hijos de padres con apnea.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1164/ajrccm/151.3_Pt_1.688).
+
+---
+
+<!-- archivo: fuentes/articulos/1995-redline-agregacion-familiar-apnea.md -->
+# Estudio: The familial aggregation of obstructive sleep apnea
+
+- **ID:** REDLINE1995
+- **Autores, año y revista:** Redline S; Tishler PV; Tosteson TD et al. Am J Respir Crit Care Med 1995;151(3 Pt 1):682-7.
+- **DOI / PMID / URL:** DOI `10.1164/ajrccm/151.3_Pt_1.682`; PMID `7881656`
+- **Tipo de estudio:** Estudio genético-epidemiológico familiar.
+- **Población y tamaño muestral:** 561 miembros de 91 familias: 47 casos índice con TRS confirmado, 44 controles de la comunidad y sus familiares.
+- **Definición diagnóstica y técnicas:** Monitorización domiciliaria nocturna y cuestionarios.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Agregación familiar del TRS.
+- **Resultados NUMÉRICOS verificados:** 32 familias (35 %) tenían dos o más miembros con TRS. TRS en el 21 % de los familiares de casos frente al 12 % de los controles del vecindario (p = 0,02).
+- **Límites metodológicos / confusores (solo los relevantes):** Resumen truncado en PubMed.
+- **Aportación del estudio:** Estudio clásico de agregación familiar.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1164/ajrccm/151.3_Pt_1.682).
 
 ---
 
@@ -5851,6 +5942,29 @@ Figuras no revisadas. [Ver el artículo](https://doi.org/10.1542/peds.109.3.449)
 ## Figuras
 
 No examinadas. [Artículo original](https://doi.org/10.1067/mhn.2002.129731).
+
+---
+
+<!-- archivo: fuentes/articulos/2002-ovchinsky-agregacion-familiar-apnea-infantil.md -->
+# Estudio: The familial aggregation of pediatric obstructive sleep apnea syndrome
+
+- **ID:** OVCHINSKY2002
+- **Autores, año y revista:** Ovchinsky A; Rao M; Lotwin I et al. Arch Otolaryngol Head Neck Surg 2002;128(7):815-8.
+- **DOI / PMID / URL:** DOI `10.1001/archotol.128.7.815`; PMID `12117342`
+- **Tipo de estudio:** Encuesta genético-epidemiológica familiar.
+- **Población y tamaño muestral:** 115 niños con apnea confirmada y 445 familiares de primer grado (256 adultos y 189 niños).
+- **Definición diagnóstica y técnicas:** Entrevista telefónica a los cuidadores.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** TRS en los familiares.
+- **Resultados NUMÉRICOS verificados:** Ronquido habitual en el 43,6 % de los familiares. Síntomas muy sugestivos de apnea en el 20,4 % (26,6 % de los adultos y 12,2 % de los niños). El 43,5 % de los niños tenía al menos un familiar con esos síntomas.
+- **Límites metodológicos / confusores (solo los relevantes):** Síntomas referidos por teléfono.
+- **Aportación del estudio:** Agregación familiar partiendo de niños con apnea confirmada.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1001/archotol.128.7.815).
 
 ---
 
@@ -6062,6 +6176,29 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 ## Figuras
 
 Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.sleep.2006.05.016).
+
+---
+
+<!-- archivo: fuentes/articulos/2008-sanscapdevila-enuresis-ronquido-peptido-natriuretico.md -->
+# Estudio: Increased morning brain natriuretic peptide levels in children with nocturnal enuresis and sleep-disordered breathing: a community-based study
+
+- **ID:** SANSCAPDEVILA2008
+- **Autores, año y revista:** Sans Capdevila O; Crabtree VM; Kheirandish-Gozal L et al. Pediatrics 2008;121(5):e1208-14.
+- **DOI / PMID / URL:** DOI `10.1542/peds.2007-2049`; PMID `18450864`
+- **Tipo de estudio:** Estudio poblacional y cohorte con polisomnografía.
+- **Población y tamaño muestral:** 17.646 encuestas de niños de 5 a 7 años; 378 roncadores con polisomnografía; péptido natriurético en 60.
+- **Definición diagnóstica y técnicas:** Encuesta a padres, polisomnografía y péptido natriurético cerebral en sangre.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Enuresis, gravedad del TRS y péptido natriurético.
+- **Resultados NUMÉRICOS verificados:** Enuresis en el 26,9 % de los roncadores habituales frente al 11,6 % de los no roncadores. En los roncadores, la enuresis no se relacionó con la gravedad respiratoria. El péptido natriurético estaba alto en los niños con enuresis y algo más con apnea.
+- **Otros resultados relevantes (si los hay):** La prevalencia de enuresis no cambia con la gravedad del trastorno respiratorio.
+- **Aportación del estudio:** Muestra que el ronquido habitual, sin apnea, ya se asocia a la enuresis.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1542/peds.2007-2049).
 
 ---
 
@@ -6290,6 +6427,29 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 
 ---
 
+<!-- archivo: fuentes/articulos/2011-varvarigou-genetica-apnea-metaanalisis.md -->
+# Estudio: A review of genetic association studies of obstructive sleep apnea: field synopsis and meta-analysis
+
+- **ID:** VARVARIGOU2011
+- **Autores, año y revista:** Varvarigou V; Dahabreh IJ; Malhotra A et al. Sleep 2011;34(11):1461-8.
+- **DOI / PMID / URL:** DOI `10.5665/sleep.1376`; PMID `22043116`; https://pmc.ncbi.nlm.nih.gov/articles/PMC3198201/
+- **Tipo de estudio:** Revisión sistemática y metaanálisis de asociación genética.
+- **Población y tamaño muestral:** 31 estudios de casos y controles, 48 asociaciones de polimorfismos.
+- **Definición diagnóstica y técnicas:** Estudios de asociación genética no HLA.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Polimorfismos y apnea.
+- **Resultados NUMÉRICOS verificados:** Muestras pequeñas (mediana de 102 casos). Solo TNFA rs1800629 se asoció de forma significativa: OR 1,82 (IC 1,26-2,61), con 3 estudios.
+- **Límites metodológicos / confusores (solo los relevantes):** Estudios con poca potencia estadística.
+- **Aportación del estudio:** Resume el estado de la genética de la apnea.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.5665/sleep.1376).
+
+---
+
 <!-- archivo: fuentes/articulos/2012-al-maaitah-extracciones-lengua-via-aerea.md -->
 # Estudio: First premolar extraction effects on upper airway dimension in bimaxillary proclination patients
 
@@ -6360,6 +6520,29 @@ Figuras no revisadas. [Ver el artículo](https://doi.org/10.1542/peds.2012-0045)
 Licencia del artículo: Derechos del editor (copia de autor en PMC). No se copian imágenes.
 
 Figuras no extraídas: la versión de PMC no se puede leer por la API. [Ver el artículo en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3313633/). Descripción: `PENDIENTE DE VERIFICAR`.
+
+---
+
+<!-- archivo: fuentes/articulos/2012-jeyakumar-enuresis-trs-revision.md -->
+# Estudio: The association between sleep-disordered breathing and enuresis in children
+
+- **ID:** JEYAKUMAR2012
+- **Autores, año y revista:** Jeyakumar A; Rahman SI; Armbrecht ES et al. Laryngoscope 2012;122(8):1873-7.
+- **DOI / PMID / URL:** DOI `10.1002/lary.23323`; PMID `22549900`
+- **Tipo de estudio:** Revisión sistemática.
+- **Población y tamaño muestral:** 14 estudios, 3.550 niños con TRS de 18 meses a 19 años.
+- **Definición diagnóstica y técnicas:** PubMed y Ovid, 1980-2010.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Prevalencia de enuresis en TRS y efecto de la adenoamigdalectomía.
+- **Resultados NUMÉRICOS verificados:** Un tercio (1.113) tenía enuresis. En 7 estudios con cirugía: enuresis 31 % antes (426/1.360) y 16 % después (95/587; p < 0,0002).
+- **Límites metodológicos / confusores (solo los relevantes):** Incluye edades en las que mojar la cama aún es normal; la mayoría no distingue enuresis primaria y secundaria.
+- **Aportación del estudio:** Primera revisión sistemática de la asociación.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1002/lary.23323).
 
 ---
 
@@ -6634,6 +6817,30 @@ Licencia CC BY. Figura 2: medición de la lengua libre con calibre (foto de boca
 ## Figuras
 
 Figuras no revisadas. [Ver el artículo](https://doi.org/10.1590/2176-9451.19.4.094-099.oar).
+
+---
+
+<!-- archivo: fuentes/articulos/2014-kovacevic-enuresis-adenoamigdalectomia-respondedores.md -->
+# Estudio: Why does adenotonsillectomy not correct enuresis in all children with sleep disordered breathing?
+
+- **ID:** KOVACEVIC2014
+- **Autores, año y revista:** Kovacevic L; Wolfe-Christensen C; Lu H et al. J Urol 2014;191(5 Suppl):1592-6.
+- **DOI / PMID / URL:** DOI `10.1016/j.juro.2013.10.032`; PMID `24679871`
+- **Tipo de estudio:** Estudio prospectivo.
+- **Población y tamaño muestral:** 46 niños de 5 a 18 años con TRS y enuresis primaria monosintomática; 32 con análisis de sangre.
+- **Definición diagnóstica y técnicas:** Polisomnografía. Hormona antidiurética y péptido natriurético cerebral antes y al mes de operar.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Sequedad tras la cirugía y diferencias entre respondedores y no respondedores.
+- **Resultados NUMÉRICOS verificados:** Apnea en el 71,7 % y ronquido en el 28,3 %. Tras operar, quedaron secos el 43,5 %. Los que se secaron tenían más microdespertares y apneas obstructivas antes de operar. Tras la cirugía sube la hormona antidiurética y baja el péptido natriurético en todos.
+- **Límites metodológicos / confusores (solo los relevantes):** Sin grupo control.
+- **Otros resultados relevantes (si los hay):** Los cambios hormonales no distinguen a respondedores de no respondedores.
+- **Aportación del estudio:** Relaciona la respuesta de la enuresis con los microdespertares por apnea.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.juro.2013.10.032).
 
 ---
 
@@ -7277,6 +7484,29 @@ Figuras no revisadas. [Ver el artículo](https://doi.org/10.1055/s-0035-1568135)
 
 ---
 
+<!-- archivo: fuentes/articulos/2016-park-enuresis-adenoamigdalectomia-prospectivo.md -->
+# Estudio: Impact of adenotonsillectomy on nocturnal enuresis in children with sleep-disordered breathing: A prospective study
+
+- **ID:** PARK2016
+- **Autores, año y revista:** Park S; Lee JM; Sim CS et al. Laryngoscope 2016;126(5):1241-5.
+- **DOI / PMID / URL:** DOI `10.1002/lary.25934`; PMID `26928519`
+- **Tipo de estudio:** Estudio prospectivo.
+- **Población y tamaño muestral:** 183 niños operados por TRS, edad media 8,17 ± 2,84 años.
+- **Definición diagnóstica y técnicas:** Cuestionarios de TRS y de enuresis antes y 3 meses después.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Enuresis y escala de TRS.
+- **Resultados NUMÉRICOS verificados:** Enuresis 9,3 % antes y 1,5 % después. 13 de 17 (76,5 %) se resolvieron por completo. Enuresis más frecuente con apnea que sin ella (13,1 % frente a 3,9 %; p = 0,036).
+- **Límites metodológicos / confusores (solo los relevantes):** Por cuestionario, sin grupo control.
+- **Aportación del estudio:** Estudio prospectivo con cirugía y cuestionarios.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1002/lary.25934).
+
+---
+
 <!-- archivo: fuentes/articulos/2016-van-dyck-miofuncional-mordida-abierta.md -->
 # Estudio: The effect of orofacial myofunctional treatment in children with anterior open bite and tongue dysfunction: a pilot study
 
@@ -7847,6 +8077,29 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 
 ---
 
+<!-- archivo: fuentes/articulos/2018-lehmann-enuresis-adenoamigdalectomia-revision.md -->
+# Estudio: The role of adenotonsillectomy in the treatment of primary nocturnal enuresis in children: A systematic review
+
+- **ID:** LEHMANN2018
+- **Autores, año y revista:** Lehmann KJ; Nelson R; MacLellan D et al. J Pediatr Urol 2018;14(1):53.e1-53.e8.
+- **DOI / PMID / URL:** DOI `10.1016/j.jpurol.2017.07.016`; PMID `28986091`
+- **Tipo de estudio:** Revisión sistemática y metaanálisis de proporciones.
+- **Población y tamaño muestral:** 18 estudios, 890 pacientes de 2 a 19 años con enuresis primaria y TRS.
+- **Definición diagnóstica y técnicas:** Búsqueda hasta julio de 2015. Todos observacionales salvo uno con grupo control.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Resolución de la enuresis tras adenoamigdalectomía.
+- **Resultados NUMÉRICOS verificados:** Resolución completa 51 % (IC 43-60 %), I² 82,2 %. Resolución parcial 20 % (IC 14-27 %). Solo estudios de bajo riesgo de sesgo y niños ≥ 5 años (244 pacientes): resolución completa 43 % (IC 36-49 %), I² 0 %.
+- **Límites metodológicos / confusores (solo los relevantes):** Sin ensayos controlados.
+- **Aportación del estudio:** Los autores ven una curación mayor de la esperable por la evolución natural.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.jpurol.2017.07.016).
+
+---
+
 <!-- archivo: fuentes/articulos/2018-neighbors-vitamina-d-apnea.md -->
 # Estudio: Vitamin D and obstructive sleep apnea: a systematic review and meta-analysis
 
@@ -7940,6 +8193,28 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 ## Figuras
 
 Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.5664/jcsm.7062).
+
+---
+
+<!-- archivo: fuentes/articulos/2018-tanizawa-factores-geneticos-trs-revision.md -->
+# Estudio: Genetic factors in sleep-disordered breathing
+
+- **ID:** TANIZAWA2018
+- **Autores, año y revista:** Tanizawa K; Chin K. Respir Investig 2018;56(2):111-119.
+- **DOI / PMID / URL:** DOI `10.1016/j.resinv.2017.11.012`; PMID `29548648`
+- **Tipo de estudio:** Revisión.
+- **Población y tamaño muestral:** No aplica.
+- **Definición diagnóstica y técnicas:** Revisión narrativa.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Factores genéticos del TRS.
+- **Resultados NUMÉRICOS verificados:** Sin cifras propias sobre heredabilidad. Describe agregación familiar en la mayoría de los rasgos del sueño y del TRS, y heredabilidad alta de la apnea. Un estudio de asociación del genoma completo identificó por primera vez riesgos genéticos significativos, ligados a inflamación, hipoxia y vías del sueño.
+- **Aportación del estudio:** Resume la base genética del TRS.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.resinv.2017.11.012).
 
 ---
 
@@ -8563,6 +8838,29 @@ Las figuras 1, 2 y 11 a 13 son fotos de piezas de cadáver: solo enlace.
 
 ---
 
+<!-- archivo: fuentes/articulos/2020-ring-enuresis-expansion-maxilar-ensayo.md -->
+# Estudio: Rapid maxillary expansion in children with nocturnal enuresis: A randomized placebo-controlled trial
+
+- **ID:** RING2020
+- **Autores, año y revista:** Ring IJ; Nevéus T; Markström A et al. Angle Orthod 2020;90(1):31-38.
+- **DOI / PMID / URL:** DOI `10.2319/031819-219.1`; PMID `31306076`; https://pmc.ncbi.nlm.nih.gov/articles/PMC8087065/
+- **Tipo de estudio:** Ensayo aleatorizado controlado con placebo.
+- **Población y tamaño muestral:** 38 niños con enuresis resistente al tratamiento; 36 analizados.
+- **Definición diagnóstica y técnicas:** Expansión rápida del maxilar frente a un aparato simulado durante 2 semanas antes del tratamiento real.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Noches mojadas y factores pronósticos.
+- **Resultados NUMÉRICOS verificados:** Reducción significativa de noches mojadas tras la expansión (p < 0,001), no tras el placebo (p < 0,40). Once pacientes (35 %) redujeron la frecuencia más de un 50 %. Predicen buena respuesta un gran volumen miccional y un maxilar ancho al inicio.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña.
+- **Aportación del estudio:** Descarta que el efecto de la expansión sea placebo.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.2319/031819-219.1).
+
+---
+
 <!-- archivo: fuentes/articulos/2020-salt-habla-preescolares.md -->
 # Estudio: Speech production in young children with tongue-tie
 
@@ -8706,6 +9004,53 @@ Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/medicina5708084
 
 ---
 
+<!-- archivo: fuentes/articulos/2021-campbell-apnea-padres-factores-riesgo-hijos.md -->
+# Estudio: Obstructive sleep apnea risk factors and symptoms in children with a known parental obstructive sleep apnea diagnosis
+
+- **ID:** CAMPBELL2021
+- **Autores, año y revista:** Campbell AJ; Mather SJ; Elder DE. Sleep Med 2021;78:149-152.
+- **DOI / PMID / URL:** DOI `10.1016/j.sleep.2020.12.030`; PMID `33444971`
+- **Tipo de estudio:** Estudio de casos y controles.
+- **Población y tamaño muestral:** 25 hijos de padres con apnea y 29 controles de igual edad y sexo.
+- **Definición diagnóstica y técnicas:** OSA-18, antropometría y Mallampati.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Factores de riesgo y síntomas de apnea.
+- **Resultados NUMÉRICOS verificados:** Mallampati III/IV: 56 % frente a 11 % (p = 0,005). IMC 19,5 ± 5,7 frente a 16,95 ± 2,08 (p = 0,002). Sobrepeso u obesidad: 44 % frente a ninguno. OSA-18 sin diferencia (36,5 frente a 29,2; p = 0,07).
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña; sin polisomnografía en los niños.
+- **Otros resultados relevantes (si los hay):** Los síntomas no difieren entre grupos.
+- **Aportación del estudio:** Los hijos de padres con apnea tienen más factores de riesgo de apnea.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.sleep.2020.12.030).
+
+---
+
+<!-- archivo: fuentes/articulos/2021-demedeirosalves-enuresis-expansion-maxilar-revision.md -->
+# Estudio: Influence of rapid maxillary expansion on nocturnal enuresis in children
+
+- **ID:** DEMEDEIROSALVES2021
+- **Autores, año y revista:** de Medeiros Alves AC; de Medeiros Padilha H; de Andrade Barbalho AL et al. Angle Orthod 2021;91(5):680-691.
+- **DOI / PMID / URL:** DOI `10.2319/042520-355.1`; PMID `33978712`; https://pmc.ncbi.nlm.nih.gov/articles/PMC8376165/
+- **Tipo de estudio:** Revisión sistemática.
+- **Población y tamaño muestral:** 8 estudios.
+- **Definición diagnóstica y técnicas:** Seis bases de datos. ROBINS-I, RoB 2 y GRADE.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Frecuencia y remisión de la enuresis.
+- **Resultados NUMÉRICOS verificados:** Sin cifras en el resumen. Certeza baja de que la expansión rápida del maxilar reduzca o cure la enuresis, a corto plazo (4-8 meses) y a largo plazo (13-120 meses).
+- **Límites metodológicos / confusores (solo los relevantes):** Calidad baja de la evidencia.
+- **Aportación del estudio:** Valora la certeza de la evidencia sobre expansión y enuresis.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.2319/042520-355.1).
+
+---
+
 <!-- archivo: fuentes/articulos/2021-deregibus-funcion-lingual-ortodoncia.md -->
 # Estudio: Analysis of Tongue Function from the Orthodontist's Point of View: Not Only a Matter of Deglutition
 
@@ -8793,6 +9138,29 @@ Crédito: figuras de Genna CW; Saperstein Y; Siegel SA et al (PMC7866619), CC BY
 
 ---
 
+<!-- archivo: fuentes/articulos/2021-khalaf-enuresis-expansion-maxilar-revision.md -->
+# Estudio: Rapid Maxillary Expansion and Nocturnal Enuresis in Children and Adolescents: A Systematic Review of Controlled Clinical Trials
+
+- **ID:** KHALAF2021
+- **Autores, año y revista:** Khalaf K; Mansour D; Sawalha Z et al. ScientificWorldJournal 2021;2021:1004629.
+- **DOI / PMID / URL:** DOI `10.1155/2021/1004629`; PMID `34188609`; https://pmc.ncbi.nlm.nih.gov/articles/PMC8192193/
+- **Tipo de estudio:** Revisión sistemática de ensayos controlados.
+- **Población y tamaño muestral:** 4 estudios (1 aleatorizado y 3 controlados) en niños de 6 a 18 años con enuresis resistente al tratamiento.
+- **Definición diagnóstica y técnicas:** Seis bases de datos hasta junio de 2020. ROBINS-I y RoB 2.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Noches mojadas y curación.
+- **Resultados NUMÉRICOS verificados:** Todos los estudios refieren menos noches mojadas. Completamente secos al año: entre el 0 % y el 60 %. La mejoría se correlaciona con el aumento del volumen nasal.
+- **Límites metodológicos / confusores (solo los relevantes):** Pocos estudios.
+- **Aportación del estudio:** La expansión maxilar como opción cuando otros tratamientos fallan.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1155/2021/1004629).
+
+---
+
 <!-- archivo: fuentes/articulos/2021-lefort-abm-posicionamiento.md -->
 # Estudio: Academy of Breastfeeding Medicine Position Statement on Ankyloglossia in Breastfeeding Dyads
 
@@ -8842,6 +9210,30 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 - **Figura 1.** Tipos de anquiloglosia según Coryllos. [Ver en el artículo](https://doi.org/10.1007/s00431-020-03781-7), figura 1.
 - **Figura 2.** Herramienta de Hazelbaker (HATLFF). [Ver en el artículo](https://doi.org/10.1007/s00431-020-03781-7), figura 2.
 - **Figura 3.** Diagrama de pacientes. [Ver en el artículo](https://doi.org/10.1007/s00431-020-03781-7), figura 3.
+
+---
+
+<!-- archivo: fuentes/articulos/2021-morellgarcia-apnea-padres-hijos-polisomnografia.md -->
+# Estudio: Polysomnographic Characteristics of Snoring Children: A Familial Study of Obstructive Sleep Apnea Syndrome
+
+- **ID:** MORELLGARCIA2021
+- **Autores, año y revista:** Morell-Garcia D; Peña-Zarza JA; Sanchís P et al. Arch Bronconeumol (Engl Ed) 2021;57(6):387-392.
+- **DOI / PMID / URL:** DOI `10.1016/j.arbr.2020.01.014`; PMID `34088389`
+- **Tipo de estudio:** Estudio observacional prospectivo.
+- **Población y tamaño muestral:** 84 niños roncadores y sus padres, en España.
+- **Definición diagnóstica y técnicas:** Polisomnografía completa a niños y padres.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Gravedad de la apnea del niño según la de sus padres.
+- **Resultados NUMÉRICOS verificados:** 54,7 % de los niños con IAH ≥ 1 y 21,4 % con IAH ≥ 5. Apnea (IAH ≥ 5) en el 60,7 % de los padres y el 23,8 % de las madres. Padres con apnea: 83 % en el grupo de niños con apnea moderada-grave (p = 0,035). Apnea moderada-grave en el niño: OR 4,92 (IC 1,27-19,06) si el padre tiene IAH ≥ 5.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña, intervalo ancho.
+- **Otros resultados relevantes (si los hay):** No se vio influencia de la apnea materna.
+- **Aportación del estudio:** Mide con polisomnografía a niños y padres a la vez.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.arbr.2020.01.014).
 
 ---
 
@@ -9682,6 +10074,29 @@ Licencia del artículo: CC BY-NC-SA 4.0 (no permite copiar aquí). Figuras en Pu
 - **Figura 2.** Reducción de la apertura por clase esquelética. [Ver en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10597376/figure/F2/).
 - **Figura 3.** Longitud media del frenillo por clase esquelética. [Ver en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10597376/figure/F3/).
 - **Figura 4.** Longitud vertical del frenillo por clase esquelética. [Ver en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10597376/figure/F4/).
+
+---
+
+<!-- archivo: fuentes/articulos/2023-chen-apnea-padres-tdah-hijos.md -->
+# Estudio: Epidemiological Study of Parental Obstructive Sleep Apnea and Subsequent Risk of ADHD in Their Children: A Nationwide Population-Based Study
+
+- **ID:** CHEN2023
+- **Autores, año y revista:** Chen I; Huang JY; Chang R et al. J Atten Disord 2023;27(1):3-13.
+- **DOI / PMID / URL:** DOI `10.1177/10870547221120695`; PMID `36113004`
+- **Tipo de estudio:** Casos y controles anidado en cohorte nacional.
+- **Población y tamaño muestral:** Cohorte de nacimientos de Taiwán 2006-2015 (1.723.873 nacidos vivos).
+- **Definición diagnóstica y técnicas:** Registro de nacimientos enlazado con la base del seguro nacional de salud.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** TDAH en los hijos según la apnea de los padres.
+- **Resultados NUMÉRICOS verificados:** OR ajustada de TDAH en el hijo: 1,758 (IC 1,458-2,119) si el padre tiene apnea y 2,159 (IC 1,442-3,233) si la tiene la madre.
+- **Límites metodológicos / confusores (solo los relevantes):** Datos administrativos.
+- **Aportación del estudio:** Une la apnea de los padres con el TDAH de los hijos.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1177/10870547221120695).
 
 ---
 
@@ -11593,6 +12008,30 @@ Figuras no revisadas.
 
 ---
 
+<!-- archivo: fuentes/articulos/2025-wang-enuresis-adenoamigdalectomia-metaanalisis.md -->
+# Estudio: The role of adenoidectomy and/or tonsillectomy in the treatment of nocturnal enuresis in OSA children: a single-arm meta-analysis
+
+- **ID:** WANG2025
+- **Autores, año y revista:** Wang Z; Zheng C; Hao Y et al. Eur Arch Otorhinolaryngol 2025;282(6):2843-2854.
+- **DOI / PMID / URL:** DOI `10.1007/s00405-025-09221-2`; PMID `39862257`
+- **Tipo de estudio:** Metaanálisis de un solo brazo.
+- **Población y tamaño muestral:** Estudios de niños con apnea y enuresis operados de adenoides o amígdalas.
+- **Definición diagnóstica y técnicas:** PubMed, Embase, Cochrane y Web of Science hasta diciembre de 2023.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Remisión de la enuresis.
+- **Resultados NUMÉRICOS verificados:** Remisión global 67 %, completa 57 %, parcial 4 %. Con adenoamigdalectomía: remisión global 72 % y completa 65 %. En los ensayos aleatorizados, la remisión fue del 37,3 %.
+- **Límites metodológicos / confusores (solo los relevantes):** Sin grupo control en la mayoría de estudios.
+- **Otros resultados relevantes (si los hay):** Con ensayos aleatorizados la remisión es claramente menor.
+- **Aportación del estudio:** Da la tasa de remisión tras operar y su caída en los ensayos aleatorizados.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1007/s00405-025-09221-2).
+
+---
+
 <!-- archivo: fuentes/articulos/2025-ye-miofuncional-apnea-residual.md -->
 # Estudio: The Therapeutic Role of Orofacial Myofunctional Therapy in Childhood Residual Obstructive Sleep Apnea
 
@@ -11927,6 +12366,29 @@ Figuras no revisadas.
 ## Figuras
 
 Figuras no revisadas.
+
+---
+
+<!-- archivo: fuentes/articulos/2026-diab-enuresis-apnea-metaanalisis.md -->
+# Estudio: Obstructive sleep apnea and nocturnal enuresis in the pediatric population: a systematic review and meta-analysis
+
+- **ID:** DIAB2026
+- **Autores, año y revista:** Diab AY; AlNatsheh T; Tkwa S et al. Sleep Breath 2026;30(1).
+- **DOI / PMID / URL:** DOI `10.1007/s11325-026-03609-y`; PMID `41718954`; https://pmc.ncbi.nlm.nih.gov/articles/PMC12923443/
+- **Tipo de estudio:** Revisión sistemática y metaanálisis.
+- **Población y tamaño muestral:** 15 artículos, 11.612 participantes menores de 18 años.
+- **Definición diagnóstica y técnicas:** Estudios observacionales. Búsqueda en PubMed, Scopus, Web of Science y Cochrane hasta octubre de 2024.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Prevalencia de enuresis en apnea y asociación entre ambas.
+- **Resultados NUMÉRICOS verificados:** Prevalencia de enuresis en niños con apnea: 40 % (IC 95 % 30-51 %); en los estudios con polisomnografía, 43 % (IC 32-53 %). Asociación apnea-enuresis: OR 2,30 (IC 1,37-3,84); con polisomnografía, OR 2,62 (IC 1,53-4,48). Los niños con enuresis tenían más IAH (diferencia media 3,37; IC 0,61-6,14) e IMC (0,90; IC 0,74-1,06). Sin diferencias en tiempo total de sueño ni en sueño REM.
+- **Límites metodológicos / confusores (solo los relevantes):** Estudios observacionales.
+- **Aportación del estudio:** Cuantifica la asociación y la prevalencia de enuresis en la apnea infantil.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1007/s11325-026-03609-y).
 
 ---
 
@@ -12314,6 +12776,29 @@ Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.ajodo.2026.01
 ## Figuras
 
 No incorporadas ni evaluadas. [Original](https://doi.org/10.1111/jsr.70219).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-shao-enuresis-trs-gravedad-metaanalisis.md -->
+# Estudio: Severity-related association between sleep-disordered breathing and nocturnal enuresis in children and adolescents and adolescents: a systematic review and meta-analysis
+
+- **ID:** SHAO2026
+- **Autores, año y revista:** Shao S; Li Q; Gao C et al. BMC Pediatr 2026;26(1).
+- **DOI / PMID / URL:** DOI `10.1186/s12887-026-06607-x`; PMID `41792677`; https://pmc.ncbi.nlm.nih.gov/articles/PMC13077899/
+- **Tipo de estudio:** Revisión sistemática y metaanálisis.
+- **Población y tamaño muestral:** 22 estudios, 40.296 participantes de 5 a 18 años.
+- **Definición diagnóstica y técnicas:** PRISMA 2020. PubMed, Web of Science, Embase y Cochrane hasta mayo de 2024.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Asociación enuresis-TRS por gravedad.
+- **Resultados NUMÉRICOS verificados:** TRS en niños con enuresis: 32,3 % (IC 28,3-36,2). Enuresis en niños con TRS: 24,5 % (IC 15,7-33,3). OR ajustada 2,85 (IC 2,35-3,45). TRS leve (como el ronquido habitual): OR 2,48 (IC 1,68-3,67). Moderado-grave: OR 2,91 (IC 2,20-3,86). Sin diferencia entre niveles de gravedad (p = 0,758).
+- **Otros resultados relevantes (si los hay):** El riesgo no aumenta con la gravedad del TRS.
+- **Aportación del estudio:** El TRS leve se asocia a la enuresis tanto como la apnea moderada-grave.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY-NC-ND. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1186/s12887-026-06607-x).
 
 ---
 
