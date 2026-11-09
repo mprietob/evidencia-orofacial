@@ -9,8 +9,8 @@
 - **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
 - **Variables de resultado:** Gravedad de la apnea del niño según la de sus padres.
 - **Resultados NUMÉRICOS verificados:** 54,7 % de los niños con IAH ≥ 1 y 21,4 % con IAH ≥ 5. Apnea (IAH ≥ 5) en el 60,7 % de los padres y el 23,8 % de las madres. Padres con apnea: 83 % en el grupo de niños con apnea moderada-grave (p = 0,035). Apnea moderada-grave en el niño: OR 4,92 (IC 1,27-19,06) si el padre tiene IAH ≥ 5.
-- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña, intervalo ancho.
-- **Otros resultados relevantes (si los hay):** No se vio influencia de la apnea materna.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña, intervalo ancho. Pocas madres con IAH ≥ 5 (23,8 %), así que la potencia para detectar un efecto materno es baja. Mismo umbral de IAH para padres y madres.
+- **Otros resultados relevantes (si los hay):** No se encontró asociación significativa con la apnea materna; no significa que no la haya. CHEN2023 sí encuentra efecto materno (apnea de la madre y TDAH del hijo, aOR 2,16).
 - **Aportación del estudio:** Mide con polisomnografía a niños y padres a la vez.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
 - **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
