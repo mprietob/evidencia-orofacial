@@ -2,7 +2,7 @@
 
 ---
 
-Generado el 09/11/2026 desde https://github.com/mprietob/evidencia-orofacial . Un solo archivo para subir a ChatGPT, Claude, Gemini o NotebookLM.
+Generado el 10/11/2026 desde https://github.com/mprietob/evidencia-orofacial . Un solo archivo para subir a ChatGPT, Claude, Gemini o NotebookLM.
 
 ---
 
@@ -9225,8 +9225,8 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 - **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
 - **Variables de resultado:** Gravedad de la apnea del niño según la de sus padres.
 - **Resultados NUMÉRICOS verificados:** 54,7 % de los niños con IAH ≥ 1 y 21,4 % con IAH ≥ 5. Apnea (IAH ≥ 5) en el 60,7 % de los padres y el 23,8 % de las madres. Padres con apnea: 83 % en el grupo de niños con apnea moderada-grave (p = 0,035). Apnea moderada-grave en el niño: OR 4,92 (IC 1,27-19,06) si el padre tiene IAH ≥ 5.
-- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña, intervalo ancho.
-- **Otros resultados relevantes (si los hay):** No se vio influencia de la apnea materna.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña, intervalo ancho. Pocas madres con IAH ≥ 5 (23,8 %), así que la potencia para detectar un efecto materno es baja. Mismo umbral de IAH para padres y madres.
+- **Otros resultados relevantes (si los hay):** No se encontró asociación significativa con la apnea materna; no significa que no la haya. CHEN2023 sí encuentra efecto materno (apnea de la madre y TDAH del hijo, aOR 2,16).
 - **Aportación del estudio:** Mide con polisomnografía a niños y padres a la vez.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
 - **Estado de lectura:** Resumen PubMed revisado el 06/11/2026.
@@ -12126,6 +12126,54 @@ No reproducidas. [Fuente original](https://doi.org/10.1007/s41105-026-00682-4).
 
 ---
 
+<!-- archivo: fuentes/articulos/2026-baghani-laser-diodo-frenectomia-metaanalisis.md -->
+# Estudio: Diode Laser-Assisted Oral Frenectomy as a Modern Alternative: A Systematic Review and Meta-Analysis
+
+- **ID:** BAGHANI2026
+- **Autores, año y revista:** Baghani Z; Soltaninezhad P; Assarzadeh H et al. Lasers Surg Med 2026;58(8):604-623.
+- **DOI / PMID / URL:** DOI `10.1002/lsm.70156`; PMID `42296243`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/42296243/)
+- **Tipo de estudio:** Revisión sistemática y metaanálisis.
+- **Población y tamaño muestral:** 14 estudios comparativos de láser de diodo frente a bisturí en frenectomías orales, publicados entre enero de 2015 y diciembre de 2025.
+- **Definición diagnóstica y técnicas:** PRISMA, protocolo PROSPERO CRD420251050170, efectos aleatorios, heterogeneidad con I².
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: compara técnicas quirúrgicas; no diagnostica anquiloglosia.
+- **Variables de resultado:** Dolor postoperatorio, sangrado intraoperatorio y cicatrización.
+- **Resultados NUMÉRICOS verificados:** El láser de diodo redujo el dolor postoperatorio el día 1 (DME -1,73; IC 95 % -2,70 a -0,77) y el día 7 (DME -1,84; IC 95 % -2,78 a -0,90) y el sangrado intraoperatorio (DME -1,97; IC 95 % -2,89 a -1,05). La cicatrización a los 7 días no difirió entre grupos.
+- **Límites metodológicos / confusores (solo los relevantes):** Mezcla frenectomías de distintos frenillos (labial y lingual) y edades.
+- **Otros resultados relevantes (si los hay):** La conclusión del resumen dice «better wound healing at 7 day», pero sus resultados dicen que no hubo diferencia significativa: vale el dato de los resultados.
+- **Aportación del estudio:** Resume la comparación láser frente a bisturí con una búsqueda registrada.
+- **Licencia y derechos:** Derechos del editor (Wiley). Copia en PMC13580418. Aquí solo resumen propio.
+- **Estado de lectura:** Título y resumen de PubMed revisados el 10/11/2026. Búsqueda de actualización 2026-11.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1002/lsm.70156).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-barak-ecografia-biomecanica-lactancia.md -->
+# Estudio: Integrating ultrasound biomechanics and clinical assessments to examine breastfeeding function: novel insights into tongue mobility, milk transfer, and reflux symptoms
+
+- **ID:** BARAK2026
+- **Autores, año y revista:** Barak D; Bart O; Hoffnung LA et al. Int Breastfeed J 2026;21(1).
+- **DOI / PMID / URL:** DOI `10.1186/s13006-026-00856-3`; PMID `42192456`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/42192456/)
+- **Tipo de estudio:** Estudio transversal.
+- **Población y tamaño muestral:** 21 parejas madre-lactante, lactantes de 3 a 6 semanas (Israel).
+- **Definición diagnóstica y técnicas:** Ecografía en tiempo real de la lengua y el pezón durante la toma (distancias y ángulos entre lengua, pezón y unión del paladar duro y blando); movilidad lingual y autoeficacia en la lactancia; transferencia de leche por pesada antes y después de la toma.
+- **Criterio diagnóstico de anquiloglosia:** PENDIENTE DE VERIFICAR: el resumen habla de «clinical assessments of tongue mobility» sin nombrar la herramienta. El texto completo está en acceso abierto.
+- **Variables de resultado:** Tasa media de transferencia de leche; dolor del pezón; síntomas de reflujo; medidas ecográficas.
+- **Resultados NUMÉRICOS verificados:** La transferencia de leche se asoció a las distancias y ángulos lengua-pezón en la ecografía (r = 0,489; p = 0,029) y al dolor del pezón (r = 0,593; p = 0,012). Un umbral de 4,5 g/min separaba cambios cualitativos en la ecografía. Más dolor y una movilidad lingual restringida se correlacionaron con menos transferencia de leche (r = 0,509, p = 0,036 y r = 0,558, p = 0,020). Los síntomas de reflujo se correlacionaron de forma negativa con el cambio de diámetro del pezón durante la toma (r = -0,598; p = 0,009).
+- **Límites metodológicos / confusores (solo los relevantes):** 21 parejas: correlaciones exploratorias, sin ajuste por comparaciones múltiples descrito en el resumen.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Une en el mismo estudio la ecografía de la toma, la movilidad de la lengua y la cantidad de leche que pasa.
+- **Licencia y derechos:** CC BY-NC-ND (International Breastfeeding Journal, en PMC13393904). Las figuras no se pueden modificar ni usar con fines comerciales.
+- **Estado de lectura:** Título y resumen de PubMed revisados el 10/11/2026. Búsqueda de actualización 2026-11.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1186/s13006-026-00856-3).
+
+---
+
 <!-- archivo: fuentes/articulos/2026-but-trs-conducta-ortodoncia.md -->
 # Estudio: Sleep-Disordered Breathing and Behavioral Symptoms in Pediatric Orthodontic Patients: A Multicenter Cross-Sectional Study
 
@@ -12488,6 +12536,30 @@ No incorporadas ni auditadas. [Artículo original](https://doi.org/10.1186/s1288
 
 ---
 
+<!-- archivo: fuentes/articulos/2026-knijnik-dificultades-alimentacion-largo-plazo.md -->
+# Estudio: Maternal reported long-term outcomes of early feeding challenges from hospital discharge to early childhood
+
+- **ID:** KNIJNIK2026
+- **Autores, año y revista:** Knijnik SR; Bogaardt H; Pistoia MCL et al. BMC Pediatr 2026;26(1).
+- **DOI / PMID / URL:** DOI `10.1186/s12887-026-07335-y`; PMID `42469694`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/42469694/)
+- **Tipo de estudio:** Encuesta transversal en línea.
+- **Población y tamaño muestral:** 147 madres de niños nacidos entre 2020 y 2023, sobre todo de Australia, con dificultades de alimentación desde el nacimiento.
+- **Definición diagnóstica y técnicas:** Cuestionario con preguntas cerradas y abiertas; prueba exacta de Fisher.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el frenillo es el que refiere la madre, sin exploración.
+- **Variables de resultado:** Dificultades de alimentación en el ingreso del parto y dificultades actuales.
+- **Resultados NUMÉRICOS verificados:** El 68 % refirió dificultades de alimentación durante el ingreso y el 32,7 % de los niños tenía problemas de alimentación en el momento de la encuesta. Las dificultades de succión tempranas y el frenillo se asociaron a dificultades persistentes (p = 0,039 y p = 0,036). Casi un tercio necesitó reingreso tras el alta, sobre todo por complicaciones de la alimentación.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra seleccionada (madres que ya tenían dificultades desde el nacimiento) y datos referidos por ellas, con sesgo de recuerdo.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Sigue las dificultades de alimentación más allá del periodo neonatal, donde casi todos los estudios se quedan.
+- **Licencia y derechos:** CC BY-NC-ND (BMC Pediatrics, en PMC13670488).
+- **Estado de lectura:** Título y resumen de PubMed revisados el 10/11/2026. Búsqueda de actualización 2026-11.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1186/s12887-026-07335-y).
+
+---
+
 <!-- archivo: fuentes/articulos/2026-koento-anquiloglosia-trs-ninos.md -->
 # Estudio: Ankyloglossia and its association with sleep-disordered breathing in children: A systematic review
 
@@ -12540,23 +12612,23 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 # Estudio: Association between Attention Deficit Hyperactivity Disorder and Obstructive Sleep Apnea in Children: A Systematic Review and Meta-Analysis
 
 - **ID:** LEOW2026
-- **Autores, año y revista:** Leow BHW; Tan CJ; Yeo BSY et al.. J Atten Disord 2026;30(6):822-832.
+- **Autores, año y revista:** Leow BHW; Tan CJ; Yeo BSY et al. J Atten Disord 2026;30(6):822-832.
 - **DOI / PMID / URL:** DOI `10.1177/10870547261426094`; PMID `41910119`
-- **Tipo de estudio:** Revisión sistemática y metaanálisis de estudios longitudinales. GRADE.
-- **Población y tamaño muestral:** 11 estudios, 903 niños con diagnóstico formal de apnea o de TDAH.
-- **Definición diagnóstica y técnicas:** Búsqueda hasta diciembre de 2024.
+- **Tipo de estudio:** Revisión sistemática y metaanálisis (protocolo PROSPERO CRD42025645881). Riesgo de sesgo con Newcastle-Ottawa; GRADE.
+- **Población y tamaño muestral:** 11 estudios, 903 niños con diagnóstico formal de apnea o de TDAH. Edad media de 7,8 a 10,7 años; varones del 51,9 % al 90 %. Ocho cohortes, dos casos y controles, uno transversal.
+- **Definición diagnóstica y técnicas:** Apnea por polisomnografía con IAH ≥ 1; TDAH por criterios DSM. Excluye ronquido primario y TRS general. Búsqueda en PubMed, Embase, Scopus y Cochrane hasta el 1 de diciembre de 2024.
 - **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
-- **Variables de resultado:** Prevalencia de apnea en TDAH; efecto de la adenoamigdalectomía.
-- **Resultados NUMÉRICOS verificados:** Prevalencia conjunta de apnea en niños con TDAH: 44 %. El intervalo de confianza que da el resumen de PubMed (2 % a 56 %) es muy ancho y parece mal transcrito: PENDIENTE DE VERIFICAR en el original.
-- **Límites metodológicos / confusores:** La parte de tratamiento es descriptiva, sin metaanálisis.
-- **Hallazgos contrarios o no significativos:** No aplica.
-- **Conclusión que sí permite / que no permite:** Sí: Recomendar valorar la apnea en niños con síntomas de TDAH. No: Usar el 44 % como dato preciso sin revisar el intervalo.
+- **Variables de resultado:** Prevalencia de apnea en niños con TDAH; efecto de la adenoamigdalectomía y del metilfenidato sobre el TDAH y el sueño.
+- **Resultados NUMÉRICOS verificados:** Prevalencia conjunta de apnea en niños con TDAH: 44 % (IC 95 % 32-56 %; I² = 72,2 %). Sale de 4 estudios con 215 niños: Goraya 2009, 8 de 33 (24 %); Huang 2004, 50 de 88 (57 %); Pagel, 15 de 30 (50 %); Tsai, 26 de 64 (41 %). El «2 %» del resumen es una errata: el texto y la figura dan 32 %. Prevalencia de TDAH en niños con apnea: 43,1 % (Nguyen 2022) y 27,8 % (Dillon 2007). Tras adenoamigdalectomía, en Dillon 2007 la mitad de los 22 niños con TDAH dejó de cumplir criterios; en Huang 2007 el ADHD-RS bajó de 31,5 a 21,2 y el IAH de 3,3 a 0,9.
+- **Límites metodológicos / confusores:** Pocos estudios y heterogeneidad alta. No ajusta por obesidad, rinitis, asma, depresión ni dificultades de aprendizaje. La parte de tratamiento es descriptiva, sin metaanálisis, y con seguimiento corto. Nguyen 2022 reclutó solo niños con asma, lo que puede inflar su cifra.
+- **Hallazgos contrarios o no significativos:** Galland 2011 no encontró diferencias de IAH entre niños con y sin TDAH. En Li 2006 la mejora en el test de atención (TOVA) no se correlacionó con la bajada del IAH. El metilfenidato no mejoró el IAH (Huang 2007, Galland 2011) y en Chin 2018 subió de 1,20 a 1,98.
+- **Conclusión que sí permite / que no permite:** Sí: casi la mitad de los niños con TDAH estudiados con polisomnografía tienen apnea, y recomendar valorar el sueño en el estudio del TDAH. No: estimar la prevalencia en población general con TDAH (muestras clínicas pequeñas) ni en preescolares; tampoco cuantifica el ronquido primario ni la resistencia de vía aérea superior, que quedan fuera.
 - **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
-- **Estado de lectura:** Resumen PubMed revisado el 17/10/2026.
+- **Estado de lectura:** Texto completo y material suplementario revisados el 09/11/2026.
 
 ## Figuras
 
-Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver el artículo](https://doi.org/10.1177/10870547261426094).
+- Figura 2 (diagrama de bosque, revisada): proporción de apnea en TDAH por estudio y estimación conjunta de 0,44 (0,32-0,56). [Ver el artículo](https://doi.org/10.1177/10870547261426094).
 
 ---
 
@@ -12707,6 +12779,54 @@ Licencia: derechos del editor (no se copian imágenes). Leyendas leídas en el t
 
 ---
 
+<!-- archivo: fuentes/articulos/2026-martins-conocimiento-padres-portugal.md -->
+# Estudio: Portuguese Parents' Literacy on Ankyloglossia
+
+- **ID:** MARTINS2026
+- **Autores, año y revista:** Martins B; Cunha B; Costa E et al. J Dent Child (Chic) 2026;93(2):93-98.
+- **DOI / PMID / URL:** PMID `42681738`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/42681738/)
+- **Tipo de estudio:** Encuesta transversal.
+- **Población y tamaño muestral:** 259 respuestas válidas de padres y cuidadores portugueses (76,1 % de la región centro), en una clínica universitaria de odontopediatría y en línea, en marzo de 2025.
+- **Definición diagnóstica y técnicas:** Cuestionario de opción múltiple en 6 secciones, basado en un estudio australiano.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: encuesta. Según los padres, los diagnósticos se basaban en la opinión del profesional, las dificultades de lactancia y el aspecto de la lengua.
+- **Variables de resultado:** Conocimiento del término, efectos que le atribuyen, quién diagnostica y cómo se trata.
+- **Resultados NUMÉRICOS verificados:** El 58,7 % conocía el término «anquiloglosia» y lo asociaba sobre todo con el habla (91,4 %), la masticación (70,8 %) y la lactancia (66,1 %). La fuente principal de información fueron los profesionales sanitarios (77,9 %). El 20,1 % tenía un hijo con diagnóstico; de ellos, el 88,5 % se operó, sobre todo con frenectomía láser, con participación destacada de dentistas y logopedas. Satisfacción alta con el resultado y con la información.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra de conveniencia, en parte reclutada en una clínica de odontopediatría.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Retrata cómo se diagnostica y se trata el frenillo en Portugal según las familias.
+- **Licencia y derechos:** Derechos del editor (Journal of Dentistry for Children). Aquí solo resumen propio.
+- **Estado de lectura:** Título y resumen de PubMed revisados el 10/11/2026. Búsqueda de actualización 2026-11.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://pubmed.ncbi.nlm.nih.gov/42681738/).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-oneildanis-anquiloglosia-robin.md -->
+# Estudio: The Role of Ankyloglossia as a Protective Factor in Management of Infants With Robin Sequence
+
+- **ID:** ONEILDANIS2026
+- **Autores, año y revista:** O'Neil Danis D 3rd; Steinwald PL; Scott AR Otolaryngol Head Neck Surg 2026 (en línea antes de impresión).
+- **DOI / PMID / URL:** DOI `10.1002/ohn.70381`; PMID `42606093`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/42606093/)
+- **Tipo de estudio:** Revisión retrospectiva de historias y análisis de registro poblacional.
+- **Población y tamaño muestral:** 57 lactantes con secuencia de Robin en un centro terciario (15 años) y 1.207 nacimientos ponderados con secuencia de Robin en el Kids' Inpatient Database (2016 y 2019).
+- **Definición diagnóstica y técnicas:** Comorbilidades, intervenciones sobre la vía aérea y estancia; odds ratio sin ajustar y ajustadas.
+- **Criterio diagnóstico de anquiloglosia:** PENDIENTE DE VERIFICAR: diagnóstico tomado de la historia clínica y de los códigos del registro; el resumen no da el criterio.
+- **Variables de resultado:** Hipoventilación, insuficiencia respiratoria del recién nacido, ventilación mecánica, intervenciones sobre la vía aérea y estancia.
+- **Resultados NUMÉRICOS verificados:** En el centro, 5 de 57 lactantes con Robin (8,8 %) tenían anquiloglosia, que se asoció a menos hipoventilación (p = 0,024), menos necesidad de intervención sobre la vía aérea (p < 0,001), menos intervenciones (p < 0,001) y estancias total y en UCI más cortas (p = 0,001). En el registro nacional, 45 de 1.207 (3,7 %) tenían anquiloglosia, asociada a menos insuficiencia respiratoria del recién nacido (OR sin ajustar 0,44, p = 0,027; OR ajustada 0,19, p = 0,005) y a menos ventilación mecánica en el análisis sin ajustar (OR 0,39, p = 0,022).
+- **Límites metodológicos / confusores (solo los relevantes):** Pocos casos con anquiloglosia (5 y 45) y diagnóstico sin criterio clínico unificado.
+- **Otros resultados relevantes (si los hay):** Va en sentido contrario a la idea general: en la micrognatia con glosoptosis, una lengua anclada podría ayudar a que no caiga hacia atrás.
+- **Aportación del estudio:** Única serie que mira la anquiloglosia en la secuencia de Robin como posible factor protector de la vía aérea.
+- **Licencia y derechos:** Derechos del editor (Wiley, AAO-HNS Foundation). Aquí solo resumen propio.
+- **Estado de lectura:** Título y resumen de PubMed revisados el 10/11/2026. Búsqueda de actualización 2026-11.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1002/ohn.70381).
+
+---
+
 <!-- archivo: fuentes/articulos/2026-osko-frenotomia-miofascial.md -->
 # Estudio: Objective Tongue-Function Outcomes After Lingual Frenotomy with Adjunctive Myofascial Rehabilitation: A Retrospective Observational Longitudinal Study
 
@@ -12802,6 +12922,54 @@ Figuras no revisadas. [Ver el artículo](https://doi.org/10.1186/s12887-026-0660
 
 ---
 
+<!-- archivo: fuentes/articulos/2026-siggaard-biberon-electronico-aprendizaje-automatico.md -->
+# Estudio: Objective quantification of suckling biomechanics in infants with and without tongue-tie using hydraulic differential-pressure recording and machine learning
+
+- **ID:** SIGGAARD2026
+- **Autores, año y revista:** Siggaard LD; Chiriaev S; Knudsen AK et al. Front Digit Health 2026;8:1901883.
+- **DOI / PMID / URL:** DOI `10.3389/fdgth.2026.1901883`; PMID `42851779`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/42851779/)
+- **Tipo de estudio:** Estudio de desarrollo de una prueba con validación externa.
+- **Población y tamaño muestral:** 25 lactantes con frenillo restrictivo medidos antes y una semana después de la frenotomía, y 10 lactantes control con movilidad lingual normal (Dinamarca). Además, grabaciones de prototipos para entrenar el modelo.
+- **Definición diagnóstica y técnicas:** Biberón electrónico (EBB): registra con un transductor de presión diferencial la carga mecánica intraoral neta durante la succión nutritiva. Clasificación automática de los tramos de succión eficaz con ROCKET y regresión ridge (sktime, Python).
+- **Criterio diagnóstico de anquiloglosia:** PENDIENTE DE VERIFICAR: el resumen dice «restrictive tongue-tie» frente a «normal tongue mobility», sin nombrar la herramienta.
+- **Variables de resultado:** Precisión del clasificador; presión intraoral negativa media durante los tramos de succión eficaz antes y después de la frenotomía.
+- **Resultados NUMÉRICOS verificados:** Precisión del clasificador > 99 % en el conjunto de prueba interno y 92 % por segmento en la validación externa. La presión intraoral negativa media subió en 19 de 25 lactantes operados (76 %) una semana después (t pareada, p = 0,010), acercándose a los valores de los controles.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra pequeña y seguimiento de una semana. Mide un cambio mecánico, no un desenlace de lactancia.
+- **Otros resultados relevantes (si los hay):** Es la versión automática del mismo aparato que SIGGAARD2026B, donde la lectura subjetiva de los especialistas no detectaba el cambio tras la frenotomía.
+- **Aportación del estudio:** Propone una medida funcional y objetiva de la succión, frente a las escalas de aspecto que se usan para diagnosticar el frenillo.
+- **Licencia y derechos:** CC BY (Frontiers). Figuras reutilizables citando a los autores.
+- **Estado de lectura:** Título y resumen de PubMed revisados el 10/11/2026. Búsqueda de actualización 2026-11.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3389/fdgth.2026.1901883).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-siggaard-biberon-electronico-diagnostico.md -->
+# Estudio: Using the electronic baby bottle to support tongue-tie diagnosis in infants: a prospective study
+
+- **ID:** SIGGAARD2026B
+- **Autores, año y revista:** Siggard LD; Rytter D; Lildholdt T Acta Otolaryngol 2026;146(11):1332-1341.
+- **DOI / PMID / URL:** DOI `10.1080/00016489.2026.2688878`; PMID `42359788`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/42359788/)
+- **Tipo de estudio:** Cohorte prospectiva multicéntrica.
+- **Población y tamaño muestral:** 106 lactantes menores de 3 meses en cuatro consultas de otorrinolaringología (Dinamarca): 85 operados y 21 que no cumplían criterios, como controles. Evaluación basal y a la semana.
+- **Definición diagnóstica y técnicas:** Biberón electrónico (EBB), valorado de forma subjetiva por los especialistas; anatomía y movilidad de la lengua con la escala TABBY; síntomas referidos por los cuidadores.
+- **Criterio diagnóstico de anquiloglosia:** MIXTO: escala TABBY (aspecto de la punta e inserción del frenillo, más elevación y protrusión), según el resumen.
+- **Variables de resultado:** Valor diagnóstico del EBB puntuado por los especialistas; TABBY; agarre, dolor en el pecho y duración de las tomas.
+- **Resultados NUMÉRICOS verificados:** El EBB recibió puntuaciones altas de valor diagnóstico en los dos grupos, sin cambio tras la frenotomía. TABBY mejoró tras la cirugía (diferencia media 3,87; IC 95 % 3,4-4,3; p < 0,001). La colaboración del lactante se asoció a la utilidad del aparato (p < 0,001). La frenotomía se asoció a mejoras en el agarre, el dolor en el pecho y la duración de las tomas referidos por los cuidadores.
+- **Límites metodológicos / confusores (solo los relevantes):** Los síntomas son referidos por los cuidadores y no hay grupo operado frente a no operado comparable: los controles son los que no cumplían criterios.
+- **Otros resultados relevantes (si los hay):** La lectura subjetiva del aparato no detectó el cambio; SIGGAARD2026 sí lo detecta con análisis automático.
+- **Aportación del estudio:** Muestra que una medida objetiva necesita análisis automático de la señal para servir de prueba diagnóstica.
+- **Licencia y derechos:** CC BY según Europe PMC (Acta Oto-Laryngologica, Taylor & Francis). PENDIENTE DE VERIFICAR en el artículo.
+- **Estado de lectura:** Título y resumen de PubMed revisados el 10/11/2026. Búsqueda de actualización 2026-11.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1080/00016489.2026.2688878).
+
+---
+
 <!-- archivo: fuentes/articulos/2026-singla-adenoamigdalectomia-crecimiento.md -->
 # Estudio: Impact of adenotonsillectomy or adenoidectomy on dentofacial development of children with obstructed sleep disordered breathing - Systematic review
 
@@ -12847,6 +13015,30 @@ No incorporadas ni evaluadas. [Original](https://doi.org/10.1016/j.ijporl.2026.1
 ## Figuras
 
 No incorporadas ni auditadas. [Artículo original](https://doi.org/10.3390/healthcare14121737).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-tuna-frenillo-labial-caries.md -->
+# Estudio: Maxillary Labial Frenulum Morphology and Maxillary Anterior Dental Caries in Children: A Scoping Review
+
+- **ID:** TUNA2026
+- **Autores, año y revista:** Tuna MA; Naderloo F; Kesmez U et al. Children (Basel) 2026;13(10).
+- **DOI / PMID / URL:** DOI `10.3390/children13101340`; PMID `42940659`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/42940659/)
+- **Tipo de estudio:** Revisión de alcance.
+- **Población y tamaño muestral:** 6 estudios transversales con 1.659 participantes de 6 meses a 16 años (de 68 registros).
+- **Definición diagnóstica y técnicas:** Guía del Joanna Briggs Institute y PRISMA-ScR; PubMed/MEDLINE, Scopus, Web of Science y TR Dizin hasta agosto de 2026; lista de comprobación JBI para estudios transversales.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: estudia el frenillo labial superior (clasificación de Placek o equivalente en cinco estudios y escala de Kotlow en uno).
+- **Variables de resultado:** Caries de los incisivos superiores según la inserción del frenillo labial.
+- **Resultados NUMÉRICOS verificados:** Tres estudios encontraron diferencias sin un gradiente constante y tres no encontraron asociación significativa. En el único análisis ajustado, ninguna categoría de inserción difería de la referencia mucosa.
+- **Límites metodológicos / confusores (solo los relevantes):** Solo estudios transversales y casi todos sin ajustar.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Concluye que la inserción del frenillo labial no debe usarse sola como marcador de riesgo de caries y que no hay base para operarlo solo para prevenir caries.
+- **Licencia y derechos:** CC BY (MDPI Children, en PMC13703020). Figuras reutilizables citando a los autores.
+- **Estado de lectura:** Título y resumen de PubMed revisados el 10/11/2026. Búsqueda de actualización 2026-11.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.3390/children13101340).
 
 ---
 
@@ -12945,6 +13137,30 @@ Figuras no revisadas. [Ver el documento](https://pmc.ncbi.nlm.nih.gov/articles/P
 
 ---
 
+<!-- archivo: fuentes/articulos/2026-wakhanrittee-frenotomia-precoz-tardia.md -->
+# Estudio: A comparison between an early- and a late frenulotomy for neonates with problematic tongue-tie
+
+- **ID:** WAKHANRITTEE2026
+- **Autores, año y revista:** Wakhanrittee J; Khorana J; Kiatipunsodsai S Pediatr Surg Int 2026;42(1).
+- **DOI / PMID / URL:** DOI `10.1007/s00383-026-06645-7`; PMID `42742648`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/42742648/)
+- **Tipo de estudio:** Cohorte prospectiva.
+- **Población y tamaño muestral:** 226 parejas madre-lactante con frenillo sintomático en el Hospital Universitario Thammasat (Tailandia), durante dos años: grupo precoz (n = 103, frenotomía antes de las 72 h) y tardío (n = 123, entre los 7 y los 14 días).
+- **Definición diagnóstica y técnicas:** Frenotomía en las dos ramas; comparación ajustada por ponderación de probabilidad inversa (IPTW).
+- **Criterio diagnóstico de anquiloglosia:** PENDIENTE DE VERIFICAR: el resumen habla de «problematic tongue-tie» sin decir con qué herramienta se diagnosticó.
+- **Variables de resultado:** Lactancia materna exclusiva a los 3 meses (principal); puntuación LATCH, dolor al agarre y recuperación de peso.
+- **Resultados NUMÉRICOS verificados:** Las dos ramas mejoran tras la frenotomía: LATCH mediana de 5-6 a 9 y menos dolor al agarre en una semana. Lactancia exclusiva a los 3 meses: 78,64 % en el grupo precoz frente a 66,67 % en el tardío. Con IPTW, la frenotomía precoz se asocia a más lactancia exclusiva (RR 1,60; p < 0,001) y a más reducción del dolor (RR 1,33). Sin diferencias en recuperación de peso ni en LATCH entre grupos.
+- **Límites metodológicos / confusores (solo los relevantes):** No es aleatorizado: el momento de la frenotomía no se asignó al azar, y el ajuste por IPTW solo corrige los factores medidos.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Uno de los pocos estudios que compara el momento de la frenotomía con un desenlace a 3 meses.
+- **Licencia y derechos:** Derechos del editor (Springer Nature). Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Título y resumen de PubMed revisados el 10/11/2026. Búsqueda de actualización 2026-11.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1007/s00383-026-06645-7).
+
+---
+
 <!-- archivo: fuentes/articulos/2026-wang-postura-lingual-presion-deglucion.md -->
 # Estudio: Influence of Habitual Tongue Posture on Tongue Pressure During Swallowing
 
@@ -12995,6 +13211,30 @@ Figuras no revisadas. [Ver el artículo](https://doi.org/10.1111/joor.70206).
 ## Figuras
 
 Original [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13474726/): figuras de medidas cefalométricas y árbol CHAID, no copiadas.
+
+---
+
+<!-- archivo: fuentes/articulos/2026-zhao-costes-tendencias-eeuu.md -->
+# Estudio: Plateau in Growth or Losing Influence? Costs and Shifting National Trends of Ankyloglossia Treatment 2010-2022
+
+- **ID:** ZHAO2026
+- **Autores, año y revista:** Zhao J; Cho A; Jenks C et al. Otolaryngol Head Neck Surg 2026 (en línea antes de impresión).
+- **DOI / PMID / URL:** DOI `10.1002/ohn.70399`; PMID `42611539`; [resumen PubMed](https://pubmed.ncbi.nlm.nih.gov/42611539/)
+- **Tipo de estudio:** Análisis retrospectivo de base de datos.
+- **Población y tamaño muestral:** 10.353.534 lactantes menores de 1 año con seguro privado en la base MarketScan (Estados Unidos), 2010-2022.
+- **Definición diagnóstica y técnicas:** Códigos de diagnóstico y de procedimiento de las reclamaciones a los seguros.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: diagnóstico tomado de los códigos de facturación, sin criterio clínico.
+- **Variables de resultado:** Tasa anual de diagnóstico y de cirugía, tipo de profesional que factura, pagos y costes de bolsillo.
+- **Resultados NUMÉRICOS verificados:** Diagnóstico de anquiloglosia: del 0,77 % al 4,03 % anual entre 2010 y 2022. Cirugía: del 0,47 % al 1,78 %, estancada desde 2018. Reclamaciones de dentistas: del 1,7 % al 13,1 %; de enfermeras de práctica avanzada: del 0,08 % al 5,33 %. 45,8 millones de dólares facturados en cirugía. Coste por lactante: de 350,79 a 467,08 dólares (+33 %). Gasto de bolsillo: de 56,26 a 117,85 dólares (+109 %).
+- **Límites metodológicos / confusores (solo los relevantes):** Solo seguro privado y solo lo que se factura al seguro: no recoge las cirugías pagadas directamente.
+- **Otros resultados relevantes (si los hay):** No aplica.
+- **Aportación del estudio:** Cifra el aumento del diagnóstico y de la cirugía en Estados Unidos y el cambio de quién la hace.
+- **Licencia y derechos:** Derechos del editor (Wiley, AAO-HNS Foundation). Aquí solo resumen propio.
+- **Estado de lectura:** Título y resumen de PubMed revisados el 10/11/2026. Búsqueda de actualización 2026-11.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1002/ohn.70399).
 
 ---
 
