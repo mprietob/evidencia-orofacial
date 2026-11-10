@@ -157,7 +157,7 @@ La ha reunido Marta Prieto, dermatóloga (@dermaprieto en Instagram): **son los 
 
 ## Qué es
 
-- **190 fichas** de estudios, revisiones y documentos de sociedades científicas en fuentes/articulos/, con su DOI o PMID y el índice en bibliografia.csv. Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: docs/BUSQUEDA-2026-11.md.
+- **Más de 300 fichas** de estudios, revisiones y documentos de sociedades científicas en fuentes/articulos/, con su DOI o PMID y el índice en bibliografia.csv. Puesta al día con una búsqueda en PubMed del 2 de noviembre de 2026: docs/BUSQUEDA-2026-11.md.
 - **Objeciones frecuentes**, con resultados de estudios en distintos sentidos: objeciones/.
 - **Cobertura comprobada** de la bibliografía: 222 referencias y 190 fichas registradas.
 - **Un mapa interdisciplinar de evidencia** sobre vía aérea, crecimiento craneofacial, sueño, terapia miofuncional y otitis, con registro de la revisión por etapas y lista completa de textos completos/PDF por revisar y primera tanda práctica, cuya lectura de fuentes abiertas ya está documentada. Se ha completado otra tanda de originales sobre postura cervical, presión subpalatina, coordinación lingual y repetibilidad del CBCT (acta de lectura); también se ha ampliado el contraste sobre terapia miofuncional infantil y apnea, validación de herramientas diagnósticas y ensayos clínicos registrados aún sin resultados.
@@ -6796,6 +6796,29 @@ Licencia CC BY. Figura 2: medición de la lengua libre con calibre (foto de boca
 
 ---
 
+<!-- archivo: fuentes/articulos/2013-xie-sueno-limpieza-cerebro-ratones.md -->
+# Estudio: Sleep drives metabolite clearance from the adult brain
+
+- **ID:** XIE2013
+- **Autores, año y revista:** Xie L; Kang H; Xu Q et al. Science 2013;342(6156):373-7.
+- **DOI / PMID / URL:** DOI `10.1126/science.1241224`; PMID `24136970`; https://pmc.ncbi.nlm.nih.gov/articles/PMC3880190/
+- **Tipo de estudio:** Estudio experimental en animales.
+- **Población y tamaño muestral:** Ratones vivos.
+- **Definición diagnóstica y técnicas:** Difusión de tetrametilamonio en tiempo real e imagen de dos fotones, en sueño natural, anestesia y vigilia.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Espacio intersticial, intercambio entre líquido cefalorraquídeo e intersticial, eliminación de beta-amiloide.
+- **Resultados NUMÉRICOS verificados:** Con el sueño natural o la anestesia, el espacio intersticial aumenta un 60 %, con un gran aumento del intercambio convectivo entre líquido cefalorraquídeo y líquido intersticial. La eliminación de beta-amiloide es más rápida durante el sueño.
+- **Límites metodológicos / confusores (solo los relevantes):** Estudio en ratones; no mide personas.
+- **Aportación del estudio:** Base experimental del sistema glinfático: durante el sueño el cerebro elimina mejor los desechos que acumula despierto.
+- **Licencia y derechos:** Texto en PMC. Licencia PENDIENTE DE VERIFICAR. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 10/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1126/science.1241224).
+
+---
+
 <!-- archivo: fuentes/articulos/2014-homem-miofuncional-ortodoncia-revision.md -->
 # Estudio: Effectiveness of orofacial myofunctional therapy in orthodontic patients: a systematic review
 
@@ -7864,6 +7887,29 @@ Figuras no revisadas: el texto completo no está en acceso abierto en PMC. [Ver 
 ## Figuras
 
 Figuras no revisadas. [Ver el documento](https://doi.org/10.1002/14651858.CD011065.pub2).
+
+---
+
+<!-- archivo: fuentes/articulos/2017-philby-apnea-ninos-sustancia-gris.md -->
+# Estudio: Reduced Regional Grey Matter Volumes in Pediatric Obstructive Sleep Apnea
+
+- **ID:** PHILBY2017
+- **Autores, año y revista:** Philby MF; Macey PM; Ma RA et al. Sci Rep 2017;7:44566.
+- **DOI / PMID / URL:** DOI `10.1038/srep44566`; PMID `28303917`; https://pmc.ncbi.nlm.nih.gov/articles/PMC5355989/
+- **Tipo de estudio:** Estudio transversal con grupo control.
+- **Población y tamaño muestral:** 16 niños con apnea (8,1 ± 2,2 años; IAH 11,1 ± 5,9) y 200 controles (8,2 ± 2,0 años), 191 de la base NIH-Pediatric MRI.
+- **Definición diagnóstica y técnicas:** Resonancia T1 de alta resolución y morfometría basada en vóxeles, ajustada por edad y sexo.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Volumen regional de sustancia gris.
+- **Resultados NUMÉRICOS verificados:** Menos sustancia gris con apnea en corteza frontal superior y prefrontal, parietal superior y lateral, tronco del encéfalo, prefrontal ventromedial y temporal superior, sobre todo en el lado izquierdo.
+- **Límites metodológicos / confusores (solo los relevantes):** Muestra con apnea pequeña. No se sabe cuánto tiempo llevaban con apnea; puede ser retraso del desarrollo, daño o ambos. Las pérdidas no se acompañaron de déficit cognitivo medido.
+- **Aportación del estudio:** Muestra en resonancia cambios en las zonas que controlan la cognición y el ánimo en niños con apnea.
+- **Licencia y derechos:** Acceso abierto según Europe PMC, licencia CC BY. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 10/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1038/srep44566).
 
 ---
 
@@ -13015,6 +13061,29 @@ No incorporadas ni evaluadas. [Original](https://doi.org/10.1016/j.ijporl.2026.1
 ## Figuras
 
 No incorporadas ni auditadas. [Artículo original](https://doi.org/10.3390/healthcare14121737).
+
+---
+
+<!-- archivo: fuentes/articulos/2026-sunman-apnea-ninos-sistema-glinfatico.md -->
+# Estudio: Glymphatic imaging and serum glial biomarkers in children with obstructive sleep apnea
+
+- **ID:** SUNMAN2026
+- **Autores, año y revista:** Sunman B; İpek ÖF; Gümeler E et al. Sleep Med 2026;144:108986.
+- **DOI / PMID / URL:** DOI `10.1016/j.sleep.2026.108986`; PMID `42034101`
+- **Tipo de estudio:** Estudio transversal con grupo control.
+- **Población y tamaño muestral:** 84 niños de igual edad y sexo: 31 obesos con apnea, 35 obesos sin apnea y 18 sanos no obesos.
+- **Definición diagnóstica y técnicas:** Apnea por polisomnografía. Resonancia cerebral con índice DTI-ALPS (función glinfática). GFAP y S100B en sangre.
+- **Criterio diagnóstico de anquiloglosia:** NO APLICA: el estudio no diagnostica anquiloglosia.
+- **Variables de resultado:** Índice DTI-ALPS, GFAP y S100B.
+- **Resultados NUMÉRICOS verificados:** Índice DTI-ALPS mediano: 1,50 en obesos con apnea, 1,66 en obesos sin apnea y 2,00 en sanos (p = 0,030); ajustado por edad y sexo, más bajo con apnea que en sanos (p = 0,021). GFAP más alta con apnea (p = 0,004). S100B sin diferencias (p = 0,101).
+- **Límites metodológicos / confusores (solo los relevantes):** Todos los niños con apnea eran obesos. Transversal: no permite hablar de causa; los autores piden estudios longitudinales.
+- **Aportación del estudio:** Primera medida en niños de que la función glinfática está alterada con apnea.
+- **Licencia y derechos:** Derechos del editor. Aquí solo metadatos y resumen propio.
+- **Estado de lectura:** Resumen PubMed revisado el 10/11/2026.
+
+## Figuras
+
+Figuras no revisadas. [Ver el artículo](https://doi.org/10.1016/j.sleep.2026.108986).
 
 ---
 
